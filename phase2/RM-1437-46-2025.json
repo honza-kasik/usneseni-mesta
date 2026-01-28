@@ -1,0 +1,22 @@
+{
+  "id": "RM/1437/46/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje znění kroniky za období roku 2021."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s finančním vypořádáním kronikáři města za zpracování kroniky za období roku 2021."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

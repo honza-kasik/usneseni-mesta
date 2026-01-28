@@ -1,0 +1,27 @@
+{
+  "id": "RM/1380/44/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápis z jednání Komise pro dopravu ze dne 9. 10. 2024."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje odbor MHaSI zajištěním úprav dopravního značení uvedených v zápise z jednání Komise pro dopravu\nmimo bod č. 2 a č. 7."
+    },
+    {
+      "label": "c",
+      "text": "ukládá odboru MHaSI zúřadovat zajištění bodu č. 2 a č. 7 dle poznámek uvedených v zápise ze schůze RM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

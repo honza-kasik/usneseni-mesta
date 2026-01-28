@@ -1,0 +1,26 @@
+{
+  "id": "RM/2013/66/2026",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí Zápis o otevírání obálek a hodnocení nabídek veřejné zakázky „Stavební úpravy a změna\nv užívání 1. NP a zateplení bytového domu“."
+    },
+    {
+      "label": "b",
+      "text": "ruší na základě výsledku jednání hodnotící komise výběrové řízení z důvodu přijetí pouze jedné nabídky."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje vypsání nového výběrového řízení po uplynutí zákonných lhůt, prostřednictvím administrátora."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

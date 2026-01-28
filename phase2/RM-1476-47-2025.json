@@ -1,0 +1,22 @@
+{
+  "id": "RM/1476/47/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtové změny 39/2025/RM až 42/2025/RM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RM/450/15/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 6.900 Kč na částečnou úhradu nákladů spojených s účastí týmu mažoretek\nna Mistrovství světa WAMT, které se koná v červnu 2023 v Chorvatsku."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a spolkem Mažoretky Linetbells Litovel\nz.s. v předloženém znění a rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "900 Kč"
+  ]
+}

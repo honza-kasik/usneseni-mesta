@@ -1,0 +1,26 @@
+{
+  "id": "RM/383/12/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit záměr pronajmout provoz bazénu neškolské organizaci\nna provozování plavecké školy."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s návrhem změny zřizovací listiny ZŠ Vítězná od 1. ledna 2024."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí s navrženými úpravami cen jednotlivých činností na bazéně."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

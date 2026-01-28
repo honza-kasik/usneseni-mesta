@@ -1,0 +1,22 @@
+{
+  "id": "RM/1906/62/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. 1872/60."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje podání žádosti o dotaci na výdaje v souvislosti se zásahy JSDH obcí při mimořádných událostech\nzpůsobených tlakovou níží BORIS v období od 11. 9. 2024 do 31. 12. 2024 pro JSDH Tři Dvory do dotační výzvy\nJSDH_BORIS_V3_2025 - Výdaje za zásahy - tlaková níže BORIS vyhlášenou Ministerstvem vnitra - generálním\nředitelstvím Hasičského záchranného sboru České republiky."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

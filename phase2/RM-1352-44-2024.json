@@ -1,0 +1,27 @@
+{
+  "id": "RM/1352/44/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje",
+    "stanovuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí předloženou informaci."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit smlouvu o Investičním úvěrovém rámci za předpokladu\ndodržení podmínek uvedených v nabídce Komerční banky, a.s. ze dne 12. 11. 2024."
+    },
+    {
+      "label": "c",
+      "text": "stanovuje osoby zmocněné k technickým náležitostem pro čerpání úvěrových prostředků dle důvodové zprávy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

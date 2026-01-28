@@ -1,0 +1,23 @@
+{
+  "id": "RM/240/9/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Mateřské školy\nGemerská, příspěvkové organizace sestavenou ke dni 31. 12. 2022."
+    },
+    {
+      "label": "b",
+      "text": "nařizuje převedení hospodářského výsledku ve výši 113.559,66 Kč do rezervního fondu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "66 Kč"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "RM/630/22/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit předloženou Obecně závaznou vyhlášku, kterou se stanoví\nškolské obvody spádových mateřských škol."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit předloženou Obecně závaznou vyhlášku, kterou se stanoví\nškolské obvody spádových základních škol."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "RM/26/1/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápisy z jednání Komise SPOZ ze dne 20. 9. 2022 a 4. 10. 2022."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí zápis z jednání Komise prevence kriminality a BESIP ze dne 10. 10. 2022."
+    },
+    {
+      "label": "c",
+      "text": "bere na vědomí zápis ze schůze Seniorklubu ze dne 11. 10. 2022."
+    },
+    {
+      "label": "d",
+      "text": "bere na vědomí zápisy z jednání Komise pro investice a výstavbu ze dne 21. 9. 2022 a 17. 10. 2022."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

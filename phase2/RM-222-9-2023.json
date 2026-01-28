@@ -1,0 +1,24 @@
+{
+  "id": "RM/222/9/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 20.000 Kč na úhradu nákladů při konání minifestivalu amatérských\nhudebních skupin dne 23. června 2023 ve dvoře SOŠ Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Střední odbornou školou Litovel\nv předloženém znění a rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

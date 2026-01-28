@@ -1,0 +1,24 @@
+{
+  "id": "RM/548/19/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 6.000 Kč na podporu konání kulturních akcí pořádaných v hostinci\nU Zeleného stromu v roce 2023."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o poskytnutí dotace mezi městem Litovel a M. O., Litovel, v předloženém znění\na rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

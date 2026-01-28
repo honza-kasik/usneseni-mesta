@@ -1,0 +1,27 @@
+{
+  "id": "RM/1522/48/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "vyslovuje poděkování iniciativním občanům za práce na záchraně majetku města Litovel při povodních 2024\na souhlasí s poskytnutím finančních darů těmto občanům dle důvodové zprávy včetně příloh."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje rozpočtovou změnu týkající se těchto darů."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

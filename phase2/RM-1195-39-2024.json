@@ -1,0 +1,22 @@
+{
+  "id": "RM/1195/39/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "pověřuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje smlouvy o uzavření budoucích smluv o připojení odběrných elektrických zařízení k distribuční\nsoustavě mezi městem Litovel a společností ČEZ Distribuce, a.s. se sídlem Teplická 874/8, 405 02 Děčín."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje Ing. P. K., vedoucího odboru ŽP Městského úřadu Litovel, podpisem smluv o uzavření budoucích\nsmluv o připojení odběrných el. zařízení k distribuční soustavě se společností ČEZ Distribuce a.s. v rámci projektu:\n„Kompostárna Litovel – rozšíření“."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

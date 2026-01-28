@@ -1,0 +1,24 @@
+{
+  "id": "RM/1542/48/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s cenou za zpracování projektové dokumentace na opravu střechy a krovu budovy Muzea Litovel\nve výši 298.500 Kč bez DPH."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o dílo mezi městem Litovel, jakožto objednatelem, a společností ALFAPROJEKT\nOLOMOUC a.s. na straně zhotovitele, jejímž předmětem je zpracování projektové dokumentace k povolení záměru\na vypracování DPS (včetně inženýrské činnosti) opravy střechy a krovu budovy Muzea Litovel v předloženém\nznění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "500 Kč"
+  ]
+}

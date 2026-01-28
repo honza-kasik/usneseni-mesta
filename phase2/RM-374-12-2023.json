@@ -1,0 +1,26 @@
+{
+  "id": "RM/374/12/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí odstoupení účastníka výběrového řízení Remont Quality s.r.o."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zprávu o posouzení a hodnocení nabídek veřejné zakázky „Oprava Sochovy hrobky na hřbitově\nv Litovli - Chořelicích“ dle doporučení hodnotící komise."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje výběr dodavatele STAVBEX s.r.o. na základě doporučení hodnotící komise a uzavření Smlouvy o dílo\nmezi městem Litovel a společností STAVBEX s.r.o., v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

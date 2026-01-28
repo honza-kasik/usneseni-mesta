@@ -1,0 +1,22 @@
+{
+  "id": "RM/647/23/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "pověřuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje výsledek zadávacího řízení a hodnocení nabídek pro veřejnou zakázku s názvem „Sdružené služby\ndodávky elektrické energie pro město Litovel a jím zřizované příspěvkové organizace a založené společnosti\nna období 2024-2025“."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje starostu města k podpisu smluv na dodávku elektrické energie se společností TAURON Czech\nEnergy s.r.o."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

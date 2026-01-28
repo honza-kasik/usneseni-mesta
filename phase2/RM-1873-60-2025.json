@@ -1,0 +1,26 @@
+{
+  "id": "RM/1873/60/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "jmenuje",
+    "revokuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. 1843/59/2025 ze dne 24. 9. 2025."
+    },
+    {
+      "label": "b",
+      "text": "jmenuje komisi pro otevírání nabídek týkající se veřejné zakázky „Unčovice - rekonstrukce komunikace západ“\nve složení: J. R., M. K., Mgr. I. S."
+    },
+    {
+      "label": "c",
+      "text": "jmenuje hodnotící komisi pro posouzení a hodnocení nabídek týkající se veřejné zakázky „Unčovice -\nrekonstrukce komunikace západ“ ve složení: Mgr. L. B., Mgr. I. S. a M. K. Jako náhradníky jmenuje V. K., J. K.\na L. K."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "RM/1009/35/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení číslo RM/913/32/2024."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje předloženou Dohodu o ukončení účinnosti Smlouvy o nájmu prostor sloužící podnikání č.j.\nLIT 14338/2023, uzavřené dne 1. 7. 2023, z užívaných prostor v objektu č.p. 90 v Litovli, místní část Unčovice\noznačených jako „pohostinství“ ke dni 30. 6. 2024."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje v souladu s ustanovením § 39 odst. 1 zákona č. 128/2000 Sb., o obcích (obecní zřízení) ve znění\npozdějších předpisů, záměr zveřejnění pronájmu nebytových prostor o celkové ploše 81,16 m2 (provozní plocha\n45,40 m2 a ostatní plocha 35,76 m2) nacházejících se v I. nadzemním podlaží objektu č.p. 90 v Litovli, místní část\nUnčovice, za účelem provozování „pohostinství“."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/913/32/2024"
+  ],
+  "amounts": []
+}

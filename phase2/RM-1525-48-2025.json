@@ -1,0 +1,25 @@
+{
+  "id": "RM/1525/48/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Mateřské školy\nGemerská, příspěvkové organizace sestavenou ke dni 31. 12. 2024."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením částky 160.887,19 Kč do rezervního fondu a částky 20.000 Kč do fondu odměn."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "19 Kč"
+  ]
+}

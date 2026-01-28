@@ -1,0 +1,25 @@
+{
+  "id": "RM/1204/39/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel v objektu č.p. 674/9 v Litovli,\nnám. Svobody (DPS)."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje návrh Bytové komise o přidělení bytu a souhlasí s uzavřením Smlouvy o jistotě a Smlouvy o nájmu\nbytu v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

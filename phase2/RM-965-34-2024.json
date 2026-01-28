@@ -1,0 +1,22 @@
+{
+  "id": "RM/965/34/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "nedoporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí žádost pana A. H. na odkup nemovitosti č.p. 19 Myslechovice, v předloženém znění."
+    },
+    {
+      "label": "b",
+      "text": "nedoporučuje Zastupitelstvu města Litovel vyhovět předložené žádosti o odkoupení nemovitosti č.p. 19\nMyslechovice."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

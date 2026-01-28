@@ -1,0 +1,22 @@
+{
+  "id": "RM/1762/56/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí informace týkající se plánovaného pořízení vozidla pro jednotku SDH Nasobůrky."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje tajemníka MěÚ, aby zajistil všechny náležitosti spojené s pořízením vozidla a jeho zápisem do registru\nvozidel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

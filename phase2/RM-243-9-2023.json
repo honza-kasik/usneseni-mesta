@@ -1,0 +1,24 @@
+{
+  "id": "RM/243/9/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Základní školy\na mateřské školy Nasobůrky sestavenou ke dni 31. 12. 2022."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením částky 84.698,42 Kč do rezervního fondu školy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "42 Kč"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RM/868/31/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 2.500 Kč na organizační zajištění oslav Mezinárodního dne žen v Nové Vsi."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a spolkem Novoveské Šťabajzny, z. s.\nv předloženém znění a rozpočtovou změnu týkající se této akce."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "500 Kč"
+  ]
+}

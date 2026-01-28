@@ -1,0 +1,32 @@
+{
+  "id": "RM/549/19/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 20.000 Kč na organizační zajištění kulturně společenské akce Oživíme\nChudobín – zapomenutou perlu Moravy, která se bude konat 1. října 2023 v Chudobíně."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o poskytnutí dotace mezi městem Litovel a K. A., Chudobín, v předloženém znění\na rozpočtovou změnu týkající se této dotace."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí s poskytnutím daru ve výši 3.000 Kč na organizační zajištění kulturně společenské akce Oživíme\nChudobín – zapomenutou perlu Moravy, která se bude konat 1. října 2023 v Chudobíně."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje uzavření Smlouvy o poskytnutí daru mezi městem Litovel a R. U., Litovel, v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

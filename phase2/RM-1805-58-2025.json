@@ -1,0 +1,22 @@
+{
+  "id": "RM/1805/58/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje předloženou Smlouvu o dílo uzavíranou mezi městem Litovel a společností Vodohospodářský rozvoj\na výstavba a.s, se sídlem Nábřežní 90/4, 150 00 Praha 5."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

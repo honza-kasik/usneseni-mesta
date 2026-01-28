@@ -1,0 +1,24 @@
+{
+  "id": "RM/871/31/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 8.000 Kč na činnost družstva malé kopané v Březové v roce 2024."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a J. K., Březové v předloženém znění\na rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

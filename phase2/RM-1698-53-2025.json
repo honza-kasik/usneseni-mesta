@@ -1,0 +1,24 @@
+{
+  "id": "RM/1698/53/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 1.000 Kč na uhrazení startovného družstva Litovle na akci Hry bez hranic,\nkterá se uskuteční 5. července 2025 ve Vilémově."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a Mgr. K. F., Litovel v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

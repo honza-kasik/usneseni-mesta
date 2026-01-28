@@ -1,0 +1,23 @@
+{
+  "id": "RM/96/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s cenovou nabídkou na provoz Senior Taxi Litovel podanou panem P. K. s následující úpravou: nástupní\ntaxa ve výši 30 Kč a omezení počtu jíst, tj. přeprava maximálně 8krát za jeden kalendářní měsíc."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s podepsáním smlouvy mezi městem Litovel a P. K. TK TAXI KOTEK, IČ 08295328 o zajištění služby\nSenior taxi Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "30 Kč"
+  ]
+}

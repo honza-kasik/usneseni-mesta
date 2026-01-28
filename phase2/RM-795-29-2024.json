@@ -1,0 +1,24 @@
+{
+  "id": "RM/795/29/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 20.000 Kč na činnost místního sdružení Českého červeného kříže v roce\n2024."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a J. K., Březové v předloženém znění\na rozpočtovou změnu týkající se této akce."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

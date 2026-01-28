@@ -1,0 +1,21 @@
+{
+  "id": "RM/1685/52/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel v objektu č.p. 674/9 v Litovli,\nnám. Svobody 674/9 (DPS)."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

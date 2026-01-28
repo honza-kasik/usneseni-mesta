@@ -1,0 +1,22 @@
+{
+  "id": "RM/823/29/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předložený Plán opatření k Auditu Familyfriendlycommunity."
+    },
+    {
+      "label": "b",
+      "text": "se seznámila s návrhy opatření předloženými projektovou skupinou AFFC a vybrala následující opatření, která\ndoporučuje Zastupitelstvu města ke schválení:\n1. Vybudování systému cyklostezek, které propojí celé město\n2. Rozšíření a další vybavení hřišť pro děti\n3. Podpora vzniku prostoru pro studium a práci\n4. Pořádání veletrhu volnočasových aktivit"
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

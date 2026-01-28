@@ -1,0 +1,24 @@
+{
+  "id": "RM/956/32/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápis z jednání komise Fondu rozvoje bydlení ze dne 2. 4. 2024."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel projednat a schválit poskytnutí zápůjčky z Fondu rozvoje bydlení\nmanželům L. a D. Z. z Litovle – 200.000 Kč dle titulu č. 3 na novou střechu, úrok 1 %, doba splatnosti 5 let."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

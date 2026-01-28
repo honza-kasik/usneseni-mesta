@@ -1,0 +1,24 @@
+{
+  "id": "RM/1271/42/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 7.000 Kč na činnost družstva malé kopané v roce 2024."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a D. K. v předloženém znění\na rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

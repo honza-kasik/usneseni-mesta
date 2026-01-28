@@ -1,0 +1,23 @@
+{
+  "id": "RM/291/10/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s převodem 550.000 Kč z rezervního fondu Školní jídelny Litovel, příspěvkové organizace do fondu\ninvestičního."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s čerpáním částky 600.000 Kč z investičního fondu Školní jídelny Litovel, příspěvkové organizace\nna pořízení myčky stolního nádobí."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RM/1638/51/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s přijetím finančního daru ve výši 22.950 Kč od firmy Kimberly-Clark, s.r.o. pro Základní školu Litovel,\nVítězná 1250, okres Olomouc. Peníze budou použity na nákup školních pomůcek pro žáky 1. tříd."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s podáním žádosti Základní školy Litovel, Vítězná 1250, okres Olomouc o dotaci z šablon Jan Amos\nKomenský II. 5% spoluúčast bude škola hradit z vlastních prostředků. Maximální výše dotace pro školu\nje 1.438.000 Kč."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "950 Kč"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "RM/666/24/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s uzavřením Dodatku č. 1 ke smlouvě o dílo stavby: „Výstavba urnové zdi na městském hřbitově\nv Litovli“ se zhotovitelem stavby Martin Hönig, Červenka."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s uplatněním Sankční pokuty za nedodržení lhůty výstavby vyměřené dle smlouvy o dílo."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

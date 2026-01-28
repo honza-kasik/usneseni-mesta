@@ -1,0 +1,24 @@
+{
+  "id": "RM/890/31/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Mateřské školy\nG. Frištenského, příspěvkové organizace sestavenou ke dni 31. 12. 2023."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením částky 1.428,97 Kč do rezervního fondu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "97 Kč"
+  ]
+}

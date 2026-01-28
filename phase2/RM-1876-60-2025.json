@@ -1,0 +1,23 @@
+{
+  "id": "RM/1876/60/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje rozpočtovou změnu TS Litovel č. 86/2025/ZML (schváleno ZML/6/22/2025 dne 25. 9. 2025)."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje navýšení příspěvku na provoz ve výši 1.232.235 Kč pro TS Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "235 Kč"
+  ]
+}

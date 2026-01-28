@@ -1,0 +1,24 @@
+{
+  "id": "RM/590/21/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "projednává",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala žádost pana R. B. o pronájem nebytových prostor nacházejících se v objektu čp. 12 v Litovli, místní\nčást Březové, podanou na základě zveřejněného záměru pronájmu, schváleného usnesením číslo RM/516/18/2023."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření předložené Smlouvy o nájmu prostor sloužících k podnikání, mezi městem Litovel a panem\nR. B., za účelem provozování pohostinství, za nájemné dle zveřejněného záměru pronájmu, na dobu neurčitou,\ns účinností od 1. 10. 2023."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/516/18/2023"
+  ],
+  "amounts": []
+}

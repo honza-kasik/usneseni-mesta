@@ -1,0 +1,24 @@
+{
+  "id": "RM/1486/47/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje dle důvodové zprávy odepsání nevymahatelné pohledávky ve výši 2.200 Kč z účetnictví města Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "200 Kč"
+  ]
+}

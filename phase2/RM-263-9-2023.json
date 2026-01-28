@@ -1,0 +1,23 @@
+{
+  "id": "RM/263/9/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s účastí starosty města na poznávacím semináři v Estonsku ve dnech od 24. 4. 2023 do 28. 4. 2023.\nOrganizátorem semináře je MaS Moravská cesta."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s uhrazením účastnického poplatku ve výši 8.000 Kč."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

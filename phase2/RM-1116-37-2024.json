@@ -1,0 +1,24 @@
+{
+  "id": "RM/1116/37/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s úhradou finanční částky na pořízení nového herního prvku „Hnízdo Agapito“ na dětské hřiště\ndo Myslechovic ve výši 100 %, tj. 134.673 Kč vč. DPH."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s tím, aby byl rozdíl v částce skutečné škody a částce náhrady škody, kterou je pojišťovna Kooperativa\nv tuto chvíli ochotna v rámci škodní události číslo 4246001633 z pojištění odpovědnosti (povinného ručení) uhradit,\ntzn. 20.994 Kč vč. DPH za amortizaci po této pojišťovně, případně po viníku škodní události paní M. Š.\nz Myslechovic požadován a vymáhán."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "673 Kč",
+    "994 Kč"
+  ]
+}

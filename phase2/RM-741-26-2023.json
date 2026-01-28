@@ -1,0 +1,22 @@
+{
+  "id": "RM/741/26/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí předloženou důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit projednanou Zprávu o uplatňování Územního plánu Litovel,\nvčetně zadání nového Územního plánu, jako podklad pro následné zpracování Návrhu Územního plánu Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

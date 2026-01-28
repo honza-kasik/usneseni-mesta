@@ -1,0 +1,24 @@
+{
+  "id": "RM/357/11/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí se záměrem dovybavit rekonstruované hřiště u ZŠ Vítězná osvětlením."
+    },
+    {
+      "label": "b",
+      "text": "ukládá vedoucímu OŠKS ve spolupráci s vedoucím FO zahrnout částku 320.000 Kč + DPH do rozpočtu města.\nTato částka bude poskytnuta na zřízení osvětlení u rekonstruovaného hřiště u ZŠ Vítězná."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

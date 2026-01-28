@@ -1,0 +1,22 @@
+{
+  "id": "RM/865/31/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "neschvaluje",
+    "revokuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. 850b/30."
+    },
+    {
+      "label": "b",
+      "text": "neschvaluje Nabídku společnosti AP Investing, s.r.o. Brno na zajištění výkonu činností Technického dozoru\nstavebníka na akci „Odkanalizování a likvidace odpadních vod místních částí Savín, Nová Ves a zásobování místní\nčásti Savín pitnou vodou“."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

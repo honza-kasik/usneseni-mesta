@@ -1,0 +1,22 @@
+{
+  "id": "RM/1163/38/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtovou změnu související s pořízením stožárů do místní části Myslechovice, dle přílohy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

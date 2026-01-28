@@ -1,0 +1,24 @@
+{
+  "id": "RM/582/19/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel projednat a schválit přijetí dotace ve výši 202.714 Kč z programu\nNárodní plán obnovy – Podpora přirozených funkcí krajiny na realizaci projektu: Liniová výsadba u Litovle\n– k.ú. Unčovice."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "714 Kč"
+  ]
+}

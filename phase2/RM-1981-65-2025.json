@@ -1,0 +1,24 @@
+{
+  "id": "RM/1981/65/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s přijetím účelově vázaného daru ve výši 13.340 Kč pro období od 1. 1. do 30. 6. 2026 od nadace\nWomen for women, o.p.s. pro Základní školu a mateřskou školu Nasobůrky v rámci charitativního projektu OBĚDY\nPRO DĚTI."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s přijetím účelově vázaného daru ve výši 14.040 Kč pro období od 1. 1. do 30. 6. 2026 od nadace\nWomen for women, o.p.s. pro Základní školu a mateřskou školu Nasobůrky v rámci charitativního projektu SOS\nDO ŠKOLKY."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "040 Kč",
+    "340 Kč"
+  ]
+}

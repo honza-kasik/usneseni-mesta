@@ -1,0 +1,22 @@
+{
+  "id": "RM/273/10/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí poskytnuté informace z jednání Komise pro energetiku."
+    },
+    {
+      "label": "b",
+      "text": "ukládá dotačním manažerkám prověřit možnost získání dotací na umístění fotovoltaických panelů na budovách\nve městě Litovel dle informací od jednatele SEVEn Energy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

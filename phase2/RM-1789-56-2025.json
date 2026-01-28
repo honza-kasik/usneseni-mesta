@@ -1,0 +1,22 @@
+{
+  "id": "RM/1789/56/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "nesouhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí žádost spolku Moravské trhy, z. s., Milotice nad Opavou, ve věci pronájmu části veřejného\nprostranství na náměstí Přemysla Otakara v Litovli za účelem pořádání pravidelných jarmarků s různým\nsortimentem zboží."
+    },
+    {
+      "label": "b",
+      "text": "nesouhlasí s pořádáním pravidelných tradičních jarmarků na náměstí Přemysla Otakara v Litovli."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

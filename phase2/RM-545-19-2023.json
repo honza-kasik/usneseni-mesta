@@ -1,0 +1,24 @@
+{
+  "id": "RM/545/19/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 4.000 Kč na organizační zajištění dne pro děti, který se bude konat 2. září\n2023 v Savíně."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o poskytnutí daru mezi městem Litovel a SDH Savín v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

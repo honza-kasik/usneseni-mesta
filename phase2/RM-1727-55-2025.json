@@ -1,0 +1,26 @@
+{
+  "id": "RM/1727/55/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zprávu odboru MHaSI k možnému zvýšení sazby za městské zahrádky, vypracovanou na základě\núkolu ze 49. a 52. schůze RM."
+    },
+    {
+      "label": "b",
+      "text": "ukládá odboru MHaSI doplnit chybějící informace k úkolu ze 49. schůze RM, které jsou uvedeny v zápise,\na předložit je na zářijovou schůzi rady města."
+    },
+    {
+      "label": "c",
+      "text": "ukládá odboru MHaSI ve spolupráci s právním oddělením připravit návrh na zvýšení nájemného za městské\nzahrádky a úpravu smluv. Termín pro zpracování se stanovuje na 31. července 2026, materiál bude následně\npředložen radě města k projednání."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "RM/1086/36/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápisy z jednání Komise pro dopravu."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje odbor MHaSI zajištěním úprav dopravního značení uvedených v zápisech z jednání Komise\npro dopravu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

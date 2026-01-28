@@ -1,0 +1,24 @@
+{
+  "id": "RM/870/31/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 15.000 Kč na úhradu nákladů spojených s organizačním zajištěním\nvýročního koncertu pěveckého souboru Mládí, který se uskuteční 20. 4. 2024 v Litovli."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Rodičovským spolkem při ZŠ Vítězná\nLitovel, Vítězná 1250 v předloženém znění a rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "RM/1877/60/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zařazení žádosti o byt do Seznamu žadatelů o byt města Litovel v objektu č.p. 674/9 v Litovli,\nnám. Svobody (DPS)."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje návrh Bytové komise o přidělení bytu č. 318 v objektu č.p. 674 v Litovli, nám. Svobody, č. or. 9\npanu J. J. a souhlasí s uzavřením Smlouvy o jistotě a Smlouvy o nájmu bytu v předloženém znění."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje návrh Bytové komise o přidělení bytu č. 406 v objektu č.p. 965 v Litovli, ul. U Stadionu, č. or. 3\npanu V. M. a souhlasí s uzavřením Smlouvy o jistotě a Smlouvy o nájmu bytu v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

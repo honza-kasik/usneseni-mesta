@@ -1,0 +1,26 @@
+{
+  "id": "RM/1003/35/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. RM/974/34/2024 schválené na 34. schůzi Rady města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje smlouvu o zřízení věcného břemene mezi oprávněným, tj. GasNet, s.r.o. Sídlo: Klíšská 940/96, Klíše,\n400 01 Ústí nad Labem, IČO: 27295567, DIČ: CZ27295567, zastoupená společností GasNet Služby, s.r.o. Sídlo:\nPlynárenská 499/1, Zábrdovice, 602 00 Brno IČO: 27935311, DIČ: CZ27935311 a povinným, tj. městem Litovel\nzastoupeným starostou města jako vlastníkem pozemku parc.č. 1582/8, v k.ú. Litovel, obec Litovel, ke stavbě\nč. „REKO VTL Litovel sladovny DN 100, číslo stavby: 7700101590“, za cenu 6.050 Kč + DPH."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/974/34/2024"
+  ],
+  "amounts": [
+    "050 Kč"
+  ]
+}

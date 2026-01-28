@@ -1,0 +1,24 @@
+{
+  "id": "RM/1094/37/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "projednává",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala žádost pana P. V. o pronájem nebytových prostor nacházejících se v objektu čp. 90 v Litovli, místní\nčást Unčovice, podanou na základě zveřejněného záměru pronájmu, schváleného usnesením číslo RM/913/32/2024."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření předložené Smlouvy o nájmu prostor sloužící podnikání mezi městem Litovel a panem P. V.\nza účelem provozování pohostinství, za nájemné dle zveřejněného záměru pronájmu, na dobu neurčitou, s účinností\nod 1. 7. 2024."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/913/32/2024"
+  ],
+  "amounts": []
+}

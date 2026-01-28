@@ -1,0 +1,29 @@
+{
+  "id": "RM/699/25/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje Smlouvu o připojení k síti internet - Internet pro rozhlas m.č. Rozvadovice 30M, mezi městem Litovel\na poskytovatelem DOUBRAVA.NET s.r.o., v předloženém znění."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje Smlouvu o připojení k síti internet - Internet pro rozhlas m.č. Březové 30M, mezi městem Litovel\na poskytovatelem DOUBRAVA.NET s.r.o., v předloženém znění."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje Smlouvu o připojení k síti internet - Internet pro rozhlas m.č. Litovel, Gemerská 30M, mezi městem\nLitovel a poskytovatelem DOUBRAVA.NET s.r.o., v předloženém znění."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje Smlouvu o připojení k síti internet - Internet pro rozhlas m.č. Nasobůrky 30M, mezi městem Litovel\na poskytovatelem DOUBRAVA.NET s.r.o., v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

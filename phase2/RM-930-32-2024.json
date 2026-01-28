@@ -1,0 +1,30 @@
+{
+  "id": "RM/930/32/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o provádění předběžné náhradní péče o týrané zvíře mezi městem Litovel a Markem\nSlováčkem, Olomouc."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje uzavření Smlouvy o provádění předběžné náhradní péče o týrané zvíře mezi městem Litovel a spolkem\nZastavte utrpení - Spolek za práva zvířat a etické zacházení s nimi."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje uzavření Smlouvy o provádění předběžné náhradní péče o týrané zvíře mezi městem Litovel a spolkem\nLiga na ochranu zvířat, místní organizací Olomouc."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RM/1480/47/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Mateřské školy\nG. Frištenského, příspěvkové organizace sestavenou ke dni 31. 12. 2024."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením částky 29.149,70 Kč do rezervního fondu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "70 Kč"
+  ]
+}

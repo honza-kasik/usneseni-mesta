@@ -1,0 +1,24 @@
+{
+  "id": "RM/1575/49/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje rozhodnutí Rady města Litovel ze dne 19. 2. 2025 č. usn. RM/1488/47/2025 bod a), resp. jeho část,\nv rozsahu žádostí poskytnout dotaci z dotačního programu Ministerstva pro místní rozvoj vyhlášeného\nprostřednictvím Státního fondu životního prostředí ČR výzvou „Pomoc domácnostem“ žadatelům o podporu\nv rozsahu uvedeném v příloze č. 1 tohoto usnesení z důvodu dodatečného zjištění nesplnění podmínek\npro poskytnutí podpory."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje poskytnutí podpory z dotace získané z dotačního programu Ministerstva pro místní rozvoj vyhlášeného\nprostřednictvím Státního fondu životního prostředí ČR výzvou „Pomoc domácnostem“ žadatelům o podporu\nv rozsahu uvedeném v příloze č. 2 tohoto usnesení. Podpora bude poskytnuta formou daru účelově určeného\nna zmírnění následků povodně, která město Litovel postihla ve dnech 14. - 17. 9. 2024, konkrétně a výhradně na:\n(i) pokrytí výdajů vzniklých v souvislosti s odstraňováním povodňových škod na majetku, (ii) pokrytí nezbytných\nvýdajů, jakou jsou platby za energie, (iii) pořízení nebo opravu nezbytného základního vybavení domácnosti."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/1488/47/2025"
+  ],
+  "amounts": []
+}

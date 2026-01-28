@@ -1,0 +1,24 @@
+{
+  "id": "RM/1556/49/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 5.000 Kč na organizační zajištění Dětského dne, který se uskuteční\n3. 5. 2025, a na organizační zajištění Střeleckého závodu o pohár Doubravy, který se uskuteční 14. 6. 2025."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a Mysliveckým spolkem Litovel - Doubrava\nv předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

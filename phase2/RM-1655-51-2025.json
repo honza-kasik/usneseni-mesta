@@ -1,0 +1,27 @@
+{
+  "id": "RM/1655/51/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "nesouhlasí",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí informaci ministra pro místní rozvoj, Ing. Petra Kulhánka, o změnách souvisejících\ns projednáváním vládního návrhu zákona o podpoře bydlení."
+    },
+    {
+      "label": "b",
+      "text": "nesouhlasí se zřízením kontaktního místa pro bydlení na MěÚ Litovel."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí s tím, aby výkon působnosti kontaktního místa pro bydlení v ORP Litovel zajišťoval OÚORP Olomouc.\nViktor Kohout v. r. Mgr. Lubomír Broza v. r.\nstarosta města místostarosta města"
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

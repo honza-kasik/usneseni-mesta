@@ -1,0 +1,24 @@
+{
+  "id": "RM/1767/56/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "projednává",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala žádost paní G. P. o snížení nájemného za měsíc červenec 2025 z pronajatých prostor bufetu\nna městském koupališti v Litovli."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí se snížením nájemného za měsíc červenec 2025 ve výši 5.000 Kč za pronájem nebytových prostor\nbufetu a navazující zastřešené terasy v areálu městského koupaliště. Snížené nájemné bude zohledněno ve fakturaci\nza měsíc srpen 2025."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RM/1989/65/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt v objektu č.p. 674/9, nám. Svobody, Litovel."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje návrh Bytové komise o přidělení bytu č. 206 v objektu č.p. 173 v Litovli, ul. Vítězná, č. or. 1A,\npaní J. H., a souhlasí s uzavřením Smlouvy o jistotě a Smlouvy o nájmu bytu v předloženém znění."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje Pořadník - seznam žadatelů o byt města Litovel na r. 2026."
+    },
+    {
+      "label": "e",
+      "text": "schvaluje Seznam vyřazených žádostí o byt města Litovel a vyřazených žádostí o byt v objektu č.p. 674/9,\nnám. Svobody, Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

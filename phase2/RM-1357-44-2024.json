@@ -1,0 +1,22 @@
+{
+  "id": "RM/1357/44/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s cenovou nabídkou na provoz Senior taxi Litovel podanou panem P. K., TK TAXI KOTEK."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy mezi městem Litovel a P. K. TK TAXI KOTEK, IČ: 08295328 o zajištění služby\nSenior taxi Litovel pro rok 2025 a 2026."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

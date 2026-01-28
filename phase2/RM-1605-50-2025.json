@@ -1,0 +1,25 @@
+{
+  "id": "RM/1605/50/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje Dohodu o ukončení smlouvy uzavíranou mezi Českou republikou - Hasičským záchranným sborem\nOlomouckého kraje, společností LARGO PCO s.r.o. a městem Litovel, v předloženém znění."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o připojení elektrické požární signalizace na pult centralizované ochrany, uzavírané\nmezi Českou republikou - Hasičským záchranným sborem Olomouckého kraje a městem Litovel, jejímž předmětem\nje zajištění služby pultu centrální ochrany v budově Muzea Litovel, v předloženém znění."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje uzavření smlouvy o údržbě a provozování připojení elektrické požární signalizace na pult\ncentralizované ochrany Hasičského záchranného sboru Olomouckého kraje, mezi městem Litovel a společností\nLARGO PCO s.r.o., v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "RM/3/1/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí žádost nájemníků o zateplení fasády domu ve vlastnictví města Litovel, ul. Poděbradova\nč. p. 748/8 a 749/6."
+    },
+    {
+      "label": "b",
+      "text": "ukládá OBH vypracovat projektovou dokumentaci na zateplení objektu ul. Poděbradova č. p. 748/8 a 749/6."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

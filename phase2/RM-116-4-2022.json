@@ -1,0 +1,23 @@
+{
+  "id": "RM/116/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zřízení a složení Komise SPOZ dle předloženého návrhu s účinností od 1. 1. 2023."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje navýšení hodnoty dárkových balíčků pro jubilanty o 100 Kč s účinností od 1. 1. 2023."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "100 Kč"
+  ]
+}

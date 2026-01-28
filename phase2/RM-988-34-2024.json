@@ -1,0 +1,24 @@
+{
+  "id": "RM/988/34/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "stanovuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "stanovuje pro školní rok 2024/2025 poplatek za vzdělávání ve všech mateřských školách, jichž je zřizovatelem,\nve výši 400 Kč měsíčně."
+    },
+    {
+      "label": "b",
+      "text": "stanovuje pro školní rok 2024/2025 poplatek za vzdělávání ve školních družinách, jichž je zřizovatelem, ve výši\n150 Kč měsíčně."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "150 Kč",
+    "400 Kč"
+  ]
+}

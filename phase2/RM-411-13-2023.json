@@ -1,0 +1,22 @@
+{
+  "id": "RM/411/13/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel projednat a schválit akcionářskou smlouvu mezi městem Litovel\na Servisní společností Odpady Olomouckého kraje, a.s., se sídlem Jeremenkova 1191/40a, Olomouc."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

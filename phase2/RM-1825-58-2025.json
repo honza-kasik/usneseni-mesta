@@ -1,0 +1,24 @@
+{
+  "id": "RM/1825/58/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí, na základě schválené RZ 68/2025/ZM, s poskytnutím dotace ve výši 200.000 Kč na opravu – výměnu\nstřešní krytiny na budově fary Římskokatolické farnosti v Litovli."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Římskokatolickou farností Litovel\nv předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

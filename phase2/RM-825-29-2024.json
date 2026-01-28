@@ -1,0 +1,29 @@
+{
+  "id": "RM/825/29/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje své usnesení č. 763v/27 o poskytnutí daru ve výši 3.000 Kč Klubu litovelského petanque."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s poskytnutím dotace ve výši 7.000 Kč na činnost klubu v roce 2024."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Klubem litovelského petanque\nv předloženém znění a rozpočtovou změnu týkající se této dotace.\nViktor Kohout v. r. Mgr. Lubomír Broza v. r.\nstarosta města místostarosta města"
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

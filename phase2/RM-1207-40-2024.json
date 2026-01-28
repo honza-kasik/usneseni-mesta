@@ -1,0 +1,29 @@
+{
+  "id": "RM/1207/40/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "neschvaluje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předložený záměr zveřejnění odprodeje pozemků parc.č. 802 a 803, ostatní plocha/jiná plocha,\no výměře 459 a 466 m2 - celkem 925 m2, v k.ú. Litovel, za minimální cenu 3.900 Kč/m2 vč. DPH."
+    },
+    {
+      "label": "b",
+      "text": "neschvaluje předložený záměr zveřejnění odprodeje částí pozemků parc.č. 802 a 803, ostatní plocha/jiná plocha,\no výměře cca 231 a cca 231 m2 - celkem cca 462 m2, v k.ú. Litovel, za minimální cenu 3.200 Kč/m2 vč. DPH."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje pro zveřejnění záměru odprodeje pozemků parc.č. 802 a 803, ostatní plocha/jiná plocha, v k.ú. Litovel\n„Pravidla“ dle přílohy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "200 Kč",
+    "900 Kč"
+  ]
+}

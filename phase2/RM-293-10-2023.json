@@ -1,0 +1,24 @@
+{
+  "id": "RM/293/10/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s čerpáním částky 116.523 Kč z rezervního fondu Základní školy Litovel, Jungmannova 655, okres\nOlomouc na zakoupení dopravních vozíků a chladící vany."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s čerpáním částky 83.000 Kč z rezervního fondu Základní školy Litovel, Jungmannova 655, okres\nOlomouc na přípravné a dokončovací práce ve školním dvoře v souvislosti s instalací přepravní plošiny."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "523 Kč"
+  ]
+}

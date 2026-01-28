@@ -1,0 +1,21 @@
+{
+  "id": "RM/820/29/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel revokovat usnesení č. ZM/10/5/2023 ze dne 19. 6. 2023."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel projednat a schválit zveřejnění záměru prodeje pozemků města\nLitovel v lokalitě Pavlínka, specifikovaných v důvodové zprávě dle předložených pravidel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

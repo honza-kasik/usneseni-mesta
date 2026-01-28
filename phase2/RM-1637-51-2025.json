@@ -1,0 +1,23 @@
+{
+  "id": "RM/1637/51/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s převodem částky 1.250.000 Kč z rezervního fondu Školní jídelny Litovel, příspěvkové organizace\ndo fondu investičního."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s čerpáním částky 1.650.000 Kč z investičního fondu Školní jídelny Litovel, příspěvkové organizace\nna pořízení elektrického míchacího sklápěcího kotle včetně úprav nutných pro instalaci a rozmístění zařízení\nv kuchyni."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

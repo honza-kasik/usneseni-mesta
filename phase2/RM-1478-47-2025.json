@@ -1,0 +1,25 @@
+{
+  "id": "RM/1478/47/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Městského klubu\nLitovel sestavenou ke dni 31. 12. 2024."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením částky 350.969,69 Kč do rezervního fondu a částky 300.000 Kč do fondu odměn."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "69 Kč"
+  ]
+}

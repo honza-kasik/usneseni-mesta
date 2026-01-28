@@ -1,0 +1,22 @@
+{
+  "id": "RM/43/2/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtové změny 131/2022/RM až 142/2022/RM dle důvodové zprávy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

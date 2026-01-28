@@ -1,0 +1,24 @@
+{
+  "id": "RM/1706/53/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s přijetím účelově vázaného daru ve výši 20.405 Kč pro období od 1. 9. do 31. 12. 2025 od nadace\nWomen for women pro Základní školu Litovel, Jungmannova 655, okres Olomouc."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s přijetím účelově vázaného daru ve výši 30.740 Kč pro období od 1. 1. 2026 do 30. 6. 2026 od nadace\nWomen for women pro Základní školu Litovel, Jungmannova 655, okres Olomouc."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "405 Kč",
+    "740 Kč"
+  ]
+}

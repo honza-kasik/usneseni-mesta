@@ -1,0 +1,25 @@
+{
+  "id": "RM/1725/54/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s realizací projektu na nákup vozidla na alternativní pohon pro TS Litovel, p. o."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s podáním žádosti o dotaci z Národního plánu obnovy „Udržitelná městská doprava a mobilita“."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí, v případě získání dotace, s dofinancováním nákupu vozidla z investičního fondu TS Litovel, p. o."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

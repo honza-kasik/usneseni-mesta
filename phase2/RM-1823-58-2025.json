@@ -1,0 +1,21 @@
+{
+  "id": "RM/1823/58/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s uzavřením smlouvy o smlouvě budoucí č. 8120103846 o realizaci přeložky distribučního zařízení\nurčeného k dodávce energie."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s uzavřením smlouvy č. 25_SOP_01_4122527159 o připojení odběrného elektrického zařízení\nk distribuční soustavě."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

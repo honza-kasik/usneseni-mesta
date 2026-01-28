@@ -1,0 +1,22 @@
+{
+  "id": "RM/310/10/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápis ze schůze Letopisecké komise, konané dne 13. 3. 2023."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje zástupcům politických stran a hnutí zvolených do ZML, aby podali návrh na doplnění členů LK,\nkteří by byli schopni a ochotni podávat Letopisecké komisi informace o dění v profesních a zájmových skupinách."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

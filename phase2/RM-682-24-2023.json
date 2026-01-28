@@ -1,0 +1,22 @@
+{
+  "id": "RM/682/24/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předloženou dokumentaci ISVS - Informační koncepci a Bezpečnostní politiku."
+    },
+    {
+      "label": "b",
+      "text": "ukládá oddělení IT zabezpečit získání nového atestu dlouhodobého řízení ISVS."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

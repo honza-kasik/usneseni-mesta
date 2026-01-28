@@ -1,0 +1,24 @@
+{
+  "id": "RM/1208/40/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 3.000 Kč na org. zajištění oslav 70. výročí založení základní školy\nVejdovského pro slabozraké."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a Nadací prof. Vejdovského v předloženém\nznění a rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

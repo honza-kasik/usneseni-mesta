@@ -1,0 +1,21 @@
+{
+  "id": "RM/101/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí se změnou závazného ukazatele mzdové náklady pro TS Litovel, p. o."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí se změnou závazného ukazatele odpisový plán pro TS Litovel, p. o."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

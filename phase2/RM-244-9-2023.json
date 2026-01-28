@@ -1,0 +1,24 @@
+{
+  "id": "RM/244/9/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Základní školy\nLitovel, Vítězná 1250, okres Olomouc sestavenou ke dni 31. 12. 2022."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením 337.014,33 Kč do rezervního fondu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "33 Kč"
+  ]
+}

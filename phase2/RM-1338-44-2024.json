@@ -1,0 +1,27 @@
+{
+  "id": "RM/1338/44/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "nevyhovuje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "nevyhovuje žádosti pana P. B. o prodloužení nájmu bytu v objektu č.p. 1098 v Chořelicích."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením výkonu správy objektu č.p. 1098 (rodinný dům), stojícím na pozemku parc.č. st. 78 v obci\nLitovel, k.ú. Chořelice na Technické služby Litovel, p. o., Cholinská 1008, 784 01 Litovel ke dni 13. 12. 2024.\nNový správce vstupuje do práv a povinností vyplývajících ze stávající Nájemní smlouvy."
+    },
+    {
+      "label": "c",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit Dodatek č. 1 ke Zřizovací listině příspěvkové organizace\nTechnické služby Litovel, jehož obsahem je Smlouva o předání majetku k hospodaření v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

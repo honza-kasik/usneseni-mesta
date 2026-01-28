@@ -1,0 +1,22 @@
+{
+  "id": "RM/1821/58/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "nevyhovuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí žádost JSDH Tři Dvory ve věci nákupu vyprošťovacího zařízení."
+    },
+    {
+      "label": "b",
+      "text": "nevyhovuje žádosti JSDH Tři Dvory ve věci nákupu vyprošťovacího zařízení."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

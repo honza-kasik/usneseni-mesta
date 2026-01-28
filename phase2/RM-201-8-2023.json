@@ -1,0 +1,21 @@
+{
+  "id": "RM/201/8/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje hospodářský výsledek za rok 2022 pro TS Litovel, p. o."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje jeho rozdělení dle návrhu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

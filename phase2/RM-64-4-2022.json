@@ -1,0 +1,21 @@
+{
+  "id": "RM/64/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje Pořadník - seznam žadatelů o přidělení bytu města Litovel na r. 2023."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje Seznam vyřazených žádostí žadatelů o byt města Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

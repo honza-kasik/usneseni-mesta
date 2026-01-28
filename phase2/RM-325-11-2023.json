@@ -1,0 +1,29 @@
+{
+  "id": "RM/325/11/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "sazba nájemného za provozní plochu - 1.280 Kč/m2/rok,"
+    },
+    {
+      "label": "b",
+      "text": "sazba nájemného za ostatní plochu - 720 Kč/m2/rok,"
+    },
+    {
+      "label": "c",
+      "text": "výše zálohy za služby s nájmem spojené - 260 Kč/m2 plochy ordinace/měsíc.\nSoučasně Rada města Litovel bere na vědomí informace Krajské hygienické stanice Olomouckého kraje."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "260 Kč",
+    "280 Kč",
+    "720 Kč"
+  ]
+}

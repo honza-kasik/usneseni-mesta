@@ -1,0 +1,38 @@
+{
+  "id": "RM/1816/58/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "nedoporučuje",
+    "souhlasí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí iniciativu Osadního výboru Unčovice a ZD Unčovice na přípravě a vydání publikace\ns pracovním názvem „Historie Unčovic a Březové“, která bude dokumentovat historický, kulturní a společenský\nvývoj těchto dvou místních částí města."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s předloženým záměrem přípravy knihy jakožto komunitní a odborně zpracované publikace, která bude\nsoučástí uchování místní identity, paměti obce a kulturního dědictví."
+    },
+    {
+      "label": "c",
+      "text": "ukládá pověřeným zástupcům osadního výboru:\n- předložit podrobný harmonogram a návrh rozpočtu prací,\n- připravit návrh smlouvy o dílo pro spolupracující občany a odborníky,\n- spolupracovat s určeným odborem na přípravě případné dotační žádosti na spolufinancování projektu z rozpočtu\nměsta nebo externích zdrojů."
+    },
+    {
+      "label": "d",
+      "text": "souhlasí se zařazením návrhu podporu projektu do programu příštího zasedání zastupitelstva města."
+    },
+    {
+      "label": "e",
+      "text": "nedoporučuje Zastupitelstvu města Litovel navrhnout do rozpočtu města předběžnou finanční spoluúčast\nměsta ve výši do 510.000 Kč, a to na základě rámcového rozpočtu a dosud dostupných nabídek."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

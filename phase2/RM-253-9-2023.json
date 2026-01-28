@@ -1,0 +1,36 @@
+{
+  "id": "RM/253/9/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí žádost Základní umělecké školy Litovel ve věci spolupráce města Litovel při organizování\nveřejnosti přístupné akce „ZUŠ OPEN“, která se bude konat ve dnech 30. a 31. května 2023 na náměstí Přemysla\nOtakara v Litovli. Pořadatelem akce je ZUŠ Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtovou změnu ve výši 30.250 Kč vč. DPH na pokrytí nákladů spojených se zapůjčením pódia\no velikosti 7x6 m od pana P."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje zpřístupnění elektrických rozvaděčů na náměstí v místě záboru."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje bezplatné zapůjčení stanů a slunečníků od města Litovel."
+    },
+    {
+      "label": "e",
+      "text": "schvaluje dle OZV 4/2019 o míst. poplatcích čl. 5, bod (1), písm. k), pro kulturní akce není stanoven místní\npoplatek."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "250 Kč"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "RM/1273/42/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předložený záměr města Litovel směnit pozemky parc.č. 1280/81 a 1280/82, k.ú. Litovel z vlastnictví\nZemědělského družstva Unčovice za pozemek parc.č. 210/23 k.ú. Unčovice z vlastnictví města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit směnnou smlouvu mezi Zemědělským družstvem Unčovice\na městem Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

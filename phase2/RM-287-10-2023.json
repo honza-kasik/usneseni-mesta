@@ -1,0 +1,31 @@
+{
+  "id": "RM/287/10/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "nedoporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "nedoporučuje Zastupitelstvu města Litovel schválit předloženou Smlouvu o smlouvě budoucí na předání\nodpadů Servisní společnosti odpady Olomouckého kraje, a.s., IČO 076 86 501, se sídlem Jeremenkova 1191/40a,\nHodolany, 779 00 Olomouc."
+    },
+    {
+      "label": "c",
+      "text": "nedoporučuje Zastupitelstvu města Litovel schválit příspěvek ve výši 14.754.000 Kč splatný v průběhu šesti\nlet a to postupně 2023: 1.475.000 Kč, 2024: 3.324.568 Kč, 2025: 3.324.568 Kč, 2026: 2.213.100 Kč, 2027:\n2.213.100 Kč, 2027: 2.213.000 Kč, 2028: 2.203.264 Kč Servisní společnosti odpady Olomouckého kraje, a.s.,\nIČO 076 86 501, se sídlem Jeremenkova 1191/40a, Hodolany, 779 00 Olomouc."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "100 Kč",
+    "264 Kč",
+    "568 Kč"
+  ]
+}

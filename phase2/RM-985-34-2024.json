@@ -1,0 +1,22 @@
+{
+  "id": "RM/985/34/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje smlouvu o používání KB eTradingu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

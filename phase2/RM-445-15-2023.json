@@ -1,0 +1,22 @@
+{
+  "id": "RM/445/15/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "projednává",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala žádost o postoupení nájemní smlouvy uzavřené s Generali Česká pojišťovna a.s. jako nájemcem\nna Generali Českou Distribuci a.s., jako novým nájemcem."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje v souladu s ustanovením § 39 odst. 1 zákona č. 128/2000 Sb., o obcích (obecní zřízení) ve znění\npozdějších předpisů, adresný záměr zveřejnění pronájmu nebytových prostor o ploše 44,00 m2, nacházejících\nse v I. nadzemním podlaží objektu čp. 776 v Litovli, ul. Kostelní adresovaný pro společnost Generali Česká\nDistribuce a.s."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

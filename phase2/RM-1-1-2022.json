@@ -1,0 +1,21 @@
+{
+  "id": "RM/1/1/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje výběr nájemce na pronájem části pozemku parc.č. 479/20, díl č. 9, o výměře 200 m2, druh pozemku\norná půda, v k.ú. Litovel, na základě zdůvodnění Ing. K. K."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje smlouvu o nájmu části pozemku parc.č. 479/20, díl č. 9, o výměře 200 m2, druh pozemku orná půda,\nv k.ú. Litovel, uzavřenou mezi městem Litovel a nájemcem Ing. K. K."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

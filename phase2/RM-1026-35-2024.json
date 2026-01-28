@@ -1,0 +1,27 @@
+{
+  "id": "RM/1026/35/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "jmenuje",
+    "nesouhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápis o průběhu konkurzu na pracovní místo ředitele/ky Základní školy Litovel, Vítězná 1250,\nokres Olomouc."
+    },
+    {
+      "label": "b",
+      "text": "nesouhlasí se jmenováním Mgr. A. Š. do funkce ředitelky Základní školy Litovel, Vítězná 1250, okres Olomouc."
+    },
+    {
+      "label": "c",
+      "text": "jmenuje od 1. srpna 2024 ředitelem Základní školy Litovel, Vítězná 1250, okres Olomouc Mgr. Michala\nRakowského, MBA."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

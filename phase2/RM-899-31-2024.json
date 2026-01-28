@@ -1,0 +1,25 @@
+{
+  "id": "RM/899/31/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "nepřijímá fekální vůz CAF-2500 od TS Litovel, p. o."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s prodejem fekálního vozu CAF-2500."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí s převodem tržby z prodeje do Fondu reprodukce majetku na jeho posílení."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

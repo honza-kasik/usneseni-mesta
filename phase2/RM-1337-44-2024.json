@@ -1,0 +1,23 @@
+{
+  "id": "RM/1337/44/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "rozhoduje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "po projednání vypouští poslední větu usnesení Rady města Litovel číslo RM/1325/43/2024, bod a), ve znění:\n„Spotřeba elektrické energie při vánočních akcích bude ze strany Městského klubu Litovel uhrazena“. V ostatním\nzůstává usnesení Rady města Litovel číslo RM/1325/43/2024, bod a), nedotčeno."
+    },
+    {
+      "label": "b",
+      "text": "rozhodla, že spotřeba elektrické energie při vánočních akcích, pořádaných Městským klubem Litovel\nna nám. Přemysla Otakara v Litovli ve dnech 29. 11. 2024, 6. 12. 2024, 11. 12. 2024 a 17. 12. 2024 bude uhrazena\nměstem Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/1325/43/2024"
+  ],
+  "amounts": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "RM/731/26/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "projednává",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala žádost Mgr. B. M. o uzavření nové nájemní smlouvy."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s uzavřením Nájemní smlouvy na byt v předloženém znění, nájemní smlouva bude uzavřena na dobu\nurčitou, a to na dobu od 1. 1. 2024 do 30. 6. 2024."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

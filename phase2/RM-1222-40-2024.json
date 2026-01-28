@@ -1,0 +1,26 @@
+{
+  "id": "RM/1222/40/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel vzít na vědomí informaci o proběhlé kontrole MV ČR, odbor veřejné\nsprávy, dozoru a kontroly, č.j. MV-33424-5/ODK-2024 konané dne 30. 5. 2024, včetně výsledku kontroly."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel vzít na vědomí přijatá nápravná opatření z proběhlé kontroly,\nv rozsahu informace v důvodové zprávě."
+    },
+    {
+      "label": "c",
+      "text": "bere na vědomí skutečnost, že ve smyslu § 129a zákona o obcích bude seznámení s výsledky kontroly\npostoupeno zastupitelstvu města na jeho nejbližším zasedání."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

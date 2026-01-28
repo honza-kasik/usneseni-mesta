@@ -1,0 +1,24 @@
+{
+  "id": "RM/1663/52/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 4.000 Kč na organizační zajištění 5. ročníku akce Na kole dětem - z Litovle\npo Hané, která se uskuteční 26. července 2025 v Litovli."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a E. K., Štěpánov ve prospěch nadace\nNa kole dětem v předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

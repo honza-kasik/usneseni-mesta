@@ -1,0 +1,24 @@
+{
+  "id": "RM/608/21/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím investiční dotace ve výši 20.000 Kč na rekonstrukci kotelny v Domě pokojného stáří\nv Bohuslavicích."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Charitou Konice v předloženém znění\na rozpočtovou změnu týkající se této akce."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

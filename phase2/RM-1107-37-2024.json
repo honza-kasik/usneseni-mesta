@@ -1,0 +1,27 @@
+{
+  "id": "RM/1107/37/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí se zapojením města Litovel do systému NEVAJGLUJ."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje uzavření Smlouvy o úhradě nákladů na úklid a nakládání s odpadky tabákových výrobků. Smlouva\nbude uzavřena mezi městem Litovel a NEVAJGLUJ, a.s., v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

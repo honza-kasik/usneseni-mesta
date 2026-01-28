@@ -1,0 +1,24 @@
+{
+  "id": "RM/452/15/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 9.000 Kč na úhradu nákladů spojených s organizačním zajištěním výstavy\nstudentských projektů možného využití bývalých skladových prostor v ul. B. Němcové v Litovli."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a MgA. Ing. arch. V. J., Olomouc\nv předloženém znění a rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

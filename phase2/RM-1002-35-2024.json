@@ -1,0 +1,26 @@
+{
+  "id": "RM/1002/35/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. RM/973/34/2024 schválené na 34. schůzi Rady města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje smlouvu o zřízení věcného břemene mezi oprávněným, tj. ČEZ Distribuce, a. s. IČ 24729035,\nse sídlem Děčín, Děčín IV-Podmokly, Teplická 874/8, PSČ 405 02, zastoupená společností EMONTAS, s.r.o.,\nse sídlem Jiráskova 1273/7A, 779 00 Olomouc, IČ: 25883551, DIČ: CZ25883551, zastoupena na základě plné moci\nI. H. a povinným, tj. městem Litovel zastoupeným starostou města jako vlastníkem pozemku parc.č. 1619/1, ostatní\nplocha v k.ú. Litovel, obec Litovel, ke stavbě č. IP-12-8028852/VB/001, Litovel, Šmakalova pč. 1619/1, kNN, vNN,\nza cenu 2.700 Kč + DPH."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/973/34/2024"
+  ],
+  "amounts": [
+    "700 Kč"
+  ]
+}

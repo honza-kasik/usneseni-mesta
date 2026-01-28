@@ -1,0 +1,29 @@
+{
+  "id": "RM/539/18/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "stanovuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí poskytnuté informace k vydání knihy „Dějiny Nasobůrek a Vísky“."
+    },
+    {
+      "label": "b",
+      "text": "stanovuje celkem 150 ks knih pro prezentaci."
+    },
+    {
+      "label": "c",
+      "text": "stanovuje prodejní cenu ve výši 350 Kč a pro Komisionářské smlouvy fakturační cenu ve výši 300 Kč.\nViktor Kohout v. r. Mgr. Lubomír Broza v. r.\nstarosta města místostarosta města"
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "300 Kč",
+    "350 Kč"
+  ]
+}

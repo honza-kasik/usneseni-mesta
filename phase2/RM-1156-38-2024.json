@@ -1,0 +1,28 @@
+{
+  "id": "RM/1156/38/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "revokuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. RM/934/32/2024 přijaté na 32. schůzi Rady města Litovle dne 4. 4. 2024."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel revokovat usnesení Zastupitelstva města Litovel č. ZM/15/11/2024\nze dne 18. 4. 2024."
+    },
+    {
+      "label": "c",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit Smlouvu o poskytnutí příspěvku na zajištění dopravní\nobslužnosti Olomouckého kraje v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/934/32/2024"
+  ],
+  "amounts": []
+}

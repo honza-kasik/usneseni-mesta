@@ -1,0 +1,24 @@
+{
+  "id": "RM/1481/47/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje na základě předložených podkladů dle § 5 vyhlášky 220/2013 MF ČR účetní závěrku Základní školy\nLitovel, Jungmannova 655, okres Olomouc sestavenou ke dni 31. 12. 2024."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s převedením částky 314.169,17 Kč do rezervního fondu školy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "17 Kč"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "RM/809/29/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtové změny 123/2023/RM až 140/2023/RM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

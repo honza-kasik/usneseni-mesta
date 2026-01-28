@@ -1,0 +1,26 @@
+{
+  "id": "RM/1004/35/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. RM/975/34/2024 schválené na 34. schůzi Rady města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje smlouvu o zřízení věcného břemene mezi oprávněným, tj. ČEZ Distribuce, a. s. IČ 24729035,\nse sídlem Děčín, Děčín IV-Podmokly, Teplická 874/8, PSČ 405 02, zastoupená společností ELPREMONT\nelektromontáže s.r.o. se sídlem Velká Bystřice, ČSA 961, PSČ 783 53, IČ: 26871891, DIČ: CZ 26871891\na povinným, tj. městem Litovel zastoupeným starostou města jako vlastníkem pozemku parc.č. 276/2 v k.ú. Litovel,\nobec Litovel, ke stavbě Litovel, B. Němcové p. č. 1421 kNN, č. IV-12-8024467/VB/1, za cenu 2.000 Kč + DPH."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    "RM/975/34/2024"
+  ],
+  "amounts": [
+    "000 Kč"
+  ]
+}

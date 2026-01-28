@@ -1,0 +1,23 @@
+{
+  "id": "RM/89/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "ukládá Základní škole Litovel, Jungmannova 655, okres Olomouc převést částku 102.000 Kč ze svého\nrezervního fondu do svého fondu investičního."
+    },
+    {
+      "label": "b",
+      "text": "ukládá Základní škole Litovel, Jungmannova 655, okres Olomouc převést částku 102.000 Kč ze svého\ninvestičního fondu do rozpočtu města Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

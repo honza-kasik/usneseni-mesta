@@ -1,0 +1,24 @@
+{
+  "id": "RM/90/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s přijetím účelově vázaného daru ve výši 60.062 Kč pro období od 2. 1. do 30. 6. 2023 od nadace\nWomen for women pro Základní školu Litovel, Vítězná 1250, okres Olomouc."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s přijetím účelově vázaného daru ve výši 30.000 Kč od spolku ADETO, z. s. pro Základní školu Litovel,\nVítězná 1250, okres Olomouc."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "062 Kč"
+  ]
+}

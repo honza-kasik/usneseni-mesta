@@ -1,0 +1,22 @@
+{
+  "id": "RM/747/26/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s uzavřením nájemních smluv na nebytové prostory a pozemky mezi TS Litovel a FCC Litovel s.r.o.\na dále mezi TS Litovel a Zdravotnickou záchrannou službou p. o."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí, že nájemné bude výnosem v hlavní činnosti TS Litovel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

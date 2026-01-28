@@ -1,0 +1,24 @@
+{
+  "id": "RM/1048/36/2024",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit zveřejnění záměru prodeje pozemků města Litovel v lokalitě\nPavlínka, specifikovaných v důvodové zprávě dle předložených pravidel."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel stanovit cenu pozemků takto: Minimální nabídková cena odprodeje\npozemku parc.č. 838/7 činí 3.200 Kč/m2 vč. DPH. Minimální nabídková cena odprodeje pozemků parc.č. 838/1\na 838/5 + 842/5 (které tvoří jeden stavební pozemek) činí 2.900 Kč/m2 vč. DPH."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "200 Kč",
+    "900 Kč"
+  ]
+}

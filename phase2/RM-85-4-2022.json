@@ -1,0 +1,22 @@
+{
+  "id": "RM/85/4/2022",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí předložený materiál a důvodovou zprávu k návrhu Rozpočtu města Litovel na rok 2023\npřipravenou k projednání v Zastupitelstvu města Litovel dne 8. 12. 2022."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel přijmout usnesení dle připravené důvodové zprávy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

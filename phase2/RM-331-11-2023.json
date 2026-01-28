@@ -1,0 +1,24 @@
+{
+  "id": "RM/331/11/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 25.000 Kč na činnost sboru v roce 2023 a na pořádání kulturních\na společenských akcí v Chořelicích."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a pobočným spolkem SH ČMS - Sbor\ndobrovolných hasičů Chořelice v předloženém znění a rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

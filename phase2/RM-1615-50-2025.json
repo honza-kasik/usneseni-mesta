@@ -1,0 +1,24 @@
+{
+  "id": "RM/1615/50/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s převedením částky 400.000 Kč z rezervního fondu Základní školy Litovel, Jungmannova 655, okres\nOlomouc do fondu investičního a s následným čerpáním inv. fondu na úhradu nákladů spojených s nákupem\nškolního nábytku do tří tříd."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s podáním žádosti Základní školy Litovel, Jungmannova 655, okres Olomouc o dotaci z šablon\nJan Amos Komenský II. 5% spoluúčast bude škola hradit z vlastních prostředků. Maximální výše dotace pro školu\nje 1.239.280 Kč."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč",
+    "280 Kč"
+  ]
+}

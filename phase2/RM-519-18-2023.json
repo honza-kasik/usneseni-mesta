@@ -1,0 +1,28 @@
+{
+  "id": "RM/519/18/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 50.000 Kč na úhradu nákladů spojených s organizačním zajištěním\nvystavení studentských projektů možného využití bývalých skladových prostor v ul. B. Němcové v Litovli\nna náměstí Př. Otakara a následně v prostorách bývalé VDP."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a MgA. Ing. arch. V. J., Olomouc\nv předloženém znění a rozpočtovou změnu týkající se této dotace."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí s užitím loga města při konání této akce."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "RM/1990/65/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí zápis z jednání Komise pro dopravu ze dne 1. 10. 2025 a 12. 11. 2025."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje odbor MHaSI zajištěním úprav dopravního značení uvedených v zápisech z jednání Komise\npro dopravu s výjimkou bodu 2 ze zápisu č. 14."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

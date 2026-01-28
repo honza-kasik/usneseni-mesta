@@ -1,0 +1,22 @@
+{
+  "id": "RM/650/24/2023",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zveřejnění záměru odprodeje části pozemku parc.č. 1603/4, ostatní plocha, v k.ú. Litovel, o výměře\ncca 55 m2."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel pozemek odprodat za cenu stanovenou znaleckým posudkem."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

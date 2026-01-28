@@ -1,0 +1,23 @@
+{
+  "id": "RM/1443/46/2025",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje Rozpočet Technických služeb Litovel na rok 2025."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje příspěvek na provoz ve výši 37.708.000 Kč pro TS Litovel – schváleno ZML dne 12. 12. 2024\npod číslem ZM/5/16/2024 c)."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "000 Kč"
+  ]
+}

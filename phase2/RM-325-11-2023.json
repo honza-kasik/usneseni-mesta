@@ -1,10 +1,11 @@
 {
   "id": "RM/325/11/2023",
+  "datum": "2023-04-20",
   "organ": "Rada města Litovel",
   "actions": [
-    "bere na vědomí"
+    "schvaluje"
   ],
-  "subject": null,
+  "subject": "od 1. 7. 2023 nové sazby nájemného za plochu a výši záloh za poskytované služby\ns nájmem spojené z užívaných prostor sloužících podnikání v objektu Polikliniky v Litovli, ul. Kollárova č.p. 664\na to",
   "items": [
     {
       "label": "a",
@@ -22,8 +23,8 @@
   "tail": null,
   "references_out": [],
   "amounts": [
+    "1.280 Kč",
     "260 Kč",
-    "280 Kč",
     "720 Kč"
   ]
 }

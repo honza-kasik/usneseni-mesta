@@ -1,8 +1,9 @@
 {
   "id": "RM/1745/55/2025",
+  "datum": "2025-07-22",
   "organ": "Rada města Litovel",
   "actions": [
-    "projednává",
+    "projednala",
     "schvaluje"
   ],
   "subject": null,
@@ -20,6 +21,6 @@
   "references_out": [],
   "amounts": [
     "30 Kč",
-    "915 Kč"
+    "9.915 Kč"
   ]
 }

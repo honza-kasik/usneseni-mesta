@@ -1,5 +1,6 @@
 {
   "id": "RM/1846/59/2025",
+  "datum": "2025-09-24",
   "organ": "Rada města Litovel",
   "actions": [
     "bere na vědomí",
@@ -22,7 +23,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/1798/58/2025"
+    {
+      "raw": "RM/1798/58/2025",
+      "type": "explicit",
+      "resolved": "RM/1798/58/2025"
+    }
   ],
   "amounts": []
 }

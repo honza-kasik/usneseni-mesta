@@ -1,5 +1,6 @@
 {
   "id": "RM/1998/66/2026",
+  "datum": "2026-01-08",
   "organ": "Rada města Litovel",
   "actions": [
     "schvaluje"
@@ -8,5 +9,8 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "2 Kč",
+    "660 Kč"
+  ]
 }

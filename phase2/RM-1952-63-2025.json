@@ -1,5 +1,6 @@
 {
   "id": "RM/1952/63/2025",
+  "datum": "2025-11-27",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -17,6 +18,12 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "1853/60",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
   "amounts": []
 }

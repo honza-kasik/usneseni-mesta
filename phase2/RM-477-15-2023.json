@@ -1,5 +1,6 @@
 {
   "id": "RM/477/15/2023",
+  "datum": "2023-06-22",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -18,10 +19,14 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/397/13/2023"
+    {
+      "raw": "RM/397/13/2023",
+      "type": "explicit",
+      "resolved": "RM/397/13/2023"
+    }
   ],
   "amounts": [
-    "000 Kč",
+    "1.000 Kč",
     "100 Kč"
   ]
 }

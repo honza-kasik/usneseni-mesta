@@ -1,10 +1,11 @@
 {
   "id": "RM/1172/38/2024",
+  "datum": "2024-08-01",
   "organ": "Rada města Litovel",
   "actions": [
-    "zajistí"
+    "souhlasí"
   ],
-  "subject": null,
+  "subject": "s uspořádáním veřejnosti přístupné akce na náměstí Přemysla Otakara v Litovli\nv obou prostorech mezi parkovacími sloupky, jejímž pořadatelem bude Porsche classic club ČR, který zastupuje\npan J. S. Akce se bude konat 7. 9. 2024 v době od 13.00 hod. za těchto podmínek",
   "items": [
     {
       "label": "a",
@@ -12,10 +13,10 @@
     },
     {
       "label": "b",
-      "text": "Město Litovel zajistí zvučení této akce a dvě osoby, které budou nápomocny při programu. Z předložených\nvariant Rada města Litovel vybrala 3. soutěž dle důvodové zprávy.\nDle OZV 1/2024 o místním poplatku za užívání veřejného prostranství pro kulturní a sportovní akce není stanoven\nmístní poplatek za zábor veřejného prostranství."
+      "text": "Město Litovel zajistí zvučení této akce a dvě osoby, které budou nápomocny při programu. Z předložených"
     }
   ],
-  "tail": null,
+  "tail": "variant Rada města Litovel vybrala 3. soutěž dle důvodové zprávy.\nDle OZV 1/2024 o místním poplatku za užívání veřejného prostranství pro kulturní a sportovní akce není stanoven\nmístní poplatek za zábor veřejného prostranství.",
   "references_out": [],
   "amounts": []
 }

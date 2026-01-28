@@ -1,5 +1,6 @@
 {
   "id": "RM/1581/49/2025",
+  "datum": "2025-04-10",
   "organ": "Rada města Litovel",
   "actions": [
     "stanovuje"
@@ -8,5 +9,7 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "10.000 Kč"
+  ]
 }

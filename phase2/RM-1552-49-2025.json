@@ -1,8 +1,9 @@
 {
   "id": "RM/1552/49/2025",
+  "datum": "2025-04-10",
   "organ": "Rada města Litovel",
   "actions": [
-    "rozhoduje",
+    "rozhodla",
     "souhlasí"
   ],
   "subject": null,
@@ -18,7 +19,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/1460/47/2025"
+    {
+      "raw": "RM/1460/47/2025",
+      "type": "explicit",
+      "resolved": "RM/1460/47/2025"
+    }
   ],
   "amounts": []
 }

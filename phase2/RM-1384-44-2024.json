@@ -1,5 +1,6 @@
 {
   "id": "RM/1384/44/2024",
+  "datum": "2024-12-05",
   "organ": "Rada města Litovel",
   "actions": [
     "souhlasí"
@@ -8,5 +9,7 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "1.000 Kč"
+  ]
 }

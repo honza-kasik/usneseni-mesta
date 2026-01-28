@@ -1,8 +1,9 @@
 {
   "id": "RM/1337/44/2024",
+  "datum": "2024-12-05",
   "organ": "Rada města Litovel",
   "actions": [
-    "rozhoduje"
+    "rozhodla"
   ],
   "subject": null,
   "items": [
@@ -17,7 +18,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/1325/43/2024"
+    {
+      "raw": "RM/1325/43/2024",
+      "type": "explicit",
+      "resolved": "RM/1325/43/2024"
+    }
   ],
   "amounts": []
 }

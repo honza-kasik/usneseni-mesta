@@ -1,5 +1,6 @@
 {
   "id": "RM/1957/65/2025",
+  "datum": "2025-12-11",
   "organ": "Rada města Litovel",
   "actions": [
     "schvaluje"
@@ -8,5 +9,7 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "5.000 Kč"
+  ]
 }

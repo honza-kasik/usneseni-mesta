@@ -1,5 +1,6 @@
 {
   "id": "RM/1294/42/2024",
+  "datum": "2024-10-24",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -17,6 +18,12 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "1215/40",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
   "amounts": []
 }

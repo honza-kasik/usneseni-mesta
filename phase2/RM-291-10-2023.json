@@ -1,5 +1,6 @@
 {
   "id": "RM/291/10/2023",
+  "datum": "2023-03-30",
   "organ": "Rada města Litovel",
   "actions": [
     "souhlasí"
@@ -18,6 +19,7 @@
   "tail": null,
   "references_out": [],
   "amounts": [
-    "000 Kč"
+    "550.000 Kč",
+    "600.000 Kč"
   ]
 }

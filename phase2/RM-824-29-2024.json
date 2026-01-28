@@ -1,9 +1,8 @@
 {
   "id": "RM/824/29/2024",
+  "datum": "2024-02-01",
   "organ": "Rada města Litovel",
-  "actions": [
-    "jmenuje"
-  ],
+  "actions": [],
   "subject": null,
   "items": [
     {
@@ -12,10 +11,10 @@
     },
     {
       "label": "b",
-      "text": "na návrh tajemníka MěÚ Ing. Radovana Vašíčka odvolává z funkce vedoucí organizační složky Muzea Litovel\npaní Mgr. Zdenku Frištenskou k datu 29. 2. 2024."
+      "text": "na návrh tajemníka MěÚ Ing. Radovana Vašíčka odvolává z funkce vedoucí organizační složky Muzea Litovel"
     }
   ],
-  "tail": null,
+  "tail": "paní Mgr. Zdenku Frištenskou k datu 29. 2. 2024.",
   "references_out": [],
   "amounts": []
 }

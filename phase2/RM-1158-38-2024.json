@@ -1,5 +1,6 @@
 {
   "id": "RM/1158/38/2024",
+  "datum": "2024-08-01",
   "organ": "Rada města Litovel",
   "actions": [
     "doporučuje"
@@ -8,5 +9,7 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "54.270 Kč"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "id": "RM/1664/52/2025",
+  "datum": "2025-06-04",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -17,8 +18,14 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "1626/51",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
   "amounts": [
-    "000 Kč"
+    "2.000 Kč"
   ]
 }

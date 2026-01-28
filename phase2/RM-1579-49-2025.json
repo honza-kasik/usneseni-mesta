@@ -1,5 +1,6 @@
 {
   "id": "RM/1579/49/2025",
+  "datum": "2025-04-10",
   "organ": "Rada města Litovel",
   "actions": [
     "doporučuje",
@@ -30,9 +31,13 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/1207/40/2024"
+    {
+      "raw": "RM/1207/40/2024",
+      "type": "explicit",
+      "resolved": "RM/1207/40/2024"
+    }
   ],
   "amounts": [
-    "300 Kč"
+    "3.300 Kč"
   ]
 }

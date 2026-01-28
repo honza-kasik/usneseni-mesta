@@ -1,12 +1,15 @@
 {
   "id": "RM/1924/63/2025",
+  "datum": "2025-11-27",
   "organ": "Rada města Litovel",
   "actions": [
     "schvaluje"
   ],
-  "subject": ", v souladu s ustanovením § 39 odst. 1 zákona č. 128/2000 Sb., o obcích, v platném\nznění, záměr pronájmu části pozemku parc.č. 1832, ostatní plocha, v k.ú. Litovel, lokalita Příčná, stávající asfaltová\nplocha, o výměře cca 50 m2, zájemcem je společnost ŠG PWA holding, a.s. Jedná se o pronájem tří parkovacích\nstání včetně přilehlé plochy za účelem instalace rychlodobíjecí stanice pro elektromobily. Cena nájmu činí\n4.500 Kč/měsíc + DPH v zákonné výši. Bližší podmínky záměru nájemce dořeší na odboru výstavby.",
+  "subject": " v souladu s ustanovením § 39 odst. 1 zákona č. 128/2000 Sb., o obcích, v platném\nznění, záměr pronájmu části pozemku parc.č. 1832, ostatní plocha, v k.ú. Litovel, lokalita Příčná, stávající asfaltová\nplocha, o výměře cca 50 m2, zájemcem je společnost ŠG PWA holding, a.s. Jedná se o pronájem tří parkovacích\nstání včetně přilehlé plochy za účelem instalace rychlodobíjecí stanice pro elektromobily. Cena nájmu činí\n4.500 Kč/měsíc + DPH v zákonné výši. Bližší podmínky záměru nájemce dořeší na odboru výstavby.",
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "4.500 Kč"
+  ]
 }

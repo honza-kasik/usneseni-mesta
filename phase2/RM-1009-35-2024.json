@@ -1,5 +1,6 @@
 {
   "id": "RM/1009/35/2024",
+  "datum": "2024-05-16",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -22,7 +23,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/913/32/2024"
+    {
+      "raw": "RM/913/32/2024",
+      "type": "explicit",
+      "resolved": "RM/913/32/2024"
+    }
   ],
   "amounts": []
 }

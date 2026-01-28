@@ -1,5 +1,6 @@
 {
   "id": "RM/622/22/2023",
+  "datum": "2023-10-12",
   "organ": "Rada města Litovel",
   "actions": [
     "schvaluje"
@@ -8,5 +9,7 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "5.930 Kč"
+  ]
 }

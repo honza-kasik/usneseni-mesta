@@ -1,5 +1,6 @@
 {
   "id": "RM/10/1/2022",
+  "datum": "2022-10-27",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -18,7 +19,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/2777/83/2022"
+    {
+      "raw": "RM/2777/83/2022",
+      "type": "explicit",
+      "resolved": "RM/2777/83/2022"
+    }
   ],
   "amounts": []
 }

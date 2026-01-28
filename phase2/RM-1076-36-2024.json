@@ -1,5 +1,6 @@
 {
   "id": "RM/1076/36/2024",
+  "datum": "2024-06-06",
   "organ": "Rada města Litovel",
   "actions": [
     "schvaluje"
@@ -21,7 +22,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/978/34/2024"
+    {
+      "raw": "RM/978/34/2024",
+      "type": "explicit",
+      "resolved": "RM/978/34/2024"
+    }
   ],
   "amounts": []
 }

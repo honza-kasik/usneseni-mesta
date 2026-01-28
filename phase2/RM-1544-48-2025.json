@@ -1,8 +1,9 @@
 {
   "id": "RM/1544/48/2025",
+  "datum": "2025-03-13",
   "organ": "Rada města Litovel",
   "actions": [
-    "rozhoduje",
+    "rozhodla",
     "souhlasí"
   ],
   "subject": null,
@@ -18,8 +19,16 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/1143/38/2024",
-    "RM/1411/46/2025"
+    {
+      "raw": "RM/1143/38/2024",
+      "type": "explicit",
+      "resolved": "RM/1143/38/2024"
+    },
+    {
+      "raw": "RM/1411/46/2025",
+      "type": "explicit",
+      "resolved": "RM/1411/46/2025"
+    }
   ],
   "amounts": []
 }

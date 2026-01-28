@@ -1,10 +1,11 @@
 {
   "id": "RM/1788/56/2025",
+  "datum": "2025-08-12",
   "organ": "Rada města Litovel",
   "actions": [
-    "zajistí"
+    "bere na vědomí"
   ],
-  "subject": null,
+  "subject": "požadavky firmy Media Park, s.r.o. k akci „Rádio Blaník“, která se uskuteční\n12. 9. 2025 od 16.30 hod. na náměstí Přemysla Otakara v Litovli.\nRada města souhlasí, aby město Litovel jako spolupořadatel zajistilo na vlastní náklady",
   "items": [
     {
       "label": "a",
@@ -40,10 +41,10 @@
     },
     {
       "label": "i",
-      "text": "výlep plakátů zdarma prostřednictvím Technických služeb Litovel, p. o.\nStánkový prodej zajistí město Litovel nebo pověřená firma. Příjmy ze stánkového prodeje budou odvedeny na účet\nměsta."
+      "text": "výlep plakátů zdarma prostřednictvím Technických služeb Litovel, p. o.\nStánkový prodej zajistí město Litovel nebo pověřená firma. Příjmy ze stánkového prodeje budou odvedeny na účet"
     }
   ],
-  "tail": null,
+  "tail": "města.",
   "references_out": [],
   "amounts": []
 }

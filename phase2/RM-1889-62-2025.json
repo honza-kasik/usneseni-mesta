@@ -1,12 +1,15 @@
 {
   "id": "RM/1889/62/2025",
+  "datum": "2025-11-06",
   "organ": "Rada města Litovel",
   "actions": [
     "souhlasí"
   ],
-  "subject": ", v souladu s ust. § 39 odst. 1 zákona č. 128/2000 Sb., o obcích v pl. znění,\nse zveřejněním záměru pronájmu části pozemku parc.č. 33, ost. plocha, o výměře 123 m2 a části pozemku\nparc.č. 316, ostatní plocha, o výměře 3 m2, v k.ú. Tři Dvory u Litovle, pro účel zřízení přístupové cesty k akci\nCEREALIS a.s., nový sklad AW2-IO 700 - dočasná staveništní komunikace, na období od 1. 1. 2026 do 31. 1. 2027,\nza cenu 6 Kč/m2/měsíc + případné DPH v zákonné výši.",
+  "subject": " v souladu s ust. § 39 odst. 1 zákona č. 128/2000 Sb., o obcích v pl. znění,\nse zveřejněním záměru pronájmu části pozemku parc.č. 33, ost. plocha, o výměře 123 m2 a části pozemku\nparc.č. 316, ostatní plocha, o výměře 3 m2, v k.ú. Tři Dvory u Litovle, pro účel zřízení přístupové cesty k akci\nCEREALIS a.s., nový sklad AW2-IO 700 - dočasná staveništní komunikace, na období od 1. 1. 2026 do 31. 1. 2027,\nza cenu 6 Kč/m2/měsíc + případné DPH v zákonné výši.",
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "6 Kč"
+  ]
 }

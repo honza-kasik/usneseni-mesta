@@ -20,16 +20,13 @@ ACTION_PHRASES = [
     "uděluje výjimku",
     "byla seznámena",
     "bere na vědomí",
-    "neschvaluje",
     "schvaluje",
-    "nesouhlasí",
     "souhlasí",
     "ukládá",
     "revokuje",
     "vydává",
     "stanovuje",
     "doporučuje",
-    "nedoporučuje",
     "odkládá",
     "jmenuje",
     "pověřuje",
@@ -37,7 +34,6 @@ ACTION_PHRASES = [
     "určuje",
     "zajistí",
     "vyhovuje",
-    "nevyhovuje",
     "rozhoduje",
     "rozhodla",
     "projednala",
@@ -48,7 +44,7 @@ ACTION_PHRASES = [
 ]
 
 ACTION_RE = re.compile(
-    r"\b(" + "|".join(map(re.escape, ACTION_PHRASES)) + r")\b",
+    r"^(ne)?(" + "|".join(map(re.escape, ACTION_PHRASES)) + r")\b",
     re.IGNORECASE
 )
 
@@ -58,9 +54,11 @@ ACTION_NORMALIZATION = {
     "projednala": "projednává",
 }
 
-REF_RE = re.compile(r"RM/\d+/\d+/\d+")
-AMOUNT_RE = re.compile(r"\d[\d\s]*\s*Kč")
+REF_EXPLICIT_RE = re.compile(r"RM/\d+/\d+/\d+")
+REF_IMPLICIT_RE = re.compile(r"\b\d{1,4}/\d{1,3}\b")
+AMOUNT_RE = re.compile(r"\b\d{1,3}(?:[ .]\d{3})*\s*Kč\b")
 
+#Najdi konec řádku (\n), po kterém NÁSLEDUJE slovo začínající malým písmenem.
 TAIL_LINE_RE = re.compile(r"\n(?=[a-záčďéěíňóřšťúůýž])")
 
 
@@ -120,8 +118,18 @@ def split_head_items(text):
 def extract_action(text):
     if not text:
         return None
-    m = ACTION_RE.search(text.lower())
-    return normalize_action(m.group(1)) if m else None
+
+    norm = text.lstrip("\ufeff \t\n\r\xa0").lower()
+    m = ACTION_RE.match(norm)
+    if not m:
+        return None
+
+    neg = m.group(1)
+    base = m.group(2)
+
+    if neg:
+        return "ne" + base
+    return base
 
 
 def extract_action_and_subject(head):
@@ -129,17 +137,34 @@ def extract_action_and_subject(head):
     if h.lower().startswith("rada města litovel"):
         h = h[len("rada města litovel"):].lstrip(" ,")
 
-    m = ACTION_RE.search(h.lower())
-    if not m:
+    action = extract_action(h)
+    if not action:
         return None, h.rstrip(":") or None
 
-    action = normalize_action(m.group(1))
-    subject = h[m.end():].strip().rstrip(":") or None
+    subject = h[len(action):].strip().lstrip(",").rstrip(":") or None
     return action, subject
 
 
 def extract_refs(text):
-    return sorted(set(REF_RE.findall(text)))
+    refs = []
+
+    # explicitní reference
+    for m in REF_EXPLICIT_RE.findall(text):
+        refs.append({
+            "raw": m,
+            "type": "explicit",
+            "resolved": m
+        })
+
+    # implicitní reference – pouze v kontextu "usnesení / usn."
+    for m in re.finditer(r"(usnesení|usn\.)\s*(č\.?)?\s*(\d{1,4}/\d{1,3})", text, re.IGNORECASE):
+        refs.append({
+            "raw": m.group(3),
+            "type": "implicit",
+            "resolved": None
+        })
+
+    return refs
 
 
 def extract_amounts(text):
@@ -167,6 +192,11 @@ def split_tail_from_last_item(items):
     last["text"] = head
     return items, tail
 
+def dedupe_refs(refs):
+    seen = {}
+    for r in refs:
+        seen[r["raw"]] = r
+    return list(seen.values())
 
 # ============================================================
 # CORE
@@ -180,7 +210,7 @@ def process_usneseni(raw):
     item_actions = [extract_action(it["text"]) for it in items]
     has_local_actions = any(item_actions)
 
-    refs = set()
+    refs = []
     amounts = set()
     actions = set()
 
@@ -192,17 +222,19 @@ def process_usneseni(raw):
             if act:
                 actions.add(act)
 
-            refs.update(extract_refs(it["text"]))
-            amounts.update(extract_amounts(it["text"]))
+            refs.extend(extract_refs(it["text"]))
+            norm = normalize_amount_text(it["text"])
+            amounts.update(extract_amounts(norm))
 
         return {
             "id": raw["id"],
+            "datum": raw.get("datum"),
             "organ": organ,
             "actions": sorted(actions),
             "subject": None,
             "items": items,
             "tail": None,
-            "references_out": sorted(refs),
+            "references_out": dedupe_refs(refs),
             "amounts": sorted(amounts)
         }
 
@@ -213,24 +245,29 @@ def process_usneseni(raw):
     if action:
         actions.add(action)
 
+    if subject:
+        norm = normalize_amount_text(subject)
+        amounts.update(extract_amounts(norm))
+
     items, tail = split_tail_from_last_item(items)
 
     for it in items:
-        refs.update(extract_refs(it["text"]))
-        amounts.update(extract_amounts(it["text"]))
-
+        refs.extend(extract_refs(it["text"]))
+        norm = normalize_amount_text(it["text"])
+        amounts.update(extract_amounts(norm))
     if tail:
-        refs.update(extract_refs(tail))
-        amounts.update(extract_amounts(tail))
-
+        refs.extend(extract_refs(tail))
+        norm = normalize_amount_text(tail)
+        amounts.update(extract_amounts(norm))
     return {
         "id": raw["id"],
+        "datum": raw.get("datum"),
         "organ": organ,
         "actions": sorted(actions),
         "subject": subject,
         "items": items,
         "tail": tail,
-        "references_out": sorted(refs),
+        "references_out": dedupe_refs(refs),
         "amounts": sorted(amounts)
     }
 

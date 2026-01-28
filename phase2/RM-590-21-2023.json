@@ -1,8 +1,9 @@
 {
   "id": "RM/590/21/2023",
+  "datum": "2023-09-21",
   "organ": "Rada města Litovel",
   "actions": [
-    "projednává",
+    "projednala",
     "schvaluje"
   ],
   "subject": null,
@@ -18,7 +19,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/516/18/2023"
+    {
+      "raw": "RM/516/18/2023",
+      "type": "explicit",
+      "resolved": "RM/516/18/2023"
+    }
   ],
   "amounts": []
 }

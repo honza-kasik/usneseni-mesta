@@ -1,5 +1,6 @@
 {
   "id": "RM/63/4/2022",
+  "datum": "2022-12-08",
   "organ": "Rada města Litovel",
   "actions": [
     "souhlasí"
@@ -8,5 +9,7 @@
   "items": [],
   "tail": null,
   "references_out": [],
-  "amounts": []
+  "amounts": [
+    "10 Kč"
+  ]
 }

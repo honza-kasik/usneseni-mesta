@@ -1,5 +1,6 @@
 {
   "id": "RM/1441/46/2025",
+  "datum": "2025-01-30",
   "organ": "Rada města Litovel",
   "actions": [
     "bere na vědomí",
@@ -17,10 +18,16 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "1119/37",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
   "amounts": [
-    "359 Kč",
-    "389 Kč",
-    "970 Kč"
+    "13.359 Kč",
+    "6.389 Kč",
+    "6.970 Kč"
   ]
 }

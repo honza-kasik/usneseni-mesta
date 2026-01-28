@@ -1,9 +1,11 @@
 {
   "id": "RM/811/29/2024",
+  "datum": "2024-02-01",
   "organ": "Rada města Litovel",
   "actions": [
     "jmenuje",
-    "rozhoduje"
+    "nerozhodla",
+    "rozhodla"
   ],
   "subject": null,
   "items": [

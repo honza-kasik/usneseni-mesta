@@ -1,5 +1,6 @@
 {
   "id": "RM/1181/39/2024",
+  "datum": "2024-08-22",
   "organ": "Rada města Litovel",
   "actions": [
     "bere na vědomí",
@@ -23,7 +24,11 @@
   ],
   "tail": null,
   "references_out": [
-    "RM/689/25/2023"
+    {
+      "raw": "RM/689/25/2023",
+      "type": "explicit",
+      "resolved": "RM/689/25/2023"
+    }
   ],
   "amounts": [
     "500 Kč"

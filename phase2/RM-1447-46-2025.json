@@ -1,5 +1,6 @@
 {
   "id": "RM/1447/46/2025",
+  "datum": "2025-01-30",
   "organ": "Rada města Litovel",
   "actions": [
     "doporučuje"
@@ -18,6 +19,6 @@
   "tail": null,
   "references_out": [],
   "amounts": [
-    "000 Kč"
+    "100.000 Kč"
   ]
 }

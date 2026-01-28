@@ -1,5 +1,6 @@
 {
   "id": "RM/825/29/2024",
+  "datum": "2024-02-01",
   "organ": "Rada města Litovel",
   "actions": [
     "revokuje",
@@ -24,6 +25,7 @@
   "tail": null,
   "references_out": [],
   "amounts": [
-    "000 Kč"
+    "3.000 Kč",
+    "7.000 Kč"
   ]
 }

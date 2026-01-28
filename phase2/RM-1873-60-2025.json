@@ -1,5 +1,6 @@
 {
   "id": "RM/1873/60/2025",
+  "datum": "2025-10-16",
   "organ": "Rada města Litovel",
   "actions": [
     "jmenuje",
@@ -21,6 +22,12 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "1843/59",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
   "amounts": []
 }

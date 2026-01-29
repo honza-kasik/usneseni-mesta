@@ -1,0 +1,25 @@
+{
+  "id": "ZM/14/3/2023",
+  "datum": "2023-02-09",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje přijetí dotace ve výši 196.564 Kč z programu Národní plán obnovy – Podpora obnovy přirozených\nfunkcí krajiny na realizaci projektu: Liniová výsadba u Litovle – k.ú. Rozvadovice, Chořelice."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "196.564 Kč"
+  ]
+}

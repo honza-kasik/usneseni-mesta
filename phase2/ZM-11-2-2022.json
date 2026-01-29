@@ -1,0 +1,23 @@
+{
+  "id": "ZM/11/2/2022",
+  "datum": "2022-12-08",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "pověřuje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí se vstupem města Litovel do DSO Region Moravská cesta, IČO 09944991 a zároveň souhlasí se\nStanovami vč. dodatků a příloh Stanov DSO Region Moravská cesta v předloženém znění."
+    },
+    {
+      "label": "b",
+      "text": "pověřuje starostu města Viktora Kohouta k zastupování města Litovel v orgánech DSO Region Moravská cesta\na k podání přihlášky ke členství v DSO Region Moravská cesta."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

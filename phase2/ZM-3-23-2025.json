@@ -1,0 +1,30 @@
+{
+  "id": "ZM/3/23/2025",
+  "datum": "2025-12-11",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí kontrolu usnesení z 22. zasedání Zastupitelstva města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí zápis z jednání Kontrolního výboru ze dne 26. 11. 2025."
+    },
+    {
+      "label": "c",
+      "text": "bere na vědomí zápis z jednání Finančního výboru ze dne 8. 12. 2025."
+    },
+    {
+      "label": "d",
+      "text": "bere na vědomí předložené zápisy z osadních výborů."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

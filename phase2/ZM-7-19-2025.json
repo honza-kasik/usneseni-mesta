@@ -1,0 +1,27 @@
+{
+  "id": "ZM/7/19/2025",
+  "datum": "2025-04-23",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s finanční spoluúčastí města Litovel na realizaci vodovodních přípojek po hranici veřejného\nprostranství a kanalizačních přípojek."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s úhradou nákladů dle tohoto materiálu (přípojky, projekční práce) z Investičního úvěrového rámce\nčerpaného u Komerční banky a.s."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje rozpočtovou změnu číslo 61/2025/ZM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

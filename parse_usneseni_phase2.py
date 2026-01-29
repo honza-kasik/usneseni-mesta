@@ -12,7 +12,7 @@ from collections import Counter
 # REGEXY
 # ============================================================
 
-ID_RE = re.compile(r"^RM/\d+/\d+/\d+$")
+ID_RE = re.compile(r"^(RM|ZM)/\d+/\d+/\d+$")
 ITEM_RE = re.compile(r"(?:^|\n)([a-z])\)\s+")
 
 ACTION_PHRASES = [
@@ -41,6 +41,18 @@ ACTION_PHRASES = [
     "potvrzuje",
     "navrhuje",
     "nominuje",
+    "volí",
+    "stahuje bod",
+    "zřizuje",
+    "deleguje",
+    "poskytuje",
+    "se zavazuje",
+    "přijímá dotaci"
+]
+
+ORG_HEADERS = [
+    "Rada města Litovel",
+    "Zastupitelstvo města Litovel",
 ]
 
 ACTION_RE = re.compile(
@@ -88,9 +100,9 @@ def normalize_amount_text(text):
 
 def split_header(text):
     text = text.lstrip()
-    header = "Rada města Litovel"
-    if text.startswith(header):
-        return header, text[len(header):].lstrip(" ,\n")
+    for h in ORG_HEADERS:
+        if text.startswith(h):
+            return h, text[len(h):].lstrip(" ,\n")
     return None, text
 
 
@@ -134,8 +146,10 @@ def extract_action(text):
 
 def extract_action_and_subject(head):
     h = head.strip()
-    if h.lower().startswith("rada města litovel"):
-        h = h[len("rada města litovel"):].lstrip(" ,")
+
+    for org in ORG_HEADERS:
+        if h.lower().startswith(org.lower()):
+            h = h[len(org):].lstrip(" ,")
 
     action = extract_action(h)
     if not action:

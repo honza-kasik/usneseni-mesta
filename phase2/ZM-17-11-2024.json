@@ -1,0 +1,23 @@
+{
+  "id": "ZM/17/11/2024",
+  "datum": "2024-04-18",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje Akcionářskou smlouvu o peněžitém příplatku mimo základní kapitál společnosti mezi městem Litovel\na Servisní společností Odpady Olomouckého kraje a.s., v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

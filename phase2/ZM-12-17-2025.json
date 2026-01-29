@@ -1,0 +1,23 @@
+{
+  "id": "ZM/12/17/2025",
+  "datum": "2025-02-13",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje dle důvodové zprávy rozpočtové změny 1/2025/ZM až 47/2025/ZM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

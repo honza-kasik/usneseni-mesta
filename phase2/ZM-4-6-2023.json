@@ -1,0 +1,23 @@
+{
+  "id": "ZM/4/6/2023",
+  "datum": "2023-09-14",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje dle důvodové zprávy rozpočtové změny 108/2023/ZM až 109/2023/ZM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

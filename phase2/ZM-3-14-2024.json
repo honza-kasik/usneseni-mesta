@@ -1,0 +1,27 @@
+{
+  "id": "ZM/3/14/2024",
+  "datum": "2024-09-30",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtovou změnu 74/2024/ZM."
+    },
+    {
+      "label": "c",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření týkajících se výdajů, které byly schváleny\nrozpočtovou změnou 74/2024/ZM, a to bez finančního omezení."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ZM/15/2/2022",
+  "datum": "2022-12-08",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "deleguje",
+    "navrhuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "deleguje Ing. Zdeňka Potužáka jako zástupce města na Valnou hromadu Vodohospodářské společnosti Olomouc,\na.s., na funkční období 2022–2026 a jako náhradníka deleguje starostu města Viktora Kohouta."
+    },
+    {
+      "label": "b",
+      "text": "navrhuje Ing. Zdeňka Potužáka do představenstva a dozorčí rady Vodohospodářské společnosti Olomouc a.s.\nna funkční období 2022–2026."
+    },
+    {
+      "label": "c",
+      "text": "deleguje Jana Indru do funkce jednatele společnosti FCC Litovel, s.r.o. na funkční období 2022–2026 a do funkce\nčlenů dozorčí rady deleguje místostarostu města Mgr. Lubomíra Brozu, Bc. Zdeňka Jančího a Ing. Karla Zmunda."
+    },
+    {
+      "label": "d",
+      "text": "deleguje Ing. Zdeňka Potužáka do funkce člena představenstva Městské teplárenské společnosti a.s. Litovel\nna funkční období 2022–2026 a do funkce člena dozorčí rady deleguje Ing. Jaromíra Koláře."
+    },
+    {
+      "label": "e",
+      "text": "deleguje člena rady města pana Jiřího Kohouta jako zástupce města na členskou schůzi Litovelského bytového\ndružstva na funkční období 2022–2026 a jako náhradníka deleguje místostarostu města Mgr. Lubomíra Brozu."
+    },
+    {
+      "label": "f",
+      "text": "deleguje starostu města Viktora Kohouta jako zástupce města na Valnou hromadu občanského sdružení MAS\nMoravská cesta, z.s. na funkční období 2022–2026 a jako náhradníka deleguje místostarostu města Mgr. Lubomíra\nBrozu."
+    },
+    {
+      "label": "g",
+      "text": "deleguje starostu města Viktora Kohouta jako zástupce města na Valnou hromadu Mikroregionu Litovelsko na\nfunkční období 2022–2026."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ZM/25/20/2025",
+  "datum": "2025-06-24",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí informace o Závěrečném účtu Mikroregionu Litovelsko za rok 2024."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje aktualizaci Stanov Mikroregionu Litovelsko, připravenou v reakci na novou legislativu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

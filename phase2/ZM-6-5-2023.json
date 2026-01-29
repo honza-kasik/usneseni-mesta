@@ -1,0 +1,28 @@
+{
+  "id": "ZM/6/5/2023",
+  "datum": "2023-06-19",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "pověřuje vedení města, aby ověřilo u odborné právní kanceláře možnost úhrady pokuty a penále, která je na\nměsto vznesena za akci „Rekonstrukce náměstí“."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje dle důvodové zprávy rozpočtové změny 95/2023/ZM až 107/2023/ZM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

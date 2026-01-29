@@ -1,0 +1,35 @@
+{
+  "id": "ZM/3/4/2023",
+  "datum": "2023-04-20",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí kontrolu usnesení z 3. zasedání Zastupitelstva města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí zápis z jednání Kontrolního výboru ze dne 22. 3. 2023."
+    },
+    {
+      "label": "c",
+      "text": "bere na vědomí vzdání se funkce člena Kontrolního výboru Bc. Tomáše Vacka (SNK ED)."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje pana Jiřího Kohouta (SNK-OaSL) členem Kontrolního výboru."
+    },
+    {
+      "label": "e",
+      "text": "bere na vědomí zápis z jednání Finančního výboru ze dne 17. 4. 2023."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ZM/16/12/2024",
+  "datum": "2024-06-19",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "pověřuje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí se vstupem obce Senice na Hané a obce Příkazy do společnosti Vodohospodářská společnost\nČERLINKA s.r.o., se sídlem Cholinská 1120/13,784 01 Litovel, IČ: 471 50 904, převzetím vkladové povinnosti\nk novým vkladům ve výši 20.000 Kč obcí Senice na Hané a vkladové povinnosti k novým vkladům ve výši 20.000\nKč obcí Příkazy."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s účastí města Litovel na zvýšení základního kapitálu společnosti Vodohospodářská společnost\nČERLINKA s.r.o., se sídlem Cholinská 1120/13,784 01 Litovel, IČ: 471 50 904 novým vkladem ve výši 80.000\nKč."
+    },
+    {
+      "label": "c",
+      "text": "souhlasí se zvýšením základního kapitálu společnosti Vodohospodářská společnost ČERLINKA s.r.o., se sídlem\nCholinská 1120/13,784 01 Litovel, IČ: 471 50 904 o částku 120.000 Kč, kdy vkladovou povinnost v rozsahu částky\n80.000 Kč převezme město Litovel, vkladovou povinnost ve výši 20.000 Kč převezme obec Senice na Hané\na vkladovou povinnost ve výši 20.000 Kč převezme obec Příkazy."
+    },
+    {
+      "label": "d",
+      "text": "souhlasí se vzdáním se přednostního práva města Litovel na zvýšení základního kapitálu v rozsahu částky\n40.000 Kč."
+    },
+    {
+      "label": "e",
+      "text": "souhlasí s tomu odpovídající změnou Společenské smlouvy Vodohospodářské společnosti ČERLINKA s.r.o.,\nse sídlem Cholinská 1120/13,784 01 Litovel, IČ: 471 50 904 – zvýšení základního kapitálu z 860.000 Kč na 980.000\nKč, přistoupení nových společníků – obce Senice na Hané a obce Příkazy."
+    },
+    {
+      "label": "f",
+      "text": "pověřuje starostu města Litovel, Viktora Kohouta, podpisem prohlášení o vzdání se přednostního práva města\nLitovel, jakožto společníka Vodohospodářské společnosti ČERLINKA s.r.o., se sídlem Cholinská 1120/13,784 01\nLitovel, IČ: 471 50 904, na zvýšení základního kapitálu o částku 40.000 Kč."
+    },
+    {
+      "label": "g",
+      "text": "pověřuje starostu města Litovel, Viktora Kohouta, aby na zasedání Valné hromady Vodohospodářské společnosti\nČERLINKA s.r.o., se sídlem Cholinská 1120/13,784 01 Litovel, IČ: 471 50 904, hlasoval ve smyslu výše přijatého\nusnesení."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "120.000 Kč",
+    "20.000\nKč",
+    "20.000 Kč",
+    "40.000 Kč",
+    "80.000\nKč",
+    "80.000 Kč",
+    "860.000 Kč",
+    "980.000\nKč"
+  ]
+}

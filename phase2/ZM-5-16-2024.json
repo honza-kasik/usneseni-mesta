@@ -1,0 +1,55 @@
+{
+  "id": "ZM/5/16/2024",
+  "datum": "2024-12-12",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje",
+    "stanovuje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočet města Litovel na rok 2025, včetně rozpočtu Fondu rozvoje bydlení, rozpočtu Fondu rezerv\nna obnovu vodovodů a kanalizací, rozpočtu Fondu rezerv na zajištění přípravy a realizace protipovodňových\nopatření a rozpočtu Sociálního fondu dle přílohy č. 1."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje závazné ukazatele rozpočtu města Litovel na rok 2025 uvedené v příloze č. 2."
+    },
+    {
+      "label": "d",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření, která neovlivní celkové příjmy\na výdaje schváleného rozpočtu města Litovel na rok 2025, a to maximálně do výše 900 000 Kč v rámci jednoho\npřesunu rozpočtových prostředků."
+    },
+    {
+      "label": "e",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření souvisejících s dotacemi ze státního\nrozpočtu, státních fondů a územních samosprávných celků, a to bez finančního omezení."
+    },
+    {
+      "label": "f",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření souvisejících s přijatými dary\na s přijatým pojistným plněním, a to bez finančního omezení."
+    },
+    {
+      "label": "g",
+      "text": "zmocňuje Radu města k provádění rozpočtových opatření, pokud jde o změny závazných ukazatelů vůči jiným\nosobám, a to bez finančního omezení."
+    },
+    {
+      "label": "h",
+      "text": "ukládá Radě města Litovel stanovit příspěvkovým organizacím, které zřídilo město Litovel, účel použití\nschváleného příspěvku z rozpočtu města Litovel na rok 2025."
+    },
+    {
+      "label": "i",
+      "text": "stanovuje, že rozpis rozpočtu do plného třídění rozpočtové skladby dle vyhlášky č. 412/2021 Sb., ve znění\npozdějších předpisů, provede finanční odbor."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "900 000 Kč"
+  ]
+}

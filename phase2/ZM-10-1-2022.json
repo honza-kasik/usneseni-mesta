@@ -1,0 +1,23 @@
+{
+  "id": "ZM/10/1/2022",
+  "datum": "2022-10-19",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "odkládá",
+    "volí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "volí Mgr. Roberta Najmana předsedou Kontrolního výboru."
+    },
+    {
+      "label": "b",
+      "text": "odkládá volbu členů finančního a kontrolního výboru z důvodu nedostatků kandidátů na členství ve výborech\nna nejbližší zasedání zastupitelstva."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

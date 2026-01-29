@@ -8,8 +8,7 @@ from collections import defaultdict, Counter
 import re
 
 
-ID_RE = re.compile(r"^RM/(\d+)/(\d+)/(\d+)$")
-
+ID_RE = re.compile(r"^(RM|ZM)/(\d+)/(\d+)/(\d+)$")
 
 def parse_id(id_str):
     """
@@ -18,7 +17,9 @@ def parse_id(id_str):
     m = ID_RE.match(id_str)
     if not m:
         return None
-    return tuple(map(int, m.groups()))
+
+    _, num, schuze, rok = m.groups()
+    return int(num), int(schuze), int(rok)
 
 
 def main():

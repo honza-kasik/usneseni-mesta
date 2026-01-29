@@ -26,11 +26,11 @@ from pathlib import Path
 # ---------- REGEXY ----------
 
 USNESENI_SPLIT_RE = re.compile(
-    r"\n(?=Číslo:\s+RM/\d+/\d+/\d+)"
+    r"\n(?=Číslo:\s+(?:RM|ZM)/\d+/\d+/\d+)"
 )
 
 ID_RE = re.compile(
-    r"Číslo:\s+(RM/\d+/\d+/\d+)"
+    r"Číslo:\s+((?:RM|ZM)/\d+/\d+/\d+)"
 )
 
 DATE_PATTERNS = [
@@ -113,7 +113,7 @@ def split_usneseni(text: str):
 
 # ---------- PARSE JEDNOHO USNESENÍ ----------
 
-def parse_usneseni(block: str, datum: str):
+def parse_usneseni(block: str, datum: str, organ: str):
     m = ID_RE.search(block)
     if not m:
         return None
@@ -124,7 +124,7 @@ def parse_usneseni(block: str, datum: str):
     return {
         "id": uid,
         "datum": datum,
-        "organ": "Rada města Litovel",
+        "organ": organ,
         "text_raw": body
     }
 
@@ -140,6 +140,13 @@ def save_usneseni(usn: dict, out_dir: Path):
 
 
 # ---------- ZPRACOVÁNÍ JEDNOHO PDF ----------
+
+def detect_organ_and_prefix(text: str):
+    if re.search(r"Zastupitelstva města Litovel", text, re.IGNORECASE):
+        return "Zastupitelstvo města Litovel", "ZM"
+    if re.search(r"Rady města Litovel", text, re.IGNORECASE):
+        return "Rada města Litovel", "RM"
+    return None, None
 
 def process_pdf(pdf_path: Path, out_dir: Path, failures: list):
     print(f"📄 {pdf_path}")
@@ -159,9 +166,14 @@ def process_pdf(pdf_path: Path, out_dir: Path, failures: list):
         failures.append((pdf_path, "žádná usnesení"))
         return 0
 
+    organ, prefix = detect_organ_and_prefix(clean_text)
+    if not organ:
+        failures.append((pdf_path, "neznámý orgán"))
+        return 0
+
     count = 0
     for block in blocks:
-        usn = parse_usneseni(block, datum)
+        usn = parse_usneseni(block, datum, organ)
         if not usn:
             continue
         save_usneseni(usn, out_dir)

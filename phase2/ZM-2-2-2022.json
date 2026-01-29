@@ -1,0 +1,23 @@
+{
+  "id": "ZM/2/2/2022",
+  "datum": "2022-12-08",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "stahuje bod"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "stahuje bod 8.1. a 9.10. z programu jednání ZML."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje upravený program jednání."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

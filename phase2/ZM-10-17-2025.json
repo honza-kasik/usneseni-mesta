@@ -1,0 +1,44 @@
+{
+  "id": "ZM/10/17/2025",
+  "datum": "2025-02-13",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace žadatelům o finanční podporu na rok 2025 dle předloženého návrhu a schvaluje\nrozpočtové změny týkající se těchto dotací. ZML současně souhlasí s podepsáním každé jednotlivé smlouvy až\npo řádném a úplném vyúčtování dotace či dotací z předchozího roku."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a Spolkem TJ VS Litovel, z. s.\no poskytnutí dotace ve výši 370.000 Kč na zajištění sportovní činnosti tělovýchovné jednoty v roce 2025."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a Charitou Šternberk, střediskem Litovel\no poskytnutí dotace v celkové výši 930.000 Kč, z toho 450.000 Kč na provozní náklady pečovatelské služby,\n200.000 Kč na provozní náklady MC Rybička, 100.000 Kč na mzdové náklady zdravotních sester, 50.000 Kč\nna provozní náklady sanitárního kontejneru, 50.000 Kč na sociálně aktivizační služby pro rodiny\ns dětmi, 50.000 Kč na provoz poradny Nedlužím a 30.000 Kč na organizační zajištění pouti na Starém městě\nv roce 2025."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a Spolkem TJ VS Litovel, z. s.\no poskytnutí dotace ve výši 100.000 Kč na organizační zajištění sportovní soutěže BOBR CUP 2025."
+    },
+    {
+      "label": "e",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a spolkem TJ Tatran Litovel, Litovel,\nz. s. o poskytnutí dotace ve výši 4.500.000 Kč na zajištění sportovní činnosti tělovýchovné jednoty v roce 2025."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "100.000 Kč",
+    "200.000 Kč",
+    "30.000 Kč",
+    "370.000 Kč",
+    "4.500.000 Kč",
+    "450.000 Kč",
+    "50.000 Kč",
+    "930.000 Kč"
+  ]
+}

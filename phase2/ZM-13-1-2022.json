@@ -1,0 +1,31 @@
+{
+  "id": "ZM/13/1/2022",
+  "datum": "2022-10-19",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "deleguje",
+    "navrhuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "deleguje starostu města Viktora Kohouta jako zástupce města na Valnou hromadu Vodohospodářské společnosti\nČERLINKA, s.r.o., na funkční období 2022–2026 a jako náhradníka deleguje Bc. Zdeňka Jančího. Dále deleguje\ndo funkce člena dozorčí rady místostarostu města Mgr. Lubomíra Brozu."
+    },
+    {
+      "label": "b",
+      "text": "deleguje starostu města Viktora Kohouta jako zástupce města na Valnou hromadu společnosti FCC Litovel,\ns.r.o., na funkční období 2022–2026 a jako náhradníka deleguje místostarostu města Mgr. Lubomíra Brozu."
+    },
+    {
+      "label": "c",
+      "text": "deleguje starostu města Viktora Kohouta jako zástupce města na Valnou hromadu Městské teplárenské\nspolečnosti a.s. Litovel na funkční období 2022-2026 a jako náhradníka deleguje místostarostu města\nMgr. Lubomíra Brozu."
+    },
+    {
+      "label": "d",
+      "text": "navrhuje do představenstva Servisní společnosti odpady Olomouckého kraje, a.s. za město Litovel starostu\nměsta Viktora Kohouta a do dozorčí rady místostarostu města Mgr. Lubomíra Brozu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

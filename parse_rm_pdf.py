@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Parsování PDF s usneseními Rady města Litovel.
+Parsování PDF s usneseními Rady nebo Zatupitelstva města Litovel.
 
 Vstup:
   - jeden PDF soubor

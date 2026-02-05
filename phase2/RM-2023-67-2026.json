@@ -1,0 +1,25 @@
+{
+  "id": "RM/2023/67/2026",
+  "datum": "2026-01-29",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 2.000 Kč na podporu činnosti diakonie v roce 2026."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a Diakonií ČCE - středisko v Sobotíně\nv předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "2.000 Kč"
+  ]
+}

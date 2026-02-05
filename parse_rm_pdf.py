@@ -33,10 +33,10 @@ ID_RE = re.compile(
     r"Číslo:\s+((?:RM|ZM)/\d+/\d+/\d+)"
 )
 
-DATE_PATTERNS = [
-    r"konané dne\s+(\d{1,2}\.\s*[^\d]+\s+\d{4})",
-    r"ze dne\s+(\d{1,2}\.\s*\d{1,2}\.\s*\d{4})",
-]
+DATE_RE = re.compile(
+    r"(?:konané|ze)?\s*dne\s+(\d{1,2})\.\s*([^\s]+)\s*(\d{4})",
+    re.IGNORECASE
+)
 
 
 # ---------- MAPA MĚSÍCŮ ----------
@@ -81,27 +81,25 @@ def normalize_text(text: str) -> str:
 # ---------- DATUM ----------
 
 def parse_cz_date(text: str):
-    for pattern in DATE_PATTERNS:
-        m = re.search(pattern, text, re.IGNORECASE)
-        if not m:
-            continue
+    m = DATE_RE.search(text)
+    if not m:
+        return None
 
-        raw = m.group(1).lower().replace(" ", "")
-        
-        # formát: 31.8.2023
-        if re.match(r"\d{1,2}\.\d{1,2}\.\d{4}", raw):
-            d, mth, y = raw.split(".")
-            return f"{y}-{mth.zfill(2)}-{d.zfill(2)}"
+    day, month_raw, year = m.groups()
+    month_raw = month_raw.lower().strip(".")
 
-        # formát: 27.října 2022
-        parts = raw.replace(".", "").split()
-        if len(parts) == 3 and parts[1] in MONTHS:
-            day = parts[0].zfill(2)
-            month = MONTHS[parts[1]]
-            year = parts[2]
-            return f"{year}-{month}-{day}"
+    # číselný měsíc
+    if month_raw.isdigit():
+        month = month_raw.zfill(2)
 
-    return None
+    # slovní měsíc
+    elif month_raw in MONTHS:
+        month = MONTHS[month_raw]
+
+    else:
+        return None
+
+    return f"{year}-{month}-{day.zfill(2)}"
 
 
 # ---------- SPLIT USNESENÍ ----------
@@ -141,12 +139,20 @@ def save_usneseni(usn: dict, out_dir: Path):
 
 # ---------- ZPRACOVÁNÍ JEDNOHO PDF ----------
 
-def detect_organ_and_prefix(text: str):
-    if re.search(r"Zastupitelstva města Litovel", text, re.IGNORECASE):
-        return "Zastupitelstvo města Litovel", "ZM"
-    if re.search(r"Rady města Litovel", text, re.IGNORECASE):
+def detect_organ_from_id(text: str):
+    m = ID_RE.search(text)
+    if not m:
+        return None, None
+
+    prefix = m.group(1).split("/")[0]
+
+    if prefix == "RM":
         return "Rada města Litovel", "RM"
+    if prefix == "ZM":
+        return "Zastupitelstvo města Litovel", "ZM"
+
     return None, None
+
 
 def process_pdf(pdf_path: Path, out_dir: Path, failures: list):
     print(f"📄 {pdf_path}")
@@ -166,7 +172,7 @@ def process_pdf(pdf_path: Path, out_dir: Path, failures: list):
         failures.append((pdf_path, "žádná usnesení"))
         return 0
 
-    organ, prefix = detect_organ_and_prefix(clean_text)
+    organ, prefix = detect_organ_from_id(clean_text)
     if not organ:
         failures.append((pdf_path, "neznámý orgán"))
         return 0

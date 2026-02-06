@@ -1,6 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Phase 3 - resolvování referencí.
+
+Usnesení mohou odkazovat jedno na druhé. V této fázi se resolvují reference
+  - imlicitní: Uváděné v textu rozhodnutí pouze jako ID_ROZHODNUTI/CISLO_SCHUZE, například 1853/60 je resolvováno na RM/1853/60/2025
+  - explicitní: Už hotová reference ve tvaru RM/1853/60/2025
+
+Resolvované reference se vloží do nového klíče references_in a odkaz je tak oboustranný.
+
+Na závěr jsou do konzole vytištěné statistiky.
+
+Vstup:
+  - adresář s JSON soubory ve struktuře z phase 2
+
+Výstup:
+  - jeden JSON soubor = jedno usnesení
+
+Použití:
+  python phase3_resolve_references.py --input phase2_dir/ --output phase3_dir/
+"""
+
 import json
 import argparse
 from pathlib import Path

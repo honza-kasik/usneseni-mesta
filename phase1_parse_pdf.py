@@ -12,8 +12,8 @@ Výstup:
   - jeden JSON soubor = jedno usnesení
 
 Použití:
-  python parse_rm_pdf.py input.pdf output_dir/
-  python parse_rm_pdf.py pdf_dir/ output_dir/
+  python phase1_parse_pdf.py input.pdf output_dir/
+  python phase1_parse_pdf.py pdf_dir/ output_dir/
 """
 
 import pdfplumber

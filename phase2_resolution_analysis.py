@@ -1,6 +1,62 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Phase 2 - analýza syrového textu usnesení
+
+Zpracuje JSON z phase 1
+
+{
+  "id": "RM/1/1/2022",
+  "datum": "2022-10-27",
+  "organ": "Rada města Litovel",
+  "text_raw": "text_usneseni"
+}
+
+na
+
+{
+  "id": "RM/1/1/2022",
+  "datum": "2022-10-27",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "text_1"  
+    },
+    {
+      "label": "b",
+      "text": "text_2"    
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "10.000 Kč"
+  ]
+}
+
+  - jsou extrahovány akce
+  - z usnesení s více body jsou jednotlivé akce extrahovány a body rozděleny
+  - odděleny jsou subject a tail (text před a za body) pokud jsou přítomny
+  - jsou extrahovány peněžní částky
+  - jsou hrubě extrahovány reference bez resolvování (to je předmětem phase 3)
+
+Vstup:
+  - adresář s JSON soubory ve výše definované struktuře z phase 1
+
+Výstup:
+  - jeden JSON soubor = jedno usnesení
+
+Použití:
+  python phase2_resolution_analysis.py --input phase1_dir/ --output phase2_dir/
+"""
+
 import json
 import re
 import argparse

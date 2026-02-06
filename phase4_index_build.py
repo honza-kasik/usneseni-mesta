@@ -1,6 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Vytvoří index pro fulltextové vyhledávání
+
+Vstup:
+  - adresář s JSON soubory ve struktuře z phase 3
+
+Výstup:
+  - index adresář s indexy pro vyhledávání. Jeden JSON soubor = jeden rok.
+  - data adresář s usneseními. Jeden JSON soubor = jeden rok.
+  - meta.json se statistickými metadaty, například počty rozhodnutí za jednotlivé roky
+
+Použití:
+  python phase4_index_build.py --input phase3_dir/ --output phase4_dir/
+"""
+
 import json
 import argparse
 import unicodedata

@@ -38230,6 +38230,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/1/24/2026",
+    "datum": "2026-02-12",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "ověřovatele zápisu.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/1/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -41344,6 +41358,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/2/24/2026",
+    "datum": "2026-02-12",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "program jednání.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/2/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -42478,6 +42506,35 @@
       {
         "label": "d",
         "text": "bere na vědomí předložené zápisy z osadních výborů."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "ZM/3/24/2026",
+    "datum": "2026-02-12",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí",
+      "svěřuje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s účastí města Litovel v exekuční dražbě (elektronické) nemovité věci - pozemku parc.č.st. 70\no výměře 528 m2, k.ú. Litovel, obec Litovel, zapsáno na LV č. 1583 pro k.ú. Litovel, se součástmi\na příslušenstvím (jak jsou tyto popsány v přiložené dražební vyhlášce), jakožto dražitelem."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje dle důvodové zprávy a příloh rozpočtové změny č. 5/2026/ZM a 6/2026/ZM."
+      },
+      {
+        "label": "c",
+        "text": "svěřuje Radě města Litovel pravomoc rozhodovat o nabytí hmotné nemovité věci specifikované v bodě ad a)\nvýše městem v dražbě, přičemž jí ukládá povinnost učinit alespoň nejnižší podání za situace, neučiní-li jej jiný\ndražitel.\nViktor Kohout v.r. Mgr. Lubomír Broza v.r.\nstarosta města místostarosta města"
       }
     ],
     "tail": null,

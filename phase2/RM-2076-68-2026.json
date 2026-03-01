@@ -1,0 +1,25 @@
+{
+  "id": "RM/2076/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 2.500 Kč spolku Moravský senior, z. s. na podporu vydávání časopisu\nMoravský senior."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a spolkem Moravský senior, z. s.\nv předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "2.500 Kč"
+  ]
+}

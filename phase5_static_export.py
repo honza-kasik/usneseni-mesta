@@ -162,10 +162,22 @@ def write_resolution(
 
     permalink = f"/usneseni/{year}/{slug}/"
 
+    subject = resolution.get("subject")
+
+    if subject:
+        raw_desc = f"{resolution.get('organ','')}, {resolution.get('datum','')}: {subject}"
+    else:
+        raw_desc = f"{resolution.get('organ','')}, {resolution.get('datum','')}, usnesení {rid}"
+
+    # zkrácení na cca 160 znaků
+    description = raw_desc[:157] + "…" if len(raw_desc) > 160 else raw_desc
+    description = html.escape(description)
+
     frontmatter = (
         "---\n"
         "layout: usneseni\n"
         f"title: \"Usnesení {rid}\"\n"
+        f"description: \"{description}\"\n"
         f"cislo: \"{rid}\"\n"
         f"organ: \"{resolution.get('organ','')}\"\n"
         f"datum: \"{resolution.get('datum','')}\"\n"

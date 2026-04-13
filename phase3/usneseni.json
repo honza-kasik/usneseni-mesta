@@ -19474,7 +19474,12 @@
     "tail": null,
     "references_out": [],
     "amounts": [],
-    "references_in": []
+    "references_in": [
+      {
+        "from": "RM/2153/69/2026",
+        "action": "revokuje"
+      }
+    ]
   },
   {
     "id": "RM/1964/65/2025",
@@ -21621,7 +21626,12 @@
     "tail": null,
     "references_out": [],
     "amounts": [],
-    "references_in": []
+    "references_in": [
+      {
+        "from": "RM/2165/69/2026",
+        "action": "revokuje"
+      }
+    ]
   },
   {
     "id": "RM/2068/67/2026",
@@ -21702,7 +21712,12 @@
     "tail": null,
     "references_out": [],
     "amounts": [],
-    "references_in": []
+    "references_in": [
+      {
+        "from": "RM/2166/69/2026",
+        "action": "revokuje"
+      }
+    ]
   },
   {
     "id": "RM/2072/68/2026",
@@ -22876,7 +22891,12 @@
     "tail": null,
     "references_out": [],
     "amounts": [],
-    "references_in": []
+    "references_in": [
+      {
+        "from": "RM/2176/69/2026",
+        "action": "revokuje"
+      }
+    ]
   },
   {
     "id": "RM/2126/68/2026",
@@ -23020,6 +23040,116 @@
     "references_in": []
   },
   {
+    "id": "RM/2133/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "neschvaluje"
+    ],
+    "subject": "předložený záměr prodeje pozemků parc.č. 47/11, o výměře 300 m2, parc.č. 46/4,\no výměře 174 m2 a parc.č. 44/6, o výměře 21 m2, vše orná půda, k.ú. Nasobůrky.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2134/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "neschvaluje"
+    ],
+    "subject": "předložený záměr prodeje části pozemku parc.č. 588/33, o výměře cca 330 m2,\norná půda, k.ú. Savín.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2135/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "neschvaluje"
+    ],
+    "subject": "předložený záměr prodeje části pozemku parc.č. 133, ostatní plocha/jiná plocha,\no výměře cca 200 m2 z celkových 923 m2, k.ú. Tři Dvory u Litovle.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2136/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "zveřejnění záměru pronájmu obecního bytu č. 005 s dispozicí 2 + 1 o celkové\nvýměře 61 m2, umístěný ve III. nadzemním podlaží bytového domu č.p. 785 na ulici Boskovicova č. or. 2 v Litovli.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2137/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "Smlouvu o nájmu pozemku, uzavřenou dle ust. § 2201 občanského zákoníku\nv platném a účinném znění, v souladu se zveřejněným záměrem na pronájem části pozemku parc.č. 1638/15, ostatní\nplocha, o výměře 80 m2, v k.ú. Litovel, mezi městem Litovel a S. a L. L. z Litovle. Smlouva je uzavřena na dobu\nneurčitou za účelem dočasné skládky palivového dřeva pro soukromé účely.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2138/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "Smlouvu o nájmu pozemku, uzavřenou mezi městem Litovel a Mgr. I. K. z Litovle\n(IN KAFE), na pronájem části pozemku parc.č. 1573/1, ostatní plocha/ostatní komunikace, v k.ú. Litovel (část\npřilehlého chodníku k nám. Přemysla Otakara, před objektem č. p. 793/7), za účelem zřízení venkovního posezení\nk nově vzniklé kavárně, dle zveřejněného záměru.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2139/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím daru ve výši 5.000 Kč na podporu činnosti Domova Turovice, z. ú. v roce 2026."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a ústavem Domov Turovice, z. ú.\nv předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "5.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
     "id": "RM/214/9/2023",
     "datum": "2023-03-09",
     "organ": "Rada města Litovel",
@@ -23031,6 +23161,234 @@
     "tail": null,
     "references_out": [],
     "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2140/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím daru ve výši 5.000 Kč na podporu činnosti spolku v roce 2026."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a pobočným spolkem Českého svazu\nochránců přírody Litovel v předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "5.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2141/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím daru ve výši 5.000 Kč na organizační kulturní akce s názvem „1. máj v Parku Míru 2026“."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a R. Š., Litovel v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "5.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2142/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím dotace ve výši 10.000 Kč na podporu činnosti spolku Na Pavlínce, z. s. v roce 2026."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a spolkem Na Pavlínce, z. s.\nv předloženém znění a rozpočtovou změnu týkající se této dotace."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "10.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2143/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "nesouhlasí"
+    ],
+    "subject": "s poskytnutím finančního příspěvku paní Mgr. P. S. na podporu pořádání série\nřemeslných workshopů.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2144/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím daru ve výši 2.500 Kč na pořádání workshopů pro děti a mládež v Kavka kavárně v roce\n2026."
+      },
+      {
+        "label": "b",
+        "text": "souhlasí s poskytnutím daru ve výši 2.500 Kč na pořádání komorních koncertů a přednášek v Kavka kavárně\nv roce 2026."
+      },
+      {
+        "label": "c",
+        "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a Spolkovnou s.r.o. v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "2.500 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2145/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "nesouhlasí"
+    ],
+    "subject": "s poskytnutím finančního příspěvku panu F. J. na podporu pořádání workshopů\nna téma jednoduchých hudebních nástrojů.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2146/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím daru ve výši 2.500 Kč na organizační zajištění hudebních odpolední s interaktivními\nprvky ve formě tance a hudebního spolutvoření, které se uskuteční v roce 2026."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a K. H., Litovel v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "2.500 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2147/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím dotace ve výši 10.000 Kč na organizační zajištění „Dětského dne“ a „Minitoulek“,\nkterý se uskuteční 6. června 2026."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Spolkem rodičů a přátel Základní školy\nLitovel, Jungmannova 655, okres Olomouc v předloženém znění a rozpočtovou změnu týkající se této dotace."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "10.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2148/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "nesouhlasí"
+    ],
+    "subject": "s poskytnutím finančního příspěvku Sdružení rodičů a přátel školy Nasobůrky, z. s.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2149/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s poskytnutím dotace ve výši 20.000 Kč na podporu vydání knihy novel SOKL! autora M. S."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a M. S., Střemeníčko v předloženém znění\na rozpočtovou změnu týkající se této dotace."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "20.000 Kč"
+    ],
     "references_in": []
   },
   {
@@ -23060,6 +23418,162 @@
     "references_in": []
   },
   {
+    "id": "RM/2150/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "nesouhlasí"
+    ],
+    "subject": "s poskytnutím finančního příspěvku ústavu Nohama na zemi, z. ú. na organizaci\nodborného semináře.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2151/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "nesouhlasí"
+    ],
+    "subject": "s poskytnutím finančního příspěvku paní T. E.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2152/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Smlouvy o zřízení věcného břemene – služebnosti č. IV‑12‑8021956/VB/1\nmezi městem Litovel, na straně povinného, a společností ČEZ Distribuce, a. s., na straně oprávněného, týkající\nse pozemků parc.č. 178/6, 508, 513, 514, k.ú. Unčovice, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2153/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "revokuje",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "revokuje své usnesení č. 1963/65 ze dne 11. 12. 2025."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření Smlouvy o budoucí smlouvě o zřízení služebnosti č. 11010-132547 mezi městem Litovel,\nna straně budoucího povinného, a společností CETIN a.s., na straně budoucího oprávněného, ve vztahu k pozemku\nparc.č. 314, k.ú. Tři Dvory u Litovle, v předloženém znění."
+      }
+    ],
+    "tail": null,
+    "references_out": [
+      {
+        "raw": "1963/65",
+        "type": "implicit",
+        "resolved": "RM/1963/65/2025"
+      }
+    ],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2154/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "předloženou Smlouvu o smlouvě budoucí o realizaci přeložky distribučního zařízení\nmezi městem Litovel a ČEZ Distribuce při akci „Revitalizace sídliště Novosady 1. a 2. etapa“.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2155/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Smlouvy o dílo k vypracování PD ve stupni DPZ v podrobnostech DPS\nna stavební úpravy komunikací ulice Studentů mezi Ing. Petr Doležel a městem Litovel, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2156/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Smlouvy o dílo mezi městem Litovel a Městskou teplárenskou společností\na.s. Litovel, na výměnu kotlů a souvisejícího příslušenství v Sokolovně v Unčovicích, č. p. 90. Zakázka se týká\ndodávky dvou kusů kotlů LUNA DUO‑TEC MP + 1,50 45 kW, včetně revize dopojení plynu, revize dopojení\nelektriky a revize spalinové cesty, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2157/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "neschvaluje"
+    ],
+    "subject": "uzavření předložené Smlouvy o dílo týkající se Koncepční studie ulic Havlíčkova\na Boskovicova dle principů Shared Space vč. vizualizace mezi Vojtěch Novotný - mobility consultancy & advisory\ns.r.o. a městem Litovel.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2158/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "předloženou smlouvu o dílo, uzavřenou mezi MVDr. F. M. Š., Ph.D., MBA,\nz Olomouce, jako zhotovitelem, a městem Litovel, jako objednatelem. Předmětem smlouvy je zhotovení autorského\nliterárního díla s pracovním názvem „Historie Unčovic a Březové“.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2159/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Dodatku č. 1 k nájemní smlouvě č. 6358008423 ze dne 7. 8. 2023 týkající\nse akce „Cyklostezka se smíšeným provozem chodců a cyklistů, most R/35 – ul. Cholinská v k.ú. Litovel\na Nasobůrky“ mezi Správa železnic, státní organizace a městem Litovel, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "RM/216/9/2023",
     "datum": "2023-03-09",
     "organ": "Rada města Litovel",
@@ -23078,6 +23592,200 @@
         "text": "ukládá Technickým službám Litovel pozemek zkulturnit, posekat přerostlý plevel a odstranit suché a polámané\nvětve stromů, které se nachází na pozemku parc.č. 131/2, v k.ú. Myslechovice, jehož vlastníkem je město Litovel."
       }
     ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2160/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "předložený Dodatek č. 3 ke Smlouvě o dílo mezi městem Litovel a společností TGT\nLitovel pro realizaci veřejné zakázky „Obytný soubor Litovel, Boženy Němcové - demolice stávajících objektů“.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2161/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí důvodovou zprávu včetně příloh."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje dle důvodové zprávy a příloh rozpočtové změny 53/2026/RM až 60/2026/RM."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2162/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "nesouhlasí"
+    ],
+    "subject": "se závazkem objednávky knihy na téma činnosti partizánského oddílu Jermak.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2163/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "souhlasí"
+    ],
+    "subject": "s využitím obou vyhrazených prostor na nám. Přemysla Otakara v Litovli, tj. prostoru\nu Morového sloupu a prostoru na náměstí před Nečízem, pro Ing. P. D., Ph.D. z Mohelnice, za účelem uspořádání\nveřejnosti přístupné akce, 7. ročníku moto vyjížďky „Hanácké čmód“, která se uskuteční dne 2. května 2026,\nse srazem v 10.00 hod. na nám. Přemysla Otakara v Litovli. Současně Rada města Litovel souhlasí:\n- s využitím Městské policie Litovel při koordinaci závodníků na náměstí,\n- s propagací této akce ze strany města Litovel (zveřejnění na webu města…),\n- s umístěním loga města Litovel na on-line plakátech města.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2164/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "žádost Městského klubu Litovel, jako pořadatele akce, ve věci vzájemné\nspolupráce spočívající ve společném organizování veřejnosti přístupné akce „Zahájení turistické sezóny“, která\nse uskuteční dne 11. dubna 2026 v době od 8.00 do 15.00 hod. ve vyhrazeném prostoru na nám. Přemysla Otakara\nv Litovli, ve vyhrazeném prostoru před Nečízem. Za účelem uspořádání akce Rada města Litovel souhlasí:\n- s nulovým vstupným na radniční věž v den akce,\n- se zpřístupněním podzemních elektrických rozvaděčů na náměstí v místě pořádání akce s tím, že spotřeba\nelektrické energie bude na náklady města,\n- s bezplatným zapůjčením inventáře z krizového řízení (stánky),\n- se zajištěním občerstvení pro účinkující,\n- se součinností Městské policie Litovel v den akce.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2165/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "revokuje",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "revokuje své usnesení č. RM/2067/67/2026 pod bodem a). Zbývající část usnesení pod bodem b) zůstává\nv platnosti."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje místo pro umístění automatického modulu typu CWC R110 veřejných sociálních zařízení od firmy\nDAKO Brno, spol. s.r.o., v parku Míru v Litovli, na části pozemku parc.č. 102/4, v k.ú. Litovel, vedeného v kultuře\nostatní plocha – zeleň, konkrétně mezi dvěma stávajícími stromy."
+      }
+    ],
+    "tail": null,
+    "references_out": [
+      {
+        "raw": "RM/2067/67/2026",
+        "type": "explicit",
+        "resolved": "RM/2067/67/2026"
+      }
+    ],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2166/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "revokuje",
+      "rozhodla",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "revokuje své usnesení č. RM/2071/67/2026 pod bodem a). Zbývající část usnesení pod bodem b) zůstává\nv platnosti."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje opakovaně, v souladu s ust. § 39 odst. 1 zákona č. 128/2000 Sb., o obcích, v platném znění, zveřejnit\nzáměr města na pronájem části pozemku parc.č. 811, trvalý travní porost, v k.ú. Litovel, lokalita Pavlínka,\no výměře 348 m2, za účelem zahrady, za cenu 2 Kč/m2/rok, na dobu neurčitou."
+      },
+      {
+        "label": "c",
+        "text": "rozhodla, že v případě nerespektování usnesení rady města č. RM/2071/68/2026, bod b), v termínu\ndo 30. 4. 2026, ze strany původního nájemce, paní O. N. z Litovle, budou náklady spojené s údržbou pozemku\nvymáhány po paní O. N. právní cestou."
+      }
+    ],
+    "tail": null,
+    "references_out": [
+      {
+        "raw": "RM/2071/67/2026",
+        "type": "explicit",
+        "resolved": "RM/2071/67/2026"
+      },
+      {
+        "raw": "RM/2071/68/2026",
+        "type": "explicit",
+        "resolved": "RM/2071/68/2026"
+      }
+    ],
+    "amounts": [
+      "2 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2167/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "Plán tvorby a čerpání peněžních fondů pro rok 2026 pro TS Litovel, p. o.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2168/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "závazné ukazatele hospodaření pro TS Litovel, p. o.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2169/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "Závěrečnou zprávu o průběhu inventarizačních prací a výsledku inventarizace\nza rok 2025.",
+    "items": [],
     "tail": null,
     "references_out": [],
     "amounts": [],
@@ -23107,6 +23815,179 @@
     "amounts": [
       "3.000 Kč"
     ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2170/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "zprávu Likvidační komise o její činnosti za druhé pololetí roku 2025.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2171/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel v objektu č.p. 674/9 v Litovli,\nnám. Svobody (DPS)."
+      },
+      {
+        "label": "c",
+        "text": "bere na vědomí informaci Bytové komise o způsobu pronájmu zrekonstruovaného bytu č. 005, v domě č.p. 785\nna ulici Boskovicova č.or. 2 v Litovli, formou zveřejněného záměru pronájmu, za minimální stanovené nájemné\n150 Kč/m2/měsíc."
+      },
+      {
+        "label": "d",
+        "text": "bere na vědomí informaci Bytové komise o nabídce volného bytu č. 011, o dispozici 2 + 1, situovaného ve III.\nnadzemním podlaží domu č.p. 105 na ulici Vítězná č.or. 12 v Litovli panu P. R."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "150 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2172/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "zápis ze schůze Seniorklubu ze dne 10. 2. 2026.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2173/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Smlouvy o poskytování služby IP Connect přípojka uzavřené\nse společností O2 Czech Republic a.s., jejímž předmětem je navýšení rychlosti optické sítě Case ID 4148542.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2174/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "souhlasí"
+    ],
+    "subject": "se zněním a podpisem smlouvy s firmou AVOS VYŠKOV měřící a regulační\ntechnika, s.r.o. Předmětem smlouvy je rekonstrukce objektových předávacích stanic, vzduchotechniky a měření\na regulace v bloku bazénu a sportovní haly ZŠ Vítězná.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2175/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "jmenuje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "jmenuje komisi pro otevírání nabídek týkající se veřejné zakázky „Litovel - rekonstrukce Svatojánského mostu\nv Litovli“ ve složení: J. K., Mgr. E. Č."
+      },
+      {
+        "label": "b",
+        "text": "jmenuje hodnotící komisi pro posouzení a hodnocení nabídek týkající se veřejné zakázky „Litovel - rekonstrukce\nSvatojánského mostu v Litovli“ ve složení: Mgr. L. B., Mgr. E. Č. a Ing. M. B. Jako náhradníky jmenuje V. K.,\nM. K. a J. K."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2176/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "revokuje",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "revokuje své usnesení č. RM/2125/68/2026 ze dne 19. 2. 2026."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření Dodatku č. 3 Smlouvy o dílo mezi městem Litovel a Cash trade s.r.o. pro realizaci akce\n„Dopravně bezpečnostní opatření pro pěší a cyklisty podél silnice II/449 v zastavěném území města Litovle\n(opakované řízení)“, v předloženém znění."
+      }
+    ],
+    "tail": null,
+    "references_out": [
+      {
+        "raw": "RM/2125/68/2026",
+        "type": "explicit",
+        "resolved": "RM/2125/68/2026"
+      }
+    ],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "RM/2177/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "rozhodla"
+    ],
+    "subject": "jako orgán vykonávající působnost valné hromady (resp. při rozhodnutí jediného\nspolečníka při výkonu působnosti valné hromady) společnosti Aktivní Litovel s.r.o., IČ: 24051896, se sídlem\nOpletalova 341/2, 784 01 Litovel, tak, že souhlasí s příplatkem společníka a zakladatele – města Litovel\ndo společnosti Aktivní Litovel s.r.o. formou vkladu mimo základní kapitál ve výši 500.000 Kč.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "500.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "RM/2178/69/2026",
+    "datum": "2026-03-12",
+    "organ": "Rada města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "informaci o služební cestě starosty a místostarosty, souhlasí s úhradou\nvložného a v případě potřeby pověřuje člena rady města Bc. Zdeňka Jančího případným zastupováním města\nna neodkladných jednáních a případným podpisem neodkladných materiálů.\nViktor Kohout v. r. Mgr. Lubomír Broza v. r.\nstarosta města místostarosta města",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
     "references_in": []
   },
   {
@@ -39505,6 +40386,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/1/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "ověřovatele zápisu.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/1/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -39851,6 +40746,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/10/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "přijetí dotace na základě Rozhodnutí o poskytnutí dotace z Operačního\nprogramu Životního prostředí 2021 - 2027 na projekt „Intenzifikace kalového hospodářství ČOV Litovel\ns výstavbou bioplynové stanice“ s reg. číslem: CZ.05.01.05/09/23_061/0004183 vč. spolufinancování akce,\nv předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/10/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -40150,6 +41059,20 @@
       "4.000 Kč",
       "500 Kč"
     ],
+    "references_in": []
+  },
+  {
+    "id": "ZM/11/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "Smlouvu o návratné finanční výpomoci uzavíranou mezi městem Litovel\nna straně poskytovatele a DSO Regionem Moravská cesta na straně příjemce v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
     "references_in": []
   },
   {
@@ -40515,6 +41438,38 @@
     "references_in": []
   },
   {
+    "id": "ZM/12/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s rekonstrukcí části oplocení areálu Sokolovny po celé délce v ulici Kollárova."
+      },
+      {
+        "label": "b",
+        "text": "souhlasí s rekonstrukcí vstupního schodiště do areálu Sokolovny z ulice Opletalova."
+      },
+      {
+        "label": "c",
+        "text": "souhlasí s financováním z úvěrových zdrojů od KB, a.s. na základě úvěrové smlouvy z roku 2024."
+      },
+      {
+        "label": "d",
+        "text": "schvaluje rozpočtovou změnu číslo 52/2026/ZM."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/12/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -40794,6 +41749,20 @@
         "text": "ukládá starostovi města schválenou smlouvu podepsat."
       }
     ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "ZM/13/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "Plán financování obnovy vodovodů a kanalizací - aktualizaci\nv předloženém znění.",
+    "items": [],
     "tail": null,
     "references_out": [],
     "amounts": [],
@@ -41123,6 +42092,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/14/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "nechat vypracovat paralelní zadání na budovu bývalé ZŠ Myslechovice\nve spolupráci s městským architektem. Cílem je získat architektonicko dispoziční návrh budoucího využití objektu.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/14/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -41357,6 +42340,20 @@
       "jmenuje"
     ],
     "subject": "komisi pro otevírání a hodnocení nabídek týkající se prodeje stavebních\npozemků v Litovli, lokalita Pavlínka ve složení: Mgr. L. B., Mgr. I. N. a Mgr. I. S. Jako náhradníka jmenuje\nV. K., Mgr. E. Č. a Ing. R. V.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "ZM/15/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "souhlasí"
+    ],
+    "subject": "s poskytnutím příslibu spolufinancování stavby nové loděnice v Litovli\nk případně získané dotaci Spolku TJ VS Litovel, z. s. Předpokládaná výše spolufinancování je 7,2 mil. Kč. Způsob\na podmínky spolufinancování a nakládání se vzniklým majetkem budou řešeny smluvně.",
     "items": [],
     "tail": null,
     "references_out": [],
@@ -41642,6 +42639,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/16/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "záměr bezúplatného nabytí pozemku parc.č. 835/12, orná půda, o výměře\n1 301 m2, k.ú. Litovel ve vlastnictví Státního pozemkového úřadu, do vlastnictví města Litovel.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/16/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -41864,6 +42875,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/17/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "Obecně závaznou vyhlášku o nočním klidu pro rok 2026 v předloženém\nznění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/17/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -42072,6 +43097,31 @@
     "tail": null,
     "references_out": [],
     "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "ZM/18/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "ukládá"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "ukládá vedení města předložit zastupitelstvu variantní návrh dalšího postupu, jehož cílem bude především\nzajištění bezpečnosti obyvatel a kolemjdoucích v prostoru objektu č.p. 626, ul. 1. máje."
+      },
+      {
+        "label": "b",
+        "text": "ukládá vedení města informovat zastupitelstvo o právních možnostech města při zajištění objektu, včetně\nmožnosti následného vymáhání nákladů po vlastníkovi.\nNÁVRHY, KTERÉ NEBYLY PŘIJATY\nZastupitelstvo města Litovel schvaluje předložený záměr prodeje části pozemku parc.č. 1568/1, o výměře cca\n170 m2, ost. plocha/ost. komunikace, v k.ú. Litovel, za cenu 500 Kč/m2 / za cenu dle znaleckého posudku. Veškeré\nvedlejší náklady ponese kupující.\nZastupitelstvo města Litovel souhlasí s předloženou žádostí manželů B. a G. T. na směnu pozemku parc.č. 1811/14,\nk.ú. Litovel a pro směnu doporučuje část pozemku parc.č. 856/35 / 856/53, k.ú. Litovel.\nZastupitelstvo města Litovel schvaluje záměr vyhotovení studie využitelnosti budovy bývalé ZŠ Myslechovice za\núčelem zřízení domu pro seniory s pečovatelskou službou.\nZastupitelstvo města Litovel ukládá vedení města předložit zastupitelstvu přehled všech kroků ve věci havarijního\nstavu objektu č.p. 626, ul. 1 máje, které byly městem a stavebním úřadem učiněny od doručení sdělení Krajského\núřadu Olomouckého kraje ze dne 27. 10. 2025.\nViktor Kohout v.r. Mgr. Lubomír Broza v.r.\nstarosta města místostarosta města\nPozn.: Jedná se o anonymizovaný výpis usnesení."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "500 Kč"
+    ],
     "references_in": []
   },
   {
@@ -42626,6 +43676,20 @@
       "schvaluje"
     ],
     "subject": "program jednání.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "ZM/2/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "doplněný a upravený program jednání včetně zařazení návrhu pana\nAleše Hubáčka v rozsahu bodu III.",
     "items": [],
     "tail": null,
     "references_out": [],
@@ -43804,6 +44868,37 @@
     "references_in": []
   },
   {
+    "id": "ZM/3/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí kontrolu usnesení z 23. a 24. zasedání Zastupitelstva města Litovel."
+      },
+      {
+        "label": "b",
+        "text": "bere na vědomí zápisy z jednání Finančního výboru ze dne 10. 12. 2025 a 23. 2. 2026."
+      },
+      {
+        "label": "c",
+        "text": "bere na vědomí zápis ze zasedání dozorčí rady společnosti Aktivní Litovel s.r.o. ze dne 25. 2. 2026."
+      },
+      {
+        "label": "d",
+        "text": "bere na vědomí předložené zápisy z osadních výborů."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/3/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -44387,6 +45482,30 @@
       {
         "label": "b",
         "text": "schvaluje dle důvodové zprávy rozpočtové změny 92/2025/ZM až 97/2025/ZM."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
+    "id": "ZM/4/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí důvodovou zprávu včetně příloh."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje dle důvodové zprávy a příloh rozpočtové změny 7/2026/ZM až 61/2026/ZM."
       }
     ],
     "tail": null,
@@ -45010,6 +46129,23 @@
     "references_in": []
   },
   {
+    "id": "ZM/5/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "předloženou Kupní smlouvu uzavřenou mezi městem Litovel a JSP\nMETAL SERVICES MORAVA s.r.o., IČO 01584995, zastoupeným na základě plné moci Mgr. P. P., jejímž\npředmětem je prodej nově vzniklého pozemku parc.č. 1589/5, o výměře 42 m2, ostatní plocha/jiná plocha, k.ú.\nLitovel, za cenu 500 Kč/m2, tj. 21.000 Kč vč. DPH. Veškeré vedlejší náklady hradí kupující.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "21.000 Kč",
+      "500 Kč"
+    ],
+    "references_in": []
+  },
+  {
     "id": "ZM/5/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -45452,6 +46588,33 @@
     "references_out": [],
     "amounts": [
       "900.000 Kč"
+    ],
+    "references_in": []
+  },
+  {
+    "id": "ZM/6/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí předložené zápisy z otevírání a hodnocení nabídek k prodeji pozemků v lokalitě Pavlínka II."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje předloženou Kupní smlouvu mezi městem Litovel jako prodávajícím a manželi M. V. a K. D. jako\nkupujícími, jejímž předmětem je prodej pozemku parc.č. 838/7, o výměře 1 208 m2, orná půda, k.ú. Litovel, za cenu\n2.800 Kč/m2, tj. 3.382.400 Kč vč. DPH. Vedlejší náklady hradí kupující."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "2.800 Kč",
+      "3.382.400 Kč"
     ],
     "references_in": []
   },
@@ -45910,6 +47073,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/7/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "souhlasí"
+    ],
+    "subject": "s úpravou Pravidel prodeje pozemků města Litovel – lokalita Pavlínka II.\netapa ve směru umožnění financování hypotečním úvěrem a ukládá odboru MH SI předložit návrh upravených\npravidel na příštím zastupitelstvu k projednání a schválení.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/7/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -46259,6 +47436,20 @@
     "references_in": []
   },
   {
+    "id": "ZM/8/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "přijetí dotace na základě Rozhodnutí o poskytnutí dotace z Integrovaného\nregionálního operačního programu 2021–2027 na projekt „Dopravně bezpečnostní opatření pro pěší a cyklisty podél\nsilnice II/449“ s reg. číslem CZ.06.06.01/00/22_053/0007339, včetně zajištění spolufinancování akce z rozpočtu\nměsta, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "references_in": []
+  },
+  {
     "id": "ZM/8/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -46588,6 +47779,20 @@
       "3.500 Kč",
       "500 Kč"
     ],
+    "references_in": []
+  },
+  {
+    "id": "ZM/9/25/2026",
+    "datum": "2026-03-05",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "přijetí dotace na základě Rozhodnutí o poskytnutí dotace z Operačního\nprogramu Životního prostředí 2021 - 2027 na projekt „Instalace fotovoltaické elektrárny na ČOV ve městě Litovel“\ns reg. číslem: CZ.05.01.02/01/22_011/0001420 vč. spolufinancování akce, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
     "references_in": []
   },
   {

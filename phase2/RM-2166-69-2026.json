@@ -1,0 +1,41 @@
+{
+  "id": "RM/2166/69/2026",
+  "datum": "2026-03-12",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "rozhodla",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje své usnesení č. RM/2071/67/2026 pod bodem a). Zbývající část usnesení pod bodem b) zůstává\nv platnosti."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje opakovaně, v souladu s ust. § 39 odst. 1 zákona č. 128/2000 Sb., o obcích, v platném znění, zveřejnit\nzáměr města na pronájem části pozemku parc.č. 811, trvalý travní porost, v k.ú. Litovel, lokalita Pavlínka,\no výměře 348 m2, za účelem zahrady, za cenu 2 Kč/m2/rok, na dobu neurčitou."
+    },
+    {
+      "label": "c",
+      "text": "rozhodla, že v případě nerespektování usnesení rady města č. RM/2071/68/2026, bod b), v termínu\ndo 30. 4. 2026, ze strany původního nájemce, paní O. N. z Litovle, budou náklady spojené s údržbou pozemku\nvymáhány po paní O. N. právní cestou."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "RM/2071/67/2026",
+      "type": "explicit",
+      "resolved": "RM/2071/67/2026"
+    },
+    {
+      "raw": "RM/2071/68/2026",
+      "type": "explicit",
+      "resolved": "RM/2071/68/2026"
+    }
+  ],
+  "amounts": [
+    "2 Kč"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "RM/2153/69/2026",
+  "datum": "2026-03-12",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje své usnesení č. 1963/65 ze dne 11. 12. 2025."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o budoucí smlouvě o zřízení služebnosti č. 11010-132547 mezi městem Litovel,\nna straně budoucího povinného, a společností CETIN a.s., na straně budoucího oprávněného, ve vztahu k pozemku\nparc.č. 314, k.ú. Tři Dvory u Litovle, v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "1963/65",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
+  "amounts": []
+}

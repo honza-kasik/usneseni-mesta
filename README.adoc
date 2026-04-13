@@ -10,6 +10,7 @@ Cílem je:
 - extrakce struktury usnesení,
 - resolvování vzájemných referencí,
 - vytvoření fulltextového indexu,
+- statický export do Jekyll struktury,
 - maximální reprodukovatelnost a auditovatelnost.
 
 Každá fáze je samostatný skript.
@@ -17,7 +18,7 @@ Jedno usnesení = jeden JSON soubor.
 
 == Architektura
 
-Pipeline má čtyři fáze:
+Pipeline má pět fází:
 
 [cols="1,3"]
 |===
@@ -32,6 +33,70 @@ Pipeline má čtyři fáze:
 
 |Phase 4
 |Vytvoření fulltextového indexu
+
+|Phase 5
+|Statický export do Jekyll struktury
+|===
+
+Fáze 4 a 5 jsou na sobě nezávislé – obě čerpají z výstupu fáze 3.
+
+== Pipeline skript
+
+Všechny fáze lze spustit najednou pomocí `pipeline.py`.
+
+=== Použití
+
+[source,bash]
+----
+# Celý pipeline od začátku
+python pipeline.py --pdf pdf_dir/
+
+# Přeskočit fáze 1–2 a pokračovat od fáze 3
+python pipeline.py --pdf pdf_dir/ --from-phase 3
+
+# Spustit pouze fáze 2 a 3
+python pipeline.py --pdf pdf_dir/ --from-phase 2 --to-phase 3
+
+# Vlastní pracovní adresář a výstup
+python pipeline.py --pdf pdf_dir/ --workdir moje_data/ --export vystup/
+
+# Zobrazit příkazy bez spuštění
+python pipeline.py --pdf pdf_dir/ --dry-run
+----
+
+=== Adresářová struktura
+
+[source]
+----
+pdf_dir/          ← vstupní PDF soubory (rekurzivně prohledáváno)
+work/phase1/      ← výstup fáze 1
+work/phase2/      ← výstup fáze 2
+work/phase3/      ← výstup fáze 3
+work/phase4/      ← výstup fáze 4
+export/           ← výstup fáze 5
+----
+
+=== Parametry
+
+[cols="1,3"]
+|===
+|`--pdf DIR`
+|Adresář se vstupními PDF (povinný). Prohledává se rekurzivně.
+
+|`--workdir DIR`
+|Pracovní adresář pro meziproduktová data (výchozí: `work/`)
+
+|`--export DIR`
+|Cílový adresář statického exportu (výchozí: `export/`)
+
+|`--from-phase N`
+|Začít od fáze N (výchozí: 1)
+
+|`--to-phase N`
+|Skončit po fázi N (výchozí: 5)
+
+|`--dry-run`
+|Pouze zobrazí příkazy, nespustí je
 |===
 
 == Phase 1 – Parsování PDF
@@ -40,12 +105,12 @@ Parsování PDF s usneseními Rady nebo Zastupitelstva města Litovel.
 
 === Vstup
 
-- jeden PDF soubor  
-- NEBO složka s PDF soubory  
+- jeden PDF soubor
+- NEBO složka s PDF soubory (při spuštění přes `pipeline.py` se prohledávají i podsložky rekurzivně)
 
 === Výstup
 
-- jeden JSON soubor = jedno usnesení  
+- jeden JSON soubor = jedno usnesení
 
 === Použití
 
@@ -104,7 +169,7 @@ Zpracuje JSON z Phase 1.
 
 === Co fáze dělá
 
-- extrahuje akce (např. „schvaluje“, „bere na vědomí“),
+- extrahuje akce (např. „schvaluje", „bere na vědomí"),
 - rozděluje vícepoložková usnesení na jednotlivé body,
 - odděluje `subject` (text před body) a `tail` (text za body),
 - extrahuje peněžní částky,
@@ -120,12 +185,11 @@ python phase2_resolution_analysis.py --input phase1_dir/ --output phase2_dir/
 == Phase 3 – Resolvování referencí
 
 Usnesení mohou odkazovat jedno na druhé.
-
 V této fázi se resolvují reference:
 
-- implicitní  
+- implicitní +
   např. `1853/60` → `RM/1853/60/2025`
-- explicitní  
+- explicitní +
   např. `RM/1853/60/2025`
 
 Resolvované reference:
@@ -141,7 +205,9 @@ Na závěr jsou vypsány statistiky do konzole.
 
 === Výstup
 
-- jeden JSON soubor = jedno usnesení
+- `usneseni.json` – seznam všech usnesení s rozřešenými referencemi
+- `refs_index.json` – index rozřešených referencí
+- `stats_refs.json` – statistiky resolvování
 
 === Použití
 
@@ -156,24 +222,55 @@ Vytvoří index pro fulltextové vyhledávání.
 
 === Vstup
 
-- adresář s JSON soubory ze Phase 3
+- `usneseni.json` ze Phase 3
 
 === Výstupní struktura
 
-- `index/`  
-  - jeden JSON soubor = jeden rok (fulltextový index)
-
-- `data/`  
-  - jeden JSON soubor = jeden rok (usnesení)
-
-- `meta.json`  
-  - statistická metadata (např. počty rozhodnutí za roky)
+- `index/` – jeden JSON soubor = jeden rok (fulltextový index)
+- `data/` – jeden JSON soubor = jeden rok (usnesení)
+- `meta.json` – statistická metadata (např. počty rozhodnutí za roky)
 
 === Použití
 
 [source,bash]
 ----
-python phase4_index_build.py --input phase3_dir/ --output phase4_dir/
+python phase4_index_build.py --input phase3_dir/usneseni.json --output phase4_dir/
+----
+
+== Phase 5 – Statický export
+
+Generuje statické stránky ve struktuře vhodné pro Jekyll.
+
+Vytváří:
+
+- jednotlivé stránky usnesení,
+- roční indexy,
+- `sitemap.xml`.
+
+Negeneruje hlavní stránku `/usneseni/` (ta existuje ručně).
+
+=== Vstup
+
+- `usneseni.json` ze Phase 3 (stejný vstup jako Phase 4)
+
+=== Výstupní struktura
+
+[source]
+----
+export/
+  usneseni/
+    {rok}/
+      {slug}/
+        index.html   ← stránka jednotlivého usnesení
+      index.html     ← roční přehled
+  sitemap.xml
+----
+
+=== Použití
+
+[source,bash]
+----
+python phase5_static_export.py --input phase3_dir/usneseni.json --output export_dir/
 ----
 
 == Principy návrhu

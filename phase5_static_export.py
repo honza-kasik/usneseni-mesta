@@ -46,6 +46,7 @@ import html
 
 
 BASE_URL = "https://litovle.cz"
+SEARCH_URL = "/usneseni/"
 
 
 # ============================================================
@@ -62,17 +63,25 @@ def slug_from_id(resolution_id: str) -> str:
     return resolution_id.replace("/", "-")
 
 
+def render_back_link() -> str:
+    """
+    Render a navigation link back to the search page.
+    """
+    return f'<p><a href="{SEARCH_URL}">← Zpět na vyhledávání</a></p>\n'
+
+
 def render_resolution_content(resolution: Dict) -> str:
     """
     Render the main body of a resolution as HTML.
 
     Does not include layout wrapper or metadata.
     Only renders:
+        - back-to-search link
         - subject
         - items
         - tail
     """
-    parts: List[str] = []
+    parts: List[str] = [render_back_link()]
 
     actions = resolution.get("actions", [])
     subject = resolution.get("subject")

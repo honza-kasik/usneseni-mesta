@@ -12,6 +12,7 @@ Tento modul:
     - generuje roční indexy
     - generuje sitemap.xml
     - vytváří obousměrné referenční vazby (out + in)
+    - generuje indexy jednotlivých schůzí
 
 Negeneruje:
     - hlavní stránku /usneseni/ (ta existuje ručně)
@@ -41,7 +42,8 @@ import json
 import argparse
 from pathlib import Path
 from collections import defaultdict
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Optional
+from datetime import datetime
 import html
 
 
@@ -63,12 +65,84 @@ def slug_from_id(resolution_id: str) -> str:
     return resolution_id.replace("/", "-")
 
 
+def meeting_from_id(rid: str) -> Tuple[str, str, str]:
+    """
+    Extract (organ, meeting_number, year) from resolution ID.
+
+    Example:
+        "RM/1997/66/2026" → ("RM", "66", "2026")
+    """
+    org, _, meeting, year = rid.split("/")
+    return org, meeting, year
+
+
+def format_date(d: str) -> str:
+    """
+    Convert ISO date (YYYY-MM-DD) to Czech short format (D. M.)
+    """
+    try:
+        return datetime.fromisoformat(d).strftime("%-d. %-m.")
+    except Exception:
+        return d or ""
+
+
+# ============================================================
+# NAVIGATION
+# ============================================================
+
 def render_back_link() -> str:
     """
     Render a navigation link back to the search page.
-    """
-    return f'<p><a href="{SEARCH_URL}">← Zpět na vyhledávání</a></p>\n'
 
+    Uses referrer/history for UX, but keeps a static fallback
+    for SEO and no-JS environments.
+    """
+    return """
+<p>
+  <a href="/usneseni/" id="back-link">← Zpět na vyhledávání</a>
+</p>
+
+<script>
+(function() {
+  const a = document.getElementById("back-link");
+
+  a.addEventListener("click", function(e) {
+    if (document.referrer && document.referrer.includes("/usneseni?")) {
+      e.preventDefault();
+      location.href = document.referrer;
+      return;
+    }
+
+    if (history.length > 1) {
+      e.preventDefault();
+      history.back();
+    }
+  });
+})();
+</script>
+"""
+
+
+def render_meeting_link(resolution: Dict) -> str:
+    """
+    Render link to all resolutions from the same meeting.
+    """
+    rid = resolution["id"]
+    org, meeting, year = meeting_from_id(rid)
+    url = f"/usneseni/{year}/{org}-{meeting}/"
+
+    return f'''
+<p>
+  <a href="{url}">
+    → Všechna usnesení z této schůze
+  </a>
+</p>
+'''
+
+
+# ============================================================
+# CONTENT
+# ============================================================
 
 def render_resolution_content(resolution: Dict) -> str:
     """
@@ -77,11 +151,15 @@ def render_resolution_content(resolution: Dict) -> str:
     Does not include layout wrapper or metadata.
     Only renders:
         - back-to-search link
+        - meeting link
         - subject
         - items
         - tail
     """
-    parts: List[str] = [render_back_link()]
+    parts: List[str] = [
+        render_back_link(),
+        render_meeting_link(resolution),
+    ]
 
     actions = resolution.get("actions", [])
     subject = resolution.get("subject")
@@ -219,13 +297,36 @@ def write_resolution(
 def write_year_index(
     year: str,
     entries: List[Tuple[str, str]],
+    meetings: List[Tuple[str, str, str]],
     output_root: Path
 ) -> None:
     """
-    Generate yearly index page listing all resolutions of given year.
+    Generate yearly index page listing all resolutions of given year,
+    including structured list of meetings with dates.
     """
+
     target_dir = output_root / "usneseni" / year
     target_dir.mkdir(parents=True, exist_ok=True)
+
+    # --------------------------------------------------
+    # Split meetings by organ
+    # --------------------------------------------------
+
+    rm = []
+    zm = []
+
+    for slug, url, date in meetings:
+        if slug.startswith("RM-"):
+            rm.append((slug, url, date))
+        elif slug.startswith("ZM-"):
+            zm.append((slug, url, date))
+
+    def sort_meetings(items):
+        return sorted(items, key=lambda x: int(x[0].split("-")[1]))
+
+    # --------------------------------------------------
+    # Render
+    # --------------------------------------------------
 
     lines = [
         "---",
@@ -235,12 +336,132 @@ def write_year_index(
         "---",
         "",
         f"<h1>Usnesení {year}</h1>",
+    ]
+
+    # --------------------------------------------------
+    # Meetings section
+    # --------------------------------------------------
+
+    if meetings:
+        lines += [
+            "",
+            "<h2>Schůze</h2>",
+        ]
+
+        if rm:
+            lines += [
+                "<h3>Rada města</h3>",
+                '<div class="usn-meetings">'
+            ]
+            for slug, url, date in sort_meetings(rm):
+                lines.append(
+                    f'<a href="{url}">{slug} <span class="usn-date">({format_date(date)})</span></a>'
+                )
+            lines.append("</div>")
+
+        if zm:
+            lines += [
+                "<h3>Zastupitelstvo</h3>",
+                '<div class="usn-meetings">'
+            ]
+            for slug, url, date in sort_meetings(zm):
+                lines.append(
+                    f'<a href="{url}">{slug} <span class="usn-date">({format_date(date)})</span></a>'
+                )
+            lines.append("</div>")
+
+    # --------------------------------------------------
+    # Resolutions list
+    # --------------------------------------------------
+
+    MAX_ITEMS = 20
+    recent = sorted(entries)[-MAX_ITEMS:]
+
+    lines += [
         "",
+        "<h2>Poslední usnesení</h2>",
+        '<div class="usn-recent">'
+    ]
+
+    for rid, permalink in recent:
+        lines.append(f'<a href="{permalink}">{html.escape(rid)}</a>')
+
+    lines.append("</div>")
+
+    lines += [
+        "",
+        "<h2>Všechna usnesení</h2>",
+        f'<details class="usn-all">',
+        f'<summary>Zobrazit všechna usnesení ({len(entries)})</summary>',
         "<ul>"
     ]
 
     for rid, permalink in sorted(entries):
         lines.append(f'<li><a href="{permalink}">{html.escape(rid)}</a></li>')
+
+    lines += [
+        "</ul>",
+        "</details>"
+    ]
+
+    (target_dir / "index.html").write_text(
+        "\n".join(lines),
+        encoding="utf-8"
+    )
+
+
+def write_meeting_index(
+    year: str,
+    org: str,
+    meeting: str,
+    entries: List[Tuple[str, str, Optional[str], List[str]]],
+    meta: Dict,
+    output_root: Path
+) -> None:
+    """
+    Generate index page for a single meeting using same HTML structure as search.
+    """
+
+    slug = f"{org}-{meeting}"
+    target_dir = output_root / "usneseni" / year / slug
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    organ = meta.get("organ", "")
+    datum = meta.get("datum", "")
+
+    lines = [
+        "---",
+        "layout: usneseni_meeting",
+        f"title: {organ} – schůze {meeting} ({year})",
+        f"permalink: /usneseni/{year}/{slug}/",
+        "---",
+        "",
+        f"<h1>{organ}: {meeting}. schůze</h1>",
+        f'<p class="usn-meta">{datum} • {len(entries)} usnesení</p>',
+        "",
+        '<ul class="usn-results">'
+    ]
+
+    for rid, permalink, subject, actions in sorted(entries):
+        summary = ", ".join(actions) if actions else ""
+        snippet = (subject or "").strip()
+
+        if len(snippet) > 180:
+            snippet = snippet[:177] + "…"
+
+        lines.append(f"""
+<li class="usn-result">
+  <a href="{permalink}" class="usn-card">
+    <div class="usn-head">
+      <strong>{html.escape(rid)}</strong>
+      <span class="usn-date">{html.escape(datum)}</span>
+    </div>
+
+    {f'<div class="usn-summary">{html.escape(summary)}</div>' if summary else ''}
+    {f'<div class="usn-snippet">{html.escape(snippet)}</div>' if snippet else ''}
+  </a>
+</li>
+""")
 
     lines.append("</ul>")
 
@@ -252,7 +473,7 @@ def write_year_index(
 
 def write_sitemap(urls: List[str], output_root: Path) -> None:
     """
-    Generate sitemap.xml including all resolution and yearly URLs.
+    Generate sitemap.xml including all resolution and index URLs.
     """
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -285,7 +506,8 @@ def main() -> None:
         2. Build reference graph
         3. Generate resolution pages
         4. Generate yearly indexes
-        5. Generate sitemap
+        5. Generate meeting indexes
+        6. Generate sitemap
     """
 
     parser = argparse.ArgumentParser(
@@ -322,11 +544,25 @@ def main() -> None:
             refs_in_map[target].append(source)
 
     # --------------------------------------------------
-    # Generate pages
+    # Prepare containers
     # --------------------------------------------------
 
     by_year: Dict[str, List[Tuple[str, str]]] = defaultdict(list)
+
+    by_meeting: Dict[
+        str,
+        List[Tuple[str, str, Optional[str], List[str]]]
+    ] = defaultdict(list)
+
+    by_meeting_meta: Dict[str, Dict] = {}
+
+    meetings_by_year: Dict[str, List[Tuple[str, str, str]]] = defaultdict(list)
+
     sitemap_urls: List[str] = []
+
+    # --------------------------------------------------
+    # Generate resolution pages + collect data
+    # --------------------------------------------------
 
     for resolution in data:
         if not all(k in resolution for k in ("id", "datum", "organ")):
@@ -339,16 +575,78 @@ def main() -> None:
             refs_in_map
         )
 
+        # ---------------------------
+        # Year index
+        # ---------------------------
+
         by_year[year].append((rid, permalink))
         sitemap_urls.append(permalink)
+
+        # ---------------------------
+        # Meeting index
+        # ---------------------------
+
+        org, meeting, year = meeting_from_id(rid)
+        key = f"{year}/{org}-{meeting}"
+
+        by_meeting[key].append((
+            rid,
+            permalink,
+            resolution.get("subject"),
+            resolution.get("actions", [])
+        ))
+
+        # metadata (uloží se jen jednou)
+        if key not in by_meeting_meta:
+            by_meeting_meta[key] = {
+                "organ": resolution.get("organ"),
+                "datum": resolution.get("datum"),
+            }
+
+        # ---------------------------
+        # Meetings by year (with date)
+        # ---------------------------
+
+        meeting_slug = f"{org}-{meeting}"
+        meeting_url = f"/usneseni/{year}/{meeting_slug}/"
+        meeting_date = resolution.get("datum")
+
+        if not any(slug == meeting_slug for slug, _, _ in meetings_by_year[year]):
+            meetings_by_year[year].append(
+                (meeting_slug, meeting_url, meeting_date)
+            )
 
     # --------------------------------------------------
     # Generate yearly indexes
     # --------------------------------------------------
 
     for year, entries in by_year.items():
-        write_year_index(year, entries, args.output)
+        write_year_index(
+            year,
+            entries,
+            meetings_by_year.get(year, []),
+            args.output
+        )
         sitemap_urls.append(f"/usneseni/{year}/")
+
+    # --------------------------------------------------
+    # Generate meeting indexes
+    # --------------------------------------------------
+
+    for key, entries in by_meeting.items():
+        year, rest = key.split("/")
+        org, meeting = rest.split("-")
+
+        write_meeting_index(
+            year,
+            org,
+            meeting,
+            entries,
+            by_meeting_meta[key],
+            args.output
+        )
+
+        sitemap_urls.append(f"/usneseni/{year}/{org}-{meeting}/")
 
     # --------------------------------------------------
     # Generate sitemap
@@ -359,6 +657,7 @@ def main() -> None:
     print("PHASE 5 complete ✔")
     print(f"Resolutions: {len(data)}")
     print(f"Years: {len(by_year)}")
+    print(f"Meetings: {len(by_meeting)}")
 
 
 if __name__ == "__main__":

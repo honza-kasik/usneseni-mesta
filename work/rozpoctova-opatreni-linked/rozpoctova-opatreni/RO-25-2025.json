@@ -1,0 +1,1046 @@
+{
+  "id": "RO/25/2025",
+  "number": 25,
+  "year": 2025,
+  "approval_date": "2026-01-29",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 67,
+    "type": "schůzi",
+    "date": "2026-01-29"
+  },
+  "source_resolutions": [
+    "RM/2044/67/2026"
+  ],
+  "budget_change_ids": [
+    "176/2025/RM",
+    "177/2025/RM",
+    "178/2025/RM",
+    "179/2025/RM",
+    "180/2025/RM",
+    "181/2025/RM",
+    "182/2025/RM",
+    "183/2025/RM",
+    "184/2025/RM",
+    "185/2025/RM",
+    "186/2025/RM",
+    "187/2025/RM",
+    "188/2025/RM",
+    "189/2025/RM",
+    "190/2025/RM",
+    "191/2025/RM",
+    "192/2025/RM",
+    "193/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "176/2025/RM",
+          "raw_codes": [
+            "4116",
+            "14022",
+            "2"
+          ],
+          "amount": "225 210,00",
+          "amount_value": 225210.0,
+          "description": "MV ČR - účel. inv. dotace - výdaje spojené se zajištěním zásahu jednotek SDH obcí při mimořádných událostech způsobených tl. níží BORIS (RZ 176/2025/RM)"
+        },
+        {
+          "budget_change_id": "177/2025/RM",
+          "raw_codes": [
+            "4116",
+            "29014",
+            "41"
+          ],
+          "amount": "-463 480,00",
+          "amount_value": -463480.0,
+          "description": "MZe ČR - přísp. pro TS Litovel - obnova, zajištění a výchova lesních porostů do 40 let věku (RZ 177/2025/RM)"
+        },
+        {
+          "budget_change_id": "177/2025/RM",
+          "raw_codes": [
+            "4116",
+            "29015",
+            "41"
+          ],
+          "amount": "-47 262,00",
+          "amount_value": -47262.0,
+          "description": "MZe ČR - přísp. pro TS Litovel - ekologické a k přírodě šetrné technologie při hospodaření v lesích (RZ 177/2025/RM)"
+        },
+        {
+          "budget_change_id": "178/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3053"
+          ],
+          "amount": "19 150,00",
+          "amount_value": 19150.0,
+          "description": "neinvestiční přijaté transfery (RZ 178/2025/RM)"
+        },
+        {
+          "budget_change_id": "178/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3054"
+          ],
+          "amount": "127 731,00",
+          "amount_value": 127731.0,
+          "description": "neinvestiční přijaté transfery (RZ 178/2025/RM)"
+        },
+        {
+          "budget_change_id": "179/2025/RM",
+          "raw_codes": [
+            "4171"
+          ],
+          "amount": "19 680,00",
+          "amount_value": 19680.0,
+          "description": "příjem náhrad za nezpůsobenou újmu - náhrada za úhradu pohřbu (RZ 179/2025/RM)"
+        },
+        {
+          "budget_change_id": "180/2025/RM",
+          "raw_codes": [
+            "4216",
+            "149517519",
+            "3 003 557"
+          ],
+          "amount": "-60 000,00",
+          "amount_value": -60000.0,
+          "description": "MMR ČR - účel. inv. dotace - Nasobůrky - smíšená stezka pro chodce a cyklisty (RZ 180/2025/RM)"
+        },
+        {
+          "budget_change_id": "187/2025/RM",
+          "raw_codes": [
+            "5269",
+            "2321",
+            "2",
+            "888"
+          ],
+          "amount": "856 785,00",
+          "amount_value": 856785.0,
+          "description": "přijaté peněžité neinvestiční dary - povodeň (RZ 187/2025/RM)"
+        },
+        {
+          "budget_change_id": "188/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "34 561,00",
+          "amount_value": 34561.0,
+          "description": "přijaté pojistné plnění (RZ 188/2025/RM)"
+        },
+        {
+          "budget_change_id": "188/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "897 088,00",
+          "amount_value": 897088.0,
+          "description": "přijaté pojistné plnění - povodeň (RZ 188/2025/RM)"
+        },
+        {
+          "budget_change_id": "192/2025/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "48"
+          ],
+          "amount": "64 000,00",
+          "amount_value": 64000.0,
+          "description": "MŠ Gemerská - příjem z odvodů příspěvkových org. (RZ 192/2025/RM)"
+        },
+        {
+          "budget_change_id": "192/2025/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "49"
+          ],
+          "amount": "58 764,48",
+          "amount_value": 58764.48,
+          "description": "MŠ Frištenského - příjem z odvodů příspěvkových org. (RZ 192/2025/RM)"
+        },
+        {
+          "budget_change_id": "192/2025/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "135 792,00",
+          "amount_value": 135792.0,
+          "description": "ZŠ Jungmannova- příjem z odvodů příspěvkových org. (RZ 192/2025/RM)"
+        },
+        {
+          "budget_change_id": "192/2025/RM",
+          "raw_codes": [
+            "3392",
+            "2122",
+            "44"
+          ],
+          "amount": "151 698,00",
+          "amount_value": 151698.0,
+          "description": "Městský klub Litovel - příjem z odvodů příspěvkových org. (RZ 192/2025/RM)"
+        },
+        {
+          "budget_change_id": "193/2025/RM",
+          "raw_codes": [
+            "4216",
+            "14504",
+            "13 000 286"
+          ],
+          "amount": "21 600,00",
+          "amount_value": 21600.0,
+          "description": "MV ČR - účel. inv. dotace - zajištění kyberbezpečnosti MěÚ Litovel (RZ 193/2025/RM)"
+        },
+        {
+          "budget_change_id": "178/2025/RM",
+          "raw_codes": [
+            "4121",
+            "305"
+          ],
+          "amount": "4 127 731,00",
+          "amount_value": 4127731.0,
+          "description": ") neinvestiční přijaté transfery (RZ 178/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "176/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5171",
+            "14022",
+            "2",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "225 210,00",
+          "amount_value": 225210.0,
+          "description": "MV ČR - účel. dotace BORIS - JSDH Tři Dvory - oprava hasičského auta po povodni (176/2025/RM)"
+        },
+        {
+          "budget_change_id": "177/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29014",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "-463 480,00",
+          "amount_value": -463480.0,
+          "description": "MZe ČR - příspěvek pro TS Litovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku - převod příspěvku příjemci (RZ 177/2025/RM)"
+        },
+        {
+          "budget_change_id": "177/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "-47 262,00",
+          "amount_value": -47262.0,
+          "description": "MZe ČR - příspěvek pro TS Litovel na ekologické a k přírodě šetrné technologie při hospodaření v lesích - převod příspěvku příjemci (RZ 177/2025/RM)"
+        },
+        {
+          "budget_change_id": "178/2025/RM",
+          "raw_codes": [
+            "6409",
+            "5909",
+            "14 000 000"
+          ],
+          "amount": "146 881,00",
+          "amount_value": 146881.0,
+          "description": "ostatní činnosti j.n. - ostan. neinv. výdaje (RZ 178/2025/RM)"
+        },
+        {
+          "budget_change_id": "179/2025/RM",
+          "raw_codes": [
+            "6409",
+            "5909",
+            "14 000 000"
+          ],
+          "amount": "19 680,00",
+          "amount_value": 19680.0,
+          "description": "ostatní činnosti j.n. - ostatní neinv. výdaje (RZ 179/2025/RM)"
+        },
+        {
+          "budget_change_id": "180/2025/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "149517519",
+            "309",
+            "3 003 557"
+          ],
+          "amount": "-60 000,00",
+          "amount_value": -60000.0,
+          "description": "Nasobůrky - smíšená stezka pro chodce a cyklisty - dotace (RZ 180/2025/RM)"
+        },
+        {
+          "budget_change_id": "181/2025/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "-1 235,52",
+          "amount_value": -1235.52,
+          "description": "MŠ Frištenského - neinv. provozní příspěvek (RZ 181/2025/RM)"
+        },
+        {
+          "budget_change_id": "181/2025/RM",
+          "raw_codes": [
+            "3111",
+            "5901",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "1 235,52",
+          "amount_value": 1235.52,
+          "description": "MŠ Frištenského - rezerva (RZ 181/2025/RM)"
+        },
+        {
+          "budget_change_id": "181/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-81 200,00",
+          "amount_value": -81200.0,
+          "description": "ZŠ Vítězná - neinvestiční provozní přípsvek (RZ 181/2025/RM)"
+        },
+        {
+          "budget_change_id": "181/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5901",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "81 200,00",
+          "amount_value": 81200.0,
+          "description": "ZŠ vítězná - rezerva (RZ 181/2025/RM)"
+        },
+        {
+          "budget_change_id": "181/2025/RM",
+          "raw_codes": [
+            "3141",
+            "5331",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "-110 000,00",
+          "amount_value": -110000.0,
+          "description": "ŠJ Litovel Studentů - neinvestiční příspěvek na provoz (RZ 181/2025/RM)"
+        },
+        {
+          "budget_change_id": "181/2025/RM",
+          "raw_codes": [
+            "3141",
+            "5901",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "110 000,00",
+          "amount_value": 110000.0,
+          "description": "ŠJ Litovel Studentů - rezerva (RZ 181/2025/RM)"
+        },
+        {
+          "budget_change_id": "182/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-1 690,00",
+          "amount_value": -1690.0,
+          "description": "Akselit, z.s. - dotace na přepravu členů spolku (RZ 182/2025/RM)"
+        },
+        {
+          "budget_change_id": "182/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "1 690,00",
+          "amount_value": 1690.0,
+          "description": "transfery dle rozhodnutí RM (RZ 182/2025/RM)"
+        },
+        {
+          "budget_change_id": "183/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Klub litovelského pétanque - dar na činnost klubu v roce 2025 (RZ 183/2025/RM)"
+        },
+        {
+          "budget_change_id": "183/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Spolek rodičů a přátel ZŠ Jungmannova - dotace na organizační zajištění dětského dne Minitoulky (RZ 183/2025/RM)"
+        },
+        {
+          "budget_change_id": "183/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 183/2025/RM)"
+        },
+        {
+          "budget_change_id": "184/2025/RM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-890 000,00",
+          "amount_value": -890000.0,
+          "description": "úroky z přijatých úvěrů a půjček (RZ 184/2025/RM)"
+        },
+        {
+          "budget_change_id": "185/2025/RM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90002",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "12 025,00",
+          "amount_value": 12025.0,
+          "description": "Savín - vodovod - dotace (RZ 185/2025/RM)"
+        },
+        {
+          "budget_change_id": "185/2025/RM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "527 024,51",
+          "amount_value": 527024.51,
+          "description": "Savín - vodovod - dotace (RZ 185/2025/RM)"
+        },
+        {
+          "budget_change_id": "186/2025/RM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515016",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "12 025,00",
+          "amount_value": 12025.0,
+          "description": "Kanalizace Savín + Nová Ves - dotace (RZ 186/2025/RM)"
+        },
+        {
+          "budget_change_id": "186/2025/RM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515016",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "12 025,00",
+          "amount_value": 12025.0,
+          "description": "Kanalizace Savín + Nová Ves - dotace (RZ 186/2025/RM)"
+        },
+        {
+          "budget_change_id": "186/2025/RM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "247 859,96",
+          "amount_value": 247859.96,
+          "description": "Kanalizace Savín + Nová Ves - dotace (RZ 186/2025/RM)"
+        },
+        {
+          "budget_change_id": "187/2025/RM",
+          "raw_codes": [
+            "6409",
+            "5909",
+            "14 000 000"
+          ],
+          "amount": "856 785,00",
+          "amount_value": 856785.0,
+          "description": "ostatní činnosti j.n. - ostatní neinv. výdaje j.n. (RZ 187/2025/RM)"
+        },
+        {
+          "budget_change_id": "188/2025/RM",
+          "raw_codes": [
+            "6409",
+            "5909",
+            "14 000 000"
+          ],
+          "amount": "931 649,00",
+          "amount_value": 931649.0,
+          "description": "ostatní činnosti j.n. - ostatní neinv. výdaje j.n. (RZ 188/2025/RM)"
+        },
+        {
+          "budget_change_id": "189/2025/RM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "-1 800,00",
+          "amount_value": -1800.0,
+          "description": "Nasobůrky - drobná vydání (RZ 189/2025/RM)"
+        },
+        {
+          "budget_change_id": "189/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "1 800,00",
+          "amount_value": 1800.0,
+          "description": "Nasobůrky - drobná vydání (RZ 189/2025/RM)"
+        },
+        {
+          "budget_change_id": "189/2025/RM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "-1 200,00",
+          "amount_value": -1200.0,
+          "description": "Unčovice - Sokolovna - drobná vydání (RZ 189/2025/RM)"
+        },
+        {
+          "budget_change_id": "189/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "1 200,00",
+          "amount_value": 1200.0,
+          "description": "Unčovice - drobná vydání (RZ 189/2025/RM)"
+        },
+        {
+          "budget_change_id": "190/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "-96 431,17",
+          "amount_value": -96431.17,
+          "description": "platy zam-ců v pracovním poměru .. (RZ 190/2025/RM)"
+        },
+        {
+          "budget_change_id": "190/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "96 431,17",
+          "amount_value": 96431.17,
+          "description": "SPOD (RZ 190/2025/RM)"
+        },
+        {
+          "budget_change_id": "190/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "-10 423,00",
+          "amount_value": -10423.0,
+          "description": "povinné pojistné na soc. zabezp. a .... (RZ 190/2025/RM)"
+        },
+        {
+          "budget_change_id": "190/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "10 423,00",
+          "amount_value": 10423.0,
+          "description": "SPOD (RZ 190/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3314",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "102 098,00",
+          "amount_value": 102098.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3314",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-24 498,00",
+          "amount_value": -24498.0,
+          "description": "Ostatní osobní výdaje (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3314",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "-375,00",
+          "amount_value": -375.0,
+          "description": "Povinné pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3314",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "-419,00",
+          "amount_value": -419.0,
+          "description": "Povinné pojistné na veřejné zdravotní pojištění (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5011",
+            "1 000 403"
+          ],
+          "amount": "-76 806,00",
+          "amount_value": -76806.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3315",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "16 109,00",
+          "amount_value": 16109.0,
+          "description": "Povinné pojistné na veřejné zdravotní pojištění (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3315",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "-16 109,00",
+          "amount_value": -16109.0,
+          "description": "Povinné pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3349",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "79 473,00",
+          "amount_value": 79473.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3349",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "15 742,00",
+          "amount_value": 15742.0,
+          "description": "Povinné pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3349",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "5 897,00",
+          "amount_value": 5897.0,
+          "description": "Povinné pojistné na veřejné zdravotní pojištění (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3349",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-5 300,00",
+          "amount_value": -5300.0,
+          "description": "Ostatní osobní výdaje (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5011",
+            "1 000 403"
+          ],
+          "amount": "-95 812,00",
+          "amount_value": -95812.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3412",
+            "5011",
+            "1 000 428"
+          ],
+          "amount": "46 550,00",
+          "amount_value": 46550.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3412",
+            "5032",
+            "1 000 428"
+          ],
+          "amount": "3 016,00",
+          "amount_value": 3016.0,
+          "description": "Povinné pojistné na veřejné zdravotní pojištění (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5011",
+            "1 000 403"
+          ],
+          "amount": "-56 818,00",
+          "amount_value": -56818.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3612",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "132 195,00",
+          "amount_value": 132195.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3612",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "13 865,00",
+          "amount_value": 13865.0,
+          "description": "Povinné pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3612",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "4 976,00",
+          "amount_value": 4976.0,
+          "description": "Povinné pojistné na veřejné zdravotní pojištění (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3612",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-48 000,00",
+          "amount_value": -48000.0,
+          "description": "Ostatní osobní výdaje (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5011",
+            "1 000 403"
+          ],
+          "amount": "-29 980,00",
+          "amount_value": -29980.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "-73 056,00",
+          "amount_value": -73056.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "11 700,00",
+          "amount_value": 11700.0,
+          "description": "Ostatní osobní výdaje (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "191/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "-11 700,00",
+          "amount_value": -11700.0,
+          "description": "platy zam-ců v pracovním poměru vyjma zam- ců na služebních místech (RZ 191/2025/RM)"
+        },
+        {
+          "budget_change_id": "185/2025/RM",
+          "raw_codes": [
+            "6409",
+            "5909",
+            "14",
+            "000",
+            "000"
+          ],
+          "amount": "890 000,00",
+          "amount_value": 890000.0,
+          "description": ") ostatní činnosti j.n. - ostatní neinv. výdaje j.n. (RZ 184/2025) 2310 6121 90002 311 3 003 597 12 025,00 Savín - vodovod - dotace (RZ 185/2025/RM"
+        },
+        {
+          "budget_change_id": "186/2025/RM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "303",
+            "3",
+            "003",
+            "599"
+          ],
+          "amount": "4 101 420,17",
+          "amount_value": 4101420.17,
+          "description": ") Kanalizace Savín + Nová Ves - dotace (RZ 186/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "185/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "539 049,51",
+          "amount_value": 539049.51,
+          "description": "změna stavu prostředků …. (RZ 185/2025/RM)"
+        },
+        {
+          "budget_change_id": "186/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "24 050,00",
+          "amount_value": 24050.0,
+          "description": "změna stavu prostředků …. (RZ 186/2025/RM)"
+        },
+        {
+          "budget_change_id": "186/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "4 349 280,13",
+          "amount_value": 4349280.13,
+          "description": "změna stavu prostředků …. (RZ 186/2025/RM)"
+        },
+        {
+          "budget_change_id": "193/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-21 600,00",
+          "amount_value": -21600.0,
+          "description": "změna stavu prostředků …. (RZ 193/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 176/2025/RM",
+      "text": "Dne 29.12.2025 přijalo město Litovel na svůj účet dotace od MV ČR ve výši 225 210 Kč. Finanční prostředky jsou určeny na výdaje spojené se zajištěním zásahů jednotek SDH obcí při mimořádných událostech způsobených tlakovou níží BORIS v období od 11. září 2024 do 31. prosince 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 177/2025/RM",
+      "text": "Dne 11.12.2025 schválila RM RZ 175/2025/RM týkající se účelové dotace od MZe ČR pro TS Litovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku ve výši 463 480 Kč a ekologické a přírodě šetrné technologie při hospodaření v lesích ve výši 47 262 Kč. Město Litovel obdrželo rozhodnutí o poskytnutí dotace, avšak finanční prostředky do 31.12.2025 nebyly připsány na účet města. Je nutné upravit rozpočet dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 178/2025/RM",
+      "text": "Dne 17.12.2025 obdrželo město Litovel na svůj účet finanční prostředky od obce Měrotín ve výši 19 150 Kč a od obce Mladeč ve výši 127 731 Kč za poměrnou část neinv. nákladů za rok 2025 připadající na děti, které plní předškolní vzdělávání v MŠ zřizovaných městem Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 179/2025/RM",
+      "text": "Dne 23.10.2025 obdrželo město Litovel od MMR ČR finanční prostředky ve výši 19 680 Kč jako náhradu za úhradu pohřbu."
+    },
+    {
+      "title": "Rozpočtová změna č. 180/2025/RM",
+      "text": "Dne 16.12.2025 byla provedena vratka části dotace od MMR ČR na akci Nasobůrky – smíšená stezka pro chodce a cyklisty ve výši 60 000 Kč. Je nutná úprava dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 181/2025/RM",
+      "text": "Dne 16.12.2025 přijalo město Litovel platbu od MŠ Frištenského ve výši 1 235,52 Kč. Dne 19.12.2025 a 22.12.2025 od ZŠ Vítězná v celkové výši 81 200 Kč a dne 19.12.2025 od Školní jídelny Litovel ve výši 110 000 Kč. Jedná se o vratku účelově vázaného příspěvku. Je nutná úprava dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 182/2025/RM",
+      "text": "Dne 31.12.2025 obdrželo město Litovel na svůj účet vratku dotace od Akselit, z.s. ve výši 1 690 Kč. Je nutná úprava dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 183/2025/RM",
+      "text": "Úprava poskytnutých darů a dotací z rozpočtu města dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 184/2025/RM",
+      "text": "Rozpočtová změna řešící vazby mezi výkazy města a účetními operacemi v závěru roku."
+    },
+    {
+      "title": "Rozpočtová změna č. 185/2025/RM",
+      "text": "Ve schváleném rozpočtu na rok 2025 byla rozpočtována dotační akce Savín – vodovod. V roce 2025 bylo v souladu s rozhodnutím o poskytnutí dotace označeno příslušnými účelovými znaky 7 838 955,69 Kč. Rozpočtová změna řeší předfinancování dotačních výdajů."
+    },
+    {
+      "title": "Rozpočtová změna č. 186/2025/RM",
+      "text": "Ve schváleném rozpočtu na rok 2025 byla rozpočtována dotační akce Savín + Nová Ves – splašková kanalizace. V roce 2025 bylo v souladu s rozhodnutím o poskytnutí dotace označeno příslušnými účelovými znaky 32 458 497, 29 Kč. Rozpočtová změna řeší pokrytí a předfinancování dotačních výdajů."
+    },
+    {
+      "title": "Rozpočtová změna č. 187/2025/RM",
+      "text": "V prosinci 2025 byly do rozpočtu města převedeny finanční dary z povodňové veřejné sbírky."
+    },
+    {
+      "title": "Rozpočtová změna č. 188/2025/RM",
+      "text": "JSDH Tři Dvory k dopravní nehodě (11 200 Kč) a pojistné plnění za škody způsobené povodní v září 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 189/2025/RM",
+      "text": "Pro úhradu DPP správce kulturního domu OV Nasobůrky a správce kulturního domu OV Unčovice za měsíc prosinec 2025 je požadována změna § a položky"
+    },
+    {
+      "title": "Rozpočtová změna č. 190/2025/RM",
+      "text": "ochrany dětí ve výši 3 216 611,49 Kč. Celkové náklady vzniklé v souvislosti s výkonem sociálně-právní ochrany dětí činí 3 323 465,66 Kč. Je nutné zabezpečit pokrytí výdajů."
+    },
+    {
+      "title": "Rozpočtová změna č. 191/2025/RM",
+      "text": "V rámci schváleného rozpočtu roku 2025 na platy zaměstnanců za město Litovel (IČO 00299138) je potřeba provést přesun prostředků dle skutečného čerpání na jednotlivých §."
+    },
+    {
+      "title": "Rozpočtová změna č. 192/2025/RM",
+      "text": "V průběhu prosince 2025 byly na účet města připsány platby od příspěvkových organizací. Jedná se o odvody z odpisů do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 193/2025/RM",
+      "text": "Dne 22.12.2025 přijalo město Litovel na svůj účet od MV ČR účelovou dotaci ve výši 21 600 Kč na akci Zajištění kyberbezpečnosti MěÚ Litovel. Je nutná úprava dle skutečnosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._25_2025_dne_29.1.2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 25/2025 schválené Radou města Litovel\ndne 29.1. 2026\nRozpočtové opatření bylo schváleno na 67. schůzi Rady města Litovel dne 29.1.2026 na základě usnesení\nRM/2044/67/2026.\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč\nMV ČR - účel. inv. dotace - výdaje spojené se\nzajištěním zásahu jednotek SDH obcí při\n4116 14022 2 225 210,00\nmimořádných událostech způsobených tl. níží\nBORIS (RZ 176/2025/RM)\nMZe ČR - přísp. pro TS Litovel - obnova,\n4116 29014 41 -463 480,00 zajištění a výchova lesních porostů do 40 let\nvěku (RZ 177/2025/RM)\nMZe ČR - přísp. pro TS Litovel - ekologické a\n4116 29015 41 -47 262,00 k přírodě šetrné technologie při hospodaření v\nlesích (RZ 177/2025/RM)\nneinvestiční přijaté transfery (RZ\n4121 3053 19 150,00\n178/2025/RM)\nneinvestiční přijaté transfery (RZ\n4121 3054 127 731,00\n178/2025/RM)\npříjem náhrad za nezpůsobenou újmu - náhrada\n4171 19 680,00\nza úhradu pohřbu (RZ 179/2025/RM)\nMMR ČR - účel. inv. dotace - Nasobůrky -\n4216 149517519 3 003 557 -60 000,00 smíšená stezka pro chodce a cyklisty (RZ\n180/2025/RM)\npřijaté peněžité neinvestiční dary - povodeň\n5269 2321 2 888 856 785,00\n(RZ 187/2025/RM)\n6320 2322 34 561,00 přijaté pojistné plnění (RZ 188/2025/RM)\npřijaté pojistné plnění - povodeň (RZ\n6320 2322 2 888 897 088,00\n188/2025/RM)\nMŠ Gemerská - příjem z odvodů\n3111 2122 48 64 000,00\npříspěvkových org. (RZ 192/2025/RM)\nMŠ Frištenského - příjem z odvodů\n3111 2122 49 58 764,48\npříspěvkových org. (RZ 192/2025/RM)\nZŠ Jungmannova- příjem z odvodů\n3113 2122 46 135 792,00\npříspěvkových org. (RZ 192/2025/RM)\nMěstský klub Litovel - příjem z odvodů\n3392 2122 44 151 698,00\npříspěvkových org. (RZ 192/2025/RM)\nMV ČR - účel. inv. dotace - zajištění\n4216 14504 13 000 286 21 600,00 kyberbezpečnosti MěÚ Litovel (RZ\n193/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč\nMV ČR - účel. dotace BORIS - JSDH Tři\n5512 5171 14022 2 308 15 900 000 225 210,00 Dvory - oprava hasičského auta po povodni\n(176/2025/RM)\nMZe ČR - příspěvek pro TS Litovel na\nobnovu, zajištění a výchovu lesních porostů\n3639 5336 29014 41 3 000 000 -463 480,00\ndo 40 let věku - převod příspěvku příjemci\n(RZ 177/2025/RM)\nMZe ČR - příspěvek pro TS Litovel na\nekologické a k přírodě šetrné technologie při\n3639 5336 29015 41 3 000 000 -47 262,00\nhospodaření v lesích - převod příspěvku\npříjemci (RZ 177/2025/RM)\nostatní činnosti j.n. - ostan. neinv. výdaje (RZ\n6409 5909 14 000 000 146 881,00\n178/2025/RM)\nostatní činnosti j.n. - ostatní neinv. výdaje (RZ\n6409 5909 14 000 000 19 680,00\n179/2025/RM)\nNasobůrky - smíšená stezka pro chodce a\n2219 6121 149517519 309 3 003 557 -60 000,00\ncyklisty - dotace (RZ 180/2025/RM)\nMŠ Frištenského - neinv. provozní příspěvek\n3111 5331 49 4 000 000 -1 235,52\n(RZ 181/2025/RM)\n3111 5901 49 4 000 000 1 235,52 MŠ Frištenského - rezerva (RZ 181/2025/RM)\nZŠ Vítězná - neinvestiční provozní přípsvek\n3113 5331 45 4 000 000 -81 200,00\n(RZ 181/2025/RM)\n3113 5901 45 4 000 000 81 200,00 ZŠ vítězná - rezerva (RZ 181/2025/RM)\nŠJ Litovel Studentů - neinvestiční příspěvek\n3141 5331 50 4 000 000 -110 000,00\nna provoz (RZ 181/2025/RM)\nŠJ Litovel Studentů - rezerva (RZ\n3141 5901 50 4 000 000 110 000,00\n181/2025/RM)\nAkselit, z.s. - dotace na přepravu členů spolku\n3900 5222 4 000 000 -1 690,00\n(RZ 182/2025/RM)\ntransfery dle rozhodnutí RM (RZ\n3429 5901 4 000 000 1 690,00\n182/2025/RM)\nKlub litovelského pétanque - dar na činnost\n3429 5222 4 000 000 -10 000,00\nklubu v roce 2025 (RZ 183/2025/RM)\nSpolek rodičů a přátel ZŠ Jungmannova -\n3429 5222 4 000 000 -10 000,00 dotace na organizační zajištění dětského dne\nMinitoulky (RZ 183/2025/RM)\ntransfery dle rozhodnutí RM (RZ\n3429 5901 4 000 000 20 000,00\n183/2025/RM)\núroky z přijatých úvěrů a půjček (RZ\n6310 5141 14 000 000 -890 000,00\n184/2025/RM)\nostatní činnosti j.n. - ostatní neinv. výdaje j.n.\n6409 5909 14 000 000 890 000,00\n(RZ 184/2025)\n2310 6121 90002 311 3 003 597 12 025,00 Savín - vodovod - dotace (RZ 185/2025/RM)\n2310 6121 90992 311 3 003 597 527 024,51 Savín - vodovod - dotace (RZ 185/2025/RM)\nKanalizace Savín + Nová Ves - dotace (RZ\n2321 6121 148515016 303 3 003 599 12 025,00\n186/2025/RM)\nKanalizace Savín + Nová Ves - dotace (RZ\n2321 6121 148515016 311 3 003 598 12 025,00\n186/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nKanalizace Savín + Nová Ves - dotace (RZ\n2321 6121 148515501 303 3 003 599 4 101 420,17\n186/2025/RM)\nKanalizace Savín + Nová Ves - dotace (RZ\n2321 6121 148515501 311 3 003 598 247 859,96\n186/2025/RM)\nostatní činnosti j.n. - ostatní neinv. výdaje j.n.\n6409 5909 14 000 000 856 785,00\n(RZ 187/2025/RM)\nostatní činnosti j.n. - ostatní neinv. výdaje j.n.\n6409 5909 14 000 000 931 649,00\n(RZ 188/2025/RM)\nNasobůrky - drobná vydání (RZ\n3392 5139 309 2 030 000 -1 800,00\n189/2025/RM)\nNasobůrky - drobná vydání (RZ\n3429 5021 309 2 030 000 1 800,00\n189/2025/RM)\nUnčovice - Sokolovna - drobná vydání (RZ\n3392 5139 310 2 033 465 -1 200,00\n189/2025/RM)\n3429 5021 310 2 030 000 1 200,00 Unčovice - drobná vydání (RZ 189/2025/RM)\nplaty zam-ců v pracovním poměru .. (RZ\n6171 5011 1 000 000 -96 431,17\n190/2025/RM)\n6171 5011 13024 5 000 000 96 431,17 SPOD (RZ 190/2025/RM)\npovinné pojistné na soc. zabezp. a .... (RZ\n6171 5031 1 000 000 -10 423,00\n190/2025/RM)\n6171 5031 13024 5 000 000 10 423,00 SPOD (RZ 190/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3314 5011 1 000 000 102 098,00\nců na služebních místech (RZ 191/2025/RM)\n3314 5021 1 000 000 -24 498,00 Ostatní osobní výdaje (RZ 191/2025/RM)\nPovinné pojistné na sociální zabezpečení a\n3314 5031 1 000 000 -375,00 příspěvek na státní politiku zaměstnanosti (RZ\n191/2025/RM)\nPovinné pojistné na veřejné zdravotní\n3314 5032 1 000 000 -419,00\npojištění (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3113 5011 1 000 403 -76 806,00\nců na služebních místech (RZ 191/2025/RM)\nPovinné pojistné na veřejné zdravotní\n3315 5032 1 000 000 16 109,00\npojištění (RZ 191/2025/RM)\nPovinné pojistné na sociální zabezpečení a\n3315 5031 1 000 000 -16 109,00 příspěvek na státní politiku zaměstnanosti (RZ\n191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3349 5011 1 000 000 79 473,00\nců na služebních místech (RZ 191/2025/RM)\nPovinné pojistné na sociální zabezpečení a\n3349 5031 1 000 000 15 742,00 příspěvek na státní politiku zaměstnanosti (RZ\n191/2025/RM)\nPovinné pojistné na veřejné zdravotní\n3349 5032 1 000 000 5 897,00\npojištění (RZ 191/2025/RM)\n3349 5021 1 000 000 -5 300,00 Ostatní osobní výdaje (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3113 5011 1 000 403 -95 812,00\nců na služebních místech (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3412 5011 1 000 428 46 550,00\nců na služebních místech (RZ 191/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nPovinné pojistné na sociální zabezpečení a\n3412 5031 1 000 428 7 252,00 příspěvek na státní politiku zaměstnanosti (RZ\n191/2025/RM)\nPovinné pojistné na veřejné zdravotní\n3412 5032 1 000 428 3 016,00\npojištění (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3113 5011 1 000 403 -56 818,00\nců na služebních místech (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3612 5011 1 000 000 132 195,00\nců na služebních místech (RZ 191/2025/RM)\nPovinné pojistné na sociální zabezpečení a\n3612 5031 1 000 000 13 865,00 příspěvek na státní politiku zaměstnanosti (RZ\n191/2025/RM)\nPovinné pojistné na veřejné zdravotní\n3612 5032 1 000 000 4 976,00\npojištění (RZ 191/2025/RM)\n3612 5021 1 000 000 -48 000,00 Ostatní osobní výdaje (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n3113 5011 1 000 403 -29 980,00\nců na služebních místech (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n6171 5011 1 000 000 -73 056,00\nců na služebních místech (RZ 191/2025/RM)\n6171 5021 1 000 000 11 700,00 Ostatní osobní výdaje (RZ 191/2025/RM)\nplaty zam-ců v pracovním poměru vyjma zam-\n6171 5011 1 000 000 -11 700,00\nců na služebních místech (RZ 191/2025/RM)\nostatní činnosti j.n. - ostatní neinv. výdaje j.n.\n6409 5909 14 000 000 410 254,48\n(RZ 192/2025)\nZměny ve financování:\nODPA POL UZ MU ORJ ORG Kč\n8115 539 049,51 změna stavu prostředků …. (RZ 185/2025/RM)\n8115 24 050,00 změna stavu prostředků …. (RZ 186/2025/RM)\n8115 4 349 280,13 změna stavu prostředků …. (RZ 186/2025/RM)\n8115 -21 600,00 změna stavu prostředků …. (RZ 193/2025/RM)\nRozpočtová změna č. 176/2025/RM\nDne 29.12.2025 přijalo město Litovel na svůj účet dotace od MV ČR ve výši 225 210 Kč. Finanční prostředky jsou\nurčeny na výdaje spojené se zajištěním zásahů jednotek SDH obcí při mimořádných událostech způsobených tlakovou\nníží BORIS v období od 11. září 2024 do 31. prosince 2024.\nRozpočtová změna č. 177/2025/RM\nDne 11.12.2025 schválila RM RZ 175/2025/RM týkající se účelové dotace od MZe ČR pro TS Litovel na obnovu,\nzajištění a výchovu lesních porostů do 40 let věku ve výši 463 480 Kč a ekologické a přírodě šetrné technologie při\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nhospodaření v lesích ve výši 47 262 Kč. Město Litovel obdrželo rozhodnutí o poskytnutí dotace, avšak finanční\nprostředky do 31.12.2025 nebyly připsány na účet města. Je nutné upravit rozpočet dle skutečnosti.\nRozpočtová změna č. 178/2025/RM\nDne 17.12.2025 obdrželo město Litovel na svůj účet finanční prostředky od obce Měrotín ve výši 19 150 Kč a od obce\nMladeč ve výši 127 731 Kč za poměrnou část neinv. nákladů za rok 2025 připadající na děti, které plní předškolní\nvzdělávání v MŠ zřizovaných městem Litovel.\nRozpočtová změna č. 179/2025/RM\nDne 23.10.2025 obdrželo město Litovel od MMR ČR finanční prostředky ve výši 19 680 Kč jako náhradu za úhradu\npohřbu.\nRozpočtová změna č. 180/2025/RM\nDne 16.12.2025 byla provedena vratka části dotace od MMR ČR na akci Nasobůrky – smíšená stezka pro chodce a\ncyklisty ve výši 60 000 Kč. Je nutná úprava dle skutečnosti.\nRozpočtová změna č. 181/2025/RM\nDne 16.12.2025 přijalo město Litovel platbu od MŠ Frištenského ve výši 1 235,52 Kč. Dne 19.12.2025 a 22.12.2025 od\nZŠ Vítězná v celkové výši 81 200 Kč a dne 19.12.2025 od Školní jídelny Litovel ve výši 110 000 Kč. Jedná se o vratku\núčelově vázaného příspěvku. Je nutná úprava dle skutečnosti.\nRozpočtová změna č. 182/2025/RM\nDne 31.12.2025 obdrželo město Litovel na svůj účet vratku dotace od Akselit, z.s. ve výši 1 690 Kč. Je nutná úprava\ndle skutečnosti.\nRozpočtová změna č. 183/2025/RM\nÚprava poskytnutých darů a dotací z rozpočtu města dle skutečnosti.\nRozpočtová změna č. 184/2025/RM\nRozpočtová změna řešící vazby mezi výkazy města a účetními operacemi v závěru roku.\nRozpočtová změna č. 185/2025/RM\nVe schváleném rozpočtu na rok 2025 byla rozpočtována dotační akce Savín – vodovod. V roce 2025 bylo v souladu\ns rozhodnutím o poskytnutí dotace označeno příslušnými účelovými znaky 7 838 955,69 Kč. Rozpočtová změna řeší\npředfinancování dotačních výdajů.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 186/2025/RM\nVe schváleném rozpočtu na rok 2025 byla rozpočtována dotační akce Savín + Nová Ves – splašková kanalizace. V roce\n2025 bylo v souladu s rozhodnutím o poskytnutí dotace označeno příslušnými účelovými znaky 32 458 497, 29 Kč.\nRozpočtová změna řeší pokrytí a předfinancování dotačních výdajů.\nRozpočtová změna č. 187/2025/RM\nV prosinci 2025 byly do rozpočtu města převedeny finanční dary z povodňové veřejné sbírky.\nRozpočtová změna č. 188/2025/RM\nMěsto Litovel v roce 2025 obdrželo pojistné plnění za poškozený mincovník u veřejného wc (23 361 Kč) a za výjezd\nJSDH Tři Dvory k dopravní nehodě (11 200 Kč) a pojistné plnění za škody způsobené povodní v září 2024.\nRozpočtová změna č. 189/2025/RM\nPro úhradu DPP správce kulturního domu OV Nasobůrky a správce kulturního domu OV Unčovice za měsíc prosinec\n2025 je požadována změna § a položky\nRozpočtová změna č. 190/2025/RM\nMěsto Litovel v roce 2025 obdrželo transfer na náhradu nákladů vzniklých v souvislosti s výkonem sociálně-právní\nochrany dětí ve výši 3 216 611,49 Kč. Celkové náklady vzniklé v souvislosti s výkonem sociálně-právní ochrany dětí\nčiní 3 323 465,66 Kč. Je nutné zabezpečit pokrytí výdajů.\nRozpočtová změna č. 191/2025/RM\nV rámci schváleného rozpočtu roku 2025 na platy zaměstnanců za město Litovel (IČO 00299138) je potřeba provést\npřesun prostředků dle skutečného čerpání na jednotlivých §.\nRozpočtová změna č. 192/2025/RM\nV průběhu prosince 2025 byly na účet města připsány platby od příspěvkových organizací. Jedná se o odvody z odpisů\ndo rozpočtu města.\nRozpočtová změna č. 193/2025/RM\nDne 22.12.2025 přijalo město Litovel na svůj účet od MV ČR účelovou dotaci ve výši 21 600 Kč na akci Zajištění\nkyberbezpečnosti MěÚ Litovel. Je nutná úprava dle skutečnosti.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 9.2.2026.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/2044/67/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2044/67/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "176/2025/RM",
+        "177/2025/RM",
+        "178/2025/RM",
+        "179/2025/RM",
+        "180/2025/RM",
+        "181/2025/RM",
+        "182/2025/RM",
+        "183/2025/RM",
+        "184/2025/RM",
+        "185/2025/RM",
+        "186/2025/RM",
+        "187/2025/RM",
+        "188/2025/RM",
+        "189/2025/RM",
+        "190/2025/RM",
+        "191/2025/RM",
+        "192/2025/RM",
+        "193/2025/RM"
+      ]
+    }
+  ]
+}

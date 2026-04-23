@@ -1,0 +1,65 @@
+{
+  "id": "RO/26/2025",
+  "number": 26,
+  "year": 2025,
+  "approval_date": "2026-02-19",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 68,
+    "type": "schůzi",
+    "date": "2026-02-19"
+  },
+  "source_resolutions": [
+    "RM/2132/68/2026"
+  ],
+  "budget_change_ids": [
+    "194/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "194/2025/RM",
+          "raw_codes": [
+            "4216",
+            "149517519",
+            "3 003 557"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "MMR ČR - účel. inv. dotace - Nasobůrky - smíšená stezka pro chodce a cyklisty (RZ 194/2025/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "194/2025/RM",
+          "raw_codes": [
+            "2219",
+            "5904",
+            "149517519",
+            "309",
+            "3 003 557"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Nasobůrky - smíšená stezka pro chodce a cyklisty - vratka dotace (RZ 194/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 194/2025/RM",
+      "text": "Dne 16.12.2025 byla provedena vratka části dotace od MMR ČR na akci Nasobůrky – smíšená stezka pro chodce a cyklisty ve výši 60 000 Kč. Vratka byla provedena na základě výzvy ze strany poskytovatele dotace. Tato rozpočtová změna řeší správnost použití rozpočtové skladby dle vyhlášky."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._26_2025_dne_19.2.2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 26/2025 schválené Radou města Litovel\ndne 19.2. 2026\nRozpočtové opatření bylo schváleno na 68. schůzi Rady města Litovel dne 19.2.2026 na základě usnesení\nRM/2132/68/2026.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\nMMR ČR - účel. inv. dotace - Nasobůrky - smíšená\n4216 149517519 3 003 557 60 000,00\nstezka pro chodce a cyklisty (RZ 194/2025/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\nNasobůrky - smíšená stezka pro chodce a cyklisty -\n2219 5904 149517519 309 3 003 557 60 000,00\nvratka dotace (RZ 194/2025/RM)\nRozpočtová změna č. 194/2025/RM\nDne 16.12.2025 byla provedena vratka části dotace od MMR ČR na akci Nasobůrky – smíšená stezka pro chodce a\ncyklisty ve výši 60 000 Kč. Vratka byla provedena na základě výzvy ze strany poskytovatele dotace. Tato rozpočtová\nzměna řeší správnost použití rozpočtové skladby dle vyhlášky.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 2. 3. 2026.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

@@ -1,0 +1,536 @@
+{
+  "id": "RO/6/2026",
+  "number": 6,
+  "year": 2026,
+  "approval_date": "2026-03-12",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 69,
+    "type": "schůzi",
+    "date": "2026-03-12"
+  },
+  "source_resolutions": [
+    "RM/2139/69/2016",
+    "RM/2140/69/2026",
+    "RM/2141/69/2026",
+    "RM/2142/69/2026",
+    "RM/2144/69/2026",
+    "RM/2146/69/2026",
+    "RM/2147/69/2026",
+    "RM/2149/69/2026",
+    "RM/2161/69/2026"
+  ],
+  "budget_change_ids": [
+    "53/2026/RM",
+    "54/2026/RM",
+    "55/2026/RM",
+    "56/2026/RM",
+    "57/2026/RM",
+    "58/2026/RM",
+    "59/2026/RM",
+    "60/2026/RM",
+    "61/2026/RM",
+    "62/2026/RM",
+    "63/2026/RM",
+    "64/2026/RM",
+    "65/2026/RM",
+    "66/2026/RM",
+    "67/2026/RM",
+    "68/2026/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "53/2026/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "3 645,00",
+          "amount_value": 3645.0,
+          "description": "přijaté pojistné plnění (RZ 53/2026/RM)"
+        },
+        {
+          "budget_change_id": "59/2026/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "21 605,00",
+          "amount_value": 21605.0,
+          "description": "přijaté pojistné plnění (RZ 59/2026/RM)"
+        },
+        {
+          "budget_change_id": "60/2026/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "29 818,00",
+          "amount_value": 29818.0,
+          "description": "přijaté pojistné plnění (RZ 60/2026/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "53/2026/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "3 645,00",
+          "amount_value": 3645.0,
+          "description": "Pojistné události - škody na majetku (RZ 53/2026/RM)"
+        },
+        {
+          "budget_change_id": "54/2026/RM",
+          "raw_codes": [
+            "6409",
+            "5166",
+            "1 000 000"
+          ],
+          "amount": "-128 865,00",
+          "amount_value": -128865.0,
+          "description": "Poradenské, právní služby, ostatní služby a studie (RZ 54/2026/RM)"
+        },
+        {
+          "budget_change_id": "54/2026/RM",
+          "raw_codes": [
+            "6171",
+            "5169",
+            "1 000 000"
+          ],
+          "amount": "128 865,00",
+          "amount_value": 128865.0,
+          "description": "Zajištění činnosti pověřence pro ochranu osobních údajů a role osoby odpovědné za řízení kybernetické bezpečnosti (RZ 54/2026/RM)"
+        },
+        {
+          "budget_change_id": "55/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-481 157,00",
+          "amount_value": -481157.0,
+          "description": "Unčovice - rezerva (RZ 55/2026/RM)"
+        },
+        {
+          "budget_change_id": "55/2026/RM",
+          "raw_codes": [
+            "3392",
+            "6122",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "481 157,00",
+          "amount_value": 481157.0,
+          "description": "Unčovice - Sokolovna - plynový kotel (RZ 55/2026/RM)"
+        },
+        {
+          "budget_change_id": "56/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-80 000,00",
+          "amount_value": -80000.0,
+          "description": "Unčovice - rezerva (RZ 56/2026/RM)"
+        },
+        {
+          "budget_change_id": "56/2026/RM",
+          "raw_codes": [
+            "2321",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Unčovice - čištění a monitoring dešťové kanalizace (RZ 56/2026/RM)"
+        },
+        {
+          "budget_change_id": "57/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-21 000,00",
+          "amount_value": -21000.0,
+          "description": "Unčovice - rezerva (RZ 57/2026/RM)"
+        },
+        {
+          "budget_change_id": "57/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "21 000,00",
+          "amount_value": 21000.0,
+          "description": "Unčovice - Sokolovna - renovace vnitřních prostor (RZ 57/2026/RM)"
+        },
+        {
+          "budget_change_id": "58/2026/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1 003 115"
+          ],
+          "amount": "-3 060,00",
+          "amount_value": -3060.0,
+          "description": "DSO Region Moravská cesta - členský příspěvek (RZ 58/2026/RM)"
+        },
+        {
+          "budget_change_id": "58/2026/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1 004 125"
+          ],
+          "amount": "-4 410,00",
+          "amount_value": -4410.0,
+          "description": "Sdružení obcí střední Moravy - členský příspěvek (RZ 58/2026/RM)"
+        },
+        {
+          "budget_change_id": "58/2026/RM",
+          "raw_codes": [
+            "6409",
+            "5166",
+            "1 000 000"
+          ],
+          "amount": "7 470,00",
+          "amount_value": 7470.0,
+          "description": "poradenské, právní služby, ostatní služby a studie (RZ 58/2026/RM)"
+        },
+        {
+          "budget_change_id": "59/2026/RM",
+          "raw_codes": [
+            "2219",
+            "5171",
+            "3 003 456"
+          ],
+          "amount": "21 605,00",
+          "amount_value": 21605.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 59/2026/RM)"
+        },
+        {
+          "budget_change_id": "61/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 61/2026/RM)"
+        },
+        {
+          "budget_change_id": "61/2026/RM",
+          "raw_codes": [
+            "4350",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Domov Turovice, z.ú. - dar na podporu činnosti v roce 2026 (RZ 61/2026/RM)"
+        },
+        {
+          "budget_change_id": "62/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 62/2026/RM)"
+        },
+        {
+          "budget_change_id": "62/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "pobočný spolek Českého svazu ochránců přírody Litovel - dar na podporu činnosti spolku v roce 2026 (RZ 62/2026/RM)"
+        },
+        {
+          "budget_change_id": "63/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 63/2026/RM)"
+        },
+        {
+          "budget_change_id": "63/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "R.Š. - dar na organizační zajištění kulturní akce s názvem \"1. máj v Parku Míru 2026\" (RZ 63/2026/RM)"
+        },
+        {
+          "budget_change_id": "64/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 64/2026/RM)"
+        },
+        {
+          "budget_change_id": "64/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Na Pavlínce, z.s. - dotace na podporu činnosti spolku v roce 2026 (RZ 64/2026/RM)"
+        },
+        {
+          "budget_change_id": "65/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 65/2026/RM)"
+        },
+        {
+          "budget_change_id": "65/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5213",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "Spolkovna s.r.o. - dar na pořádání workshopů pro děti a mládež v Kavka kavárně v roce 2026 (RZ 65/2026/RM)"
+        },
+        {
+          "budget_change_id": "65/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5213",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "Spolkovna s.r.o. - dar na pořádání komorních koncertů a přednášek v Kavka kavárně v roce 2026 (RZ 65/2026/RM)"
+        },
+        {
+          "budget_change_id": "66/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 66/2026/RM)"
+        },
+        {
+          "budget_change_id": "66/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "K.H. - dar na organizační zajištění hudebních odpolední s interaktivními prvky ve formě tance a hudebního spolutvoření, které se uskuteční v roce 2026 (RZ 66/2026/RM)"
+        },
+        {
+          "budget_change_id": "67/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 67/2026/RM)"
+        },
+        {
+          "budget_change_id": "67/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Spolek rodičů a přátel Základní školy Litovel, Jungmannova 655, okres Olomouc - dotace na organizační zajištění \"Dětského dne\" a \"Minitoulek\", který se uskuteční 6. června 2026 (RZ 67/2026/RM)"
+        },
+        {
+          "budget_change_id": "68/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 68/2026/RM)"
+        },
+        {
+          "budget_change_id": "68/2026/RM",
+          "raw_codes": [
+            "3900",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "M.S. - dotace na podporu vydání knihy novel SOKL! (RZ 68/2026/RM)"
+        },
+        {
+          "budget_change_id": "60/2026/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3",
+            "003",
+            "559"
+          ],
+          "amount": "29 818,00",
+          "amount_value": 29818.0,
+          "description": ") Pojistné události - škody na majetku (RZ 60/2026/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 53/2026/RM",
+      "text": "Dne 18.2.2026 přijalo město Litovel na svůj účet od Kooperativy pojistné plnění ve výši 3 645,00 Kč. Pojistné plnění se týká poškozeného ostrůvku ve Třech Dvorech při dopravní nehodě."
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2026/RM",
+      "text": "V měsících lednu a únoru byly uhrazeny faktury související se zajištěním činnosti pověřence pro ochranu osobních údajů a role osoby odpovědné za řízení kybernetické bezpečnosti. U těchto faktur byl zvolen odpa 6409. Je nutné přesunout tyto výdaje na odpovídající odpa."
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2026/RM",
+      "text": "Dne 4.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2026/RM",
+      "text": "Dne 4.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 57/2026/RM",
+      "text": "Dne 4.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 58/2026/RM",
+      "text": "V měsících lednu a únoru byla uhrazeny členské příspěvky DSO Regionu Moravská cesta ve výši 186 940,00 Kč (rozpočtováno 190 000 Kč) a Sdružení obcí střední Moravy ve výši 85 590,00 Kč (rozpočtováno 90 000 Kč). Tato rozpočtová změna řeší úpravu těchto výdajů dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 59/2026/RM",
+      "text": "Dne 4.3.2026 obdrželo město Litovel pojistné plnění od Hasičské vzájemné pojišťovny ve výši 21 605,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 60/2026/RM",
+      "text": "Dne 5.3.2026 přijalo město Litovel na svůj účet pojistné plnění od Kooperativy ve výši 29 818,00 Kč. Pojistné plnění se týká poškozeného veřejného osvětlení ve Vísce."
+    },
+    {
+      "title": "Rozpočtová změna č. 61/2026/RM – Rozpočtová změna č. 68/2026/RM",
+      "text": "Dary a dotace poskytnuté na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._6_2026_dne_12._brezna_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 6/2026 schválené Radou města Litovel\ndne 12. března 2026\nRozpočtové opatření bylo schváleno na 69. schůzi Rady města Litovel dne 12. března 2026 na základě usnesení\nRM/2139/69/2016, RM/2140/69/2026, RM/2141/69/2026, RM/2142/69/2026, RM/2144/69/2026, RM/2146/69/2026,\nRM/2147/69/2026, RM/2149/69/2026, RM/2161/69/2026.\nZměny v příjmech:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč\n6320 2322 3 645,00 přijaté pojistné plnění (RZ 53/2026/RM)\n6320 2322 21 605,00 přijaté pojistné plnění (RZ 59/2026/RM)\n6320 2322 29 818,00 přijaté pojistné plnění (RZ 60/2026/RM)\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč\nPojistné události - škody na majetku\n2212 5171 3 003 559 3 645,00\n(RZ 53/2026/RM)\nPoradenské, právní služby, ostatní\n6409 5166 1 000 000 -128 865,00\nslužby a studie (RZ 54/2026/RM)\nZajištění činnosti pověřence pro\nochranu osobních údajů a role osoby\n6171 5169 1 000 000 128 865,00\nodpovědné za řízení kybernetické\nbezpečnosti (RZ 54/2026/RM)\n3639 5901 310 2 030 000 -481 157,00 Unčovice - rezerva (RZ 55/2026/RM)\nUnčovice - Sokolovna - plynový kotel\n3392 6122 310 2 033 465 481 157,00\n(RZ 55/2026/RM)\n3639 5901 310 2 030 000 -80 000,00 Unčovice - rezerva (RZ 56/2026/RM)\nUnčovice - čištění a monitoring\n2321 5169 310 2 030 000 80 000,00\ndešťové kanalizace (RZ 56/2026/RM)\n3639 5901 310 2 030 000 -21 000,00 Unčovice - rezerva (RZ 57/2026/RM)\nUnčovice - Sokolovna - renovace\n3392 5171 310 2 033 465 21 000,00\nvnitřních prostor (RZ 57/2026/RM)\nDSO Region Moravská cesta - členský\n6409 5329 1 003 115 -3 060,00\npříspěvek (RZ 58/2026/RM)\nSdružení obcí střední Moravy -\n6409 5329 1 004 125 -4 410,00\nčlenský příspěvek (RZ 58/2026/RM)\nporadenské, právní služby, ostatní\n6409 5166 1 000 000 7 470,00\nslužby a studie (RZ 58/2026/RM)\nopravy, údržba a rekonstrukce\n2219 5171 3 003 456 21 605,00 místních komunikací a chodníků (RZ\n59/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nPojistné události - škody na majetku\n3631 5171 3 003 559 29 818,00\n(RZ 60/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -5 000,00\n(RZ 61/2026/RM)\nDomov Turovice, z.ú. - dar na\n4350 5221 4 000 000 5 000,00 podporu činnosti v roce 2026 (RZ\n61/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -5 000,00\n(RZ 62/2026/RM)\npobočný spolek Českého svazu\nochránců přírody Litovel - dar na\n3429 5222 4 000 000 5 000,00\npodporu činnosti spolku v roce 2026\n(RZ 62/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -5 000,00\n(RZ 63/2026/RM)\nR.Š. - dar na organizační zajištění\n3429 5499 4 000 000 5 000,00 kulturní akce s názvem \"1. máj v\nParku Míru 2026\" (RZ 63/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -10 000,00\n(RZ 64/2026/RM)\nNa Pavlínce, z.s. - dotace na podporu\n3429 5222 4 000 000 10 000,00 činnosti spolku v roce 2026 (RZ\n64/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -5 000,00\n(RZ 65/2026/RM)\nSpolkovna s.r.o. - dar na pořádání\nworkshopů pro děti a mládež v Kavka\n3429 5213 4 000 000 2 500,00\nkavárně v roce 2026 (RZ\n65/2026/RM)\nSpolkovna s.r.o. - dar na pořádání\nkomorních koncertů a přednášek v\n3429 5213 4 000 000 2 500,00\nKavka kavárně v roce 2026 (RZ\n65/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -2 500,00\n(RZ 66/2026/RM)\nK.H. - dar na organizační zajištění\nhudebních odpolední s interaktivními\n3429 5499 4 000 000 2 500,00 prvky ve formě tance a hudebního\nspolutvoření, které se uskuteční v roce\n2026 (RZ 66/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -10 000,00\n(RZ 67/2026/RM)\nSpolek rodičů a přátel Základní školy\nLitovel, Jungmannova 655, okres\nOlomouc - dotace na organizační\n3429 5222 4 000 000 10 000,00\nzajištění \"Dětského dne\" a\n\"Minitoulek\", který se uskuteční 6.\nčervna 2026 (RZ 67/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -20 000,00\n(RZ 68/2026/RM)\nM.S. - dotace na podporu vydání\n3900 5499 4 000 000 20 000,00\nknihy novel SOKL! (RZ 68/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 53/2026/RM\nDne 18.2.2026 přijalo město Litovel na svůj účet od Kooperativy pojistné plnění ve výši 3 645,00 Kč. Pojistné plnění\nse týká poškozeného ostrůvku ve Třech Dvorech při dopravní nehodě.\nRozpočtová změna č. 54/2026/RM\nV měsících lednu a únoru byly uhrazeny faktury související se zajištěním činnosti pověřence pro ochranu osobních\núdajů a role osoby odpovědné za řízení kybernetické bezpečnosti. U těchto faktur byl zvolen odpa 6409. Je nutné\npřesunout tyto výdaje na odpovídající odpa.\nRozpočtová změna č. 55/2026/RM\nDne 4.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 56/2026/RM\nDne 4.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 57/2026/RM\nDne 4.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 58/2026/RM\nV měsících lednu a únoru byla uhrazeny členské příspěvky DSO Regionu Moravská cesta ve výši 186 940,00 Kč\n(rozpočtováno 190 000 Kč) a Sdružení obcí střední Moravy ve výši 85 590,00 Kč (rozpočtováno 90 000 Kč). Tato\nrozpočtová změna řeší úpravu těchto výdajů dle skutečnosti.\nRozpočtová změna č. 59/2026/RM\nDne 4.3.2026 obdrželo město Litovel pojistné plnění od Hasičské vzájemné pojišťovny ve výši 21 605,00 Kč.\nRozpočtová změna č. 60/2026/RM\nDne 5.3.2026 přijalo město Litovel na svůj účet pojistné plnění od Kooperativy ve výši 29 818,00 Kč. Pojistné plnění\nse týká poškozeného veřejného osvětlení ve Vísce.\nRozpočtová změna č. 61/2026/RM – Rozpočtová změna č. 68/2026/RM\nDary a dotace poskytnuté na základě žádosti.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 23.3.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/2139/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2140/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2141/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2142/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2144/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2146/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2147/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2149/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2161/69/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2161/69/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "53/2026/RM",
+        "54/2026/RM",
+        "55/2026/RM",
+        "56/2026/RM",
+        "57/2026/RM",
+        "58/2026/RM",
+        "59/2026/RM",
+        "60/2026/RM"
+      ]
+    }
+  ]
+}

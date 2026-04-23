@@ -5,11 +5,13 @@
 Pipeline – spustí všechny fáze zpracování usnesení za sebou.
 
 Výchozí adresářová struktura (lze přepsat argumenty):
-  pdf_dir/          ← vstupní PDF soubory (povinné)
+  pdf_dir/          ← vstupní PDF soubory pro usnesení
   work/phase1/      ← výstup fáze 1
   work/phase2/      ← výstup fáze 2
   work/phase3/      ← výstup fáze 3
   work/phase4/      ← výstup fáze 4
+  work/rozpoctova-opatreni/        ← parsovaná rozpočtová opatření
+  work/rozpoctova-opatreni-linked/ ← propojení opatření s usneseními
   export/           ← výstup fáze 5 (statický export)
 
 Použití:
@@ -24,6 +26,12 @@ Použití:
 
   # Vlastní pracovní adresář
   python pipeline.py --pdf pdf_dir/ --workdir moje_data/ --export vystup/
+
+  # Doplnit rozpočtová opatření a propojit je s usneseními
+  python pipeline.py --from-phase 6 --to-phase 7
+
+  # Doplnit rozpočtová opatření, propojit a přegenerovat statický export z propojených dat
+  python pipeline.py --from-phase 6 --to-phase 8
 """
 
 import argparse
@@ -89,27 +97,49 @@ def run_phase(name: str, cmd: list[str]) -> bool:
         return False
 
 
-def collect_pdf_dirs(root: Path) -> list[Path]:
+def _is_relative_to(path: Path, parent: Path) -> bool:
+    try:
+        path.relative_to(parent)
+        return True
+    except ValueError:
+        return False
+
+
+def collect_pdf_dirs(root: Path, exclude: list[Path] | None = None) -> list[Path]:
     """
     Rekurzivně projde root a vrátí seznam adresářů, které přímo obsahují
     alespoň jeden *.pdf soubor. Zahrnuje i samotný root.
     """
+    exclude_resolved = [p.resolve() for p in (exclude or [])]
     dirs = []
     for d in sorted(root.rglob("*")):
+        d_resolved = d.resolve()
+        if any(_is_relative_to(d_resolved, e) for e in exclude_resolved):
+            continue
         if d.is_dir() and any(d.glob("*.pdf")):
             dirs.append(d)
     # také root sám, pokud obsahuje PDF přímo
-    if any(root.glob("*.pdf")) and root not in dirs:
+    root_resolved = root.resolve()
+    if (
+        not any(_is_relative_to(root_resolved, e) for e in exclude_resolved)
+        and any(root.glob("*.pdf"))
+        and root not in dirs
+    ):
         dirs.insert(0, root)
     return dirs
 
 
-def run_phase1_recursive(pdf_dir: Path, phase1: Path, dry_run: bool) -> bool:
+def run_phase1_recursive(
+    pdf_dir: Path,
+    phase1: Path,
+    dry_run: bool,
+    exclude: list[Path] | None = None,
+) -> bool:
     """
     Spustí phase1_parse_pdf.py pro každý podadresář (i root), který obsahuje PDF.
     Všechny výstupy jdou do stejného phase1/ adresáře.
     """
-    dirs = collect_pdf_dirs(pdf_dir)
+    dirs = collect_pdf_dirs(pdf_dir, exclude=exclude)
 
     if not dirs:
         failure(f"Žádné PDF soubory nenalezeny v {pdf_dir} ani jejích podadresářích")
@@ -141,7 +171,7 @@ def run_phase1_recursive(pdf_dir: Path, phase1: Path, dry_run: bool) -> bool:
 # Definice fází
 # ──────────────────────────────────────────────
 
-def build_phases(pdf_dir: Path, workdir: Path, export_dir: Path) -> list[dict]:
+def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Path) -> list[dict]:
     """
     Vrátí seznam fází. Každá fáze je slovník:
       number  – číslo fáze (int)
@@ -154,6 +184,8 @@ def build_phases(pdf_dir: Path, workdir: Path, export_dir: Path) -> list[dict]:
     phase2 = workdir / "phase2"
     phase3 = workdir / "phase3"
     phase4 = workdir / "phase4"
+    ro = workdir / "rozpoctova-opatreni"
+    ro_linked = workdir / "rozpoctova-opatreni-linked"
 
     return [
         {
@@ -207,6 +239,50 @@ def build_phases(pdf_dir: Path, workdir: Path, export_dir: Path) -> list[dict]:
             "output_check": lambda: export_dir.exists() and any(export_dir.iterdir()),
             "output_hint": str(export_dir),
         },
+        {
+            "number": 6,
+            "name": "Fáze 6 – parsování rozpočtových opatření",
+            "cmd": lambda: [
+                sys.executable, "parse_rozpoctova_opatreni.py",
+                str(ro_pdf_dir),
+                str(ro),
+            ],
+            "output_check": lambda: ro.exists() and any(ro.glob("*.json")),
+            "output_hint": str(ro),
+            "requires_ro_pdf": True,
+        },
+        {
+            "number": 7,
+            "name": "Fáze 7 – propojení rozpočtových opatření s usneseními",
+            "cmd": lambda: [
+                sys.executable, "crosslink_rozpoctova_opatreni.py",
+                "--resolutions", str(phase3 / "usneseni.json"),
+                "--opatreni", str(ro),
+                "--output", str(ro_linked),
+            ],
+            "output_check": lambda: (
+                (ro_linked / "usneseni.json").exists()
+                and (ro_linked / "budget_change_index.json").exists()
+                and (ro_linked / "stats.json").exists()
+                and (ro_linked / "rozpoctova-opatreni").exists()
+            ),
+            "output_hint": str(ro_linked),
+        },
+        {
+            "number": 8,
+            "name": "Fáze 8 – statický export z propojených dat",
+            "cmd": lambda: [
+                sys.executable, "phase5_static_export.py",
+                "--input", str(ro_linked / "usneseni.json"),
+                "--opatreni", str(ro_linked / "rozpoctova-opatreni"),
+                "--output", str(export_dir),
+            ],
+            "output_check": lambda: (
+                (export_dir / "usneseni").exists()
+                and (export_dir / "rozpoctova-opatreni" / "index.html").exists()
+            ),
+            "output_hint": str(export_dir),
+        },
     ]
 
 
@@ -221,8 +297,12 @@ def main():
         epilog=__doc__,
     )
     ap.add_argument(
-        "--pdf", type=Path, required=True, metavar="DIR",
-        help="Adresář se vstupními PDF soubory"
+        "--pdf", type=Path, metavar="DIR",
+        help="Adresář se vstupními PDF soubory usnesení (povinný jen při spuštění fáze 1)"
+    )
+    ap.add_argument(
+        "--ro-pdf", type=Path, default=Path("resources/rozpoctova-opatreni"), metavar="DIR",
+        help="Adresář s PDF rozpočtových opatření (výchozí: resources/rozpoctova-opatreni)"
     )
     ap.add_argument(
         "--workdir", type=Path, default=Path("work"), metavar="DIR",
@@ -238,7 +318,7 @@ def main():
     )
     ap.add_argument(
         "--to-phase", type=int, default=5, metavar="N",
-        help="Skončit po fázi N (výchozí: 5)"
+        help="Skončit po fázi N (výchozí: 5; rozpočtová opatření jsou fáze 6–8)"
     )
     ap.add_argument(
         "--dry-run", action="store_true",
@@ -246,24 +326,34 @@ def main():
     )
     args = ap.parse_args()
 
-    # Validace
-    if not args.pdf.exists():
-        failure(f"Adresář s PDF neexistuje: {args.pdf}")
-        sys.exit(1)
-
-    if not (1 <= args.from_phase <= 5 and 1 <= args.to_phase <= 5):
-        failure("--from-phase a --to-phase musí být v rozmezí 1–5")
+    if not (1 <= args.from_phase <= 8 and 1 <= args.to_phase <= 8):
+        failure("--from-phase a --to-phase musí být v rozmezí 1–8")
         sys.exit(1)
 
     if args.from_phase > args.to_phase:
         failure("--from-phase nesmí být větší než --to-phase")
         sys.exit(1)
 
-    phases = build_phases(args.pdf, args.workdir, args.export)
+    if args.from_phase <= 1 <= args.to_phase:
+        if args.pdf is None:
+            failure("--pdf je povinný při spuštění fáze 1")
+            sys.exit(1)
+        if not args.pdf.exists():
+            failure(f"Adresář s PDF neexistuje: {args.pdf}")
+            sys.exit(1)
+
+    phases = build_phases(args.pdf, args.ro_pdf, args.workdir, args.export)
     selected = [p for p in phases if args.from_phase <= p["number"] <= args.to_phase]
 
+    if any(p.get("requires_ro_pdf") for p in selected) and not args.ro_pdf.exists():
+        failure(f"Adresář s PDF rozpočtových opatření neexistuje: {args.ro_pdf}")
+        sys.exit(1)
+
     print(f"\n{BOLD}Pipeline usnesení města Litovel{RESET}")
-    print(f"  PDF vstup : {args.pdf}")
+    if args.pdf is not None:
+        print(f"  PDF vstup : {args.pdf}")
+    if any(p["number"] >= 6 for p in selected):
+        print(f"  RO PDF    : {args.ro_pdf}")
     print(f"  Pracovní  : {args.workdir}")
     print(f"  Export    : {args.export}")
     print(f"  Fáze      : {args.from_phase} – {args.to_phase}")
@@ -277,7 +367,12 @@ def main():
         header(phase["name"])
 
         if phase.get("recursive_phase1"):
-            ok = run_phase1_recursive(args.pdf, args.workdir / "phase1", args.dry_run)
+            ok = run_phase1_recursive(
+                args.pdf,
+                args.workdir / "phase1",
+                args.dry_run,
+                exclude=[args.ro_pdf],
+            )
         else:
             cmd = phase["cmd"]()
             if args.dry_run:

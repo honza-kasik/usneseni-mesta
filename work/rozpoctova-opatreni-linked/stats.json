@@ -1,0 +1,18 @@
+{
+  "total_resolutions": 2583,
+  "total_opatreni": 9,
+  "budget_change_ids": 162,
+  "approval_links": 29,
+  "budget_change_links": 155,
+  "corrected_source_resolutions": [
+    {
+      "raw": "RM/2139/69/2016",
+      "resolved": "RM/2139/69/2026",
+      "reason": "unique_matching_resolution_number_and_meeting",
+      "opatreni_id": "RO/6/2026"
+    }
+  ],
+  "unresolved_source_resolutions": [],
+  "resolutions_with_budget_change_links": 11,
+  "opatreni_with_resolution_links": 9
+}

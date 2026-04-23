@@ -1,0 +1,1048 @@
+{
+  "id": "RO/2/2026",
+  "number": 2,
+  "year": 2026,
+  "approval_date": "2026-01-29",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 67,
+    "type": "schůzi",
+    "date": "2026-01-29"
+  },
+  "source_resolutions": [
+    "RM/2023/67/2026",
+    "RM/2024/67/2026",
+    "RM/2025/67/2026",
+    "RM/2027/67/2026",
+    "RM/2028/67/2026",
+    "RM/2029/67/2026",
+    "RM/2045/67/2026"
+  ],
+  "budget_change_ids": [
+    "1/2026/RM",
+    "10/2026/RM",
+    "11/2026/RM",
+    "12/2026/RM",
+    "13/2026/RM",
+    "14/2026/RM",
+    "15/2026/RM",
+    "16/2026/RM",
+    "17/2026/RM",
+    "18/2026/RM",
+    "19/2026/RM",
+    "2/2026/RM",
+    "20/2026/RM",
+    "21/2026/RM",
+    "22/2026/RM",
+    "23/2026/RM",
+    "24/2026/RM",
+    "25/2026/RM",
+    "26/2026/RM",
+    "27/2026/RM",
+    "28/2026/RM",
+    "29/2026/RM",
+    "3/2026/RM",
+    "30/2026/RM",
+    "31/2026/RM",
+    "32/2026/RM",
+    "33/2026/RM",
+    "34/2026/RM",
+    "35/2026/RM",
+    "36/2026/RM",
+    "37/2026/RM",
+    "38/2026/RM",
+    "39/2026/RM",
+    "4/2026/RM",
+    "40/2026/RM",
+    "41/2026/RM",
+    "5/2026/RM",
+    "6/2026/RM",
+    "7/2026/RM",
+    "8/2026/RM",
+    "9/2026/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "4/2026/RM",
+          "raw_codes": [
+            "4116",
+            "29014",
+            "41"
+          ],
+          "amount": "463 480,00",
+          "amount_value": 463480.0,
+          "description": "MZe ČR - účelová dotace pro TS Litovel - obnova, zajištění a výchova lesních porostů do 40 let věku (RZ 4/2026/RM)"
+        },
+        {
+          "budget_change_id": "4/2026/RM",
+          "raw_codes": [
+            "4116",
+            "29015",
+            "41"
+          ],
+          "amount": "47 262,00",
+          "amount_value": 47262.0,
+          "description": "MZe ČR - účelová dotace pro TS Litovel - ekologické a k přírodě šetrné technologie při hospodaření v lesích (RZ 4/2026/RM)"
+        },
+        {
+          "budget_change_id": "5/2026/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "66 000,00",
+          "amount_value": 66000.0,
+          "description": "MPSV ČR - účelová neinvestiční dotace - příspěvek na výkon pěstounské péče (RZ 5/2026/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-210 221,00",
+          "amount_value": -210221.0,
+          "description": "Myslechovice - rezerva (RZ 1/2026/RM)"
+        },
+        {
+          "budget_change_id": "1/2026/RM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "210 221,00",
+          "amount_value": 210221.0,
+          "description": "Myslechovice - oprava kaple (RZ 1/2026/RM)"
+        },
+        {
+          "budget_change_id": "2/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-95 396,00",
+          "amount_value": -95396.0,
+          "description": "Březové - rezerva (RZ 2/2026/RM)"
+        },
+        {
+          "budget_change_id": "2/2026/RM",
+          "raw_codes": [
+            "3412",
+            "5169",
+            "305",
+            "2 033 470"
+          ],
+          "amount": "95 396,00",
+          "amount_value": 95396.0,
+          "description": "Březové - úprava travnaté plochy - hřiště (RZ 2/2026/RM)"
+        },
+        {
+          "budget_change_id": "3/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "-80 000,00",
+          "amount_value": -80000.0,
+          "description": "Chořelice - rezerva (RZ 3/2026/RM)"
+        },
+        {
+          "budget_change_id": "3/2026/RM",
+          "raw_codes": [
+            "3326",
+            "5169",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Chořelice - oprava kaple - PD (RZ 3/2026/RM)"
+        },
+        {
+          "budget_change_id": "4/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29014",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "463 480,00",
+          "amount_value": 463480.0,
+          "description": "MZe ČR - účelová dotace pro TS Litovel - obnova, zajištění a výchova lesních porostů do 40 let věku - převod dotace příjemci (RZ 4/2026/RM)"
+        },
+        {
+          "budget_change_id": "4/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "47 262,00",
+          "amount_value": 47262.0,
+          "description": "MZe ČR - účelová dotace pro TS Litovel - ekologické a k přírodě šetrné technologie při hospodaření v lesích - převod dotace příjemci (RZ 4/2026/RM)"
+        },
+        {
+          "budget_change_id": "5/2026/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 536"
+          ],
+          "amount": "66 000,00",
+          "amount_value": 66000.0,
+          "description": "MPSV ČR - účelová neinvestiční dotace - příspěvek na výkon pěstounské péče - čerpání (RZ 5/2026/RM)"
+        },
+        {
+          "budget_change_id": "6/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 6/2026/RM)"
+        },
+        {
+          "budget_change_id": "6/2026/RM",
+          "raw_codes": [
+            "4357",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Diakonie ČCE - středisko v Sobotíně - dar na podporu činnosti diakonie v roce 2026 (RZ 6/2026/RM)"
+        },
+        {
+          "budget_change_id": "7/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 7/2026/RM)"
+        },
+        {
+          "budget_change_id": "7/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "Ing. L.K. - dar na organizační zajištění maškarního karnevalu pro děti MŠ, který se bude konat 15.2.2026 v Sokolovně v Unčovicích (RZ 7/2026/RM)"
+        },
+        {
+          "budget_change_id": "8/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "J.K. - dar na uhrazení nákladů spojených s účastí T.Š. na 55. mistrovství světa INTERSTENO v Liverpoolu v červenci 2026 (RZ 8/2026/RM)"
+        },
+        {
+          "budget_change_id": "9/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 9/2026/RM)"
+        },
+        {
+          "budget_change_id": "9/2026/RM",
+          "raw_codes": [
+            "3231",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Základní umělecká škola Litovel - dotace na úhradu nákladů spojených s účastí žáků ZUŠ na soutěžích během roku v různých místech republiky a na akci Oživlý Svatoján (RZ 9/2026/RM)"
+        },
+        {
+          "budget_change_id": "10/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 10/2026/RM)"
+        },
+        {
+          "budget_change_id": "10/2026/RM",
+          "raw_codes": [
+            "4359",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Klíč - centrum sociálních služeb, příspěvková organizace - dar na provozní náklady centra v roce 2026 (RZ 10/2026/RM)"
+        },
+        {
+          "budget_change_id": "11/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-200 000,00",
+          "amount_value": -200000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 11/2026/RM)"
+        },
+        {
+          "budget_change_id": "11/2026/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Akselit z.s. - dotace na přepravu členů spolku - seniorů nad 65 let a osob s omezenou schopností pohybu (RZ 11/2026/RM)"
+        },
+        {
+          "budget_change_id": "12/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-40 000,00",
+          "amount_value": -40000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 12/2026/RM)"
+        },
+        {
+          "budget_change_id": "12/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Český kynologický svaz ZKO Litovel č. 49 - dotace na podporu činnosti (RZ 12/2026/RM)"
+        },
+        {
+          "budget_change_id": "13/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 13/2026/RM)"
+        },
+        {
+          "budget_change_id": "13/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Český rybářský svaz, z.s., místní organizace Litovel - dotace na podporu činnosti (RZ 13/2026/RM)"
+        },
+        {
+          "budget_change_id": "14/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 14/2026/RM)"
+        },
+        {
+          "budget_change_id": "14/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Český svaz chovatelů, z.s., Základní organizace Litovel 1 - dotace na podporu činnosti a pořízení nových výstavních klecí (RZ 14/2026/RM)"
+        },
+        {
+          "budget_change_id": "15/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 15/2026/RM)"
+        },
+        {
+          "budget_change_id": "15/2026/RM",
+          "raw_codes": [
+            "4350",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Domov pro seniory Červenka, příspěvková organizace - dotace na podporu činnosti (RZ 15/2026/RM)"
+        },
+        {
+          "budget_change_id": "16/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 16/2026/RM)"
+        },
+        {
+          "budget_change_id": "16/2026/RM",
+          "raw_codes": [
+            "4350",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Domov pro seniory Jesenec, příspěvková organizace - dar na podporu činnosti (RZ 16/2026/RM)"
+        },
+        {
+          "budget_change_id": "17/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 17/2026/RM)"
+        },
+        {
+          "budget_change_id": "17/2026/RM",
+          "raw_codes": [
+            "4357",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Domov se zvláštním režimem Bílsko, o.p.s. - dotace na podporu činnosti (RZ 17/2026/RM)"
+        },
+        {
+          "budget_change_id": "18/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 18/2026/RM)"
+        },
+        {
+          "budget_change_id": "18/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Folklórní soubor Hanačka, z.s. - dotace na činnost souboru (RZ 18/2026/RM)"
+        },
+        {
+          "budget_change_id": "19/2026/RM",
+          "raw_codes": [
+            "3121",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Gymnázium Jana Opletala, Litovel Opletalova 189 - dotace na podporu mládežnického pěveckého sboru (RZ 19/2026/RM)"
+        },
+        {
+          "budget_change_id": "20/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-35 000,00",
+          "amount_value": -35000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 20/2026/RM)"
+        },
+        {
+          "budget_change_id": "20/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Hanácká mozeka Litovel - dotace na činnost spolku (RZ 20/2026/RM)"
+        },
+        {
+          "budget_change_id": "21/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 21/2026/RM)"
+        },
+        {
+          "budget_change_id": "21/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Hanácký jezdecký klub Litovel, z.s. - dotace na činnost jezdeckého klubu (RZ 21/2026/RM)"
+        },
+        {
+          "budget_change_id": "22/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 22/2026/RM)"
+        },
+        {
+          "budget_change_id": "22/2026/RM",
+          "raw_codes": [
+            "3525",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Hospic na Svatém kopečku - dar na činnost hospice (RZ 22/2026/RM)"
+        },
+        {
+          "budget_change_id": "23/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 23/2026/RM)"
+        },
+        {
+          "budget_change_id": "23/2026/RM",
+          "raw_codes": [
+            "3144",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Hravě v doubravě, z.s. - dar na podporu celoročního venkovního programu pro děti + termoporty (RZ 23/2026/RM)"
+        },
+        {
+          "budget_change_id": "24/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 24/2026/RM)"
+        },
+        {
+          "budget_change_id": "24/2026/RM",
+          "raw_codes": [
+            "4371",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Jdeme Autistům Naproti z.s. - dar na podporu činnosti (RZ 24/2026/RM)"
+        },
+        {
+          "budget_change_id": "25/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 25/2026/RM)"
+        },
+        {
+          "budget_change_id": "25/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Junák - český skaut, středisko Šíp Loštice, z.s. - dotace na zajištění činnostiskautského oddílu v Litovli (RZ 25/2026/RM)"
+        },
+        {
+          "budget_change_id": "26/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 26/2026/RM)"
+        },
+        {
+          "budget_change_id": "26/2026/RM",
+          "raw_codes": [
+            "4379",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Linka bezpečí, z.s. - dar na podporu činnosti (RZ 26/2026/RM)"
+        },
+        {
+          "budget_change_id": "27/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 27/2026/RM)"
+        },
+        {
+          "budget_change_id": "27/2026/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Mažoretky Linetbells Litovel z.s. - dotace na činnost spolku (RZ 27/2026/RM)"
+        },
+        {
+          "budget_change_id": "28/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 28/2026/RM)"
+        },
+        {
+          "budget_change_id": "28/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Motorsport Hlavinka z.s. - dotace na činnost spolku (RZ 28/2026/RM)"
+        },
+        {
+          "budget_change_id": "29/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 29/2026/RM)"
+        },
+        {
+          "budget_change_id": "29/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Muzejní společnost Litovelska, z.s. - dotace na podporu činnosti (RZ 29/2026/RM)"
+        },
+        {
+          "budget_change_id": "30/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 30/2026/RM)"
+        },
+        {
+          "budget_change_id": "30/2026/RM",
+          "raw_codes": [
+            "3599",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Nejste sami - mobilní hospic, z.ú. - dar na podporu činnosti (RZ 30/2026/RM)"
+        },
+        {
+          "budget_change_id": "31/2026/RM",
+          "raw_codes": [
+            "3523",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Odborný léčebný ústav Paseka, příspěvková organizace - dar na pořízení vybavení ústavu (RZ 31/2026/RM)"
+        },
+        {
+          "budget_change_id": "32/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-120 000,00",
+          "amount_value": -120000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 32/2026/RM)"
+        },
+        {
+          "budget_change_id": "32/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Rychlostní kanoistika Litovel, z.s. - dotace na zajištění sportovní činnosti spolku (RZ 32/2026/RM)"
+        },
+        {
+          "budget_change_id": "33/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 33/2026/RM)"
+        },
+        {
+          "budget_change_id": "33/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Senzakord, z.s. - dotace na činnost pěveckého sboru (RZ 33/2026/RM)"
+        },
+        {
+          "budget_change_id": "34/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-40 000,00",
+          "amount_value": -40000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 34/2026/RM)"
+        },
+        {
+          "budget_change_id": "34/2026/RM",
+          "raw_codes": [
+            "3541",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Společnost Podané ruce o.p.s. - dotace na podporu činnosti (RZ 34/2026/RM)"
+        },
+        {
+          "budget_change_id": "35/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 35/2026/RM)"
+        },
+        {
+          "budget_change_id": "35/2026/RM",
+          "raw_codes": [
+            "4371",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Společnost pro rannou péči, pobočka pro rodinu Olomouc - dotace na podporu činnosti (RZ 35/2026/RM)"
+        },
+        {
+          "budget_change_id": "36/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-40 000,00",
+          "amount_value": -40000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 36/2026/RM)"
+        },
+        {
+          "budget_change_id": "36/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Spolek Gustava Frištenského - dotace na činnost spolku (RZ 36/2026/RM)"
+        },
+        {
+          "budget_change_id": "37/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 37/2026/RM)"
+        },
+        {
+          "budget_change_id": "37/2026/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "STELLA VITA, z.s. - dotace na podporu benefice hudebních skupin ve dvoře SOŠ Litovel (RZ 37/2026/RM)"
+        },
+        {
+          "budget_change_id": "38/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-150 000,00",
+          "amount_value": -150000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 38/2026/RM)"
+        },
+        {
+          "budget_change_id": "38/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Tělocvičná jednota Sokol Litovel - dotace na pronájem sportovišť, činnost oddílů mládeže a činnost divadelního souboru (RZ 38/2026/RM)"
+        },
+        {
+          "budget_change_id": "39/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 39/2026/RM)"
+        },
+        {
+          "budget_change_id": "39/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "TriBike Academy z.s. - dar na podporu činnosti (RZ 39/2026/RM)"
+        },
+        {
+          "budget_change_id": "40/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 40/2026/RM)"
+        },
+        {
+          "budget_change_id": "40/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Základní organizace Českého zahrádkářského svazu Litovel - dotace na činnost (RZ 40/2026/RM)"
+        },
+        {
+          "budget_change_id": "41/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 41/2026/RM)"
+        },
+        {
+          "budget_change_id": "41/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "H.Z.K. - dotace na organizační zajištění dětského maškarního plesu (RZ 41/2026/RM)"
+        },
+        {
+          "budget_change_id": "8/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": ") Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 8/2026/RM"
+        },
+        {
+          "budget_change_id": "19/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": ") Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 19/2026/RM"
+        },
+        {
+          "budget_change_id": "31/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-40 000,00",
+          "amount_value": -40000.0,
+          "description": ") Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 31/2026/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 1/2026/RM",
+      "text": "Dne 15.1.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 2/2026/RM",
+      "text": "Dne 15.1.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 3/2026/RM",
+      "text": "Dne 15.1.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 4/2026/RM",
+      "text": "Dne 19.1.2026 přijalo město Litovel na svůj účet příspěvek pro TS Litovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku ve výši a ekologické a k přírodě šetrné technologie při hospodaření v lesích."
+    },
+    {
+      "title": "Rozpočtová změna č. 5/2026/RM",
+      "text": "Dne 21.1.2026 přijalo město Litovel na svůj účet příspěvek na výkon pěstounské péče ve výši 66 000 Kč na kalendářní rok 2026."
+    },
+    {
+      "title": "Rozpočtová změna č. 6/2026/RM – Rozpočtová změna č. 41/2025/RM",
+      "text": "Dary a dotace poskytnuté z rozpočtu města Litovel."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._2_2026_dne_29._ledna_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 2/2026 schválené Radou města Litovel\ndne 29. ledna 2026\nRozpočtové opatření bylo schváleno na 67. schůzi Rady města Litovel dne 29. ledna 2026 na základě usnesení\nRM/2023/67/2026, RM/2024/67/2026, RM/2025/67/2026, RM/2027/67/2026, RM/2028/67/2026, RM/2029/67/2026,\nRM/2045/67/2026.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\nMZe ČR - účelová dotace pro TS Litovel - obnova, zajištění a\n4116 29014 41 463 480,00\nvýchova lesních porostů do 40 let věku (RZ 4/2026/RM)\nMZe ČR - účelová dotace pro TS Litovel - ekologické a k\n4116 29015 41 47 262,00 přírodě šetrné technologie při hospodaření v lesích (RZ\n4/2026/RM)\nMPSV ČR - účelová neinvestiční dotace - příspěvek na výkon\n4116 13010 66 000,00\npěstounské péče (RZ 5/2026/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\n3639 5901 301 2 030 000 -210 221,00 Myslechovice - rezerva (RZ 1/2026/RM)\n3326 5171 301 2 030 000 210 221,00 Myslechovice - oprava kaple (RZ 1/2026/RM)\n3639 5901 305 2 030 000 -95 396,00 Březové - rezerva (RZ 2/2026/RM)\n3412 5169 305 2 033 470 95 396,00 Březové - úprava travnaté plochy - hřiště (RZ 2/2026/RM)\n3639 5901 307 2 030 000 -80 000,00 Chořelice - rezerva (RZ 3/2026/RM)\n3326 5169 307 2 030 000 80 000,00 Chořelice - oprava kaple - PD (RZ 3/2026/RM)\nMZe ČR - účelová dotace pro TS Litovel - obnova, zajištění a\n3639 5336 29014 41 3 000 000 463 480,00 výchova lesních porostů do 40 let věku - převod dotace\npříjemci (RZ 4/2026/RM)\nMZe ČR - účelová dotace pro TS Litovel - ekologické a k\n3639 5336 29015 41 3 000 000 47 262,00 přírodě šetrné technologie při hospodaření v lesích - převod\ndotace příjemci (RZ 4/2026/RM)\nMPSV ČR - účelová neinvestiční dotace - příspěvek na výkon\n4339 5169 13010 5 000 536 66 000,00\npěstounské péče - čerpání (RZ 5/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -2 000,00\n6/2026/RM)\nDiakonie ČCE - středisko v Sobotíně - dar na podporu\n4357 5223 4 000 000 2 000,00\nčinnosti diakonie v roce 2026 (RZ 6/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -2 500,00\n7/2026/RM)\nIng. L.K. - dar na organizační zajištění maškarního karnevalu\n3429 5492 310 4 000 000 2 500,00 pro děti MŠ, který se bude konat 15.2.2026 v Sokolovně v\nUnčovicích (RZ 7/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -5 000,00\n8/2026/RM)\nJ.K. - dar na uhrazení nákladů spojených s účastí T.Š. na 55.\n3429 5499 4 000 000 5 000,00 mistrovství světa INTERSTENO v Liverpoolu v červenci\n2026 (RZ 8/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -25 000,00\n9/2026/RM)\nZákladní umělecká škola Litovel - dotace na úhradu nákladů\nspojených s účastí žáků ZUŠ na soutěžích během roku v\n3231 5339 4 000 000 25 000,00\nrůzných místech republiky a na akci Oživlý Svatoján (RZ\n9/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -5 000,00\n10/2026/RM)\nKlíč - centrum sociálních služeb, příspěvková organizace -\n4359 5339 4 000 000 5 000,00 dar na provozní náklady centra v roce 2026 (RZ\n10/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -200 000,00\n11/2026/RM)\nAkselit z.s. - dotace na přepravu členů spolku - seniorů nad\n3900 5222 4 000 000 200 000,00 65 let a osob s omezenou schopností pohybu (RZ\n11/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -40 000,00\n12/2026/RM)\nČeský kynologický svaz ZKO Litovel č. 49 - dotace na\n3429 5222 4 000 000 40 000,00\npodporu činnosti (RZ 12/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -20 000,00\n13/2026/RM)\nČeský rybářský svaz, z.s., místní organizace Litovel - dotace\n3429 5222 4 000 000 20 000,00\nna podporu činnosti (RZ 13/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -25 000,00\n14/2026/RM)\nČeský svaz chovatelů, z.s., Základní organizace Litovel 1 -\n3429 5222 4 000 000 25 000,00 dotace na podporu činnosti a pořízení nových výstavních\nklecí (RZ 14/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -50 000,00\n15/2026/RM)\nDomov pro seniory Červenka, příspěvková organizace -\n4350 5339 4 000 000 50 000,00\ndotace na podporu činnosti (RZ 15/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -2 000,00\n16/2026/RM)\nDomov pro seniory Jesenec, příspěvková organizace - dar na\n4350 5339 4 000 000 2 000,00\npodporu činnosti (RZ 16/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -50 000,00\n17/2026/RM)\nDomov se zvláštním režimem Bílsko, o.p.s. - dotace na\n4357 5221 4 000 000 50 000,00\npodporu činnosti (RZ 17/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -100 000,00\n18/2026/RM)\nFolklórní soubor Hanačka, z.s. - dotace na činnost souboru\n3429 5222 4 000 000 100 000,00\n(RZ 18/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -20 000,00\n19/2026/RM)\nGymnázium Jana Opletala, Litovel Opletalova 189 - dotace\n3121 5339 4 000 000 20 000,00 na podporu mládežnického pěveckého sboru (RZ\n19/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -35 000,00\n20/2026/RM)\nHanácká mozeka Litovel - dotace na činnost spolku (RZ\n3429 5222 4 000 000 35 000,00\n20/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -25 000,00\n21/2026/RM)\nHanácký jezdecký klub Litovel, z.s. - dotace na činnost\n3419 5222 4 000 000 25 000,00\njezdeckého klubu (RZ 21/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -5 000,00\n22/2026/RM)\nHospic na Svatém kopečku - dar na činnost hospice (RZ\n3525 5223 4 000 000 5 000,00\n22/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -20 000,00\n23/2026/RM)\nHravě v doubravě, z.s. - dar na podporu celoročního\n3144 5222 4 000 000 20 000,00 venkovního programu pro děti + termoporty (RZ\n23/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -5 000,00\n24/2026/RM)\nJdeme Autistům Naproti z.s. - dar na podporu činnosti (RZ\n4371 5222 4 000 000 5 000,00\n24/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -25 000,00\n25/2026/RM)\nJunák - český skaut, středisko Šíp Loštice, z.s. - dotace na\n3429 5222 4 000 000 25 000,00 zajištění činnostiskautského oddílu v Litovli (RZ\n25/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -3 000,00\n26/2026/RM)\nLinka bezpečí, z.s. - dar na podporu činnosti (RZ\n4379 5222 4 000 000 3 000,00\n26/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -100 000,00\n27/2026/RM)\nMažoretky Linetbells Litovel z.s. - dotace na činnost spolku\n3421 5222 4 000 000 100 000,00\n(RZ 27/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -50 000,00\n28/2026/RM)\nMotorsport Hlavinka z.s. - dotace na činnost spolku (RZ\n3419 5222 4 000 000 50 000,00\n28/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -20 000,00\n29/2026/RM)\nMuzejní společnost Litovelska, z.s. - dotace na podporu\n3429 5222 4 000 000 20 000,00\nčinnosti (RZ 29/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -5 000,00\n30/2026/RM)\nNejste sami - mobilní hospic, z.ú. - dar na podporu činnosti\n3599 5221 4 000 000 5 000,00\n(RZ 30/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -40 000,00\n31/2026/RM)\nOdborný léčebný ústav Paseka, příspěvková organizace - dar\n3523 5339 4 000 000 40 000,00\nna pořízení vybavení ústavu (RZ 31/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -120 000,00\n32/2026/RM)\nRychlostní kanoistika Litovel, z.s. - dotace na zajištění\n3419 5222 4 000 000 120 000,00\nsportovní činnosti spolku (RZ 32/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -20 000,00\n33/2026/RM)\nSenzakord, z.s. - dotace na činnost pěveckého sboru (RZ\n3429 5222 4 000 000 20 000,00\n33/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -40 000,00\n34/2026/RM)\nSpolečnost Podané ruce o.p.s. - dotace na podporu činnosti\n3541 5221 4 000 000 40 000,00\n(RZ 34/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -10 000,00\n35/2026/RM)\nSpolečnost pro rannou péči, pobočka pro rodinu Olomouc -\n4371 5222 4 000 000 10 000,00\ndotace na podporu činnosti (RZ 35/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -40 000,00\n36/2026/RM)\nSpolek Gustava Frištenského - dotace na činnost spolku (RZ\n3429 5222 4 000 000 40 000,00\n36/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -25 000,00\n37/2026/RM)\nSTELLA VITA, z.s. - dotace na podporu benefice hudebních\n3900 5222 4 000 000 25 000,00\nskupin ve dvoře SOŠ Litovel (RZ 37/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -150 000,00\n38/2026/RM)\nTělocvičná jednota Sokol Litovel - dotace na pronájem\n3419 5222 4 000 000 150 000,00 sportovišť, činnost oddílů mládeže a činnost divadelního\nsouboru (RZ 38/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -5 000,00\n39/2026/RM)\nTriBike Academy z.s. - dar na podporu činnosti (RZ\n3419 5222 4 000 000 5 000,00\n39/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -10 000,00\n40/2026/RM)\nZákladní organizace Českého zahrádkářského svazu Litovel -\n3429 5222 4 000 000 10 000,00\ndotace na činnost (RZ 40/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ\n3429 5901 4 000 000 -2 500,00\n41/2026/RM)\nH.Z.K. - dotace na organizační zajištění dětského maškarního\n3429 5492 4 000 000 2 500,00\nplesu (RZ 41/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 1/2026/RM\nDne 15.1.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 2/2026/RM\nDne 15.1.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 3/2026/RM\nDne 15.1.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 4/2026/RM\nDne 19.1.2026 přijalo město Litovel na svůj účet příspěvek pro TS Litovel na obnovu, zajištění a výchovu lesních\nporostů do 40 let věku ve výši a ekologické a k přírodě šetrné technologie při hospodaření v lesích.\nRozpočtová změna č. 5/2026/RM\nDne 21.1.2026 přijalo město Litovel na svůj účet příspěvek na výkon pěstounské péče ve výši 66 000 Kč na\nkalendářní rok 2026.\nRozpočtová změna č. 6/2026/RM – Rozpočtová změna č. 41/2025/RM\nDary a dotace poskytnuté z rozpočtu města Litovel.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 9.2.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

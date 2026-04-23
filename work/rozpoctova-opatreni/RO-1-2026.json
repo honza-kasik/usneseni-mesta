@@ -1,0 +1,194 @@
+{
+  "id": "RO/1/2026",
+  "number": 1,
+  "year": 2026,
+  "approval_date": "2025-12-11",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 23,
+    "type": "zasedání",
+    "date": "2025-12-11"
+  },
+  "source_resolutions": [
+    "ZM/6/23/2025"
+  ],
+  "budget_change_ids": [
+    "1/2026/ZM",
+    "2/2026/ZM",
+    "3/2026/ZM",
+    "4/2026/ZM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2026/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-370 000,00",
+          "amount_value": -370000.0,
+          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 1/2026/ZM)"
+        },
+        {
+          "budget_change_id": "1/2026/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "370 000,00",
+          "amount_value": 370000.0,
+          "description": "Spolek TJ Vodní sporty Litovel, z.s. - dotace na zajištění sportovní činnosti TJ v roce 2026 (RZ 1/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-930 000,00",
+          "amount_value": -930000.0,
+          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "450 000,00",
+          "amount_value": 450000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provozní náklady pečovatelské služby (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "3900",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provozní náklady MC Rybička (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na mzdové náklady zdravotních sester (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provozní náklady sanitárního kontejneru (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "4371",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na sociálně aktivizační služby pro rodiny s dětmi (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "4312",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provoz poradny Nedlužím (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "2/2026/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na organizační zajištění pouti na Starém městě v roce 2026 (RZ 2/2026/ZM)"
+        },
+        {
+          "budget_change_id": "3/2026/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 3/2026/ZM)"
+        },
+        {
+          "budget_change_id": "3/2026/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Spolek TJ Vodní sporty Litovel, z.s. - dotace na organizační zajištění sportovní soutěže BOBR CUP 2026 (RZ 3/2026/ZM)"
+        },
+        {
+          "budget_change_id": "4/2026/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "4 500 000,00",
+          "amount_value": 4500000.0,
+          "description": "TJ Tatran Litovel, z.s. - dotace na zajištění sportovní činnosti TJ v roce 2026 (RZ 4/2026/ZM)"
+        },
+        {
+          "budget_change_id": "4/2026/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-4 500 000,00",
+          "amount_value": -4500000.0,
+          "description": ") transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 4/2026/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 1/2026/ZM - č. 4/2025/ZM",
+      "text": "Na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._1_2026_dne_11._prosince_2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 1/2026 schválené Zastupitelstvem města Litovel\ndne 11. prosince 2025\nRozpočtové opatření bylo schváleno na 23. zasedání Zastupitelstva města Litovel dne 11. prosince 2025 na základě\nusnesení ZM/6/23/2025.\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ MU ORJ ORG Kč Popis\ntransfery, dary, příspěvky dle\n3429 5901 4 000 000 -370 000,00 rozhodnutí ZML a RML (RZ\n1/2026/ZM)\nSpolek TJ Vodní sporty Litovel, z.s. -\n3419 5222 4 000 000 370 000,00 dotace na zajištění sportovní činnosti\nTJ v roce 2026 (RZ 1/2026/ZM)\ntransfery, dary, příspěvky dle\n3429 5901 4 000 000 -930 000,00 rozhodnutí ZML a RML (RZ\n2/2026/ZM)\nCharita Šternberk, středisko Litovel -\n4359 5223 4 000 000 450 000,00 dotace na provozní náklady\npečovatelské služby (RZ 2/2026/ZM)\nCharita Šternberk, středisko Litovel -\n3900 5223 4 000 000 200 000,00 dotace na provozní náklady MC\nRybička (RZ 2/2026/ZM)\nCharita Šternberk, středisko Litovel -\n4359 5223 4 000 000 100 000,00 dotace na mzdové náklady\nzdravotních sester (RZ 2/2026/ZM)\nCharita Šternberk, středisko Litovel -\ndotace na provozní náklady\n4359 5223 4 000 000 50 000,00\nsanitárního kontejneru (RZ\n2/2026/ZM)\nCharita Šternberk, středisko Litovel -\n4371 5223 4 000 000 50 000,00 dotace na sociálně aktivizační služby\npro rodiny s dětmi (RZ 2/2026/ZM)\nCharita Šternberk, středisko Litovel -\n4312 5223 4 000 000 50 000,00 dotace na provoz poradny Nedlužím\n(RZ 2/2026/ZM)\nCharita Šternberk, středisko Litovel -\ndotace na organizační zajištění pouti\n4359 5223 4 000 000 30 000,00\nna Starém městě v roce 2026 (RZ\n2/2026/ZM)\ntransfery, dary, příspěvky dle\n3429 5901 4 000 000 -100 000,00 rozhodnutí ZML a RML (RZ\n3/2026/ZM)\nSpolek TJ Vodní sporty Litovel, z.s. -\ndotace na organizační zajištění\n3419 5222 4 000 000 100 000,00\nsportovní soutěže BOBR CUP 2026\n(RZ 3/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\ntransfery, dary, příspěvky dle\n3429 5901 4 000 000 -4 500 000,00 rozhodnutí ZML a RML (RZ\n4/2026/ZM)\nTJ Tatran Litovel, z.s. - dotace na\n3419 5222 4 000 423 4 500 000,00 zajištění sportovní činnosti TJ v roce\n2026 (RZ 4/2026/ZM)\nRozpočtová změna č. 1/2026/ZM - č. 4/2025/ZM\nNa základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 8.1.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

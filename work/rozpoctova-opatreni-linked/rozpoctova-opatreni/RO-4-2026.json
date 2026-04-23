@@ -1,0 +1,391 @@
+{
+  "id": "RO/4/2026",
+  "number": 4,
+  "year": 2026,
+  "approval_date": "2026-02-19",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 68,
+    "type": "schůzi",
+    "date": "2026-02-19"
+  },
+  "source_resolutions": [
+    "RM/2074/68/2026",
+    "RM/2075/68/2026",
+    "RM/2076/68/2026",
+    "RM/2077/68/2026",
+    "RM/2088/68/2026",
+    "RM/2090/68/2026"
+  ],
+  "budget_change_ids": [
+    "42/2026/RM",
+    "43/2026/RM",
+    "44/2026/RM",
+    "45/2026/RM",
+    "46/2026/RM",
+    "47/2026/RM",
+    "48/2026/RM",
+    "49/2026/RM",
+    "50/2026/RM",
+    "51/2026/RM",
+    "52/2026/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "42/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-120 000,00",
+          "amount_value": -120000.0,
+          "description": "Unčovice - rezerva (RZ 42/2026/RM)"
+        },
+        {
+          "budget_change_id": "42/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5137",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Unčovice - židle a stoly pro KD (RZ 42/2026/RM)"
+        },
+        {
+          "budget_change_id": "43/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-345 000,00",
+          "amount_value": -345000.0,
+          "description": "Unčovice - rezerva (RZ 43/2026/RM)"
+        },
+        {
+          "budget_change_id": "43/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "345 000,00",
+          "amount_value": 345000.0,
+          "description": "Unčovice - Sokolovna - renovace vnitřních prostor (RZ 43/2026/RM)"
+        },
+        {
+          "budget_change_id": "44/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-257 000,00",
+          "amount_value": -257000.0,
+          "description": "Unčovice - rezerva (RZ 44/2026/RM)"
+        },
+        {
+          "budget_change_id": "44/2026/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "257 000,00",
+          "amount_value": 257000.0,
+          "description": "Unčovice - nové oplocení areálu Sokolovny (RZ 44/2026/RM)"
+        },
+        {
+          "budget_change_id": "45/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-387 894,00",
+          "amount_value": -387894.0,
+          "description": "Březové - rezerva (RZ 45/2026/RM)"
+        },
+        {
+          "budget_change_id": "45/2026/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 033 470"
+          ],
+          "amount": "387 894,00",
+          "amount_value": 387894.0,
+          "description": "Březové - nové osvětlení plochy hřiště (RZ 45/2026/RM)"
+        },
+        {
+          "budget_change_id": "46/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "H.Z.K. - dotace na organizační zajištění dětského maškarního plesu (RZ 46/2026/RM)"
+        },
+        {
+          "budget_change_id": "46/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "309",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "H.Z.K. - dotace na organizační zajištění dětského maškarního plesu (RZ 46/2026/RM)"
+        },
+        {
+          "budget_change_id": "46/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "J.K. - dar na uhrazení nákladů spojených s účastí T.Š. na 55 mistrovství světa INTERSTENO v Liverpoolu v červenci 2026 (RZ 46/2026/RM)"
+        },
+        {
+          "budget_change_id": "46/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "J.K. - dar na uhrazení nákladů spojených s účastí T.Š. na 55 mistrovství světa INTERSTENO v Liverpoolu v červenci 2026 (RZ 46/2026/RM)"
+        },
+        {
+          "budget_change_id": "47/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 47/2026/RM)"
+        },
+        {
+          "budget_change_id": "47/2026/RM",
+          "raw_codes": [
+            "3599",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Zdravotní klaun, o.p.s. - dar na podporu činnosti (RZ 47/2026/RM)"
+        },
+        {
+          "budget_change_id": "48/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 48/2026/RM)"
+        },
+        {
+          "budget_change_id": "48/2026/RM",
+          "raw_codes": [
+            "3543",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "E.K., Štěpánov - dar na organizační zajištění 6. ročníku akce Na kole dětem - z Litovle po Hané, která se uskuteční 17. května 2026 (RZ 48/2026/RM)"
+        },
+        {
+          "budget_change_id": "49/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 49/2026/RM)"
+        },
+        {
+          "budget_change_id": "49/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "Moravský senior, z.s. - dar na podporu vydávání časopisu Moravský senior (RZ 49/2026/RM)"
+        },
+        {
+          "budget_change_id": "50/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 50/2026/RM)"
+        },
+        {
+          "budget_change_id": "50/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "TJ Sokol Unčovice z.s. - dotace na sportovní činnost, opravy a údržbu areálu Sokolovny v Unčovicích v roce 2026 (RZ 50/2026/RM)"
+        },
+        {
+          "budget_change_id": "51/2026/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-200 000,00",
+          "amount_value": -200000.0,
+          "description": "Akselit z.s. - dotace na přepravu členů spolku - seniorů nad 65 let a osob s omezenou schopností pohybu (RZ 51/2026/RM)"
+        },
+        {
+          "budget_change_id": "51/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 51/2026/RM)"
+        },
+        {
+          "budget_change_id": "52/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-200 000,00",
+          "amount_value": -200000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 52/2026/RM)"
+        },
+        {
+          "budget_change_id": "52/2026/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Akselit z.s. - dotace na přepravu členů spolku - seniorů nad 65 let a osob s omezenou schopností pohybu (RZ 52/2026/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 42/2026/RM",
+      "text": "Dne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 43/2026/RM",
+      "text": "Dne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 44/2026/RM",
+      "text": "Dne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 45/2026/RM",
+      "text": "Dne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2026/RM",
+      "text": "Na 67. schůzi RM byly na základě podkladů z OŠKS schváleny dary a dotace pro FO a PO. U dvou schválených příspěvků se musí změnit položka dle skutečně poskytnutého druhu příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2026/RM – Rozpočtová změna č. 50/2026/RM",
+      "text": "Dary a dotace poskytnuté na základě žádosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 51/2026/RM – Rozpočtová změna č. 52/2026/RM",
+      "text": "Na základě usnesení RM/2088/68/2026."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._4_2026_dne_19._unora_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 4/2026 schválené Radou města Litovel\ndne 19. února 2026\nRozpočtové opatření bylo schváleno na 68. schůzi Rady města Litovel dne 19. února 2026 na základě usnesení\nRM/2074/68/2026, RM/2075/68/2026, RM/2076/68/2026, RM/2077/68/2026, RM/2088/68/2026, RM/2090/68/2026.\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč\n3639 5901 310 2 030 000 -120 000,00 Unčovice - rezerva (RZ 42/2026/RM)\nUnčovice - židle a stoly pro KD (RZ\n3392 5137 310 2 030 000 120 000,00\n42/2026/RM)\n3639 5901 310 2 030 000 -345 000,00 Unčovice - rezerva (RZ 43/2026/RM)\nUnčovice - Sokolovna - renovace vnitřních\n3392 5171 310 2 033 465 345 000,00\nprostor (RZ 43/2026/RM)\n3639 5901 310 2 030 000 -257 000,00 Unčovice - rezerva (RZ 44/2026/RM)\nUnčovice - nové oplocení areálu\n3392 6121 310 2 033 465 257 000,00\nSokolovny (RZ 44/2026/RM)\n3639 5901 305 2 030 000 -387 894,00 Březové - rezerva (RZ 45/2026/RM)\nBřezové - nové osvětlení plochy hřiště (RZ\n3412 6121 305 2 033 470 387 894,00\n45/2026/RM)\nH.Z.K. - dotace na organizační zajištění\n3429 5492 4 000 000 -2 500,00 dětského maškarního plesu (RZ\n46/2026/RM)\nH.Z.K. - dotace na organizační zajištění\n3429 5499 309 4 000 000 2 500,00 dětského maškarního plesu (RZ\n46/2026/RM)\nJ.K. - dar na uhrazení nákladů spojených s\núčastí T.Š. na 55 mistrovství světa\n3429 5499 4 000 000 -5 000,00\nINTERSTENO v Liverpoolu v červenci\n2026 (RZ 46/2026/RM)\nJ.K. - dar na uhrazení nákladů spojených s\núčastí T.Š. na 55 mistrovství světa\n3429 5492 4 000 000 5 000,00\nINTERSTENO v Liverpoolu v červenci\n2026 (RZ 46/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 -3 000,00\nZML a RML (RZ 47/2026/RM)\nZdravotní klaun, o.p.s. - dar na podporu\n3599 5221 4 000 000 3 000,00\nčinnosti (RZ 47/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 -4 000,00\nZML a RML (RZ 48/2026/RM)\nE.K., Štěpánov - dar na organizační\nzajištění 6. ročníku akce Na kole dětem - z\n3543 5492 4 000 000 4 000,00\nLitovle po Hané, která se uskuteční 17.\nkvětna 2026 (RZ 48/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 -2 500,00\nZML a RML (RZ 49/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMoravský senior, z.s. - dar na podporu\n3429 5222 4 000 000 2 500,00 vydávání časopisu Moravský senior (RZ\n49/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 -20 000,00\nZML a RML (RZ 50/2026/RM)\nTJ Sokol Unčovice z.s. - dotace na\nsportovní činnost, opravy a údržbu areálu\n3419 5222 310 4 000 000 20 000,00\nSokolovny v Unčovicích v roce 2026 (RZ\n50/2026/RM)\nAkselit z.s. - dotace na přepravu členů\nspolku - seniorů nad 65 let a osob s\n3900 5222 4 000 000 -200 000,00\nomezenou schopností pohybu (RZ\n51/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 200 000,00\nZML a RML (RZ 51/2026/RM)\nTransfery, dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 -200 000,00\nZML a RML (RZ 52/2026/RM)\nAkselit z.s. - dotace na přepravu členů\nspolku - seniorů nad 65 let a osob s\n3900 5222 4 000 000 200 000,00\nomezenou schopností pohybu (RZ\n52/2026/RM)\nRozpočtová změna č. 42/2026/RM\nDne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 43/2026/RM\nDne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 44/2026/RM\nDne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 45/2026/RM\nDne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 46/2026/RM\nNa 67. schůzi RM byly na základě podkladů z OŠKS schváleny dary a dotace pro FO a PO. U dvou\nschválených příspěvků se musí změnit položka dle skutečně poskytnutého druhu příspěvku.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 47/2026/RM – Rozpočtová změna č. 50/2026/RM\nDary a dotace poskytnuté na základě žádosti.\nRozpočtová změna č. 51/2026/RM – Rozpočtová změna č. 52/2026/RM\nNa základě usnesení RM/2088/68/2026.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 2.3.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/2074/68/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2075/68/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2076/68/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2077/68/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2088/68/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2090/68/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2090/68/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "42/2026/RM",
+        "43/2026/RM",
+        "44/2026/RM",
+        "45/2026/RM",
+        "46/2026/RM"
+      ]
+    }
+  ]
+}

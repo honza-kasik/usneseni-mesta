@@ -1,0 +1,679 @@
+{
+  "id": "RO/7/2026",
+  "number": 7,
+  "year": 2026,
+  "approval_date": "2026-04-02",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 70,
+    "type": "schůzi",
+    "date": "2026-04-02"
+  },
+  "source_resolutions": [
+    "RM/2189/70/2026",
+    "RM/2208/70/2026"
+  ],
+  "budget_change_ids": [
+    "69/2026/RM",
+    "70/2026/RM",
+    "71/2026/RM",
+    "72/2026/RM",
+    "73/2026/RM",
+    "74/2026/RM",
+    "75/2026/RM",
+    "76/2026/RM",
+    "77/2026/RM",
+    "78/2026/RM",
+    "79/2026/RM",
+    "80/2026/RM",
+    "81/2026/RM",
+    "82/2026/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "69/2026/RM",
+          "raw_codes": [
+            "4116",
+            "33092",
+            "5",
+            "143",
+            "47"
+          ],
+          "amount": "465 894,03",
+          "amount_value": 465894.03,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ a MŠ Nasobůrky na realizaci projektu v rámci OP JAK (RZ 69/2026/RM)"
+        },
+        {
+          "budget_change_id": "69/2026/RM",
+          "raw_codes": [
+            "4116",
+            "33092",
+            "1",
+            "143",
+            "47"
+          ],
+          "amount": "110 916,77",
+          "amount_value": 110916.77,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ a MŠ Nasobůrky na realizaci projektu v rámci OP JAK (RZ 69/2026/RM)"
+        },
+        {
+          "budget_change_id": "70/2026/RM",
+          "raw_codes": [
+            "4216",
+            "17519",
+            "5",
+            "149",
+            "3 003 558"
+          ],
+          "amount": "8 975 519,24",
+          "amount_value": 8975519.24,
+          "description": "MMR ČR - účelová inv. dotace - Dopravně bezpečnostní opatření pro pěší a cyklisty podél silnice II/449 (RZ 70/2026/RM)"
+        },
+        {
+          "budget_change_id": "71/2026/RM",
+          "raw_codes": [
+            "4216",
+            "15501",
+            "5",
+            "148",
+            "3 003 660"
+          ],
+          "amount": "3 344 988,76",
+          "amount_value": 3344988.76,
+          "description": "MŽP ČR - účelová inv. dotace - Instalace fotovoltaické elektrárny na ČOV Litovel (RZ 71/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3008"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3009"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3012"
+          ],
+          "amount": "8 100,00",
+          "amount_value": 8100.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3037"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3046"
+          ],
+          "amount": "3 400,00",
+          "amount_value": 3400.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3053"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3054"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3058"
+          ],
+          "amount": "8 700,00",
+          "amount_value": 8700.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3063"
+          ],
+          "amount": "2 700,00",
+          "amount_value": 2700.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3068"
+          ],
+          "amount": "6 100,00",
+          "amount_value": 6100.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3069"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3072"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        },
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "4121",
+            "3089"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "69/2026/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "33092",
+            "5",
+            "143",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "465 894,03",
+          "amount_value": 465894.03,
+          "description": "MŠMT ČR - účel. neiv. dotace pro ZŠ a MŠ Nasobůrky na realizaci projektu v rámci OP JAK - převod dotace příjemci (RZ 69/2026/RM)"
+        },
+        {
+          "budget_change_id": "69/2026/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "33092",
+            "1",
+            "143",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "110 916,77",
+          "amount_value": 110916.77,
+          "description": "MŠMT ČR - účel. neiv. dotace pro ZŠ a MŠ Nasobůrky na realizaci projektu v rámci OP JAK - převod dotace příjemci (RZ 69/2026/RM)"
+        },
+        {
+          "budget_change_id": "70/2026/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "17519",
+            "5",
+            "149",
+            "3 003 558"
+          ],
+          "amount": "8 975 519,24",
+          "amount_value": 8975519.24,
+          "description": "MMR ČR - účelová inv. dotace - Dopravně bezpečnostní opatření pro pěší a cyklisty podél silnice II/449 - čerpání (RZ 70/2026/RM)"
+        },
+        {
+          "budget_change_id": "71/2026/RM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "15501",
+            "5",
+            "148",
+            "3 003 660"
+          ],
+          "amount": "3 344 988,76",
+          "amount_value": 3344988.76,
+          "description": "MŽP ČR - účelová inv. dotace - Instalace fotovoltaické elektrárny na ČOV Litovel - čerpání (RZ 71/2026/RM)"
+        },
+        {
+          "budget_change_id": "72/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "R.Š. - dar na organizační zajištění kulturní akce s názvem \"1. máj v Parku Míru 2026\" (RZ 72/2026/RM)"
+        },
+        {
+          "budget_change_id": "72/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "R.Š. - dar na organizační zajištění kulturní akce s názvem \"1. máj v Parku Míru 2026\" (RZ 72/2026/RM)"
+        },
+        {
+          "budget_change_id": "72/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "K.H. - dar na organizační zajištění hudebních odpolední s interaktivními prvky ve formě tance a hudebního spolutvoření, který se uskuteční v roce 2026 (RZ 72/2026/RM)"
+        },
+        {
+          "budget_change_id": "72/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "K.H. - dar na organizační zajištění hudebních odpolední s interaktivními prvky ve formě tance a hudebního spolutvoření, který se uskuteční v roce 2026 (RZ 72/2026/RM)"
+        },
+        {
+          "budget_change_id": "73/2026/RM",
+          "raw_codes": [
+            "3113",
+            "5904",
+            "33092",
+            "5",
+            "143",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-59 314,64",
+          "amount_value": -59314.64,
+          "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 73/2026/RM)"
+        },
+        {
+          "budget_change_id": "73/2026/RM",
+          "raw_codes": [
+            "3113",
+            "5904",
+            "33092",
+            "1",
+            "143",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-17 983,36",
+          "amount_value": -17983.36,
+          "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 73/2026/RM)"
+        },
+        {
+          "budget_change_id": "73/2026/RM",
+          "raw_codes": [
+            "6402",
+            "5904",
+            "33092",
+            "5",
+            "143",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "59 314,64",
+          "amount_value": 59314.64,
+          "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 73/2026/RM)"
+        },
+        {
+          "budget_change_id": "73/2026/RM",
+          "raw_codes": [
+            "6402",
+            "5904",
+            "33092",
+            "1",
+            "143",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "17 983,36",
+          "amount_value": 17983.36,
+          "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 73/2026/RM)"
+        },
+        {
+          "budget_change_id": "75/2026/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 000 000"
+          ],
+          "amount": "-228 278,40",
+          "amount_value": -228278.4,
+          "description": "KŘ - rezervy dle krizového zákona (RZ 75/2026/RM)"
+        },
+        {
+          "budget_change_id": "75/2026/RM",
+          "raw_codes": [
+            "2321",
+            "5169",
+            "16 000 000"
+          ],
+          "amount": "228 278,40",
+          "amount_value": 228278.4,
+          "description": "KŘ - čištění a monitoring kanalizace (RZ 75/2026/RM)"
+        },
+        {
+          "budget_change_id": "76/2026/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 000 000"
+          ],
+          "amount": "-96 800,00",
+          "amount_value": -96800.0,
+          "description": "KŘ - rezervy dle krizového zákona (RZ 76/2026/RM)"
+        },
+        {
+          "budget_change_id": "77/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5172",
+            "7 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "OŽP - zpracování PD k vynětí půdy (RZ 77/2026/RM)"
+        },
+        {
+          "budget_change_id": "77/2026/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "svoz komunálního odpadu (RZ 77/2026/RM)"
+        },
+        {
+          "budget_change_id": "78/2026/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 666"
+          ],
+          "amount": "-22 990,00",
+          "amount_value": -22990.0,
+          "description": "Litovel - úprava prostoru před AN směr Mlýnská (RZ 78/2026/RM)"
+        },
+        {
+          "budget_change_id": "78/2026/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "22 990,00",
+          "amount_value": 22990.0,
+          "description": "Litovel - nová studna pro zahrádkářskou osadu Pavlínka - PD + související výdaje (RZ 78/2026/RM)"
+        },
+        {
+          "budget_change_id": "79/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-89 843,00",
+          "amount_value": -89843.0,
+          "description": "Unčovice - rezerva (RZ 79/2026/RM)"
+        },
+        {
+          "budget_change_id": "79/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "89 843,00",
+          "amount_value": 89843.0,
+          "description": "Unčovice - Sokolovna - renovace vnitřních prostor (RZ 79/2026/RM)"
+        },
+        {
+          "budget_change_id": "80/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-25 197,00",
+          "amount_value": -25197.0,
+          "description": "Unčovice - rezerva (RZ 80/2026/RM)"
+        },
+        {
+          "budget_change_id": "80/2026/RM",
+          "raw_codes": [
+            "3412",
+            "5137",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "25 197,00",
+          "amount_value": 25197.0,
+          "description": "Unčovice - kiosek - sporák + lednice (vitrína) (RZ 80/2026/RM)"
+        },
+        {
+          "budget_change_id": "81/2026/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 666"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Litovel - úprava prostoru před AN směr Mlýnská - PD (RZ 81/2026/RM)"
+        },
+        {
+          "budget_change_id": "81/2026/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 610"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Litovel - areál B. Němcové - VDP (RZ 81/2026/RM)"
+        },
+        {
+          "budget_change_id": "82/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí ZML a RML (RZ 82/2026/RM)"
+        },
+        {
+          "budget_change_id": "82/2026/RM",
+          "raw_codes": [
+            "4359",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Zet-My, z.s. - dar na podporu činnosti odlehčovací služby (RZ 82/2026/RM)"
+        },
+        {
+          "budget_change_id": "76/2026/RM",
+          "raw_codes": [
+            "3744",
+            "6119",
+            "16",
+            "000",
+            "000"
+          ],
+          "amount": "96 800,00",
+          "amount_value": 96800.0,
+          "description": ") KŘ - převod a aktualizace digitálního povodňového plánu - město Litovel a ORP Litovel (RZ 76/2026/RM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "74/2026/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-39 900,00",
+          "amount_value": -39900.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech ... (RZ 74/2026/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 69/2026/RM",
+      "text": "Dne 5.3.2026 přijalo město Litovel na svůj účet účelovou neinvestiční dotaci od MŠMT ČR ve výši 576 900,80 Kč. Finanční prostředky jsou určeny pro Základní školu a Mateřskou školu Nasobůrky, Litovel na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů"
+    },
+    {
+      "title": "Rozpočtová změna č. 70/2026/RM",
+      "text": "Na základě rozhodnutí o poskytnutí dotace byla městu Litovel schválena dotace na akci Dopravně bezpečnostní opatření pro pěší a cyklisty podél silnice II/449 (Dukelská)."
+    },
+    {
+      "title": "Rozpočtová změna č. 71/2026/RM",
+      "text": "Na základě rozhodnutí o poskytnutí dotace byla městu Litovel schválena dotace na realizaci projektu „Instalace fotovoltaické elektrárny na ČOV ve městě Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2026/RM",
+      "text": "Dne 12.3.2026 byly na 69. schůzi RM města schváleny příspěvky pro FO a PO. Dva příspěvky pro FO byly rozhodnutím RM schváleny ne jako dotace, ale jako dary. Je nutné změnit položku dle druhu poskytnutého příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 73/2026/RM",
+      "text": "Dne 5.3.2026 byla ZM schválena rozpočtová změna související s vratkou nevyužitých finančních prostředků projektu OP JAK.s odpa 3113. Dle vyhlášky o rozpočtové skladbě patří tato vratka na odpa 6402 – Finanční vypořádání."
+    },
+    {
+      "title": "Rozpočtová změna č. 74/2026/RM",
+      "text": "V měsících lednu a únoru přijalo město Litovel neinv. transfery od obcí – jedná se o úhradu nákladů spojených s projednáváním přestupků"
+    },
+    {
+      "title": "Rozpočtová změna č. 75/2026/RM",
+      "text": "Dne 20.3.2026 obdrželo město Litovel fakturu začištění a monitorování venkovní kanalizace na ul. Javoříčská. Tento výdaj vznikl v souvislosti s povodní v září 2024. Pracovník krizového řízení chtěl tento výdaj uhradit z odpa 5213 – Krizová opatření. Dle vyhlášky o rozpočtové skladbě tento odpa nelze použít. Pro tento výdaj je určen odpa 2321 – Odvádění a čištění odpadních vod a nakládání s kaly"
+    },
+    {
+      "title": "Rozpočtová změna č. 76/2026/RM",
+      "text": "Rozpočtová změna na základě požadavku pracovníka krizového řízení. Pracovník krizového řízení chtěl tento výdaj uhradit z odpa 5213 – Krizová opatření. Dle vyhlášky o rozpočtové skladbě tento odpa nelze použít. Pro tento výdaj je určen odpa 3744 – Protierozní, protilavinová a protipožární ochrana."
+    },
+    {
+      "title": "Rozpočtová změna č. 77/2026/RM",
+      "text": "Dne 24.3.2026 požádal vedoucí OŽP o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 78/2026/RM",
+      "text": "Dne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 79/2026/RM",
+      "text": "Dne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 80/2026/RM",
+      "text": "Dne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 81/2026/RM",
+      "text": "Dne 26.3.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 82/2026/RM",
+      "text": "Dar na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._7_2026_dne_2._dubna_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 7/2026 schválené Radou města Litovel\ndne 2. dubna 2026\nRozpočtové opatření bylo schváleno na 70. schůzi Rady města Litovel dne 2. dubna 2026 na základě usnesení\nRM/2189/70/2026, RM/2208/70/2026.\nZměny v příjmech:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\nMŠMT ČR - účelová neinv. dotace pro\nZŠ a MŠ Nasobůrky na realizaci\n4116 33092 5 143 47 465 894,03\nprojektu v rámci OP JAK (RZ\n69/2026/RM)\nMŠMT ČR - účelová neinv. dotace pro\nZŠ a MŠ Nasobůrky na realizaci\n4116 33092 1 143 47 110 916,77\nprojektu v rámci OP JAK (RZ\n69/2026/RM)\nMMR ČR - účelová inv. dotace -\nDopravně bezpečnostní opatření pro\n4216 17519 5 149 3 003 558 8 975 519,24\npěší a cyklisty podél silnice II/449 (RZ\n70/2026/RM)\nMŽP ČR - účelová inv. dotace -\n4216 15501 5 148 3 003 660 3 344 988,76 Instalace fotovoltaické elektrárny na\nČOV Litovel (RZ 71/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3008 1 400,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3009 700,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3012 8 100,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3037 1 400,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3046 3 400,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3053 700,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3054 2 000,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3058 8 700,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3063 2 700,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3068 6 100,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3069 2 000,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3072 2 000,00\n(RZ 74/2026/RM)\nneinvestiční přijaté transfery od obcí\n4121 3089 700,00\n(RZ 74/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\nMŠMT ČR - účel. neiv. dotace pro ZŠ a\nMŠ Nasobůrky na realizaci projektu v\n3113 5336 33092 5 143 47 4 000 000 465 894,03\nrámci OP JAK - převod dotace příjemci\n(RZ 69/2026/RM)\nMŠMT ČR - účel. neiv. dotace pro ZŠ a\nMŠ Nasobůrky na realizaci projektu v\n3113 5336 33092 1 143 47 4 000 000 110 916,77\nrámci OP JAK - převod dotace příjemci\n(RZ 69/2026/RM)\nMMR ČR - účelová inv. dotace -\nDopravně bezpečnostní opatření pro pěší\n2219 6121 17519 5 149 3 003 558 8 975 519,24\na cyklisty podél silnice II/449 - čerpání\n(RZ 70/2026/RM)\nMŽP ČR - účelová inv. dotace - Instalace\n2321 6121 15501 5 148 3 003 660 3 344 988,76 fotovoltaické elektrárny na ČOV Litovel\n- čerpání (RZ 71/2026/RM)\nR.Š. - dar na organizační zajištění\n3429 5499 4 000 000 -5 000,00 kulturní akce s názvem \"1. máj v Parku\nMíru 2026\" (RZ 72/2026/RM)\nR.Š. - dar na organizační zajištění\n3429 5492 4 000 000 5 000,00 kulturní akce s názvem \"1. máj v Parku\nMíru 2026\" (RZ 72/2026/RM)\nK.H. - dar na organizační zajištění\nhudebních odpolední s interaktivními\n3429 5499 4 000 000 -2 500,00 prvky ve formě tance a hudebního\nspolutvoření, který se uskuteční v roce\n2026 (RZ 72/2026/RM)\nK.H. - dar na organizační zajištění\nhudebních odpolední s interaktivními\n3429 5492 4 000 000 2 500,00 prvky ve formě tance a hudebního\nspolutvoření, který se uskuteční v roce\n2026 (RZ 72/2026/RM)\nZŠ Vítězná - vratka dotace na realizaci\n3113 5904 33092 5 143 45 4 000 000 -59 314,64 projektu v rámci OP JAK (RZ\n73/2026/RM)\nZŠ Vítězná - vratka dotace na realizaci\n3113 5904 33092 1 143 45 4 000 000 -17 983,36 projektu v rámci OP JAK (RZ\n73/2026/RM)\nZŠ Vítězná - vratka dotace na realizaci\n6402 5904 33092 5 143 45 4 000 000 59 314,64 projektu v rámci OP JAK (RZ\n73/2026/RM)\nZŠ Vítězná - vratka dotace na realizaci\n6402 5904 33092 1 143 45 4 000 000 17 983,36 projektu v rámci OP JAK (RZ\n73/2026/RM)\nKŘ - rezervy dle krizového zákona (RZ\n5213 5903 16 000 000 -228 278,40\n75/2026/RM)\nKŘ - čištění a monitoring kanalizace (RZ\n2321 5169 16 000 000 228 278,40\n75/2026/RM)\nKŘ - rezervy dle krizového zákona (RZ\n5213 5903 16 000 000 -96 800,00\n76/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nKŘ - převod a aktualizace digitálního\n3744 6119 16 000 000 96 800,00 povodňového plánu - město Litovel a\nORP Litovel (RZ 76/2026/RM)\nOŽP - zpracování PD k vynětí půdy (RZ\n3639 5172 7 000 000 -50 000,00\n77/2026/RM)\nsvoz komunálního odpadu (RZ\n3722 5169 7 000 000 50 000,00\n77/2026/RM)\nLitovel - úprava prostoru před AN směr\n3639 6121 3 003 666 -22 990,00\nMlýnská (RZ 78/2026/RM)\nLitovel - nová studna pro zahrádkářskou\n3639 6121 3 000 000 22 990,00 osadu Pavlínka - PD + související výdaje\n(RZ 78/2026/RM)\n3639 5901 310 2 030 000 -89 843,00 Unčovice - rezerva (RZ 79/2026/RM)\nUnčovice - Sokolovna - renovace\n3392 5171 310 2 033 465 89 843,00\nvnitřních prostor (RZ 79/2026/RM)\n3639 5901 310 2 030 000 -25 197,00 Unčovice - rezerva (RZ 80/2026/RM)\nUnčovice - kiosek - sporák + lednice\n3412 5137 310 2 030 000 25 197,00\n(vitrína) (RZ 80/2026/RM)\nLitovel - úprava prostoru před AN směr\n3639 6121 3 003 666 -100 000,00\nMlýnská - PD (RZ 81/2026/RM)\nLitovel - areál B. Němcové - VDP (RZ\n3639 6121 3 003 610 100 000,00\n81/2026/RM)\ntransfery dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -5 000,00\n(RZ 82/2026/RM)\nZet-My, z.s. - dar na podporu činnosti\n4359 5222 4 000 000 5 000,00\nodlehčovací služby (RZ 82/2026/RM)\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\nzměna stavu krátkodobých prostředků na\n8115 -39 900,00\nbankovních účtech ... (RZ 74/2026/RM)\nRozpočtová změna č. 69/2026/RM\nDne 5.3.2026 přijalo město Litovel na svůj účet účelovou neinvestiční dotaci od MŠMT ČR ve výši\n576 900,80 Kč. Finanční prostředky jsou určeny pro Základní školu a Mateřskou školu Nasobůrky, Litovel na\nrealizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené\nvykazování nákladů\nRozpočtová změna č. 70/2026/RM\nNa základě rozhodnutí o poskytnutí dotace byla městu Litovel schválena dotace na akci Dopravně bezpečnostní opatření\npro pěší a cyklisty podél silnice II/449 (Dukelská).\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 71/2026/RM\nNa základě rozhodnutí o poskytnutí dotace byla městu Litovel schválena dotace na realizaci projektu „Instalace\nfotovoltaické elektrárny na ČOV ve městě Litovel.\nRozpočtová změna č. 72/2026/RM\nDne 12.3.2026 byly na 69. schůzi RM města schváleny příspěvky pro FO a PO. Dva příspěvky pro FO byly rozhodnutím\nRM schváleny ne jako dotace, ale jako dary. Je nutné změnit položku dle druhu poskytnutého příspěvku.\nRozpočtová změna č. 73/2026/RM\nDne 5.3.2026 byla ZM schválena rozpočtová změna související s vratkou nevyužitých finančních prostředků projektu\nOP JAK.s odpa 3113. Dle vyhlášky o rozpočtové skladbě patří tato vratka na odpa 6402 – Finanční vypořádání.\nRozpočtová změna č. 74/2026/RM\nV měsících lednu a únoru přijalo město Litovel neinv. transfery od obcí – jedná se o úhradu nákladů spojených\ns projednáváním přestupků\nRozpočtová změna č. 75/2026/RM\nDne 20.3.2026 obdrželo město Litovel fakturu začištění a monitorování venkovní kanalizace na ul. Javoříčská. Tento\nvýdaj vznikl v souvislosti s povodní v září 2024. Pracovník krizového řízení chtěl tento výdaj uhradit z odpa 5213 –\nKrizová opatření. Dle vyhlášky o rozpočtové skladbě tento odpa nelze použít. Pro tento výdaj je určen odpa 2321 –\nOdvádění a čištění odpadních vod a nakládání s kaly\nRozpočtová změna č. 76/2026/RM\nRozpočtová změna na základě požadavku pracovníka krizového řízení. Pracovník krizového řízení chtěl tento výdaj\nuhradit z odpa 5213 – Krizová opatření. Dle vyhlášky o rozpočtové skladbě tento odpa nelze použít. Pro tento výdaj je\nurčen odpa 3744 – Protierozní, protilavinová a protipožární ochrana.\nRozpočtová změna č. 77/2026/RM\nDne 24.3.2026 požádal vedoucí OŽP o rozpočtovou změnu.\nRozpočtová změna č. 78/2026/RM\nDne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 79/2026/RM\nDne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 80/2026/RM\nDne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 81/2026/RM\nDne 26.3.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 82/2026/RM\nDar na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 15.4.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/2189/70/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2208/70/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2208/70/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "69/2026/RM",
+        "70/2026/RM",
+        "71/2026/RM",
+        "72/2026/RM",
+        "73/2026/RM",
+        "74/2026/RM",
+        "75/2026/RM",
+        "76/2026/RM",
+        "77/2026/RM",
+        "78/2026/RM",
+        "79/2026/RM",
+        "80/2026/RM",
+        "81/2026/RM"
+      ]
+    }
+  ]
+}

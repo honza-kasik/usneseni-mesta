@@ -1,0 +1,101 @@
+{
+  "id": "RO/3/2026",
+  "number": 3,
+  "year": 2026,
+  "approval_date": "2026-02-12",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 24,
+    "type": "zasedání",
+    "date": "2026-02-12"
+  },
+  "source_resolutions": [
+    "ZM/3/24/2026"
+  ],
+  "budget_change_ids": [
+    "5/2026/ZM",
+    "6/2026/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "5/2026/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 5/2026/ZM)"
+        },
+        {
+          "budget_change_id": "6/2026/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "1 793 333,00",
+          "amount_value": 1793333.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 6/2026/ZM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "5/2026/ZM",
+          "raw_codes": [
+            "3613",
+            "5189",
+            "3 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "jistina dle dražební vyhlášky - dům na ul. 1. máje (RZ 5/2026/ZM)"
+        },
+        {
+          "budget_change_id": "6/2026/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "1 793 333,00",
+          "amount_value": 1793333.0,
+          "description": "dům na ul. 1. máje (RZ 6/2026/ZM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 5/2026/ZM",
+      "text": "Jistina dle dražební vyhlášky."
+    },
+    {
+      "title": "Rozpočtová změna č. 6/2026/ZM",
+      "text": "Dům na ul. 1. máje."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._3_2026_dne_12._unora_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 3/2026 schválené Zastupitelstvem města Litovel\ndne 12. února 2026\nRozpočtové opatření bylo schváleno na 24. zasedání Zastupitelstva města Litovel dne 12. února 2026 na základě\nusnesení ZM/3/24/2026.\nZměny ve financování:\nODPA POL UZ PJ NÁSTROJ MU ORJ ORG Kč\nzměna stavu krátkodobých\n8115 300 000,00 prostředků na bankovních účtech ..\n(RZ 5/2026/ZM)\nzměna stavu krátkodobých\n8115 1 793 333,00 prostředků na bankovních účtech ..\n(RZ 6/2026/ZM)\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ MU ORJ ORG Kč\njistina dle dražební vyhlášky - dům\n3613 5189 3 000 000 300 000,00\nna ul. 1. máje (RZ 5/2026/ZM)\ndům na ul. 1. máje (RZ\n3613 6121 3 000 000 1 793 333,00\n6/2026/ZM)\nRozpočtová změna č. 5/2026/ZM\nJistina dle dražební vyhlášky.\nRozpočtová změna č. 6/2026/ZM\nDům na ul. 1. máje.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 20.2.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/3/24/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "ZM/3/24/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "5/2026/ZM",
+        "6/2026/ZM"
+      ]
+    }
+  ]
+}

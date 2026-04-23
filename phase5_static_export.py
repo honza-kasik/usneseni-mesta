@@ -13,6 +13,7 @@ Tento modul:
     - generuje sitemap.xml
     - vytváří obousměrné referenční vazby (out + in)
     - generuje indexy jednotlivých schůzí
+    - pokud jsou k dispozici propojená rozpočtová opatření, generuje i jejich stránky
 
 Negeneruje:
     - hlavní stránku /usneseni/ (ta existuje ručně)
@@ -28,6 +29,11 @@ Použití:
         -i phase3/usneseni.json \
         -o ../litovle.cz/
 
+    python phase5_static_export.py \
+        -i work/rozpoctova-opatreni-linked/usneseni.json \
+        --opatreni work/rozpoctova-opatreni-linked/rozpoctova-opatreni \
+        -o ../litovle.cz/
+
 Architektura:
     phase1 → extrakce PDF
     phase2 → strukturální analýza
@@ -40,6 +46,7 @@ from __future__ import annotations
 
 import json
 import argparse
+import re
 from pathlib import Path
 from collections import defaultdict
 from typing import Dict, List, Tuple, Optional
@@ -49,6 +56,10 @@ import html
 
 BASE_URL = "https://litovle.cz"
 SEARCH_URL = "/usneseni/"
+BUDGET_CHANGE_RE = re.compile(
+    r"\b(?:RZ\s+)?(?P<id>\d{1,4}\s*/\s*\d{4}\s*/\s*(?:RM|ZM))\b",
+    re.IGNORECASE,
+)
 
 
 # ============================================================
@@ -63,6 +74,30 @@ def slug_from_id(resolution_id: str) -> str:
         "RM/1/1/2022" → "RM-1-1-2022"
     """
     return resolution_id.replace("/", "-")
+
+
+def ro_slug_from_id(opatreni_id: str) -> str:
+    """
+    Convert RO ID to URL-safe slug.
+
+    Example:
+        "RO/6/2026" -> "RO-6-2026"
+    """
+    return opatreni_id.replace("/", "-")
+
+
+def ro_url(opatreni_id: str) -> str:
+    return f"/rozpoctova-opatreni/{ro_slug_from_id(opatreni_id)}/"
+
+
+def rz_anchor(budget_change_id: str) -> str:
+    return "rz-" + budget_change_id.replace("/", "-").lower()
+
+
+def resolution_url(resolution_id: str) -> str:
+    slug = slug_from_id(resolution_id)
+    year = resolution_id.split("/")[-1]
+    return f"/usneseni/{year}/{slug}/"
 
 
 def meeting_from_id(rid: str) -> Tuple[str, str, str]:
@@ -84,6 +119,24 @@ def format_date(d: str) -> str:
         return datetime.fromisoformat(d).strftime("%-d. %-m.")
     except Exception:
         return d or ""
+
+
+def format_full_date(d: str) -> str:
+    """
+    Convert ISO date (YYYY-MM-DD) to Czech display format (D. M. YYYY).
+    """
+    try:
+        return datetime.fromisoformat(d).strftime("%-d. %-m. %Y")
+    except Exception:
+        return d or ""
+
+
+def budget_change_count_label(count: int) -> str:
+    if count == 1:
+        return "1 rozpočtová změna"
+    if 2 <= count <= 4:
+        return f"{count} rozpočtové změny"
+    return f"{count} rozpočtových změn"
 
 
 # ============================================================
@@ -215,13 +268,85 @@ def render_references_section(title: str, ids: List[str]) -> str:
     lines = [f"<h2>{title}</h2>", "<ul>"]
 
     for rid in sorted(set(ids)):
-        slug = slug_from_id(rid)
-        year = rid.split("/")[-1]
-        url = f"/usneseni/{year}/{slug}/"
+        url = resolution_url(rid)
         lines.append(f'<li><a href="{url}">{html.escape(rid)}</a></li>')
 
     lines.append("</ul>")
     return "\n".join(lines)
+
+
+def render_budget_links_section(resolution: Dict) -> str:
+    """
+    Render links between a resolution and parsed budget changes/opatreni.
+
+    The section is shown only when the input data has been enriched by
+    crosslink_rozpoctova_opatreni.py.
+    """
+    approved = resolution.get("budget_opatreni_approved") or []
+    budget_links = resolution.get("budget_change_links") or []
+
+    if not approved and not budget_links:
+        return ""
+
+    lines = ['<section class="usn-budget-links">', "<h2>Rozpočtová opatření</h2>"]
+
+    seen_approved = set()
+    approved_lines = []
+    for link in approved:
+        opatreni_id = link.get("opatreni_id")
+        if not opatreni_id or opatreni_id in seen_approved:
+            continue
+        seen_approved.add(opatreni_id)
+        url = ro_url(opatreni_id)
+        approved_lines.append(
+            f'<li>Odkazováno z rozpočtového opatření <a href="{url}">{html.escape(opatreni_id)}</a></li>'
+        )
+
+    seen_budget_changes = set()
+    budget_change_lines = []
+    for link in sorted(budget_links, key=lambda item: budget_change_sort_key(item.get("budget_change_id", ""))):
+        budget_change_id = link.get("budget_change_id")
+        opatreni_id = link.get("opatreni_id")
+        if not budget_change_id or not opatreni_id:
+            continue
+
+        key = (budget_change_id, opatreni_id)
+        if key in seen_budget_changes:
+            continue
+        seen_budget_changes.add(key)
+
+        url = ro_url(opatreni_id) + "#" + rz_anchor(budget_change_id)
+        budget_change_lines.append(
+            "<li>"
+            f'<a href="{url}">Rozpočtová změna {html.escape(budget_change_id)}</a> '
+            f"v {html.escape(opatreni_id)}"
+            "</li>"
+        )
+
+    if approved_lines:
+        lines.append("<ul>")
+        lines.extend(approved_lines)
+        lines.append("</ul>")
+
+    if budget_change_lines:
+        lines.append(
+            f'<details class="usn-budget-change-list" open>'
+            f'<summary>{budget_change_count_label(len(budget_change_lines))}</summary>'
+            "<ul>"
+        )
+        lines.extend(budget_change_lines)
+        lines.append("</ul></details>")
+
+    lines.append("</section>")
+    return "\n".join(lines)
+
+
+def budget_change_sort_key(value: str):
+    match = re.match(r"^(\d+)/(\d{4})/(RM|ZM)$", value)
+    if not match:
+        return (9999, value)
+    number, year, organ = match.groups()
+    return (int(year), organ, int(number))
 
 
 # ============================================================
@@ -276,6 +401,11 @@ def write_resolution(
     content = render_resolution_content(resolution)
 
     # References OUT
+    budget_links_section = render_budget_links_section(resolution)
+    if budget_links_section:
+        content += "\n" + budget_links_section
+
+    # References OUT
     content += render_references_section(
         "Odkazuje na",
         refs_out_map.get(rid, [])
@@ -299,7 +429,8 @@ def write_year_index(
     year: str,
     entries: List[Tuple[str, str]],
     meetings: List[Tuple[str, str, str]],
-    output_root: Path
+    output_root: Path,
+    opatreni_entries: Optional[List[Dict]] = None,
 ) -> None:
     """
     Generate yearly index page listing all resolutions of given year,
@@ -370,6 +501,38 @@ def write_year_index(
                     f'<a href="{url}">{slug} <span class="usn-date">({format_date(date)})</span></a>'
                 )
             lines.append("</div>")
+
+    # --------------------------------------------------
+    # Budget measures section
+    # --------------------------------------------------
+
+    if opatreni_entries:
+        lines += [
+            "",
+            "<h2>Rozpočtová opatření</h2>",
+            '<div class="usn-meetings">',
+        ]
+
+        for opatreni in sorted(
+            opatreni_entries,
+            key=lambda item: (
+                item.get("approval_date") or "",
+                item.get("year", 0),
+                item.get("number", 0),
+            ),
+            reverse=True,
+        ):
+            oid = opatreni["id"]
+            approval_date = opatreni.get("approval_date") or ""
+            lines.append(
+                f'<a href="{ro_url(oid)}">{html.escape(oid.replace("/", "-"))} '
+                f'<span class="usn-date">({html.escape(format_date(approval_date))})</span></a>'
+            )
+
+        lines += [
+            "</div>",
+            '<p class="usn-more"><a href="/rozpoctova-opatreni/">Všechna rozpočtová opatření</a></p>',
+        ]
 
     # --------------------------------------------------
     # Resolutions list
@@ -472,6 +635,415 @@ def write_meeting_index(
     )
 
 
+def format_amount(row: Dict) -> str:
+    return row.get("amount") or ""
+
+
+def render_resolution_link_list(resolution_ids: List[str]) -> str:
+    if not resolution_ids:
+        return ""
+
+    lines = ["<ul>"]
+    for rid in sorted(set(resolution_ids)):
+        lines.append(
+            f'<li><a href="{resolution_url(rid)}">{html.escape(rid)}</a></li>'
+        )
+    lines.append("</ul>")
+    return "\n".join(lines)
+
+
+def opatreni_organ_name(opatreni: Dict) -> str:
+    organ = (opatreni.get("organ") or "").upper()
+    if organ == "RM":
+        return "Rada města Litovel"
+    if organ == "ZM":
+        return "Zastupitelstvo města Litovel"
+
+    approved_by = opatreni.get("approved_by") or ""
+    replacements = {
+        "Radou města Litovel": "Rada města Litovel",
+        "Zastupitelstvem města Litovel": "Zastupitelstvo města Litovel",
+    }
+    return replacements.get(approved_by, approved_by)
+
+
+def note_budget_change_id(note: Dict) -> Optional[str]:
+    title = note.get("title") or ""
+    match = BUDGET_CHANGE_RE.search(title)
+    if match:
+        return normalize_budget_change_id(match.group("id"))
+    return None
+
+
+def normalize_budget_change_id(value: str) -> str:
+    return re.sub(r"\s+", "", value.upper())
+
+
+def note_map_by_budget_change(notes: List[Dict]) -> Dict[str, Dict]:
+    mapped = {}
+    for note in notes:
+        budget_change_id = note_budget_change_id(note)
+        if budget_change_id and note.get("text"):
+            mapped[budget_change_id] = note
+    return mapped
+
+
+def amount_class(row: Dict) -> str:
+    value = row.get("amount_value")
+    if isinstance(value, (int, float)):
+        if value < 0:
+            return " usn-amount-negative"
+        if value > 0:
+            return " usn-amount-positive"
+    return ""
+
+
+def code_labels_for_row(section_type: str, total: int) -> List[str]:
+    labels_by_section = {
+        "prijmy": {
+            1: ["POL"],
+            2: ["POL", "ORG"],
+            5: ["POL", "UZ", "NÁSTROJ", "ORJ", "ORG"],
+            6: ["POL", "UZ", "PJ", "NÁSTROJ", "ORJ", "ORG"],
+        },
+        "vydaje": {
+            2: ["ODPA", "POL"],
+            3: ["ODPA", "POL", "ORG"],
+            4: ["ODPA", "POL", "ORJ", "ORG"],
+            5: ["ODPA", "POL", "UZ", "ORJ", "ORG"],
+            6: ["ODPA", "POL", "UZ", "NÁSTROJ", "ORJ", "ORG"],
+            7: ["ODPA", "POL", "UZ", "PJ", "NÁSTROJ", "ORJ", "ORG"],
+        },
+        "financovani": {
+            1: ["POL"],
+        },
+    }
+    labels = labels_by_section.get(section_type, {}).get(total)
+    if labels:
+        return labels
+    return [f"Kód {index + 1}" for index in range(total)]
+
+
+def render_code_details(row: Dict, section_type: str) -> str:
+    codes = row.get("raw_codes") or []
+    if not codes:
+        return ""
+
+    labels = code_labels_for_row(section_type, len(codes))
+    summary = ", ".join(
+        f"{labels[index]} {code}"
+        for index, code in enumerate(codes)
+    )
+    terms = [
+        "<div>"
+        f"<dt>{html.escape(labels[index])}</dt>"
+        f"<dd>{html.escape(code)}</dd>"
+        "</div>"
+        for index, code in enumerate(codes)
+    ]
+    return (
+        '<details class="usn-code-details">'
+        f"<summary>Kódy: {html.escape(summary)}</summary>"
+        "<dl>"
+        + "".join(terms)
+        + "</dl>"
+        "</details>"
+    )
+
+
+def render_code_help() -> str:
+    return """
+<details class="usn-code-help">
+<summary>Co znamenají kódy rozpočtové skladby</summary>
+<dl>
+<div><dt>ODPA</dt><dd>Odvětvové/paragrafové členění výdaje nebo příjmu.</dd></div>
+<div><dt>POL</dt><dd>Rozpočtová položka, tedy ekonomický druh příjmu, výdaje nebo financování.</dd></div>
+<div><dt>UZ</dt><dd>Účelový znak, typicky vazba na dotaci nebo účelové prostředky.</dd></div>
+<div><dt>NÁSTROJ, ORJ, ORG</dt><dd>Doplňkové členění používané v účetním systému města.</dd></div>
+</dl>
+</details>
+"""
+
+
+def group_rows_by_budget_change(rows: List[Dict]) -> List[Tuple[str, List[Dict]]]:
+    grouped = []
+    index_by_id = {}
+
+    for row in rows:
+        budget_change_id = row.get("budget_change_id") or ""
+        if budget_change_id not in index_by_id:
+            index_by_id[budget_change_id] = len(grouped)
+            grouped.append((budget_change_id, []))
+        grouped[index_by_id[budget_change_id]][1].append(row)
+
+    return grouped
+
+
+def clean_budget_row_description(description: str, budget_change_id: str) -> str:
+    if not description:
+        return ""
+
+    escaped_id = re.escape(budget_change_id).replace(r"\/", r"\s*/\s*")
+    description = re.sub(
+        r"\s*\(?\s*RZ\s+" + escaped_id + r"\s*\)?\s*$",
+        "",
+        description,
+        flags=re.IGNORECASE,
+    )
+    return description.strip()
+
+
+def render_budget_change_article(
+    budget_change_id: str,
+    rows: List[Dict],
+    note: Optional[Dict],
+    anchor: str,
+    section_type: str,
+) -> str:
+    article_attrs = f' id="{anchor}"' if anchor else ""
+    row_label = "účetní řádek" if len(rows) == 1 else "účetní řádky"
+    lines = [
+        f'<article{article_attrs} class="usn-rz-group">',
+        '<header class="usn-rz-group-head">',
+        f'<h3><a href="#{html.escape(anchor)}">Rozpočtová změna {html.escape(budget_change_id)}</a></h3>' if anchor else f'<h3>Rozpočtová změna {html.escape(budget_change_id)}</h3>',
+        f'<p class="usn-rz-count">{len(rows)} {row_label}</p>',
+        "</header>",
+    ]
+
+    if note:
+        lines += [
+            '<aside class="usn-rz-note">',
+            f'<p>{html.escape(note.get("text") or "")}</p>',
+            "</aside>",
+        ]
+
+    lines += [
+        '<div class="usn-rz-rows">',
+    ]
+
+    for row in rows:
+        description = clean_budget_row_description(
+            row.get("description") or "",
+            budget_change_id,
+        )
+        lines += [
+            '<div class="usn-rz-row">',
+            '<div class="usn-rz-row-main">',
+            f'<strong class="usn-amount{amount_class(row)}">{html.escape(format_amount(row))}</strong>',
+            f'<p>{html.escape(description)}</p>',
+            "</div>",
+            render_code_details(row, section_type),
+            "</div>",
+        ]
+
+    lines.append("</div>")
+
+    lines.append("</article>")
+    return "\n".join(lines)
+
+
+def write_ro_page(opatreni: Dict, output_root: Path) -> str:
+    oid = opatreni["id"]
+    slug = ro_slug_from_id(oid)
+    permalink = ro_url(oid)
+    target_dir = output_root / "rozpoctova-opatreni" / slug
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    title = f"Rozpočtové opatření {oid}"
+    organ_name = opatreni_organ_name(opatreni)
+    approval_date = opatreni.get("approval_date") or ""
+    approval_date_display = format_full_date(approval_date)
+    budget_change_ids = opatreni.get("budget_change_ids") or []
+    description = html.escape(
+        f"{title}, {approval_date_display or approval_date}, {organ_name}"
+    )
+
+    frontmatter = (
+        "---\n"
+        "layout: usneseni\n"
+        f"title: \"{title}\"\n"
+        f"description: \"{description}\"\n"
+        f"cislo: \"{oid}\"\n"
+        f"organ: \"{organ_name}\"\n"
+        f"datum: \"{approval_date}\"\n"
+        f"permalink: {permalink}\n"
+        "---\n\n"
+    )
+
+    meeting = opatreni.get("meeting") or {}
+    source_resolution_ids = [
+        link.get("resolution_id")
+        for link in opatreni.get("resolution_links") or []
+        if link.get("relation") == "approves_opatreni" and link.get("resolution_id")
+    ]
+    mentioned_resolution_ids = [
+        link.get("resolution_id")
+        for link in opatreni.get("resolution_links") or []
+        if link.get("relation") == "mentions_budget_change" and link.get("resolution_id")
+    ]
+
+    lines = [
+        '<p class="usn-back"><a href="/rozpoctova-opatreni/">← Zpět na rozpočtová opatření</a></p>',
+        f"<h1>{html.escape(title)}</h1>",
+        f'<p class="usn-meta">{html.escape(approval_date_display or approval_date)} • {html.escape(organ_name)}</p>',
+        '<dl class="usn-summary-list">',
+        f"<div><dt>Orgán</dt><dd>{html.escape(organ_name)}</dd></div>",
+        f"<div><dt>Datum schválení</dt><dd>{html.escape(approval_date_display or approval_date)}</dd></div>",
+        f"<div><dt>Rozpočtové změny</dt><dd>{html.escape(budget_change_count_label(len(budget_change_ids)))}</dd></div>",
+        "</dl>",
+    ]
+
+    if meeting:
+        meeting_text = (
+            f'{meeting.get("number", "")}. {meeting.get("type", "")}, '
+            f'{format_full_date(meeting.get("date", "")) or meeting.get("date", "")}'
+        ).strip(" ,")
+        if meeting_text:
+            lines.append(f'<p class="usn-meta-detail">Schváleno: {html.escape(meeting_text)}</p>')
+
+    if source_resolution_ids:
+        lines.append("<h2>Schvalující usnesení</h2>")
+        lines.append(render_resolution_link_list(source_resolution_ids))
+
+    lines.append(render_code_help())
+
+    anchored_rz = set()
+    rendered_notes = set()
+    notes_by_rz = note_map_by_budget_change(opatreni.get("notes") or [])
+    section_titles = {
+        "prijmy": "Příjmy",
+        "vydaje": "Výdaje",
+        "financovani": "Financování",
+    }
+
+    for section in opatreni.get("sections") or []:
+        rows = section.get("rows") or []
+        if not rows:
+            continue
+
+        section_type = section.get("type") or ""
+        title = section_titles.get(section_type, section.get("label") or section_type)
+        grouped_rows = group_rows_by_budget_change(rows)
+        lines += [
+            f'<section class="usn-ro-section usn-ro-section-{html.escape(section_type)}">',
+            f"<h2>{html.escape(title)}</h2>",
+            '<div class="usn-rz-list">',
+        ]
+
+        for budget_change_id, budget_rows in grouped_rows:
+            group_anchor = ""
+            if budget_change_id and budget_change_id not in anchored_rz:
+                group_anchor = rz_anchor(budget_change_id)
+                anchored_rz.add(budget_change_id)
+
+            note = notes_by_rz.get(budget_change_id)
+            article_note = None
+            if note and budget_change_id not in rendered_notes:
+                rendered_notes.add(budget_change_id)
+                article_note = note
+
+            lines.append(
+                render_budget_change_article(
+                    budget_change_id,
+                    budget_rows,
+                    article_note,
+                    group_anchor,
+                    section_type,
+                )
+            )
+
+        lines += ["</div>", "</section>"]
+
+    notes = opatreni.get("notes") or []
+    remaining_notes = [
+        note for note in notes
+        if note_budget_change_id(note) not in rendered_notes
+    ]
+    if remaining_notes:
+        lines.append("<h2>Další poznámky</h2>")
+        for note in remaining_notes:
+            if note.get("title"):
+                lines.append(f"<h3>{html.escape(note['title'])}</h3>")
+            if note.get("text"):
+                lines.append(f"<p>{html.escape(note['text'])}</p>")
+
+    if mentioned_resolution_ids:
+        lines.append("<h2>Usnesení odkazující na RZ</h2>")
+        lines.append(render_resolution_link_list(mentioned_resolution_ids))
+
+    (target_dir / "index.html").write_text(
+        frontmatter + "\n".join(lines),
+        encoding="utf-8",
+    )
+
+    return permalink
+
+
+def write_ro_index(opatreni_list: List[Dict], output_root: Path) -> str:
+    target_dir = output_root / "rozpoctova-opatreni"
+    target_dir.mkdir(parents=True, exist_ok=True)
+
+    lines = [
+        "---",
+        "layout: usneseni_year",
+        "title: Rozpočtová opatření",
+        "permalink: /rozpoctova-opatreni/",
+        "---",
+        "",
+        "<h1>Rozpočtová opatření</h1>",
+        '<ul class="usn-results">',
+    ]
+
+    for opatreni in sorted(opatreni_list, key=lambda item: (item.get("year", 0), item.get("number", 0)), reverse=True):
+        oid = opatreni["id"]
+        lines.append(
+            '<li class="usn-result">'
+            f'<a href="{ro_url(oid)}" class="usn-card">'
+            '<div class="usn-head">'
+            f'<strong>{html.escape(oid)}</strong>'
+            f'<span class="usn-date">{html.escape(opatreni.get("approval_date") or "")}</span>'
+            '</div>'
+            f'<div class="usn-summary">{html.escape(opatreni.get("approved_by") or "")}</div>'
+            f'<div class="usn-snippet">{len(opatreni.get("budget_change_ids") or [])} rozpočtových změn</div>'
+            '</a>'
+            '</li>'
+        )
+
+    lines.append("</ul>")
+
+    (target_dir / "index.html").write_text(
+        "\n".join(lines),
+        encoding="utf-8",
+    )
+
+    return "/rozpoctova-opatreni/"
+
+
+def load_opatreni_dir(input_json: Path, explicit_dir: Optional[Path]) -> List[Dict]:
+    opatreni_dir = explicit_dir
+    if opatreni_dir is None:
+        candidate = input_json.parent / "rozpoctova-opatreni"
+        if candidate.exists():
+            opatreni_dir = candidate
+
+    if opatreni_dir is None or not opatreni_dir.exists():
+        return []
+
+    return [
+        json.loads(path.read_text(encoding="utf-8"))
+        for path in sorted(opatreni_dir.glob("*.json"))
+    ]
+
+
+def group_opatreni_by_approval_year(opatreni_list: List[Dict]) -> Dict[str, List[Dict]]:
+    grouped: Dict[str, List[Dict]] = defaultdict(list)
+    for opatreni in opatreni_list:
+        approval_date = opatreni.get("approval_date") or ""
+        if len(approval_date) >= 4:
+            grouped[approval_date[:4]].append(opatreni)
+    return grouped
+
+
 def write_sitemap(urls: List[str], output_root: Path) -> None:
     """
     Generate sitemap.xml including all resolution and index URLs.
@@ -516,6 +1088,11 @@ def main() -> None:
     )
     parser.add_argument("-i", "--input", type=Path, required=True)
     parser.add_argument("-o", "--output", type=Path, required=True)
+    parser.add_argument(
+        "--opatreni",
+        type=Path,
+        help="Adresář s propojenými JSON rozpočtových opatření; výchozí je sourozenec inputu rozpoctova-opatreni/",
+    )
     args = parser.parse_args()
 
     if not args.input.exists():
@@ -527,6 +1104,8 @@ def main() -> None:
 
     if not isinstance(data, list):
         raise SystemExit("Input JSON must be a list of resolutions.")
+
+    opatreni_list = load_opatreni_dir(args.input, args.opatreni)
 
     # --------------------------------------------------
     # Build reference graph
@@ -560,6 +1139,8 @@ def main() -> None:
     meetings_by_year: Dict[str, List[Tuple[str, str, str]]] = defaultdict(list)
 
     sitemap_urls: List[str] = []
+
+    opatreni_by_approval_year = group_opatreni_by_approval_year(opatreni_list)
 
     # --------------------------------------------------
     # Generate resolution pages + collect data
@@ -626,7 +1207,8 @@ def main() -> None:
             year,
             entries,
             meetings_by_year.get(year, []),
-            args.output
+            args.output,
+            opatreni_by_approval_year.get(year, []),
         )
         sitemap_urls.append(f"/usneseni/{year}/")
 
@@ -653,12 +1235,19 @@ def main() -> None:
     # Generate sitemap
     # --------------------------------------------------
 
+    if opatreni_list:
+        sitemap_urls.append(write_ro_index(opatreni_list, args.output))
+        for opatreni in opatreni_list:
+            sitemap_urls.append(write_ro_page(opatreni, args.output))
+
     write_sitemap(sitemap_urls, args.output)
 
     print("PHASE 5 complete ✔")
     print(f"Resolutions: {len(data)}")
     print(f"Years: {len(by_year)}")
     print(f"Meetings: {len(by_meeting)}")
+    if opatreni_list:
+        print(f"Rozpočtová opatření: {len(opatreni_list)}")
 
 
 if __name__ == "__main__":

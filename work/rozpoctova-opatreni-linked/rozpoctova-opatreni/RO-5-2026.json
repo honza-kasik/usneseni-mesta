@@ -1,0 +1,2265 @@
+{
+  "id": "RO/5/2026",
+  "number": 5,
+  "year": 2026,
+  "approval_date": "2026-03-05",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 25,
+    "type": "zasedání",
+    "date": "2026-03-05"
+  },
+  "source_resolutions": [
+    "ZM/4/25/2026"
+  ],
+  "budget_change_ids": [
+    "10/2026/ZM",
+    "11/2026/ZM",
+    "12/2026/ZM",
+    "13/2026/ZM",
+    "14/2026/ZM",
+    "15/2026/ZM",
+    "16/2026/ZM",
+    "17/2026/ZM",
+    "18/2026/ZM",
+    "19/2026/ZM",
+    "20/2026/ZM",
+    "21/2026/ZM",
+    "22/2026/ZM",
+    "23/2026/ZM",
+    "24/2026/ZM",
+    "25/2026/ZM",
+    "26/2026/ZM",
+    "27/2026/ZM",
+    "28/2026/ZM",
+    "29/2026/ZM",
+    "30/2026/ZM",
+    "31/2026/ZM",
+    "32/2026/ZM",
+    "33/2026/ZM",
+    "34/2026/ZM",
+    "35/2026/ZM",
+    "36/2026/ZM",
+    "37/2026/ZM",
+    "38/2026/ZM",
+    "39/2026/ZM",
+    "40/2026/ZM",
+    "41/2026/ZM",
+    "42/2026/ZM",
+    "43/2026/ZM",
+    "44/2026/ZM",
+    "45/2026/ZM",
+    "46/2026/ZM",
+    "47/2026/ZM",
+    "48/2026/ZM",
+    "49/2026/ZM",
+    "50/2026/ZM",
+    "51/2026/ZM",
+    "52/2026/ZM",
+    "53/2026/ZM",
+    "54/2026/ZM",
+    "55/2026/ZM",
+    "56/2026/ZM",
+    "57/2026/ZM",
+    "58/2026/ZM",
+    "59/2026/ZM",
+    "60/2026/ZM",
+    "61/2026/ZM",
+    "7/2026/ZM",
+    "8/2026/ZM",
+    "9/2026/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "35/2026/ZM",
+          "raw_codes": [
+            "231",
+            "4216",
+            "15501",
+            "5",
+            "148",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "11 250 000,00",
+          "amount_value": 11250000.0,
+          "description": "MŽP ČR - dotace splašková kanalizace Savín + Nová Ves (RZ 35/2026/ZM)"
+        },
+        {
+          "budget_change_id": "35/2026/ZM",
+          "raw_codes": [
+            "231",
+            "4216",
+            "15501",
+            "5",
+            "148",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "16 560 000,00",
+          "amount_value": 16560000.0,
+          "description": "MŽP ČR - dotace splašková kanalizace Savín + Nová Ves (RZ 35/2026/ZM)"
+        },
+        {
+          "budget_change_id": "36/2026/ZM",
+          "raw_codes": [
+            "231",
+            "4213",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "14 000 000,00",
+          "amount_value": 14000000.0,
+          "description": "SFŽP ČR - dotace Savín - vodovod (RZ 36/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2229",
+            "48"
+          ],
+          "amount": "101 706,00",
+          "amount_value": 101706.0,
+          "description": "MŠ Gemerská - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "46"
+          ],
+          "amount": "45 019,82",
+          "amount_value": 45019.82,
+          "description": "ZŠ Jungmannova - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "2229",
+            "41"
+          ],
+          "amount": "132 808,99",
+          "amount_value": 132808.99,
+          "description": "Technické služby Litovel - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "2229",
+            "44"
+          ],
+          "amount": "99 268,97",
+          "amount_value": 99268.97,
+          "description": "Městský klub Litovel - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3141",
+            "2229",
+            "50"
+          ],
+          "amount": "5 117,95",
+          "amount_value": 5117.95,
+          "description": "Školní jídelna Litovel - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2229",
+            "49"
+          ],
+          "amount": "118 719,66",
+          "amount_value": 118719.66,
+          "description": "MŠ Frištenského - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "47"
+          ],
+          "amount": "110 961,44",
+          "amount_value": 110961.44,
+          "description": "ZŠ a MŠ Nasobůrky - ostatní přijaté vratky transferů a podobné příjmy (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "0",
+            "888"
+          ],
+          "amount": "262 537,00",
+          "amount_value": 262537.0,
+          "description": "přijaté pojistné plnění - povodeň 2024 (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "0"
+          ],
+          "amount": "4 910,00",
+          "amount_value": 4910.0,
+          "description": "přijaté pojistné plnění (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "4121",
+            "0",
+            "3016"
+          ],
+          "amount": "11 100,00",
+          "amount_value": 11100.0,
+          "description": "neinvestiční přijaté transfery od obcí (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "47/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6330",
+            "4139",
+            "0"
+          ],
+          "amount": "41 994,08",
+          "amount_value": 41994.08,
+          "description": "převod finančních prostředků ze Sociálního fondu do rozpočtu města (RZ 47/2026/ZM)"
+        },
+        {
+          "budget_change_id": "48/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6402",
+            "2229",
+            "33092",
+            "5",
+            "143",
+            "45"
+          ],
+          "amount": "59 314,64",
+          "amount_value": 59314.64,
+          "description": "ZŠ Vítězná Litovel - vratka dotace OP JAK (RZ 48/2026/ZM)"
+        },
+        {
+          "budget_change_id": "60/2026/ZM",
+          "raw_codes": [
+            "236",
+            "6330",
+            "4134"
+          ],
+          "amount": "52 500,00",
+          "amount_value": 52500.0,
+          "description": "převody z rozpočtových účtů - příjem Sociálního fondu (RZ 60/2026/ZM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "7/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "6121",
+            "4 000 446"
+          ],
+          "amount": "433 180,00",
+          "amount_value": 433180.0,
+          "description": "Litovel - zábavový areál - PD (RZ 7/2026/ZM)"
+        },
+        {
+          "budget_change_id": "8/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "16 698,00",
+          "amount_value": 16698.0,
+          "description": "revitalizace sportovního areálu Sokolovny v Litovli - FVE panely (RZ 8/2026/ZM)"
+        },
+        {
+          "budget_change_id": "9/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "18 150,00",
+          "amount_value": 18150.0,
+          "description": "revitalizace sportovního areálu Sokolovny v Litovli - studie vstup (RZ 9/2026/ZM)"
+        },
+        {
+          "budget_change_id": "10/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "18 150,00",
+          "amount_value": 18150.0,
+          "description": "revitalizace sportovního areálu Sokolovny v Litovli - studie oplocení (RZ 10/2026/ZM)"
+        },
+        {
+          "budget_change_id": "11/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "6121",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "68 900,00",
+          "amount_value": 68900.0,
+          "description": "ZŠ a MŠ Nasobůrky - rekonstrukce - PD (RZ 11/2026/ZM)"
+        },
+        {
+          "budget_change_id": "12/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "6119",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "199 000,00",
+          "amount_value": 199000.0,
+          "description": "ZŠ Jungmannova - studie budovy po Policii ČR (RZ 12/2026/ZM)"
+        },
+        {
+          "budget_change_id": "13/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3314",
+            "5171",
+            "311",
+            "17 000 000"
+          ],
+          "amount": "31 437,00",
+          "amount_value": 31437.0,
+          "description": "Městská knihovna - Savín - oprava topení (RZ 13/2026/ZM)"
+        },
+        {
+          "budget_change_id": "14/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 428"
+          ],
+          "amount": "1 900 000,00",
+          "amount_value": 1900000.0,
+          "description": "Sokolovna - opravy a rekonstrukce (RZ 14/2026/ZM)"
+        },
+        {
+          "budget_change_id": "15/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "5331",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "32 000,00",
+          "amount_value": 32000.0,
+          "description": "Městský klub - příspěvek na zahájení turistické sezóny (RZ 15/2026/ZM)"
+        },
+        {
+          "budget_change_id": "16/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "6121",
+            "4 000 407"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "rekonstrukce vytápění budovy DDM na Starém městě (RZ 16/2026/ZM)"
+        },
+        {
+          "budget_change_id": "17/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "6121",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "ZŠ Vítězná - modernizace řídícího systému vzduchotechniky a vytápění - III. etapa (RZ 17/2026/ZM)"
+        },
+        {
+          "budget_change_id": "18/2026/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5137",
+            "308",
+            "15 000 000"
+          ],
+          "amount": "144 306,00",
+          "amount_value": 144306.0,
+          "description": "Tři Dvory - dovybavení vozidla CAS 30 (RZ 18/2026/ZM)"
+        },
+        {
+          "budget_change_id": "18/2026/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5139",
+            "308",
+            "15 000 000"
+          ],
+          "amount": "17 694,00",
+          "amount_value": 17694.0,
+          "description": "Tři Dvory - dovybavení vozidla CAS 30 (RZ 18/2026/ZM)"
+        },
+        {
+          "budget_change_id": "19/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6402",
+            "5364",
+            "14022",
+            "14 000 000"
+          ],
+          "amount": "25 979,85",
+          "amount_value": 25979.85,
+          "description": "finanční vypořádání se SR (RZ 19/2026/ZM)"
+        },
+        {
+          "budget_change_id": "20/2026/ZM",
+          "raw_codes": [
+            "231",
+            "5269",
+            "5904",
+            "90002",
+            "3 000 000"
+          ],
+          "amount": "1 191 000,00",
+          "amount_value": 1191000.0,
+          "description": "SFŽP - Pomoc domácnostem postižených povodní - vratka nevyčerpané dotace (RZ 20/2026/ZM)"
+        },
+        {
+          "budget_change_id": "21/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3612",
+            "6121",
+            "12 000 000"
+          ],
+          "amount": "2 800 000,00",
+          "amount_value": 2800000.0,
+          "description": "zateplení fasády domu Vítězná 173/1A - 40% podíl města (společné inv. akce se společností Albert) (RZ 21/2026/ZM)"
+        },
+        {
+          "budget_change_id": "22/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "5137",
+            "12 000 000"
+          ],
+          "amount": "48 000,00",
+          "amount_value": 48000.0,
+          "description": "náhrada vynaložených nákladů (RZ 22/2026/ZM)"
+        },
+        {
+          "budget_change_id": "23/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2295",
+            "5323",
+            "3 003 468"
+          ],
+          "amount": "-61 075,00",
+          "amount_value": -61075.0,
+          "description": "Koordinátor integrovaného dopravního systému Olomouckého kraje - příspěvek na dopravní obslužnost (RZ 23/2026/ZM)"
+        },
+        {
+          "budget_change_id": "24/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3421",
+            "6122",
+            "2 033 470"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Nová Ves - herní prvek (RZ 24/2026/ZM)"
+        },
+        {
+          "budget_change_id": "25/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "3 003 581"
+          ],
+          "amount": "8 000 000,00",
+          "amount_value": 8000000.0,
+          "description": "LITOVEL - CHODNÍK OLOMOUCKÁ (ÚVĚR) (RZ 25/2026/ZM)"
+        },
+        {
+          "budget_change_id": "25/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "3 003 581"
+          ],
+          "amount": "700 000,00",
+          "amount_value": 700000.0,
+          "description": "Litovel - chodník Olomoucká - související výdaje - rozp. města (RZ 25/2026/ZM)"
+        },
+        {
+          "budget_change_id": "26/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "3 003 650"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Litovel - ul. Žerotínova - revitalizace - realizace přeložky ČEZ a záloha CETIN (RZ 26/2026/ZM)"
+        },
+        {
+          "budget_change_id": "27/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "3 003 558"
+          ],
+          "amount": "4 250 000,00",
+          "amount_value": 4250000.0,
+          "description": "Dopravně bezpečnostní opatření pro pěší a cyklisty podél II/449 (ul. Dukelská) (RZ 27/2026/ZM)"
+        },
+        {
+          "budget_change_id": "28/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "3 003 558"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Dopravně bezpečnostní opatření pro pěší a cyklisty podél II/449 (ul. Dukelská) - ul. Javoříčská - přeložka ČEZ (RZ 28/2026/ZM)"
+        },
+        {
+          "budget_change_id": "29/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3322",
+            "5171",
+            "3 003 634"
+          ],
+          "amount": "9 700 000,00",
+          "amount_value": 9700000.0,
+          "description": "LITOVEL - OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR) (RZ 29/2026/ZM)"
+        },
+        {
+          "budget_change_id": "29/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3322",
+            "5169",
+            "3 003 634"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Litovel - oprava Svatojánského mostu - související výdaje - rozp. města (RZ 29/2026/ZM)"
+        },
+        {
+          "budget_change_id": "30/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "5169",
+            "3 003 454"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "výkupy pozemků, znalecké posudky, kolky, poplatky, geometrické plány aj. + DTM (RZ 30/2026/ZM)"
+        },
+        {
+          "budget_change_id": "31/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "3 003 660"
+          ],
+          "amount": "2 200 000,00",
+          "amount_value": 2200000.0,
+          "description": "FOTOVOLTAIKA PRO ČOV LITOVEL - REALIZACE + DOPLATEK 2025 (ÚVĚR) (RZ 31/2026/ZM)"
+        },
+        {
+          "budget_change_id": "31/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "3 003 660"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Fotovoltaika pro ČOV Litovel - realizace + doplatek 2025 - související výdaje - rozp. města (RZ 31/2026/ZM"
+        },
+        {
+          "budget_change_id": "32/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 003 610"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "LITOVEL - AREÁL B. NĚMCOVÉ - BYTOVÝ A PARKOVACÍ DŮM - PD PRO ÚR + DEMOLICE (ÚVĚR) (RZ 32/2026/ZM)"
+        },
+        {
+          "budget_change_id": "32/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 003 610"
+          ],
+          "amount": "65 000,00",
+          "amount_value": 65000.0,
+          "description": "Litovel - areál B. Němcové - bytový a parkovací dům - PD pro ÚR + demolice - související výdaje - rozp. města (RZ 32/2026/ZM)"
+        },
+        {
+          "budget_change_id": "33/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "281 000,00",
+          "amount_value": 281000.0,
+          "description": "Litovel - zahrádkářská osada II - Pavlínka - nové oplocení (RZ 33/2026/ZM)"
+        },
+        {
+          "budget_change_id": "35/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "15501",
+            "5",
+            "148",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "11 250 000,00",
+          "amount_value": 11250000.0,
+          "description": "Savín - splašková kanalizace - dotace - čerpání (RZ 35/2026/ZM)"
+        },
+        {
+          "budget_change_id": "35/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "15501",
+            "5",
+            "148",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "16 560 000,00",
+          "amount_value": 16560000.0,
+          "description": "Nová Ves - splašková kanalizace - dotace - čerpání (RZ 35/2026/ZM)"
+        },
+        {
+          "budget_change_id": "36/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2310",
+            "6121",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "14 000 000,00",
+          "amount_value": 14000000.0,
+          "description": "Savín - vodovod - dotace - čerpání (RZ 36/2026/ZM)"
+        },
+        {
+          "budget_change_id": "36/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2310",
+            "6121",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "1 500 000,00",
+          "amount_value": 1500000.0,
+          "description": "SAVÍN - VODOVOD - PŘÍPOJKY (ÚVĚR) (RZ 36/2026/ZM)"
+        },
+        {
+          "budget_change_id": "37/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "3 003 664"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "ČOV Litovel - míchače pro stabilizaci kalů (RZ 37/2026/ZM)"
+        },
+        {
+          "budget_change_id": "38/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "svoz komunálního odpadu (RZ 38/2026/ZM)"
+        },
+        {
+          "budget_change_id": "39/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2341",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Uničovský rybník - čištění odpadního potrubí (RZ 39/2026/ZM)"
+        },
+        {
+          "budget_change_id": "40/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6402",
+            "5364",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "17 287,00",
+          "amount_value": 17287.0,
+          "description": "finanční vypořádání se SR - příspěvek na výkon pěstounské péče za rok 2025 (RZ 40/2026/ZM)"
+        },
+        {
+          "budget_change_id": "40/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6402",
+            "5364",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "116 528,00",
+          "amount_value": 116528.0,
+          "description": "finanční vypořádání se SR - příspěvek na výkon pěstounské péče za rok 2024 (RZ 40/2026/ZM)"
+        },
+        {
+          "budget_change_id": "41/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3314",
+            "5169",
+            "17 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Městská knihovna - nákup ostatních služeb (RZ 41/2026/ZM)"
+        },
+        {
+          "budget_change_id": "43/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "6121",
+            "18 900 000"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "Muzeum Litovel - nové zasklení západní části historické budovy (RZ 43/2026/ZM)"
+        },
+        {
+          "budget_change_id": "44/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "6121",
+            "18 000 000"
+          ],
+          "amount": "1 100 000,00",
+          "amount_value": 1100000.0,
+          "description": "Muzeum Litovel - nové zasklení jižní části přístavku (RZ 44/2026/ZM)"
+        },
+        {
+          "budget_change_id": "45/2026/ZM",
+          "raw_codes": [
+            "236",
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "461 632,50",
+          "amount_value": 461632.5,
+          "description": "Sociální fond - čerpání (RZ 45/2026/ZM)"
+        },
+        {
+          "budget_change_id": "46/2026/ZM",
+          "raw_codes": [
+            "236",
+            "6330",
+            "5345",
+            "1 000 000"
+          ],
+          "amount": "41 994,08",
+          "amount_value": 41994.08,
+          "description": "Sociální fond - převod finančních prostředků do hlavního rozp. okruhu (RZ 46/2026/ZM)"
+        },
+        {
+          "budget_change_id": "48/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "5904",
+            "33092",
+            "5",
+            "143",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "59 314,64",
+          "amount_value": 59314.64,
+          "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 48/2026/ZM)"
+        },
+        {
+          "budget_change_id": "48/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "5904",
+            "33092",
+            "1",
+            "143",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "17 983,36",
+          "amount_value": 17983.36,
+          "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 48/2026/ZM)"
+        },
+        {
+          "budget_change_id": "49/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3326",
+            "5171",
+            "308",
+            "3 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Tři Dvory - oprava kamenného kříže vedle kaple (RZ 49/2026/ZM)"
+        },
+        {
+          "budget_change_id": "50/2026/ZM",
+          "raw_codes": [
+            "231",
+            "2212",
+            "6121",
+            "3 003 566"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "Litovel - mk ul. Student (ul. Sochova - křižovatka ul. Kollárova) - PD (RZ 50/2026/ZM)"
+        },
+        {
+          "budget_change_id": "51/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "190 000,00",
+          "amount_value": 190000.0,
+          "description": "rekonstrukce vodovodní přípojky do areálu Sokolovny (RZ 51/2026/ZM)"
+        },
+        {
+          "budget_change_id": "52/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "8 500 000,00",
+          "amount_value": 8500000.0,
+          "description": "REVITALIZACE SPORTOVNÍHO AREÁLU SOKOLOVNY V LITOVLI - OPLOCENÍ + VSTUPNÍ SCHODIŠTĚ (ÚVĚR) (RZ 52/2026/ZM)"
+        },
+        {
+          "budget_change_id": "54/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3726",
+            "6121",
+            "7 000 724"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "modernizace a rozšíření kompostárny - DPS, administrace VZ a podání žádosti o dotaci (RZ 54/2026/ZM)"
+        },
+        {
+          "budget_change_id": "55/2026/ZM",
+          "raw_codes": [
+            "231",
+            "5311",
+            "5169",
+            "9 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "MP - nákup ostatních služeb - servis aut, nákup a přezutí pneu (RZ 55/2026/ZM)"
+        },
+        {
+          "budget_change_id": "56/2026/ZM",
+          "raw_codes": [
+            "231",
+            "5311",
+            "5137",
+            "9 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "MP - DDHM - TV ke kamerovému systému (RZ 56/2026/ZM)"
+        },
+        {
+          "budget_change_id": "57/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6171",
+            "5169",
+            "1 000 000"
+          ],
+          "amount": "573 540,00",
+          "amount_value": 573540.0,
+          "description": "zajištění činnosti pověřence pro ochranu osobních údajů a role osoby odpovědné za řízení kybernetické bezpečnosti (RZ 57/2026/ZM)"
+        },
+        {
+          "budget_change_id": "58/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "1 500 000,00",
+          "amount_value": 1500000.0,
+          "description": "platy zam-ců v pracovním poměru (RZ 58/2026/ZM)"
+        },
+        {
+          "budget_change_id": "58/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6171",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "372 000,00",
+          "amount_value": 372000.0,
+          "description": "povinné pojistné na sociální zabezpečení a přísp. na státní politiku zam. (RZ 58/2026/ZM)"
+        },
+        {
+          "budget_change_id": "58/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6171",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "135 000,00",
+          "amount_value": 135000.0,
+          "description": "povinné pojistní na veřejné zdr. pojištění (RZ 58/2026/ZM)"
+        },
+        {
+          "budget_change_id": "58/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "5038",
+            "1 000 000"
+          ],
+          "amount": "6 300,00",
+          "amount_value": 6300.0,
+          "description": "povinné pojistné na úrazové pojištění (RZ 58/2026/ZM)"
+        },
+        {
+          "budget_change_id": "59/2026/ZM",
+          "raw_codes": [
+            "231",
+            "6330",
+            "5342",
+            "1 000 000"
+          ],
+          "amount": "52 500,00",
+          "amount_value": 52500.0,
+          "description": "převod do Sociálního fondu (RZ 59/2026/ZM)"
+        },
+        {
+          "budget_change_id": "60/2026/ZM",
+          "raw_codes": [
+            "236",
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "52 500,00",
+          "amount_value": 52500.0,
+          "description": "Sociální fond - čerpání (RZ 60/2026/ZM)"
+        },
+        {
+          "budget_change_id": "61/2026/ZM",
+          "raw_codes": [
+            "231",
+            "1014",
+            "5649",
+            "7 003 115"
+          ],
+          "amount": "-2 797 752,80",
+          "amount_value": -2797752.8,
+          "description": "DSO Region Moravská cesta - předfinancování projektu MOSPREMA 2.0. - NFV (RZ 61/2026/ZM)"
+        },
+        {
+          "budget_change_id": "61/2026/ZM",
+          "raw_codes": [
+            "231",
+            "1014",
+            "6449",
+            "7 003 115"
+          ],
+          "amount": "2 797 752,80",
+          "amount_value": 2797752.8,
+          "description": "DSO Region Moravská cesta - předfinancování projektu MOSPREMA 2.0. - NFV (RZ 61/2026/ZM)"
+        },
+        {
+          "budget_change_id": "22/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "5909",
+            "12",
+            "000",
+            "000"
+          ],
+          "amount": "152 000,00",
+          "amount_value": 152000.0,
+          "description": ") náhrada vynaložených nákladů (RZ 22/2026/ZM"
+        },
+        {
+          "budget_change_id": "34/2026/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "5169",
+            "3",
+            "000",
+            "000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": ") Kulturní domy - ostatní služby a revize (RZ 34/2026/ZM"
+        },
+        {
+          "budget_change_id": "53/2026/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5171",
+            "308",
+            "15",
+            "900",
+            "000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": ") hasičská zbrojnice Tři Dvory - oprava podlah v garážích - povodeň (RZ 53/2026/ZM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "7/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "433 180,00",
+          "amount_value": 433180.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 7/2026/ZM)"
+        },
+        {
+          "budget_change_id": "8/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "16 698,00",
+          "amount_value": 16698.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 8/2026/ZM)"
+        },
+        {
+          "budget_change_id": "9/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "18 150,00",
+          "amount_value": 18150.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 9/2026/ZM)"
+        },
+        {
+          "budget_change_id": "10/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "18 150,00",
+          "amount_value": 18150.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 10/2026/ZM)"
+        },
+        {
+          "budget_change_id": "11/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "68 900,00",
+          "amount_value": 68900.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 11/2026/ZM)"
+        },
+        {
+          "budget_change_id": "13/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "31 437,00",
+          "amount_value": 31437.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 13/2026/ZM)"
+        },
+        {
+          "budget_change_id": "14/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "1 900 000,00",
+          "amount_value": 1900000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 14/2026/ZM)"
+        },
+        {
+          "budget_change_id": "15/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "32 000,00",
+          "amount_value": 32000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 15/2026/ZM)"
+        },
+        {
+          "budget_change_id": "16/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 16/2026/ZM)"
+        },
+        {
+          "budget_change_id": "17/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 17/2026/ZM)"
+        },
+        {
+          "budget_change_id": "18/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "162 000,00",
+          "amount_value": 162000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 18/2026/ZM)"
+        },
+        {
+          "budget_change_id": "19/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "25 979,85",
+          "amount_value": 25979.85,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 19/2026/ZM)"
+        },
+        {
+          "budget_change_id": "20/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "1 191 000,00",
+          "amount_value": 1191000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 20/2026/ZM)"
+        },
+        {
+          "budget_change_id": "21/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "2 800 000,00",
+          "amount_value": 2800000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 21/2026/ZM)"
+        },
+        {
+          "budget_change_id": "22/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 22/2026/ZM)"
+        },
+        {
+          "budget_change_id": "23/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "-61 075,00",
+          "amount_value": -61075.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 23/2026/ZM)"
+        },
+        {
+          "budget_change_id": "24/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 24/2026/ZM)"
+        },
+        {
+          "budget_change_id": "25/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "8 000 000,00",
+          "amount_value": 8000000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 25/2026/ZM)"
+        },
+        {
+          "budget_change_id": "25/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "700 000,00",
+          "amount_value": 700000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 25/2026/ZM)"
+        },
+        {
+          "budget_change_id": "26/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 26/2026/ZM)"
+        },
+        {
+          "budget_change_id": "27/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "4 250 000,00",
+          "amount_value": 4250000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 27/2026/ZM)"
+        },
+        {
+          "budget_change_id": "28/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 28/2026/ZM)"
+        },
+        {
+          "budget_change_id": "29/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "9 700 000,00",
+          "amount_value": 9700000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 29/2026/ZM)"
+        },
+        {
+          "budget_change_id": "29/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 29/2026/ZM)"
+        },
+        {
+          "budget_change_id": "30/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 30/2026/ZM)"
+        },
+        {
+          "budget_change_id": "31/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "2 200 000,00",
+          "amount_value": 2200000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 31/2026/ZM)"
+        },
+        {
+          "budget_change_id": "31/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 31/2026/ZM)"
+        },
+        {
+          "budget_change_id": "32/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 32/2026/ZM)"
+        },
+        {
+          "budget_change_id": "32/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "65 000,00",
+          "amount_value": 65000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 32/2026/ZM)"
+        },
+        {
+          "budget_change_id": "33/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "281 000,00",
+          "amount_value": 281000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 33/2026/ZM)"
+        },
+        {
+          "budget_change_id": "36/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "1 500 000,00",
+          "amount_value": 1500000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 36/2026/ZM)"
+        },
+        {
+          "budget_change_id": "37/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 37/2026/ZM)"
+        },
+        {
+          "budget_change_id": "38/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 38/2026/ZM)"
+        },
+        {
+          "budget_change_id": "39/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 39/2026/ZM)"
+        },
+        {
+          "budget_change_id": "40/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "17 287,00",
+          "amount_value": 17287.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 40/2026/ZM)"
+        },
+        {
+          "budget_change_id": "40/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "116 528,00",
+          "amount_value": 116528.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 40/2026/ZM)"
+        },
+        {
+          "budget_change_id": "41/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 41/2026/ZM)"
+        },
+        {
+          "budget_change_id": "42/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "-892 149,83",
+          "amount_value": -892149.83,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 42/2026/ZM)"
+        },
+        {
+          "budget_change_id": "43/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 43/2026/ZM)"
+        },
+        {
+          "budget_change_id": "44/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "1 100 000,00",
+          "amount_value": 1100000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 44/2026/ZM)"
+        },
+        {
+          "budget_change_id": "45/2026/ZM",
+          "raw_codes": [
+            "236",
+            "8115"
+          ],
+          "amount": "461 632,50",
+          "amount_value": 461632.5,
+          "description": "změna stavu finančních prostředků na bankovním účtu Sociálního fondu (RZ 45/2026/ZM)"
+        },
+        {
+          "budget_change_id": "46/2026/ZM",
+          "raw_codes": [
+            "236",
+            "8115"
+          ],
+          "amount": "41 994,08",
+          "amount_value": 41994.08,
+          "description": "změna stavu finančních prostředků na bankovním účtu Sociálního fondu (RZ 46/2026/ZM)"
+        },
+        {
+          "budget_change_id": "47/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "-41 994,08",
+          "amount_value": -41994.08,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 47/2026/ZM)"
+        },
+        {
+          "budget_change_id": "49/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 49/2026/ZM)"
+        },
+        {
+          "budget_change_id": "50/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 50/2026/ZM)"
+        },
+        {
+          "budget_change_id": "51/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "190 000,00",
+          "amount_value": 190000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 51/2026/ZM)"
+        },
+        {
+          "budget_change_id": "52/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "8 500 000,00",
+          "amount_value": 8500000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 52/2026/ZM)"
+        },
+        {
+          "budget_change_id": "53/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 53/2026/ZM)"
+        },
+        {
+          "budget_change_id": "54/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 54/2026/ZM)"
+        },
+        {
+          "budget_change_id": "55/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 55/2026/ZM)"
+        },
+        {
+          "budget_change_id": "56/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 56/2026/ZM)"
+        },
+        {
+          "budget_change_id": "57/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "573 540,00",
+          "amount_value": 573540.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 57/2026/ZM)"
+        },
+        {
+          "budget_change_id": "58/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "2 013 300,00",
+          "amount_value": 2013300.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 58/2026/ZM)"
+        },
+        {
+          "budget_change_id": "59/2026/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "52 500,00",
+          "amount_value": 52500.0,
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 59/2026/ZM)"
+        },
+        {
+          "budget_change_id": "12/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 199 000,00",
+          "amount_value": 5199000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 12/2026/ZM"
+        },
+        {
+          "budget_change_id": "16/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 500 000,00",
+          "amount_value": 5500000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 16/2026/ZM"
+        },
+        {
+          "budget_change_id": "17/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 300 000,00",
+          "amount_value": 5300000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 17/2026/ZM"
+        },
+        {
+          "budget_change_id": "18/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 162 000,00",
+          "amount_value": 5162000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 18/2026/ZM"
+        },
+        {
+          "budget_change_id": "22/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 200 000,00",
+          "amount_value": 5200000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 22/2026/ZM"
+        },
+        {
+          "budget_change_id": "25/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 700 000,00",
+          "amount_value": 5700000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 25/2026/ZM"
+        },
+        {
+          "budget_change_id": "26/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 300 000,00",
+          "amount_value": 5300000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 26/2026/ZM"
+        },
+        {
+          "budget_change_id": "28/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 400 000,00",
+          "amount_value": 5400000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 28/2026/ZM"
+        },
+        {
+          "budget_change_id": "29/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 500 000,00",
+          "amount_value": 5500000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 29/2026/ZM"
+        },
+        {
+          "budget_change_id": "30/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 100 000,00",
+          "amount_value": 5100000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 30/2026/ZM"
+        },
+        {
+          "budget_change_id": "31/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 300 000,00",
+          "amount_value": 5300000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 31/2026/ZM"
+        },
+        {
+          "budget_change_id": "33/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 281 000,00",
+          "amount_value": 5281000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 33/2026/ZM"
+        },
+        {
+          "budget_change_id": "34/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 200 000,00",
+          "amount_value": 5200000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 34/2026/ZM"
+        },
+        {
+          "budget_change_id": "38/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 100 000,00",
+          "amount_value": 5100000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 38/2026/ZM"
+        },
+        {
+          "budget_change_id": "39/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 100 000,00",
+          "amount_value": 5100000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 39/2026/ZM"
+        },
+        {
+          "budget_change_id": "40/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 116 528,00",
+          "amount_value": 5116528.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 40/2026/ZM"
+        },
+        {
+          "budget_change_id": "43/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 600 000,00",
+          "amount_value": 5600000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 43/2026/ZM"
+        },
+        {
+          "budget_change_id": "45/2026/ZM",
+          "raw_codes": [
+            "236",
+            "811"
+          ],
+          "amount": "5 461 632,50",
+          "amount_value": 5461632.5,
+          "description": ") změna stavu finančních prostředků na bankovním účtu Sociálního fondu (RZ 45/2026/ZM"
+        },
+        {
+          "budget_change_id": "49/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 100 000,00",
+          "amount_value": 5100000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 49/2026/ZM"
+        },
+        {
+          "budget_change_id": "50/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 800 000,00",
+          "amount_value": 5800000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 50/2026/ZM"
+        },
+        {
+          "budget_change_id": "51/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 190 000,00",
+          "amount_value": 5190000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 51/2026/ZM"
+        },
+        {
+          "budget_change_id": "53/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 400 000,00",
+          "amount_value": 5400000.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 53/2026/ZM"
+        },
+        {
+          "budget_change_id": "57/2026/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 573 540,00",
+          "amount_value": 5573540.0,
+          "description": ") změna stavu krátkodobých prostředků na bankovních účtech … (RZ 57/2026/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 7/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 8/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 9/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 10/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 11/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 12/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 13/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 14/2026/ZM",
+      "text": "Dne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 15/2026/ZM",
+      "text": "Dne 22.1.2026 byla na finanční odbor od vedoucího OŠKS doručena žádost Městského klubu."
+    },
+    {
+      "title": "Rozpočtová změna č. 16/2026/ZM",
+      "text": "Dne 9.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 17/2026/ZM",
+      "text": "Dne 9.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 18/2026/ZM",
+      "text": "Dne 16.1.2026 poslal pracovník krizového řízení požadavek velitele JSDH Tři Dvory na dovybavení vozidla CAS 30."
+    },
+    {
+      "title": "Rozpočtová změna č. 19/2026/ZM",
+      "text": "Rozpočtová změna řešící navýšení výdajů na finanční vypořádání dotací za rok 2025. Ve schváleném rozpočtu je na finanční vypořádání se SR rozpočtováno 100 000 Kč. Dne 28.1.2026 byly převedeny z účtu města na určený účet kraje nevyčerpané dotační prostředky v rámci finančního vypořádání dotací za rok 2025 (dotace na volby do PS Parlamentu ČR - UZ 98071 a účelová neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS – UZ 14022)."
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2026/ZM",
+      "text": "Dne 16.1.2026 obdrželo město Litovel výzvu k vrácení finančních prostředků k žádosti 1240000061."
+    },
+    {
+      "title": "Rozpočtová změna č. 21/2026/ZM",
+      "text": "Dne 2.2.2026 požádala vedoucí OBH o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 22/2026/ZM",
+      "text": "Dne 11.2.2026 požádala vedoucí OBH o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 23/2026/ZM",
+      "text": "Rozpočtová změna týkající se úpravy výše příspěvku na dopravní obslužnost dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 24/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 25/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 26/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 27/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 28/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 29/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 32/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 33/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 34/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 35/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 36/2026/ZM",
+      "text": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 37/2026/ZM",
+      "text": "Dne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 38/2026/ZM",
+      "text": "Dne 4.2.2026 požádal vedoucí OŽP o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 39/2026/ZM",
+      "text": "Dne 4.2.2026 požádal vedoucí OŽP o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 40/2026/ZM",
+      "text": "Dne 10.2.2026 byl od vedoucího odboru sociálního a správního doručen požadavek na rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 41/2026/ZM",
+      "text": "Dne 30.1.2026 požádala vedoucí Městské knihovny Litovel o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 42/2026/ZM",
+      "text": "V průběhu ledna a února obdrželo město Litovel na svůj účet od příspěvkových organizací vratky nevyčerpaných provozních příspěvku na spotřebu energií za rok 2025, také pojistné plnění a neinvestiční přijaté transfery od obcí."
+    },
+    {
+      "title": "Rozpočtová změna č. 43/2026/ZM",
+      "text": "Dne 11.2.2026 požádal vedoucí Muzea Litovel o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 44/2026/ZM",
+      "text": "Dne 11.2.2026 požádal vedoucí Muzea Litovel o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 45/2026/ZM",
+      "text": "Zapojení zůstatku na bankovním účtu Sociálního fondu k 31.12.2025 do rozpočtu Sociálního fondu na rok 2026."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2026/ZM",
+      "text": "Vyúčtování přídělu finančních prostředků za rok 2025 do Sociálního fondu. Převod finančních prostředků ze Sociálního fondu do hlavního rozpočtového okruhu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2026/ZM",
+      "text": "Vyúčtování přídělu finančních prostředků za rok 2025 do Sociálního fondu. Příjem finančních prostředků ze Sociálního fondu do hlavního rozpočtového okruhu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 48/2026/ZM",
+      "text": "Rozpočtová změna týkající se vratky nevyužitých finančních prostředků projektu Šablony JAK CZ,02,02XX/00/22_002/0006674 ZŠ Vítězná."
+    },
+    {
+      "title": "Rozpočtová změna č. 49/2026/ZM",
+      "text": "Dne 12.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 50/2026/ZM",
+      "text": "Dne 12.2.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 51/2026/ZM",
+      "text": "Dne 13.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 52/2026/ZM",
+      "text": "Dne 13.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 53/2026/ZM",
+      "text": "Rozpočtová změna týkající se opravy poškozených podlah v garážích hasičské zbrojnice ve Třech Dvorech."
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2026/ZM",
+      "text": "Dne 16.2.2026 požádal vedoucí OŽP o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2026/ZM",
+      "text": "Dne 17.2.2026 požádal velitel MP o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2026/ZM",
+      "text": "Dne 17.2.2026 požádal zástupce velitele městské policie o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 57/2026/ZM",
+      "text": "Rozpočtová změna zabezpečující pokrytí výdajů na zajištění činnosti pověřence pro ochranu osobních údajů a role osoby odpovědné za řízení kybernetické bezpečnosti. Výdaje této rozpočtové změny vycházejí ze smlouvy uzavřené mezi městem Litovel a společností Aricoma Systems, a.s., schválené na jednání 60. RM, které se konalo 16. 10. 2025. Smlouva byla podepsána 31. 10. 2025, ale její obsah již nebyl promítnut do rozpracovaného návrhu rozpočtu města Litovel na rok 2026. Pověřenec GDPR i osoba odpovědná za KYBEZ jsou povinné ze zákona."
+    },
+    {
+      "title": "Rozpočtová změna č. 58/2026/ZM",
+      "text": "RZ 58/2026/ZM až 60/2026/ZM reagují na situaci ve mzdové oblasti v závislosti na zvýšení zaručené mzdy od 1. 1. 2026 a na nové platové tabulky platné od 1. 4. 2026. Důsledky vlivu těchto zákonných úprav na potřebu navýšení finančních prostředků na platové záležitosti nebylo možné v době tvorby rozpočtu města Litovel na rok 2026 předpokládat."
+    },
+    {
+      "title": "Rozpočtová změna č. 59/2026/ZM",
+      "text": "Tato rozpočtová změna vyplývá z RZ 58/2026/ZM."
+    },
+    {
+      "title": "Rozpočtová změna č. 60/2026/ZM",
+      "text": "Tato rozpočtová změna vyplývá z RZ 58/2026/ZM."
+    },
+    {
+      "title": "Rozpočtová změna č. 61/2026/ZM",
+      "text": "Ve schváleném rozpočtu je rozpočtováno na předfinancování projektu MOSPREMA 2.0 – NFV 3 000 000 Kč. Tento výdaj je rozpočtován na položce 5649 - Ostatní neinv. půjčené prostř. rozp. územní úrovně. Většina této NFV však bude použita na investiční výdaje, je tedy nutné u odpovídající části NFV změnit položku."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._5_2026_dne_5._brezna_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 5/2026 schválené Zastupitelstvem města Litovel\ndne 5. března 2026\nRozpočtové opatření bylo schváleno na 25. zasedání Zastupitelstva města Litovel dne 5. března 2026 na základě\nusnesení ZM/4/25/2026.\nZměny v příjmech:\nSU ODPA POL UZ PJ NÁSTROJ ORJ ORG Kč\nMŽP ČR - dotace splašková\n231 4216 15501 5 148 311 3 003 598 11 250 000,00 kanalizace Savín + Nová Ves (RZ\n35/2026/ZM)\nMŽP ČR - dotace splašková\n231 4216 15501 5 148 303 3 003 599 16 560 000,00 kanalizace Savín + Nová Ves (RZ\n35/2026/ZM)\nSFŽP ČR - dotace Savín - vodovod\n231 4213 90992 311 3 003 597 14 000 000,00\n(RZ 36/2026/ZM)\nMŠ Gemerská - ostatní přijaté vratky\n231 3111 2229 48 101 706,00 transferů a podobné příjmy (RZ\n42/2026/ZM)\nZŠ Jungmannova - ostatní přijaté\n231 3113 2229 46 45 019,82 vratky transferů a podobné příjmy\n(RZ 42/2026/ZM)\nTechnické služby Litovel - ostatní\n231 3639 2229 41 132 808,99 přijaté vratky transferů a podobné\npříjmy (RZ 42/2026/ZM)\nMěstský klub Litovel - ostatní přijaté\n231 3392 2229 44 99 268,97 vratky transferů a podobné příjmy\n(RZ 42/2026/ZM)\nŠkolní jídelna Litovel - ostatní přijaté\n231 3141 2229 50 5 117,95 vratky transferů a podobné příjmy\n(RZ 42/2026/ZM)\nMŠ Frištenského - ostatní přijaté\n231 3111 2229 49 118 719,66 vratky transferů a podobné příjmy\n(RZ 42/2026/ZM)\nZŠ a MŠ Nasobůrky - ostatní přijaté\n231 3113 2229 47 110 961,44 vratky transferů a podobné příjmy\n(RZ 42/2026/ZM)\npřijaté pojistné plnění - povodeň 2024\n231 6320 2322 0 888 262 537,00\n(RZ 42/2026/ZM)\npřijaté pojistné plnění (RZ\n231 6320 2322 0 4 910,00\n42/2026/ZM)\nneinvestiční přijaté transfery od obcí\n231 4121 0 3016 11 100,00\n(RZ 42/2026/ZM)\npřevod finančních prostředků ze\n231 6330 4139 0 41 994,08 Sociálního fondu do rozpočtu města\n(RZ 47/2026/ZM)\nZŠ Vítězná Litovel - vratka dotace OP\n231 6402 2229 33092 5 143 45 59 314,64\nJAK (RZ 48/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZŠ Vítězná Litovel - vratka dotace OP\n231 6402 2229 33092 1 143 45 17 983,36\nJAK (RZ 48/2026/ZM)\npřevody z rozpočtových účtů - příjem\n236 6330 4134 52 500,00\nSociálního fondu (RZ 60/2026/ZM)\nZměny ve výdajích:\nSU ODPA POL UZ PJ NÁSTROJ ORJ ORG Kč\nLitovel - zábavový areál - PD (RZ\n231 3429 6121 4 000 446 433 180,00\n7/2026/ZM)\nrevitalizace sportovního areálu\n231 3412 6121 4 000 442 16 698,00 Sokolovny v Litovli - FVE panely (RZ\n8/2026/ZM)\nrevitalizace sportovního areálu\n231 3412 6121 4 000 442 18 150,00 Sokolovny v Litovli - studie vstup (RZ\n9/2026/ZM)\nrevitalizace sportovního areálu\n231 3412 6121 4 000 442 18 150,00 Sokolovny v Litovli - studie oplocení\n(RZ 10/2026/ZM)\nZŠ a MŠ Nasobůrky - rekonstrukce -\n231 3113 6121 47 4 000 000 68 900,00\nPD (RZ 11/2026/ZM)\nZŠ Jungmannova - studie budovy po\n231 3113 6119 46 4 000 000 199 000,00\nPolicii ČR (RZ 12/2026/ZM)\nMěstská knihovna - Savín - oprava\n231 3314 5171 311 17 000 000 31 437,00\ntopení (RZ 13/2026/ZM)\nSokolovna - opravy a rekonstrukce (RZ\n231 3412 6121 4 000 428 1 900 000,00\n14/2026/ZM)\nMěstský klub - příspěvek na zahájení\n231 3392 5331 44 4 000 000 32 000,00\nturistické sezóny (RZ 15/2026/ZM)\nrekonstrukce vytápění budovy DDM na\n231 3613 6121 4 000 407 500 000,00\nStarém městě (RZ 16/2026/ZM)\nZŠ Vítězná - modernizace řídícího\n231 3113 6121 45 4 000 000 300 000,00 systému vzduchotechniky a vytápění -\nIII. etapa (RZ 17/2026/ZM)\nTři Dvory - dovybavení vozidla CAS\n231 5512 5137 308 15 000 000 144 306,00\n30 (RZ 18/2026/ZM)\nTři Dvory - dovybavení vozidla CAS\n231 5512 5139 308 15 000 000 17 694,00\n30 (RZ 18/2026/ZM)\nfinanční vypořádání se SR (RZ\n231 6402 5364 14022 14 000 000 25 979,85\n19/2026/ZM)\nSFŽP - Pomoc domácnostem\n231 5269 5904 90002 3 000 000 1 191 000,00 postižených povodní - vratka\nnevyčerpané dotace (RZ 20/2026/ZM)\nzateplení fasády domu Vítězná 173/1A\n- 40% podíl města (společné inv. akce\n231 3612 6121 12 000 000 2 800 000,00\nse společností Albert) (RZ\n21/2026/ZM)\nnáhrada vynaložených nákladů (RZ\n231 3613 5137 12 000 000 48 000,00\n22/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nnáhrada vynaložených nákladů (RZ\n231 3613 5909 12 000 000 152 000,00\n22/2026/ZM)\nKoordinátor integrovaného dopravního\nsystému Olomouckého kraje -\n231 2295 5323 3 003 468 -61 075,00\npříspěvek na dopravní obslužnost (RZ\n23/2026/ZM)\nNová Ves - herní prvek (RZ\n231 3421 6122 2 033 470 80 000,00\n24/2026/ZM)\nLITOVEL - CHODNÍK\n231 2219 6121 3 003 581 8 000 000,00 OLOMOUCKÁ (ÚVĚR) (RZ\n25/2026/ZM)\nLitovel - chodník Olomoucká -\n231 2219 6121 3 003 581 700 000,00 související výdaje - rozp. města (RZ\n25/2026/ZM)\nLitovel - ul. Žerotínova - revitalizace -\n231 2219 6121 3 003 650 300 000,00 realizace přeložky ČEZ a záloha\nCETIN (RZ 26/2026/ZM)\nDopravně bezpečnostní opatření pro\n231 2219 6121 3 003 558 4 250 000,00 pěší a cyklisty podél II/449 (ul.\nDukelská) (RZ 27/2026/ZM)\nDopravně bezpečnostní opatření pro\npěší a cyklisty podél II/449 (ul.\n231 2219 6121 3 003 558 400 000,00\nDukelská) - ul. Javoříčská - přeložka\nČEZ (RZ 28/2026/ZM)\nLITOVEL - OPRAVA\n231 3322 5171 3 003 634 9 700 000,00 SVATOJÁNSKÉHO MOSTU (ÚVĚR)\n(RZ 29/2026/ZM)\nLitovel - oprava Svatojánského mostu -\n231 3322 5169 3 003 634 500 000,00 související výdaje - rozp. města (RZ\n29/2026/ZM)\nvýkupy pozemků, znalecké posudky,\n231 3639 5169 3 003 454 100 000,00 kolky, poplatky, geometrické plány aj.\n+ DTM (RZ 30/2026/ZM)\nFOTOVOLTAIKA PRO ČOV\nLITOVEL - REALIZACE +\n231 2321 6121 3 003 660 2 200 000,00\nDOPLATEK 2025 (ÚVĚR) (RZ\n31/2026/ZM)\nFotovoltaika pro ČOV Litovel -\n231 2321 6121 3 003 660 300 000,00 realizace + doplatek 2025 - související\nvýdaje - rozp. města (RZ 31/2026/ZM\nLITOVEL - AREÁL B. NĚMCOVÉ -\nBYTOVÝ A PARKOVACÍ DŮM -\n231 3639 6121 3 003 610 2 000 000,00\nPD PRO ÚR + DEMOLICE (ÚVĚR)\n(RZ 32/2026/ZM)\nLitovel - areál B. Němcové - bytový a\nparkovací dům - PD pro ÚR +\n231 3639 6121 3 003 610 65 000,00\ndemolice - související výdaje - rozp.\nměsta (RZ 32/2026/ZM)\nLitovel - zahrádkářská osada II -\n231 3639 6121 3 000 000 281 000,00 Pavlínka - nové oplocení (RZ\n33/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nKulturní domy - ostatní služby a revize\n231 3392 5169 3 000 000 200 000,00\n(RZ 34/2026/ZM)\nSavín - splašková kanalizace - dotace -\n231 2321 6121 15501 5 148 311 3 003 598 11 250 000,00\nčerpání (RZ 35/2026/ZM)\nNová Ves - splašková kanalizace -\n231 2321 6121 15501 5 148 303 3 003 599 16 560 000,00\ndotace - čerpání (RZ 35/2026/ZM)\nSavín - vodovod - dotace - čerpání (RZ\n231 2310 6121 90992 311 3 003 597 14 000 000,00\n36/2026/ZM)\nSAVÍN - VODOVOD - PŘÍPOJKY\n231 2310 6121 311 3 003 597 1 500 000,00\n(ÚVĚR) (RZ 36/2026/ZM)\nČOV Litovel - míchače pro stabilizaci\n231 2321 6121 3 003 664 1 000 000,00\nkalů (RZ 37/2026/ZM)\nsvoz komunálního odpadu (RZ\n231 3722 5169 7 000 000 100 000,00\n38/2026/ZM)\nUničovský rybník - čištění odpadního\n231 2341 5169 7 000 000 100 000,00\npotrubí (RZ 39/2026/ZM)\nfinanční vypořádání se SR - příspěvek\n231 6402 5364 13010 5 000 000 17 287,00 na výkon pěstounské péče za rok 2025\n(RZ 40/2026/ZM)\nfinanční vypořádání se SR - příspěvek\n231 6402 5364 13010 5 000 000 116 528,00 na výkon pěstounské péče za rok 2024\n(RZ 40/2026/ZM)\nMěstská knihovna - nákup ostatních\n231 3314 5169 17 000 000 30 000,00\nslužeb (RZ 41/2026/ZM)\nMuzeum Litovel - nové zasklení\n231 3315 6121 18 900 000 600 000,00 západní části historické budovy (RZ\n43/2026/ZM)\nMuzeum Litovel - nové zasklení jižní\n231 3315 6121 18 000 000 1 100 000,00\nčásti přístavku (RZ 44/2026/ZM)\nSociální fond - čerpání (RZ\n236 6171 5901 1 000 000 461 632,50\n45/2026/ZM)\nSociální fond - převod finančních\n236 6330 5345 1 000 000 41 994,08 prostředků do hlavního rozp. okruhu\n(RZ 46/2026/ZM)\nZŠ Vítězná - vratka dotace na realizaci\n231 3113 5904 33092 5 143 45 4 000 000 59 314,64 projektu v rámci OP JAK (RZ\n48/2026/ZM)\nZŠ Vítězná - vratka dotace na realizaci\n231 3113 5904 33092 1 143 45 4 000 000 17 983,36 projektu v rámci OP JAK (RZ\n48/2026/ZM)\nTři Dvory - oprava kamenného kříže\n231 3326 5171 308 3 000 000 100 000,00\nvedle kaple (RZ 49/2026/ZM)\nLitovel - mk ul. Student (ul. Sochova -\n231 2212 6121 3 003 566 800 000,00 křižovatka ul. Kollárova) - PD (RZ\n50/2026/ZM)\nrekonstrukce vodovodní přípojky do\n231 3412 6121 4 000 442 190 000,00\nareálu Sokolovny (RZ 51/2026/ZM)\nREVITALIZACE SPORTOVNÍHO\nAREÁLU SOKOLOVNY V LITOVLI\n231 3412 6121 4 000 442 8 500 000,00 - OPLOCENÍ + VSTUPNÍ\nSCHODIŠTĚ (ÚVĚR) (RZ\n52/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nhasičská zbrojnice Tři Dvory - oprava\n231 5512 5171 308 15 900 000 400 000,00 podlah v garážích - povodeň (RZ\n53/2026/ZM)\nmodernizace a rozšíření kompostárny -\n231 3726 6121 7 000 724 1 000 000,00 DPS, administrace VZ a podání žádosti\no dotaci (RZ 54/2026/ZM)\nMP - nákup ostatních služeb - servis\n231 5311 5169 9 000 000 50 000,00 aut, nákup a přezutí pneu (RZ\n55/2026/ZM)\nMP - DDHM - TV ke kamerovému\n231 5311 5137 9 000 000 30 000,00\nsystému (RZ 56/2026/ZM)\nzajištění činnosti pověřence pro\nochranu osobních údajů a role osoby\n231 6171 5169 1 000 000 573 540,00\nodpovědné za řízení kybernetické\nbezpečnosti (RZ 57/2026/ZM)\nplaty zam-ců v pracovním poměru (RZ\n231 6171 5011 1 000 000 1 500 000,00\n58/2026/ZM)\npovinné pojistné na sociální\n231 6171 5031 1 000 000 372 000,00 zabezpečení a přísp. na státní politiku\nzam. (RZ 58/2026/ZM)\npovinné pojistní na veřejné zdr.\n231 6171 5032 1 000 000 135 000,00\npojištění (RZ 58/2026/ZM)\npovinné pojistné na úrazové pojištění\n231 6320 5038 1 000 000 6 300,00\n(RZ 58/2026/ZM)\npřevod do Sociálního fondu (RZ\n231 6330 5342 1 000 000 52 500,00\n59/2026/ZM)\nSociální fond - čerpání (RZ\n236 6171 5901 1 000 000 52 500,00\n60/2026/ZM)\nDSO Region Moravská cesta -\npředfinancování projektu\n231 1014 5649 7 003 115 -2 797 752,80\nMOSPREMA 2.0. - NFV (RZ\n61/2026/ZM)\nDSO Region Moravská cesta -\npředfinancování projektu\n231 1014 6449 7 003 115 2 797 752,80\nMOSPREMA 2.0. - NFV (RZ\n61/2026/ZM)\nZměny ve financování:\nSU ODPA POL UZ PJ NÁSTROJ ORJ ORG Kč\nzměna stavu krátkodobých prostředků na\n231 8115 433 180,00\nbankovních účtech … (RZ 7/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 16 698,00\nbankovních účtech … (RZ 8/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 18 150,00\nbankovních účtech … (RZ 9/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 18 150,00\nbankovních účtech … (RZ 10/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 68 900,00\nbankovních účtech … (RZ 11/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nzměna stavu krátkodobých prostředků na\n231 8115 199 000,00\nbankovních účtech … (RZ 12/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 31 437,00\nbankovních účtech … (RZ 13/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 1 900 000,00\nbankovních účtech … (RZ 14/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 32 000,00\nbankovních účtech … (RZ 15/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 500 000,00\nbankovních účtech … (RZ 16/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 300 000,00\nbankovních účtech … (RZ 17/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 162 000,00\nbankovních účtech … (RZ 18/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 25 979,85\nbankovních účtech … (RZ 19/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 1 191 000,00\nbankovních účtech … (RZ 20/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 2 800 000,00\nbankovních účtech … (RZ 21/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 200 000,00\nbankovních účtech … (RZ 22/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 -61 075,00\nbankovních účtech … (RZ 23/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 80 000,00\nbankovních účtech … (RZ 24/2026/ZM)\ndlouhodobě přijaté půjčené prostředky\n231 8123 8 000 000,00\n(RZ 25/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 700 000,00\nbankovních účtech … (RZ 25/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 300 000,00\nbankovních účtech … (RZ 26/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 4 250 000,00\nbankovních účtech … (RZ 27/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 400 000,00\nbankovních účtech … (RZ 28/2026/ZM)\ndlouhodobě přijaté půjčené prostředky\n231 8123 9 700 000,00\n(RZ 29/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 500 000,00\nbankovních účtech … (RZ 29/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 100 000,00\nbankovních účtech … (RZ 30/2026/ZM)\ndlouhodobě přijaté půjčené prostředky\n231 8123 2 200 000,00\n(RZ 31/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 300 000,00\nbankovních účtech … (RZ 31/2026/ZM)\ndlouhodobě přijaté půjčené prostředky\n231 8123 2 000 000,00\n(RZ 32/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 65 000,00\nbankovních účtech … (RZ 32/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 281 000,00\nbankovních účtech … (RZ 33/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nzměna stavu krátkodobých prostředků na\n231 8115 200 000,00\nbankovních účtech … (RZ 34/2026/ZM)\ndlouhodobě přijaté půjčené prostředky\n231 8123 1 500 000,00\n(RZ 36/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 1 000 000,00\nbankovních účtech … (RZ 37/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 100 000,00\nbankovních účtech … (RZ 38/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 100 000,00\nbankovních účtech … (RZ 39/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 17 287,00\nbankovních účtech … (RZ 40/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 116 528,00\nbankovních účtech … (RZ 40/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 30 000,00\nbankovních účtech … (RZ 41/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 -892 149,83\nbankovních účtech … (RZ 42/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 600 000,00\nbankovních účtech … (RZ 43/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 1 100 000,00\nbankovních účtech … (RZ 44/2026/ZM)\nzměna stavu finančních prostředků na\n236 8115 461 632,50 bankovním účtu Sociálního fondu (RZ\n45/2026/ZM)\nzměna stavu finančních prostředků na\n236 8115 41 994,08 bankovním účtu Sociálního fondu (RZ\n46/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 -41 994,08\nbankovních účtech … (RZ 47/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 100 000,00\nbankovních účtech … (RZ 49/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 800 000,00\nbankovních účtech … (RZ 50/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 190 000,00\nbankovních účtech … (RZ 51/2026/ZM)\ndlouhodobě přijaté půjčené prostředky\n231 8123 8 500 000,00\n(RZ 52/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 400 000,00\nbankovních účtech … (RZ 53/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 1 000 000,00\nbankovních účtech … (RZ 54/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 50 000,00\nbankovních účtech … (RZ 55/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 30 000,00\nbankovních účtech … (RZ 56/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 573 540,00\nbankovních účtech … (RZ 57/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 2 013 300,00\nbankovních účtech … (RZ 58/2026/ZM)\nzměna stavu krátkodobých prostředků na\n231 8115 52 500,00\nbankovních účtech … (RZ 59/2026/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 7/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 8/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 9/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 10/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 11/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 12/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 13/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 14/2026/ZM\nDne 13.1.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 15/2026/ZM\nDne 22.1.2026 byla na finanční odbor od vedoucího OŠKS doručena žádost Městského klubu.\nRozpočtová změna č. 16/2026/ZM\nDne 9.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 17/2026/ZM\nDne 9.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 18/2026/ZM\nDne 16.1.2026 poslal pracovník krizového řízení požadavek velitele JSDH Tři Dvory na dovybavení vozidla CAS 30.\nRozpočtová změna č. 19/2026/ZM\nRozpočtová změna řešící navýšení výdajů na finanční vypořádání dotací za rok 2025. Ve schváleném rozpočtu je na\nfinanční vypořádání se SR rozpočtováno 100 000 Kč.\nDne 28.1.2026 byly převedeny z účtu města na určený účet kraje nevyčerpané dotační prostředky v rámci finančního\nvypořádání dotací za rok 2025 (dotace na volby do PS Parlamentu ČR - UZ 98071 a účelová neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS – UZ 14022).\nRozpočtová změna č. 20/2026/ZM\nDne 16.1.2026 obdrželo město Litovel výzvu k vrácení finančních prostředků k žádosti 1240000061.\nRozpočtová změna č. 21/2026/ZM\nDne 2.2.2026 požádala vedoucí OBH o rozpočtovou změnu.\nRozpočtová změna č. 22/2026/ZM\nDne 11.2.2026 požádala vedoucí OBH o rozpočtovou změnu.\nRozpočtová změna č. 23/2026/ZM\nRozpočtová změna týkající se úpravy výše příspěvku na dopravní obslužnost dle skutečnosti.\nRozpočtová změna č. 24/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 25/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 26/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 27/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 28/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 29/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 30/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 31/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 32/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 33/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 34/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 35/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 36/2026/ZM\nDne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 37/2026/ZM\nDne 9.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 38/2026/ZM\nDne 4.2.2026 požádal vedoucí OŽP o rozpočtovou změnu.\nRozpočtová změna č. 39/2026/ZM\nDne 4.2.2026 požádal vedoucí OŽP o rozpočtovou změnu.\nRozpočtová změna č. 40/2026/ZM\nDne 10.2.2026 byl od vedoucího odboru sociálního a správního doručen požadavek na rozpočtovou změnu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 41/2026/ZM\nDne 30.1.2026 požádala vedoucí Městské knihovny Litovel o rozpočtovou změnu.\nRozpočtová změna č. 42/2026/ZM\nV průběhu ledna a února obdrželo město Litovel na svůj účet od příspěvkových organizací vratky nevyčerpaných\nprovozních příspěvku na spotřebu energií za rok 2025, také pojistné plnění a neinvestiční přijaté transfery od obcí.\nRozpočtová změna č. 43/2026/ZM\nDne 11.2.2026 požádal vedoucí Muzea Litovel o rozpočtovou změnu.\nRozpočtová změna č. 44/2026/ZM\nDne 11.2.2026 požádal vedoucí Muzea Litovel o rozpočtovou změnu.\nRozpočtová změna č. 45/2026/ZM\nZapojení zůstatku na bankovním účtu Sociálního fondu k 31.12.2025 do rozpočtu Sociálního fondu na rok 2026.\nRozpočtová změna č. 46/2026/ZM\nVyúčtování přídělu finančních prostředků za rok 2025 do Sociálního fondu. Převod finančních prostředků ze Sociálního\nfondu do hlavního rozpočtového okruhu města.\nRozpočtová změna č. 47/2026/ZM\nVyúčtování přídělu finančních prostředků za rok 2025 do Sociálního fondu. Příjem finančních prostředků ze Sociálního\nfondu do hlavního rozpočtového okruhu města.\nRozpočtová změna č. 48/2026/ZM\nRozpočtová změna týkající se vratky nevyužitých finančních prostředků projektu Šablony JAK\nCZ,02,02XX/00/22_002/0006674 ZŠ Vítězná.\nRozpočtová změna č. 49/2026/ZM\nDne 12.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 50/2026/ZM\nDne 12.2.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 51/2026/ZM\nDne 13.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 52/2026/ZM\nDne 13.2.2026 požádal vedoucí OŠKS o rozpočtovou změnu.\nRozpočtová změna č. 53/2026/ZM\nRozpočtová změna týkající se opravy poškozených podlah v garážích hasičské zbrojnice ve Třech Dvorech.\nRozpočtová změna č. 54/2026/ZM\nDne 16.2.2026 požádal vedoucí OŽP o rozpočtovou změnu.\nRozpočtová změna č. 55/2026/ZM\nDne 17.2.2026 požádal velitel MP o rozpočtovou změnu.\nRozpočtová změna č. 56/2026/ZM\nDne 17.2.2026 požádal zástupce velitele městské policie o rozpočtovou změnu.\nRozpočtová změna č. 57/2026/ZM\nRozpočtová změna zabezpečující pokrytí výdajů na zajištění činnosti pověřence pro ochranu osobních údajů a role\nosoby odpovědné za řízení kybernetické bezpečnosti. Výdaje této rozpočtové změny vycházejí ze smlouvy\nuzavřené mezi městem Litovel a společností Aricoma Systems, a.s., schválené na jednání 60. RM, které se\nkonalo 16. 10. 2025. Smlouva byla podepsána 31. 10. 2025, ale její obsah již nebyl promítnut do\nrozpracovaného návrhu rozpočtu města Litovel na rok 2026. Pověřenec GDPR i osoba odpovědná za KYBEZ jsou\npovinné ze zákona.\nRozpočtová změna č. 58/2026/ZM\nRZ 58/2026/ZM až 60/2026/ZM reagují na situaci ve mzdové oblasti v závislosti na zvýšení zaručené mzdy od 1. 1.\n2026 a na nové platové tabulky platné od 1. 4. 2026. Důsledky vlivu těchto zákonných úprav na potřebu navýšení\nfinančních prostředků na platové záležitosti nebylo možné v době tvorby rozpočtu města Litovel na rok 2026\npředpokládat.\nRozpočtová změna č. 59/2026/ZM\nTato rozpočtová změna vyplývá z RZ 58/2026/ZM.\nRozpočtová změna č. 60/2026/ZM\nTato rozpočtová změna vyplývá z RZ 58/2026/ZM.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 61/2026/ZM\nVe schváleném rozpočtu je rozpočtováno na předfinancování projektu MOSPREMA 2.0 – NFV 3 000 000 Kč. Tento\nvýdaj je rozpočtován na položce 5649 - Ostatní neinv. půjčené prostř. rozp. územní úrovně. Většina této NFV však bude\npoužita na investiční výdaje, je tedy nutné u odpovídající části NFV změnit položku.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 23.3.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/4/25/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2091/68/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "7/2026/ZM",
+        "8/2026/ZM",
+        "9/2026/ZM",
+        "10/2026/ZM",
+        "11/2026/ZM",
+        "12/2026/ZM",
+        "13/2026/ZM",
+        "14/2026/ZM",
+        "15/2026/ZM",
+        "16/2026/ZM",
+        "17/2026/ZM",
+        "18/2026/ZM",
+        "19/2026/ZM",
+        "20/2026/ZM",
+        "21/2026/ZM",
+        "22/2026/ZM",
+        "23/2026/ZM",
+        "24/2026/ZM",
+        "25/2026/ZM",
+        "26/2026/ZM",
+        "27/2026/ZM",
+        "28/2026/ZM",
+        "29/2026/ZM",
+        "30/2026/ZM",
+        "31/2026/ZM",
+        "32/2026/ZM",
+        "33/2026/ZM",
+        "34/2026/ZM",
+        "35/2026/ZM",
+        "36/2026/ZM",
+        "37/2026/ZM",
+        "38/2026/ZM",
+        "39/2026/ZM",
+        "40/2026/ZM",
+        "41/2026/ZM",
+        "42/2026/ZM",
+        "43/2026/ZM",
+        "44/2026/ZM",
+        "45/2026/ZM",
+        "46/2026/ZM",
+        "47/2026/ZM",
+        "48/2026/ZM",
+        "49/2026/ZM",
+        "50/2026/ZM",
+        "51/2026/ZM",
+        "52/2026/ZM"
+      ]
+    },
+    {
+      "resolution_id": "RM/2103/68/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "52/2026/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/12/25/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "52/2026/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/4/25/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "7/2026/ZM",
+        "8/2026/ZM",
+        "9/2026/ZM",
+        "10/2026/ZM",
+        "11/2026/ZM",
+        "12/2026/ZM",
+        "13/2026/ZM",
+        "14/2026/ZM",
+        "15/2026/ZM",
+        "16/2026/ZM",
+        "17/2026/ZM",
+        "18/2026/ZM",
+        "19/2026/ZM",
+        "20/2026/ZM",
+        "21/2026/ZM",
+        "22/2026/ZM",
+        "23/2026/ZM",
+        "24/2026/ZM",
+        "25/2026/ZM",
+        "26/2026/ZM",
+        "27/2026/ZM",
+        "28/2026/ZM",
+        "29/2026/ZM",
+        "30/2026/ZM",
+        "31/2026/ZM",
+        "32/2026/ZM",
+        "33/2026/ZM",
+        "34/2026/ZM",
+        "35/2026/ZM",
+        "36/2026/ZM",
+        "37/2026/ZM",
+        "38/2026/ZM",
+        "39/2026/ZM",
+        "40/2026/ZM",
+        "41/2026/ZM",
+        "42/2026/ZM",
+        "43/2026/ZM",
+        "44/2026/ZM",
+        "45/2026/ZM",
+        "46/2026/ZM",
+        "47/2026/ZM",
+        "48/2026/ZM",
+        "49/2026/ZM",
+        "50/2026/ZM",
+        "51/2026/ZM",
+        "52/2026/ZM",
+        "53/2026/ZM",
+        "54/2026/ZM",
+        "55/2026/ZM",
+        "56/2026/ZM",
+        "57/2026/ZM",
+        "58/2026/ZM",
+        "59/2026/ZM",
+        "60/2026/ZM",
+        "61/2026/ZM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "RM/2130/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "neschvaluje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "neschvaluje pořízení dvou kusů nových kondenzačních kotlů o výkonu 45 kW, včetně výměny oběhových\nčerpadel a s tím souvisejících prací, včetně revizí dopojení plynu, elektroinstalace a spalinové cesty, do objektu\nSokolovny v Unčovicích. Současně Rada města Litovel nedoporučuje Zastupitelstvu města Litovel schválit formou\nrozpočtové změny navýšení stávajícího rozpočtu odboru MHaSI o částku 500.000 Kč."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje pořízení dvou kusů nových kondenzačních kotlů o výkonu 45 kW, včetně výměny oběhových čerpadel\na s tím souvisejících prací, včetně revizí dopojení plynu, elektroinstalace a spalinové cesty, do objektu Sokolovny\nv Unčovicích. Veškeré náklady budou hrazeny z participativního rozpočtu MČ Unčovice."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "500.000 Kč"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "RO/16/2025",
+  "number": 16,
+  "year": 2025,
+  "approval_date": "2025-08-20",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 21,
+    "type": "zasedání",
+    "date": "2025-08-20"
+  },
+  "source_resolutions": [
+    "ZM/3/21/2025"
+  ],
+  "budget_change_ids": [
+    "71/2025/ZM",
+    "72/2025/ZM",
+    "73/2025/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "72/2025/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "46"
+          ],
+          "amount": "14 220,00",
+          "amount_value": 14220.0,
+          "description": "ZŠ Jungmannova - vratka dotace OP JAK (RZ 72/2025/ZM)"
+        },
+        {
+          "budget_change_id": "73/2025/ZM",
+          "raw_codes": [
+            "3111",
+            "2229",
+            "48"
+          ],
+          "amount": "76 035,00",
+          "amount_value": 76035.0,
+          "description": "MŠ Gemerská - vratka dotace OP JAK (RZ 73/2025/ZM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "71/2025/ZM",
+          "raw_codes": [
+            "5512",
+            "5019",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "-184 911,40",
+          "amount_value": -184911.4,
+          "description": "Požární ochrana - dobrovolná část - povodeň (RZ 71/2025/ZM)"
+        },
+        {
+          "budget_change_id": "71/2025/ZM",
+          "raw_codes": [
+            "5512",
+            "5039",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "-46 963,00",
+          "amount_value": -46963.0,
+          "description": "Požární ochrana - dobrovolná část - povodeň (RZ 71/2025/ZM)"
+        },
+        {
+          "budget_change_id": "71/2025/ZM",
+          "raw_codes": [
+            "5512",
+            "5132",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Požární ochrana - dobrovolná část - povodeň (RZ 71/2025/ZM)"
+        },
+        {
+          "budget_change_id": "71/2025/ZM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "-111 744,60",
+          "amount_value": -111744.6,
+          "description": "Požární ochrana - dobrovolná část - povodeň (RZ 71/2025/ZM)"
+        },
+        {
+          "budget_change_id": "71/2025/ZM",
+          "raw_codes": [
+            "5512",
+            "5171",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "-74 381,00",
+          "amount_value": -74381.0,
+          "description": "Požární ochrana - dobrovolná část - povodeň (RZ 71/2025/ZM)"
+        },
+        {
+          "budget_change_id": "71/2025/ZM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "2",
+            "4 900 405"
+          ],
+          "amount": "518 000,00",
+          "amount_value": 518000.0,
+          "description": "OŠKS - ZŠ a DD Palackého - povodeň - oprava podlah a omítek (RZ 71/2025/ZM)"
+        },
+        {
+          "budget_change_id": "72/2025/ZM",
+          "raw_codes": [
+            "3113",
+            "5904",
+            "143533092",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "10 911,72",
+          "amount_value": 10911.72,
+          "description": "ZŠ Jungmannova - vratka účel. neinv. dotace - OP JAK (RZ 72/2025/ZM)"
+        },
+        {
+          "budget_change_id": "72/2025/ZM",
+          "raw_codes": [
+            "3113",
+            "5904",
+            "143133092",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "3 308,28",
+          "amount_value": 3308.28,
+          "description": "ZŠ Jungmannova - vratka účel. neinv. dotace - OP JAK (RZ 72/2025/ZM)"
+        },
+        {
+          "budget_change_id": "73/2025/ZM",
+          "raw_codes": [
+            "3111",
+            "5904",
+            "143533092",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "58 345,46",
+          "amount_value": 58345.46,
+          "description": "MŠ Gemerská - vratka účel. neinv. dotace - OP JAK (RZ 73/2025/ZM)"
+        },
+        {
+          "budget_change_id": "73/2025/ZM",
+          "raw_codes": [
+            "3111",
+            "5904",
+            "143133092",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "17 689,54",
+          "amount_value": 17689.54,
+          "description": "MŠ Gemerská - vratka účel. neinv. dotace - OP JAK (RZ 73/2025/ZM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 71/2025/ZM",
+      "text": "Dne 14.8.2025 požádal OŠKS o rozpočtovou změnu. Po loňských povodních je třeba urgentně opravit omítky a podlahy v budově ZŠ, DD a ŠJ Litovel. V důsledku loňských povodní došlo k poškození omítek a podlah v budově ZŠ, DD a ŠJ Litovel a nyní je třeba je opravit. Jedná se o opravu omítek a podlahy v dílnách a opravu zpuchřelých omítek ve třech třídách včetně jejich otlučení. Finanční prostředky na tento požadavek budou přesunuty z rozpočtu Krizového řízení - požární ochrana - dobrovolná část, z prostředků určených na výdaje související s povodní, které již nebudou využity."
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2025/ZM",
+      "text": "Dne 5.8.2025 byla na účet města přijata platba od ZŠ Jungmannova ve výši 14 220,00 Kč. Jedná se o vratku dotace z roku 2023. Dotace byla určena na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů. Tato vratka je na základě výzvy k provedení vratky nevyužitých finančních prostředků od řídícího orgánu OP JAK, kdy vratka musí být provedena ve lhůtě do 30 pracovních dnů od schválení závěrečné zprávy o realizaci/závěrečné žádosti o platbu (ta byla schválena 22.7.2025). V případě nevrácení výše uvedené částky dotace ve stanoveném termínu bude případ předán k dalšímu šetření místně příslušnému orgánu finanční správy."
+    },
+    {
+      "title": "Rozpočtová změna č. 73/2025/ZM",
+      "text": "Dne 5.8.2025 byla na účet města přijata platba od MŠ Gemerská ve výši 76 035,00 Kč. Jedná se o vratku dotace poskytnuté v roce 2023 na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů. Tato vratka je na základě výzvy k provedení vratky nevyužitých finančních prostředků od řídícího orgánu OP JAK, kdy vratka musí být provedena ve lhůtě do 30 pracovních dnů od schválení závěrečné zprávy o realizaci/závěrečné žádosti o platbu (ta byla schválena 1.8.2025). V případě nevrácení výše uvedené částky dotace ve stanoveném termínu bude případ předán k dalšímu šetření místně příslušnému orgánu finanční správy."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._16_2025_dne_20.8.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 16/2025 schválené Zastupitelstvem města Litovel\ndne 20. srpna 2025\nRozpočtové opatření bylo schváleno na 21. zasedání Zastupitelstva města Litovel dne 20. srpna 2025 na základě\nusnesení ZM/3/21/2025.\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč\nZŠ Jungmannova - vratka dotace OP JAK\n3113 2229 46 14 220,00\n(RZ 72/2025/ZM)\nMŠ Gemerská - vratka dotace OP JAK (RZ\n3111 2229 48 76 035,00\n73/2025/ZM)\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč\nPožární ochrana - dobrovolná část -\n5512 5019 2 15 900 000 -184 911,40\npovodeň (RZ 71/2025/ZM)\nPožární ochrana - dobrovolná část -\n5512 5039 2 15 900 000 -46 963,00\npovodeň (RZ 71/2025/ZM)\nPožární ochrana - dobrovolná část -\n5512 5132 2 15 900 000 -100 000,00\npovodeň (RZ 71/2025/ZM)\nPožární ochrana - dobrovolná část -\n5512 5137 2 15 900 000 -111 744,60\npovodeň (RZ 71/2025/ZM)\nPožární ochrana - dobrovolná část -\n5512 5171 2 15 900 000 -74 381,00\npovodeň (RZ 71/2025/ZM)\nOŠKS - ZŠ a DD Palackého - povodeň -\n3613 5171 2 4 900 405 518 000,00\noprava podlah a omítek (RZ 71/2025/ZM)\nZŠ Jungmannova - vratka účel. neinv.\n3113 5904 143533092 46 4 000 000 10 911,72\ndotace - OP JAK (RZ 72/2025/ZM)\nZŠ Jungmannova - vratka účel. neinv.\n3113 5904 143133092 46 4 000 000 3 308,28\ndotace - OP JAK (RZ 72/2025/ZM)\nMŠ Gemerská - vratka účel. neinv. dotace -\n3111 5904 143533092 48 4 000 000 58 345,46\nOP JAK (RZ 73/2025/ZM)\nMŠ Gemerská - vratka účel. neinv. dotace -\n3111 5904 143133092 48 4 000 000 17 689,54\nOP JAK (RZ 73/2025/ZM)\nRozpočtová změna č. 71/2025/ZM\nDne 14.8.2025 požádal OŠKS o rozpočtovou změnu. Po loňských povodních je třeba urgentně opravit omítky\na podlahy v budově ZŠ, DD a ŠJ Litovel. V důsledku loňských povodní došlo k poškození omítek a podlah\nv budově ZŠ, DD a ŠJ Litovel a nyní je třeba je opravit. Jedná se o opravu omítek a podlahy v dílnách a\nopravu zpuchřelých omítek ve třech třídách včetně jejich otlučení. Finanční prostředky na tento požadavek\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nbudou přesunuty z rozpočtu Krizového řízení - požární ochrana - dobrovolná část, z prostředků určených na\nvýdaje související s povodní, které již nebudou využity.\nRozpočtová změna č. 72/2025/ZM\nDne 5.8.2025 byla na účet města přijata platba od ZŠ Jungmannova ve výši 14 220,00 Kč. Jedná se o vratku\ndotace z roku 2023. Dotace byla určena na realizaci projektu v rámci Operačního programu Jan Amos\nKomenský – projekty využívající zjednodušené vykazování nákladů. Tato vratka je na základě výzvy\nk provedení vratky nevyužitých finančních prostředků od řídícího orgánu OP JAK, kdy vratka musí být\nprovedena ve lhůtě do 30 pracovních dnů od schválení závěrečné zprávy o realizaci/závěrečné žádosti o platbu\n(ta byla schválena 22.7.2025). V případě nevrácení výše uvedené částky dotace ve stanoveném termínu bude\npřípad předán k dalšímu šetření místně příslušnému orgánu finanční správy.\nRozpočtová změna č. 73/2025/ZM\nDne 5.8.2025 byla na účet města přijata platba od MŠ Gemerská ve výši 76 035,00 Kč. Jedná se o vratku\ndotace poskytnuté v roce 2023 na realizaci projektu v rámci Operačního programu Jan Amos Komenský –\nprojekty využívající zjednodušené vykazování nákladů. Tato vratka je na základě výzvy k provedení vratky\nnevyužitých finančních prostředků od řídícího orgánu OP JAK, kdy vratka musí být provedena ve lhůtě do 30\npracovních dnů od schválení závěrečné zprávy o realizaci/závěrečné žádosti o platbu (ta byla schválena\n1.8.2025). V případě nevrácení výše uvedené částky dotace ve stanoveném termínu bude případ předán\nk dalšímu šetření místně příslušnému orgánu finanční správy.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 22.8.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/3/21/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "ZM/3/21/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "71/2025/ZM",
+        "72/2025/ZM",
+        "73/2025/ZM"
+      ]
+    }
+  ]
+}

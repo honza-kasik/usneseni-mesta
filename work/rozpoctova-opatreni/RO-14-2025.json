@@ -1,0 +1,396 @@
+{
+  "id": "RO/14/2025",
+  "number": 14,
+  "year": 2025,
+  "approval_date": "2025-07-22",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 55,
+    "type": "schůzi",
+    "date": "22. července"
+  },
+  "source_resolutions": [
+    "RM/1731/55/2025",
+    "RM/1746/55/2025"
+  ],
+  "budget_change_ids": [
+    "113/2025/RM",
+    "114/2025/RM",
+    "115/2025/RM",
+    "116/2025/RM",
+    "117/2025/RM",
+    "118/2025/RM",
+    "119/2025/RM",
+    "120/2025/RM",
+    "121/2025/RM",
+    "122/2025/RM",
+    "123/2025/RM",
+    "124/2025/RM",
+    "125/2025/RM",
+    "126/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "113/2025/RM",
+          "raw_codes": [
+            "4111",
+            "98071"
+          ],
+          "amount": "17 000,00",
+          "amount_value": 17000.0,
+          "description": "účelová neinv. dotace - volby do Poslanecké sněmovny Parlamentu ČR (RZ 113/2025/RM)"
+        },
+        {
+          "budget_change_id": "117/2025/RM",
+          "raw_codes": [
+            "4216",
+            "62501",
+            "4 000 442"
+          ],
+          "amount": "30 000 000,00",
+          "amount_value": 30000000.0,
+          "description": "NSA - účelová inv. dotace - Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa (RZ 117/2025/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "113/2025/RM",
+          "raw_codes": [
+            "3111",
+            "6121",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "-202 000,00",
+          "amount_value": -202000.0,
+          "description": "MŠ Gemerská - zateplení MŠ Kollárova (RZ 113/2025/RM)"
+        },
+        {
+          "budget_change_id": "113/2025/RM",
+          "raw_codes": [
+            "3111",
+            "5171",
+            "4 000 440"
+          ],
+          "amount": "202 000,00",
+          "amount_value": 202000.0,
+          "description": "CMŠ Svatojánek - oprava vstupního schodiště (RZ 113/2025/RM)"
+        },
+        {
+          "budget_change_id": "114/2025/RM",
+          "raw_codes": [
+            "6114",
+            "5169",
+            "98071",
+            "10 000 000"
+          ],
+          "amount": "17 000,00",
+          "amount_value": 17000.0,
+          "description": "volby do Poslanecké sněmovny Parlamentu ČR - dotace (RZ 114/2025/RM)"
+        },
+        {
+          "budget_change_id": "115/2025/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 003 470"
+          ],
+          "amount": "-32 428,00",
+          "amount_value": -32428.0,
+          "description": "Sportovní hřiště - údržba a vybavenost (RZ 115/2025/RM)"
+        },
+        {
+          "budget_change_id": "115/2025/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "3 003 470"
+          ],
+          "amount": "32 428,00",
+          "amount_value": 32428.0,
+          "description": "Dětská hřiště - stroje, přístroje, zařízení (RZ 115/2025/RM)"
+        },
+        {
+          "budget_change_id": "116/2025/RM",
+          "raw_codes": [
+            "2212",
+            "5169",
+            "3 003 454"
+          ],
+          "amount": "-45 000,00",
+          "amount_value": -45000.0,
+          "description": "výkupy pozemků, znalecké posudky, ... (RZ 116/2025/RM)"
+        },
+        {
+          "budget_change_id": "116/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5169",
+            "303",
+            "3 000 000"
+          ],
+          "amount": "45 000,00",
+          "amount_value": 45000.0,
+          "description": "Nová Ves - návoz kačírku na břeh biotopu (RZ 116/2025/RM)"
+        },
+        {
+          "budget_change_id": "117/2025/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "62501",
+            "4 000 442"
+          ],
+          "amount": "30 000 000,00",
+          "amount_value": 30000000.0,
+          "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa - dotace (RZ 117/2025/RM)"
+        },
+        {
+          "budget_change_id": "118/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 118/2025/RM)"
+        },
+        {
+          "budget_change_id": "118/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "304",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "J.P. - dotace na činnost družstva malé kopané (RZ 118/2025/RM)"
+        },
+        {
+          "budget_change_id": "119/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 119/2025/RM)"
+        },
+        {
+          "budget_change_id": "119/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "D.K. - dotace na činnost družstva malé kopané (RZ 119/2025/RM)"
+        },
+        {
+          "budget_change_id": "120/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 120/2025/RM)"
+        },
+        {
+          "budget_change_id": "120/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "M.Š. - dotace na činnost družstva malé kopané (RZ 120/2025/RM)"
+        },
+        {
+          "budget_change_id": "121/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 121/2025/RM)"
+        },
+        {
+          "budget_change_id": "121/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "J.Š. - dotace na činnost družstva malé kopané (RZ 121/2025/RM)"
+        },
+        {
+          "budget_change_id": "122/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 122/2025/RM)"
+        },
+        {
+          "budget_change_id": "122/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "P.Č. - dotace na činnost družstva malé kopané (RZ 122/2025/RM)"
+        },
+        {
+          "budget_change_id": "123/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 123/2025/RM)"
+        },
+        {
+          "budget_change_id": "123/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "309",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "FC NASA - dotace na činnost družstva malé kopané (RZ 123/2025/RM)"
+        },
+        {
+          "budget_change_id": "124/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 124/2025/RM)"
+        },
+        {
+          "budget_change_id": "124/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "M.H. - dotace na činnost družstva malé kopané (RZ 124/2025/RM)"
+        },
+        {
+          "budget_change_id": "125/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "305",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "J.K. - dotace na činnost družstva malé kopané (RZ 125/2025/RM)"
+        },
+        {
+          "budget_change_id": "126/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-13 000,00",
+          "amount_value": -13000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 126/2025/RM)"
+        },
+        {
+          "budget_change_id": "126/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "13 000,00",
+          "amount_value": 13000.0,
+          "description": "T.R. - dotace na činnost družstva malé kopané (7 000 Kč) + org. zaj. 15. roč. nohejbal. turnaje, 21. roč. nočního turnaje v mk, oslava 30. výročí založení mk v Unčovicích (6 000 Kč) (RZ 126/2025/RM)"
+        },
+        {
+          "budget_change_id": "125/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": ") transfery dle rozhodnutí RM (RZ 125/2025/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 113/2025/RM",
+      "text": "Dne 4.7.2025 obdržel finanční odbor od OŠKS žádost o rozpočtovou změnu. Tato žádost se týká opravy vstupního schodiště do budovy CMŠ Svatojánek. Na tuto opravu budou použity nevyužité finanční prostředky na zateplení MŠ Kollárova."
+    },
+    {
+      "title": "Rozpočtová změna č. 114/2025/RM",
+      "text": "Dne 8.7.2025 byla na účet města připsána dotace na volby do Poslanecké sněmovny Parlamentu ČR ve výši 572 500 Kč. Ve schváleném rozpočtu je tato dotace rozpočtována ve výši 555 500 Kč. Je nutná úprava rozpočtu dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 115/2025/RM",
+      "text": "Dne 10.7.2025 byla z odboru MHaSI doručena žádost na rozpočtovou změnu. Odbor MH a SI se chystá pořídit k hernímu prvku (hrad) v Nové Vsi 2 ks laviček. Pro jejich pořízení je požadováno navýšení financování na § 3421."
+    },
+    {
+      "title": "Rozpočtová změna č. 116/2025/RM",
+      "text": "Dne 10.7.2025 byla z odboru MHaSI doručena žádost na rozpočtovou změnu. Na břeh zatopeného lomu v Nové Vsi je potřeba navézt kačírek, v současnosti je zde bláto. Odbor MH a SI již požadavek řeší a pro realizaci je potřeba změnit §."
+    },
+    {
+      "title": "Rozpočtová změna č. 117/2025/RM",
+      "text": "Dne 18.7.2025 obdrželo město Litovel od Národní sportovní agentury Registraci akce a rozhodnutí o poskytnutí dotace na akci Revitalizace sportovního areálu Sokolovny v Litovli – 2. etapa. Výše dotace činí 30 000 000 Kč a bude poskytnuta ex ante."
+    },
+    {
+      "title": "Rozpočtová změna č. 118/2025/RM - č. 126/2025/RM",
+      "text": "Dotace poskytnuté na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._14_2025_dne_22.7.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 14/2025 schválené Radou města Litovel\ndne 22. července 2025\nRozpočtové opatření bylo schváleno na 55. schůzi Rady města Litovel dne 22. července na základě usnesení\nRM/1731/55/2025, RM/1746/55/2025.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč Popis\núčelová neinv. dotace - volby do Poslanecké sněmovny\n4111 98071 17 000,00\nParlamentu ČR (RZ 113/2025/RM)\nNSA - účelová inv. dotace - Revitalizace sportovního areálu\n4216 62501 4 000 442 30 000 000,00\nSokolovny v Litovli - 2. etapa (RZ 117/2025/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč Popis\n3111 6121 48 4 000 000 -202 000,00 MŠ Gemerská - zateplení MŠ Kollárova (RZ 113/2025/RM)\nCMŠ Svatojánek - oprava vstupního schodiště (RZ\n3111 5171 4 000 440 202 000,00\n113/2025/RM)\n10 000 volby do Poslanecké sněmovny Parlamentu ČR - dotace (RZ\n6114 5169 98071 17 000,00\n000 114/2025/RM)\n3412 6121 3 003 470 -32 428,00 Sportovní hřiště - údržba a vybavenost (RZ 115/2025/RM)\n3421 6122 3 003 470 32 428,00 Dětská hřiště - stroje, přístroje, zařízení (RZ 115/2025/RM)\n2212 5169 3 003 454 -45 000,00 výkupy pozemků, znalecké posudky, ... (RZ 116/2025/RM)\n3639 5169 303 3 000 000 45 000,00 Nová Ves - návoz kačírku na břeh biotopu (RZ 116/2025/RM)\nRevitalizace sportovního areálu Sokolovny v Litovli - 2. etapa\n3412 6121 62501 4 000 442 30 000 000,00\n- dotace (RZ 117/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 118/2025/RM)\nJ.P. - dotace na činnost družstva malé kopané (RZ\n3419 5499 304 4 000 000 7 000,00\n118/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 119/2025/RM)\nD.K. - dotace na činnost družstva malé kopané (RZ\n3419 5499 307 4 000 000 7 000,00\n119/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 120/2025/RM)\nM.Š. - dotace na činnost družstva malé kopané (RZ\n3419 5499 4 000 000 7 000,00\n120/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 121/2025/RM)\nJ.Š. - dotace na činnost družstva malé kopané (RZ\n3419 5499 302 4 000 000 7 000,00\n121/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 122/2025/RM)\nP.Č. - dotace na činnost družstva malé kopané (RZ\n3419 5499 303 4 000 000 7 000,00\n122/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 123/2025/RM)\nFC NASA - dotace na činnost družstva malé kopané (RZ\n3419 5222 309 4 000 000 7 000,00\n123/2025/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 124/2025/RM)\nM.H. - dotace na činnost družstva malé kopané (RZ\n3419 5499 303 4 000 000 7 000,00\n124/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 125/2025/RM)\nJ.K. - dotace na činnost družstva malé kopané (RZ\n3419 5499 305 4 000 000 7 000,00\n125/2025/RM)\n3429 5901 4 000 000 -13 000,00 transfery dle rozhodnutí RM (RZ 126/2025/RM)\nT.R. - dotace na činnost družstva malé kopané (7 000 Kč) +\norg. zaj. 15. roč. nohejbal. turnaje, 21. roč. nočního turnaje v\n3419 5499 310 4 000 000 13 000,00\nmk, oslava 30. výročí založení mk v Unčovicích (6 000 Kč)\n(RZ 126/2025/RM)\nRozpočtová změna č. 113/2025/RM\nDne 4.7.2025 obdržel finanční odbor od OŠKS žádost o rozpočtovou změnu. Tato žádost se týká opravy\nvstupního schodiště do budovy CMŠ Svatojánek. Na tuto opravu budou použity nevyužité finanční prostředky\nna zateplení MŠ Kollárova.\nRozpočtová změna č. 114/2025/RM\nDne 8.7.2025 byla na účet města připsána dotace na volby do Poslanecké sněmovny Parlamentu ČR ve výši 572 500\nKč. Ve schváleném rozpočtu je tato dotace rozpočtována ve výši 555 500 Kč. Je nutná úprava rozpočtu dle skutečnosti.\nRozpočtová změna č. 115/2025/RM\nDne 10.7.2025 byla z odboru MHaSI doručena žádost na rozpočtovou změnu. Odbor MH a SI se chystá pořídit k\nhernímu prvku (hrad) v Nové Vsi 2 ks laviček. Pro jejich pořízení je požadováno navýšení financování na § 3421.\nRozpočtová změna č. 116/2025/RM\nDne 10.7.2025 byla z odboru MHaSI doručena žádost na rozpočtovou změnu. Na břeh zatopeného lomu v Nové Vsi je\npotřeba navézt kačírek, v současnosti je zde bláto. Odbor MH a SI již požadavek řeší a pro realizaci je potřeba změnit\n§.\nRozpočtová změna č. 117/2025/RM\nDne 18.7.2025 obdrželo město Litovel od Národní sportovní agentury Registraci akce a rozhodnutí o\nposkytnutí dotace na akci Revitalizace sportovního areálu Sokolovny v Litovli – 2. etapa. Výše dotace činí\n30 000 000 Kč a bude poskytnuta ex ante.\nRozpočtová změna č. 118/2025/RM - č. 126/2025/RM\nDotace poskytnuté na základě žádosti.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 25.7.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

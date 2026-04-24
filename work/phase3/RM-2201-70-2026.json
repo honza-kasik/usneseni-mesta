@@ -1,0 +1,23 @@
+{
+  "id": "RM/2201/70/2026",
+  "datum": "2026-04-02",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s výběrem dodavatele projekční činnosti pro akci Muzeum města Litovel - vestavba výtahu, nová\nrecepce, renovace toalet pro veřejnost a dílna, Smyčkova, č.p. 795, Litovel dle důvodové zprávy."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o dílo na realizaci akce Muzeum města Litovel - vestavba výtahu, nová recepce,\nrenovace toalet pro veřejnost a dílna, Smyčkova, č.p. 795, Litovel, mezi městem Litovel a společností atelier EMIL\ns.r.o. jakožto dodavatelem, v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

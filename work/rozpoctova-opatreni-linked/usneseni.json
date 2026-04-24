@@ -9549,7 +9549,154 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "135/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "136/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "137/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 1
+      },
+      {
+        "budget_change_id": "138/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 7
+      },
+      {
+        "budget_change_id": "139/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "140/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "141/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "142/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "143/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "144/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 1
+      },
+      {
+        "budget_change_id": "145/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "146/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "147/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "148/2024/RM",
+        "opatreni_id": "RO/24/2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 25
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -9575,7 +9722,29 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "3/2025/RM",
+        "opatreni_id": "RO/2/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "4/2025/RM",
+        "opatreni_id": "RO/2/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -10233,7 +10402,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/4/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1463/47/2025",
@@ -10277,7 +10451,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/4/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1465/47/2025",
@@ -10494,8 +10673,57 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "39/2025/RM",
+        "opatreni_id": "RO/4/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "40/2025/RM",
+        "opatreni_id": "RO/4/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "41/2025/RM",
+        "opatreni_id": "RO/4/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "42/2025/RM",
+        "opatreni_id": "RO/4/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/4/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1477/47/2025",
@@ -11249,7 +11477,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/5/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1505/48/2025",
@@ -11277,7 +11510,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/5/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1506/48/2025",
@@ -11352,7 +11590,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/5/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1507/48/2025",
@@ -11635,8 +11878,153 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "45/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "46/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "47/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "48/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "49/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 15
+      },
+      {
+        "budget_change_id": "50/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "51/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "52/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "53/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "54/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "56/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "57/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "58/2025/RM",
+        "opatreni_id": "RO/5/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/5/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1522/48/2025",
@@ -11666,7 +12054,12 @@
     "amounts": [],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/5/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1523/48/2025",
@@ -12340,7 +12733,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/7/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1556/49/2025",
@@ -12368,7 +12766,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/7/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1557/49/2025",
@@ -12401,7 +12804,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/7/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1558/49/2025",
@@ -12716,8 +13124,142 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "73/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "74/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "75/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "76/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "77/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "78/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "79/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "80/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "81/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "82/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "83/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "84/2025/RM",
+        "opatreni_id": "RO/7/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/7/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1572/49/2025",
@@ -13525,8 +14067,45 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "88/2025/RM",
+        "opatreni_id": "RO/9/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "89/2025/RM",
+        "opatreni_id": "RO/9/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "90/2025/RM",
+        "opatreni_id": "RO/9/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1608/50/2025",
@@ -13762,7 +14341,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/10/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1619/51/2025",
@@ -14098,8 +14682,56 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "91/2025/RM",
+        "opatreni_id": "RO/10/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "92/2025/RM",
+        "opatreni_id": "RO/10/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "93/2025/RM",
+        "opatreni_id": "RO/10/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "94/2025/RM",
+        "opatreni_id": "RO/10/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/10/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1635/51/2025",
@@ -14783,7 +15415,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/11/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1664/52/2025",
@@ -14962,8 +15599,116 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "96/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "97/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "98/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "99/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "100/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "101/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "102/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "103/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "104/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "105/2025/RM",
+        "opatreni_id": "RO/11/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/11/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1672/52/2025",
@@ -15554,7 +16299,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/13/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1699/53/2025",
@@ -15705,8 +16455,69 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "107/2025/RM",
+        "opatreni_id": "RO/13/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "108/2025/RM",
+        "opatreni_id": "RO/13/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "109/2025/RM",
+        "opatreni_id": "RO/13/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "110/2025/RM",
+        "opatreni_id": "RO/13/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "111/2025/RM",
+        "opatreni_id": "RO/13/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/13/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1705/53/2025",
@@ -16342,7 +17153,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/14/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1732/55/2025",
@@ -16641,8 +17457,66 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "113/2025/RM",
+        "opatreni_id": "RO/14/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "114/2025/RM",
+        "opatreni_id": "RO/14/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 1
+      },
+      {
+        "budget_change_id": "115/2025/RM",
+        "opatreni_id": "RO/14/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "116/2025/RM",
+        "opatreni_id": "RO/14/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "117/2025/RM",
+        "opatreni_id": "RO/14/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/14/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1747/55/2025",
@@ -17154,7 +18028,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/15/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/177/7/2023",
@@ -18051,8 +18930,165 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "128/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "129/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "130/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "131/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "132/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "133/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "134/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "135/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "136/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "137/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "138/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "139/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "140/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "141/2025/RM",
+        "opatreni_id": "RO/17/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 11
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/17/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/181/7/2023",
@@ -18450,7 +19486,19 @@
       "200.000 Kč"
     ],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "68/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -18628,7 +19676,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/18/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1833/59/2025",
@@ -18656,7 +19709,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/18/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1834/59/2025",
@@ -18745,8 +19803,35 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "142/2025/RM",
+        "opatreni_id": "RO/18/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "143/2025/RM",
+        "opatreni_id": "RO/18/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/18/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1839/59/2025",
@@ -18771,7 +19856,195 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "74/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "75/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "76/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "77/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 97
+      },
+      {
+        "budget_change_id": "78/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "79/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 16
+      },
+      {
+        "budget_change_id": "80/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "81/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "82/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "83/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "84/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "85/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "86/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "87/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "88/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "89/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "91/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -19325,8 +20598,115 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "146/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "147/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "148/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "149/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "150/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "151/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "152/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "153/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "154/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "155/2025/RM",
+        "opatreni_id": "RO/20/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/20/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1865/60/2025",
@@ -20986,8 +22366,97 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "163/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "164/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "165/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "166/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "167/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "168/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "169/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "170/2025/RM",
+        "opatreni_id": "RO/22/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/22/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/1939/63/2025",
@@ -21818,7 +23287,38 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "171/2025/RM",
+        "opatreni_id": "RO/23/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "172/2025/RM",
+        "opatreni_id": "RO/23/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "173/2025/RM",
+        "opatreni_id": "RO/23/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -21844,7 +23344,76 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "92/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "93/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "94/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 9
+      },
+      {
+        "budget_change_id": "95/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 14
+      },
+      {
+        "budget_change_id": "96/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "97/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -22258,7 +23827,29 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "174/2025/RM",
+        "opatreni_id": "RO/23/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "175/2025/RM",
+        "opatreni_id": "RO/23/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -47126,7 +48717,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/3/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/10/19/2025",
@@ -47904,8 +49500,530 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "1/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "2/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "3/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "4/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "5/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "6/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "7/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "8/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "9/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "10/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "11/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "12/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "13/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 7
+      },
+      {
+        "budget_change_id": "14/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "15/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "16/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "17/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "18/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "19/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "20/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "21/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "22/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 7
+      },
+      {
+        "budget_change_id": "23/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "24/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "25/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "26/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "27/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "28/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "29/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 16
+      },
+      {
+        "budget_change_id": "30/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "31/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "32/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "33/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "34/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "35/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "36/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 1
+      },
+      {
+        "budget_change_id": "37/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "38/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "39/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "40/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "41/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "42/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "43/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "44/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "45/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "46/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "47/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/3/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/12/2/2022",
@@ -48279,7 +50397,53 @@
       "100.000 Kč"
     ],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "3/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "18/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "22/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 7
+      },
+      {
+        "budget_change_id": "38/2025/ZM",
+        "opatreni_id": "RO/3/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -51679,8 +53843,46 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "71/2025/ZM",
+        "opatreni_id": "RO/16/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "72/2025/ZM",
+        "opatreni_id": "RO/16/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "73/2025/ZM",
+        "opatreni_id": "RO/16/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/16/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/3/22/2025",
@@ -52322,8 +54524,69 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "52/2025/ZM",
+        "opatreni_id": "RO/6/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "53/2025/ZM",
+        "opatreni_id": "RO/6/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "54/2025/ZM",
+        "opatreni_id": "RO/6/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "55/2025/ZM",
+        "opatreni_id": "RO/6/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "56/2025/ZM",
+        "opatreni_id": "RO/6/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/6/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/4/19/2025",
@@ -52348,8 +54611,58 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "57/2025/ZM",
+        "opatreni_id": "RO/8/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "58/2025/ZM",
+        "opatreni_id": "RO/8/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "59/2025/ZM",
+        "opatreni_id": "RO/8/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "60/2025/ZM",
+        "opatreni_id": "RO/8/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/4/2/2022",
@@ -52492,7 +54805,76 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "92/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "93/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "94/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 9
+      },
+      {
+        "budget_change_id": "95/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 14
+      },
+      {
+        "budget_change_id": "96/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "97/2025/ZM",
+        "opatreni_id": "RO/24/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -54228,8 +56610,201 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "74/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "75/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "76/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "77/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 97
+      },
+      {
+        "budget_change_id": "78/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "79/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 16
+      },
+      {
+        "budget_change_id": "80/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "81/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "82/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "83/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "84/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "85/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "86/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "87/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "88/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "89/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "91/2025/ZM",
+        "opatreni_id": "RO/19/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/19/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/6/23/2025",
@@ -54648,8 +57223,25 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "61/2025/ZM",
+        "opatreni_id": "RO/8/2025",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/7/2/2022",
@@ -55178,8 +57770,110 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "62/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "63/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "64/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "65/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "66/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "67/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "68/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "69/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "70/2025/ZM",
+        "opatreni_id": "RO/12/2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/12/2025",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/8/22/2025",

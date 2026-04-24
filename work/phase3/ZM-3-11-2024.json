@@ -1,0 +1,39 @@
+{
+  "id": "ZM/3/11/2024",
+  "datum": "2024-04-18",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí kontrolu usnesení z 10. zasedání Zastupitelstva města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí zápis z jednání Kontrolního výboru ze dne 10. 4. 2024."
+    },
+    {
+      "label": "c",
+      "text": "pověřuje Kontrolní výbor provést kontrolu jedné vybrané investiční akce dokončené v roce 2023. V kontrolní\nskupině bude A. Hubáček, T. Bartoň a J. Kohout."
+    },
+    {
+      "label": "d",
+      "text": "pověřuje Kontrolní výbor provést kontrolu agendy městských bytů v rámci odboru bytového hospodářství.\nV kontrolní skupině bude Mgr. Najman, Mgr. Baláková, Mgr. Dědek a M. Spannbauer."
+    },
+    {
+      "label": "e",
+      "text": "bere na vědomí zápis z jednání Finančního výboru ze dne 15. 4. 2024."
+    },
+    {
+      "label": "f",
+      "text": "bere na vědomí předložené zápisy z Osadních výborů."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

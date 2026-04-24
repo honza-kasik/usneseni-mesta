@@ -1,0 +1,26 @@
+{
+  "id": "ZM/10/23/2025",
+  "datum": "2025-12-11",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předloženou kupní smlouvu, podle které paní I. L., bytem Savín, pan R. N. bytem Nasobůrky, paní\nZ. N. bytem Savín a pan J. N., bytem Savín, prodávají nově vytvořené pozemky parc.č. 674/19, orná půda, 674/20\norná půda, 728/54 ostatní plocha a 728/55 ostatní plocha/silnice v k.ú. Savín, obec Litovel, okres Olomouc, městu\nLitovel, za sjednanou kupní cenu 500 Kč/m2. Cena celkem za všechny pozemky je 148.135 Kč."
+    },
+    {
+      "label": "b",
+      "text": "ukládá starostovi města schválenou smlouvu podepsat."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "148.135 Kč",
+    "500 Kč"
+  ]
+}

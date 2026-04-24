@@ -1,0 +1,213 @@
+{
+  "id": "RO/13/2025",
+  "number": 13,
+  "year": 2025,
+  "approval_date": "2025-06-26",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 53,
+    "type": "schůzi",
+    "date": "26. června"
+  },
+  "source_resolutions": [
+    "RM/1698/53/2025",
+    "RM/1704/53/2025"
+  ],
+  "budget_change_ids": [
+    "107/2025/RM",
+    "108/2025/RM",
+    "109/2025/RM",
+    "110/2025/RM",
+    "111/2025/RM",
+    "112/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "107/2025/RM",
+          "raw_codes": [
+            "4122",
+            "555",
+            "4 000 436"
+          ],
+          "amount": "71 000,00",
+          "amount_value": 71000.0,
+          "description": "účelová neinvestiční dotace - Ol. kraj - Litovelské slavnosti 2025 v rámci Dnů evropského dědictví (RZ 107/2025/RM)"
+        },
+        {
+          "budget_change_id": "108/2025/RM",
+          "raw_codes": [
+            "4122",
+            "555"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "účelová neinvestiční dotace pro Městský klub - Ol. kraj - Hanácké Benátky 2025 (RZ 108/2025/RM)"
+        },
+        {
+          "budget_change_id": "109/2025/RM",
+          "raw_codes": [
+            "4122",
+            "582"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "účelová neinvestiční dotace pro Městský klub - Ol. kraj - Služby TIC 2025 (RZ 109/2025/RM)"
+        },
+        {
+          "budget_change_id": "110/2025/RM",
+          "raw_codes": [
+            "4222",
+            "415"
+          ],
+          "amount": "118 100,00",
+          "amount_value": 118100.0,
+          "description": "účelová investiční dotace - Ol. kraj - částečná úhrada výdajů na pořízení, technické zhodnocení, nákup věcného vybavení a oprava požární techniky a zajištění akceschopnosti JSDH Březové - požární stříkačka (RZ 110/2025/RM)"
+        },
+        {
+          "budget_change_id": "111/2025/RM",
+          "raw_codes": [
+            "4116",
+            "13024"
+          ],
+          "amount": "135 600,00",
+          "amount_value": 135600.0,
+          "description": "dotace - MPSV ČR - SPOD (RZ 111/2025/RM)"
+        },
+        {
+          "budget_change_id": "111/2025/RM",
+          "raw_codes": [
+            "4116",
+            "130"
+          ],
+          "amount": "24 135 600,00",
+          "amount_value": 24135600.0,
+          "description": ") dotace - MPSV ČR - SPOD (RZ 111/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "107/2025/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "555",
+            "4 000 436"
+          ],
+          "amount": "71 000,00",
+          "amount_value": 71000.0,
+          "description": "Litovelské slavnosti 2025 - čerpání dotace (RZ 107/2025/RM)"
+        },
+        {
+          "budget_change_id": "108/2025/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "555",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Hanácké Benátky 2025 - převod dotace příjemci (RZ 108/2025/RM)"
+        },
+        {
+          "budget_change_id": "109/2025/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "582",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Služby TIC 2025 - převod dotace příjemci (RZ 109/2025/RM)"
+        },
+        {
+          "budget_change_id": "110/2025/RM",
+          "raw_codes": [
+            "5512",
+            "6122",
+            "415",
+            "305",
+            "15 000 000"
+          ],
+          "amount": "118 100,00",
+          "amount_value": 118100.0,
+          "description": "JSDH Březové - požární stříkačka - čerpání dotace (RZ 110/2025/RM)"
+        },
+        {
+          "budget_change_id": "111/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "135 600,00",
+          "amount_value": 135600.0,
+          "description": "SPOD (RZ 111/2025/RM)"
+        },
+        {
+          "budget_change_id": "112/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-1 000,00",
+          "amount_value": -1000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 112/2025/RM)"
+        },
+        {
+          "budget_change_id": "112/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "K.F. - dar na uhrazení startovného družstva Litovle na akci Hry bez hranic (RZ 112/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 107/2025/RM",
+      "text": "Rozpočtová změna týkající se účelové neinvestiční dotace od Olomouckého kraje na úhradu/částečnou úhradu výdajů na Litovelské slavnosti 2025 v rámci Dnů evropského dědictví."
+    },
+    {
+      "title": "Rozpočtová změna č. 108/2025/RM",
+      "text": "Rozpočtová změna související s účelovou neinvestiční dotací od Olomouckého kraje pro příspěvkovou organizaci Městský klub Litovel na akci Hanácké Benátky 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 109/2025/RM",
+      "text": "Rozpočtová změna týkající se účelové neinvestiční dotace od Olomouckého kraje pro příspěvkovou organizaci Městský klub Litovel na částečnou úhradu výdajů na služby TIC Litovel 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 110/2025/RM",
+      "text": "Rozpočtová změna týkající se účelové investiční dotace od Olomouckého kraje na částečnou úhradu výdajů na pořízení, technické zhodnocení a opravu požární techniky, nákup věcného vybavení a zajištění akceschopnosti jednotky sboru dobrovolných hasičů Březové. Příjemce je oprávněn dotaci použít pouze na pořízení prostředků pro hašení a čerpání. Tyto dotační prostředky budou použity na pořízení požární stříkačky"
+    },
+    {
+      "title": "Rozpočtová změna č. 111/2025/RM",
+      "text": "Dne 11.6.2025 obdrželo město Litovel od MPSV ČR oznámení o poskytnutí prostředků ze státního rozpočtu z kapitoly 313 – MPSV na financování výkonu přenesené působnosti v oblasti sociálně-právní ochrany dětí. Výše poskytnutého transferu ex-ante pro rok 2025 činí 2 910 900 Kč. Ve schváleném rozpočtu je tato dotace rozpočtována ve výši 2 775 300,00 Kč. Jednalo se o kvalifikovaný odhad na základě Metodického pokynu MF k obsahu rozpočtu územního samosprávného celku podle rozpočtových pravidel územních rozpočtů - transfery poskytované ze státního rozpočtu, který stanovuje transfery, které musí být součástí schváleného rozpočtu a pokud není známá jejich výše, je možné provést kvalifikovaný odhad jejich výše. Tento transfer patří mezi ně."
+    },
+    {
+      "title": "Rozpočtová změna č. 112/2025/RM",
+      "text": "Dar na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._13_2025_dne_26.6.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 13/2025 schválené Radou města Litovel\ndne 26. června 2025\nRozpočtové opatření bylo schváleno na 53. schůzi Rady města Litovel dne 26. června na základě usnesení\nRM/1698/53/2025, RM/1704/53/2025.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč Popis\núčelová neinvestiční dotace - Ol. kraj - Litovelské\n4 000\n4122 555 71 000,00 slavnosti 2025 v rámci Dnů evropského dědictví (RZ\n436\n107/2025/RM)\núčelová neinvestiční dotace pro Městský klub - Ol. kraj -\n4122 555 100 000,00\nHanácké Benátky 2025 (RZ 108/2025/RM)\núčelová neinvestiční dotace pro Městský klub - Ol. kraj -\n4122 582 35 000,00\nSlužby TIC 2025 (RZ 109/2025/RM)\núčelová investiční dotace - Ol. kraj - částečná úhrada\nvýdajů na pořízení, technické zhodnocení, nákup\n4222 415 118 100,00 věcného vybavení a oprava požární techniky a zajištění\nakceschopnosti JSDH Březové - požární stříkačka (RZ\n110/2025/RM)\n4116 13024 135 600,00 dotace - MPSV ČR - SPOD (RZ 111/2025/RM)\nZměny ve výdajích:\nODP\nPOL UZ ORJ ORG Kč Popis\nA\nLitovelské slavnosti 2025 - čerpání dotace (RZ\n3319 5169 555 4 000 436 71 000,00\n107/2025/RM)\nOlomoucký kraj - účelová neinv. dotace pro Městský\n3392 5336 555 44 4 000 000 100 000,00 klub - Hanácké Benátky 2025 - převod dotace příjemci\n(RZ 108/2025/RM)\nOlomoucký kraj - účelová neinv. dotace pro Městský\n3392 5336 582 44 4 000 000 35 000,00 klub - Služby TIC 2025 - převod dotace příjemci (RZ\n109/2025/RM)\n15 000 JSDH Březové - požární stříkačka - čerpání dotace (RZ\n5512 6122 415 305 118 100,00\n000 110/2025/RM)\n6171 5011 13024 5 000 000 135 600,00 SPOD (RZ 111/2025/RM)\n3429 5901 4 000 000 -1 000,00 transfery dle rozhodnutí RM (RZ 112/2025/RM)\nK.F. - dar na uhrazení startovného družstva Litovle na\n3419 5492 4 000 000 1 000,00\nakci Hry bez hranic (RZ 112/2025/RM)\nRozpočtová změna č. 107/2025/RM\nRozpočtová změna týkající se účelové neinvestiční dotace od Olomouckého kraje na úhradu/částečnou úhradu výdajů\nna Litovelské slavnosti 2025 v rámci Dnů evropského dědictví.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 108/2025/RM\nRozpočtová změna související s účelovou neinvestiční dotací od Olomouckého kraje pro příspěvkovou organizaci\nMěstský klub Litovel na akci Hanácké Benátky 2025.\nRozpočtová změna č. 109/2025/RM\nRozpočtová změna týkající se účelové neinvestiční dotace od Olomouckého kraje pro příspěvkovou organizaci Městský\nklub Litovel na částečnou úhradu výdajů na služby TIC Litovel 2025.\nRozpočtová změna č. 110/2025/RM\nRozpočtová změna týkající se účelové investiční dotace od Olomouckého kraje na částečnou úhradu výdajů na pořízení,\ntechnické zhodnocení a opravu požární techniky, nákup věcného vybavení a zajištění akceschopnosti jednotky sboru\ndobrovolných hasičů Březové. Příjemce je oprávněn dotaci použít pouze na pořízení prostředků pro hašení a čerpání.\nTyto dotační prostředky budou použity na pořízení požární stříkačky\nRozpočtová změna č. 111/2025/RM\nDne 11.6.2025 obdrželo město Litovel od MPSV ČR oznámení o poskytnutí prostředků ze státního rozpočtu z kapitoly\n313 – MPSV na financování výkonu přenesené působnosti v oblasti sociálně-právní ochrany dětí. Výše poskytnutého\ntransferu ex-ante pro rok 2025 činí 2 910 900 Kč. Ve schváleném rozpočtu je tato dotace rozpočtována ve výši\n2 775 300,00 Kč. Jednalo se o kvalifikovaný odhad na základě Metodického pokynu MF k obsahu rozpočtu územního\nsamosprávného celku podle rozpočtových pravidel územních rozpočtů - transfery poskytované ze státního rozpočtu,\nkterý stanovuje transfery, které musí být součástí schváleného rozpočtu a pokud není známá jejich výše, je možné\nprovést kvalifikovaný odhad jejich výše. Tento transfer patří mezi ně.\nRozpočtová změna č. 112/2025/RM\nDar na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 7.7.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

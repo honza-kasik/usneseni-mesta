@@ -1,0 +1,227 @@
+{
+  "id": "RO/4/2025",
+  "number": 4,
+  "year": 2025,
+  "approval_date": "2025-02-19",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 47,
+    "type": "schůzi",
+    "date": "2025-02-19"
+  },
+  "source_resolutions": [
+    "RM/1462/47/2025",
+    "RM/1464/47/2025",
+    "RM/1476/47/2025"
+  ],
+  "budget_change_ids": [
+    "39/2025/RM",
+    "40/2025/RM",
+    "41/2025/RM",
+    "42/2025/RM",
+    "43/2025/RM",
+    "44/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "39/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "10 536,00",
+          "amount_value": 10536.0,
+          "description": "přijaté pojistné plnění (RZ 39/2025/RM)"
+        },
+        {
+          "budget_change_id": "40/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "12 689,00",
+          "amount_value": 12689.0,
+          "description": "přijaté pojistné plnění (RZ 40/2025/RM)"
+        },
+        {
+          "budget_change_id": "41/2025/RM",
+          "raw_codes": [
+            "4113",
+            "90002",
+            "2"
+          ],
+          "amount": "3 280 000,00",
+          "amount_value": 3280000.0,
+          "description": "účelová neinvestiční dotace - Pomoc domácnostem postiženým povodní (RZ 41/2025/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "39/2025/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "10 536,00",
+          "amount_value": 10536.0,
+          "description": "silnice - pojistné události - škody na majetku (RZ 39/2025/RM)"
+        },
+        {
+          "budget_change_id": "40/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5171",
+            "10 000 000"
+          ],
+          "amount": "12 689,00",
+          "amount_value": 12689.0,
+          "description": "místní správa - opravy a udržování (RZ 40/2025/RM)"
+        },
+        {
+          "budget_change_id": "41/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5493",
+            "90002",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "3 280 000,00",
+          "amount_value": 3280000.0,
+          "description": "Pomoc domácnostem postiženým povodní - transfery příjemcům dotace (RZ 41/2025/RM)"
+        },
+        {
+          "budget_change_id": "42/2025/RM",
+          "raw_codes": [
+            "5311",
+            "5169",
+            "9 000 910"
+          ],
+          "amount": "-220 000,00",
+          "amount_value": -220000.0,
+          "description": "Městská policie - prázdninový pobyt dětí (RZ 42/2025/RM)"
+        },
+        {
+          "budget_change_id": "42/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5339",
+            "4 000 407"
+          ],
+          "amount": "220 000,00",
+          "amount_value": 220000.0,
+          "description": "DDM Litovel - prázdninový pobyt dětí (RZ 42/2025/RM)"
+        },
+        {
+          "budget_change_id": "43/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 43/2025/RM)"
+        },
+        {
+          "budget_change_id": "43/2025/RM",
+          "raw_codes": [
+            "3599",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Zdravotní klaun, o.p.s. - dar na podporu činnosti (RZ 43/2025/RM)"
+        },
+        {
+          "budget_change_id": "44/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 44/2025/RM)"
+        },
+        {
+          "budget_change_id": "44/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5321",
+            "4 003 037"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "obec Cholina - dar na provoz Pošty Partner v Cholině v roce 2025 (RZ 44/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 39/2025/RM",
+      "text": "Dne 31. 1. 2025 obdrželo město Litovel od Generali České Pojišťovny, a.s., v rámci likvidace pojistné události číslo 9457698 na cyklostezce Litovel – Tři Dvory ze dne 13. 1. 2025, platbu ve výši 10.536,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 40/2025/RM",
+      "text": "Dne 7. 2. 2025 obdrželo město Litovel od Hasičské vzájemné pojišťovny, a.s., v rámci likvidace škodní události (rozbité okno na budově II, pokladna) platbu ve výši 12.689,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 41/2025/RM",
+      "text": "Dne 10. 2. 2025 obdržel Finanční odbor informaci o vydaném rozhodnutí Ministra životního prostředí ČR, na základě kterého bude na účet města připsána od SFŽP ČR částka ve výši 3.280.000,00 Kč. Jedná se o finanční prostředky v rámci programu „Pomoc domácnostem postiženým povodní – Litovel 2024“ na základě druhé odeslané žádosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 42/2025/RM",
+      "text": "V rozpočtu města Litovel na rok 2025 je na § 5311 (Městské policie) pol. 5169 schválená částka 220.000,- Kč na zajištění prázdninového pobytu pro sociálně znevýhodněné děti. Každý rok, na základě objednávky od velitele městské policie, tento prázdninový pobyt organizuje DDM Litovel, což je příspěvková organizace zřizovaná Olomouckým krajem. Jelikož na rozdíl od minulosti, kdy tato tradiční akce vznikla, nejsou na tuto akci žádné dotační prostředky, navrhujeme přesun finančních prostředků na jiný typ výdaje – neinvestiční transfer cizím příspěvkovým organizacím s vyúčtováním toho transferu dle pravidel OŠKS, protože tento postup je z hlediska legislativy mezi vybranými účetními jednotkami vhodnější a správnější."
+    },
+    {
+      "title": "Rozpočtová změna č. 43/2025/RM",
+      "text": "Poskytnutí daru na základě žádosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 44/2025/RM",
+      "text": "Poskytnutí daru na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._4_2025_dne_19.2._2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 4/2025 schválené Radou města Litovel\ndne 19. února 2025\nRozpočtové opatření bylo schváleno na 47. schůzi Rady města Litovel dne 19. února 2025 na základě usnesení\nRM/1462/47/2025, RM/1464/47/2025, RM/1476/47/2025.\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč Popis\n6320 2322 10 536,00 přijaté pojistné plnění (RZ 39/2025/RM)\n6320 2322 12 689,00 přijaté pojistné plnění (RZ 40/2025/RM)\núčelová neinvestiční dotace - Pomoc\n4113 90002 2 3 280 000,00 domácnostem postiženým povodní (RZ\n41/2025/RM)\nZměny ve výdajích:\nODP\nPOL UZ MU ORJ ORG Kč Popis\nA\nsilnice - pojistné události - škody na majetku\n2212 5171 3 003 559 10 536,00\n(RZ 39/2025/RM)\nmístní správa - opravy a udržování (RZ\n6171 5171 10 000 000 12 689,00\n40/2025/RM)\nPomoc domácnostem postiženým povodní -\n5269 5493 90002 2 14 900 000 3 280 000,00 transfery příjemcům dotace (RZ\n41/2025/RM)\nMěstská policie - prázdninový pobyt dětí\n5311 5169 9 000 910 -220 000,00\n(RZ 42/2025/RM)\nDDM Litovel - prázdninový pobyt dětí (RZ\n3429 5339 4 000 407 220 000,00\n42/2025/RM)\ntransfery dle rozhodnutí RM (RZ\n3429 5901 4 000 000 -3 000,00\n43/2025/RM)\nZdravotní klaun, o.p.s. - dar na podporu\n3599 5221 4 000 000 3 000,00\nčinnosti (RZ 43/2025/RM)\ntransfery dle rozhodnutí RM (RZ\n3429 5901 4 000 000 -10 000,00\n44/2025/RM)\nobec Cholina - dar na provoz Pošty Partner v\n3900 5321 4 003 037 10 000,00\nCholině v roce 2025 (RZ 44/2025/RM)\nRozpočtová změna č. 39/2025/RM\nDne 31. 1. 2025 obdrželo město Litovel od Generali České Pojišťovny, a.s., v rámci likvidace pojistné události číslo\n9457698 na cyklostezce Litovel – Tři Dvory ze dne 13. 1. 2025, platbu ve výši 10.536,00 Kč.\nRozpočtová změna č. 40/2025/RM\nDne 7. 2. 2025 obdrželo město Litovel od Hasičské vzájemné pojišťovny, a.s., v rámci likvidace škodní události (rozbité\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nokno na budově II, pokladna) platbu ve výši 12.689,00 Kč.\nRozpočtová změna č. 41/2025/RM\nDne 10. 2. 2025 obdržel Finanční odbor informaci o vydaném rozhodnutí Ministra životního prostředí ČR, na základě\nkterého bude na účet města připsána od SFŽP ČR částka ve výši 3.280.000,00 Kč. Jedná se o finanční prostředky v rámci\nprogramu „Pomoc domácnostem postiženým povodní – Litovel 2024“ na základě druhé odeslané žádosti.\nRozpočtová změna č. 42/2025/RM\nV rozpočtu města Litovel na rok 2025 je na § 5311 (Městské policie) pol. 5169 schválená částka 220.000,- Kč na\nzajištění prázdninového pobytu pro sociálně znevýhodněné děti. Každý rok, na základě objednávky od velitele městské\npolicie, tento prázdninový pobyt organizuje DDM Litovel, což je příspěvková organizace zřizovaná Olomouckým\nkrajem. Jelikož na rozdíl od minulosti, kdy tato tradiční akce vznikla, nejsou na tuto akci žádné dotační prostředky,\nnavrhujeme přesun finančních prostředků na jiný typ výdaje – neinvestiční transfer cizím příspěvkovým organizacím s\nvyúčtováním toho transferu dle pravidel OŠKS, protože tento postup je z hlediska legislativy mezi vybranými účetními\njednotkami vhodnější a správnější.\nRozpočtová změna č. 43/2025/RM\nPoskytnutí daru na základě žádosti.\nRozpočtová změna č. 44/2025/RM\nPoskytnutí daru na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 27.2.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1462/47/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1464/47/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1476/47/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1476/47/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "39/2025/RM",
+        "40/2025/RM",
+        "41/2025/RM",
+        "42/2025/RM"
+      ]
+    }
+  ]
+}

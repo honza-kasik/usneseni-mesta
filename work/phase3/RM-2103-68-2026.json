@@ -1,0 +1,30 @@
+{
+  "id": "RM/2103/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel souhlasit s rekonstrukcí části oplocení areálu Sokolovny po celé délce\nv ulici Kollárova."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel souhlasit s rekonstrukcí vstupního schodiště do areálu Sokolovny\nz ulice Opletalova."
+    },
+    {
+      "label": "c",
+      "text": "doporučuje Zastupitelstvu města Litovel souhlasit s financováním z úvěrových zdrojů od KB, a.s. na základě\núvěrové smlouvy z roku 2024."
+    },
+    {
+      "label": "d",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit rozpočtovou změnu číslo 52/2026/ZM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

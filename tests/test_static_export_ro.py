@@ -3,7 +3,7 @@ import unittest
 from pathlib import Path
 
 from phase5_static_export import (
-    group_opatreni_by_approval_year,
+    group_opatreni_by_content_year,
     render_budget_links_section,
     ro_slug_from_id,
     rz_anchor,
@@ -264,14 +264,14 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
         self.assertEqual(sections[0]["type"], "financovani")
         self.assertEqual(sections[0]["label"], "Změny ve financování")
 
-    def test_opatreni_are_grouped_by_approval_year(self):
-        grouped = group_opatreni_by_approval_year([
-            {"id": "RO/25/2025", "approval_date": "2026-01-29"},
-            {"id": "RO/1/2026", "approval_date": "2025-12-11"},
+    def test_opatreni_are_grouped_by_content_year(self):
+        grouped = group_opatreni_by_content_year([
+            {"id": "RO/25/2025", "year": 2025, "approval_date": "2026-01-29"},
+            {"id": "RO/1/2026", "year": 2026, "approval_date": "2025-12-11"},
         ])
 
-        self.assertEqual([item["id"] for item in grouped["2026"]], ["RO/25/2025"])
-        self.assertEqual([item["id"] for item in grouped["2025"]], ["RO/1/2026"])
+        self.assertEqual([item["id"] for item in grouped["2025"]], ["RO/25/2025"])
+        self.assertEqual([item["id"] for item in grouped["2026"]], ["RO/1/2026"])
 
     def test_year_index_contains_ro_after_meetings(self):
         with tempfile.TemporaryDirectory() as tmp:

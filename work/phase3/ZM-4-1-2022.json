@@ -1,0 +1,22 @@
+{
+  "id": "ZM/4/1/2022",
+  "datum": "2022-10-19",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje tajnou volbu při hlasování o volbě starosty, místostarosty a členů rady města dle volebního řádu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje volební řád."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

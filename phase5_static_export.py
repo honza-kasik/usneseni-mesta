@@ -17,7 +17,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 from static_export import (
-    group_opatreni_by_approval_year,
+    group_opatreni_by_content_year,
     load_opatreni_dir,
     meeting_from_id,
     render_budget_links_section,
@@ -87,7 +87,7 @@ def main() -> None:
     by_meeting_meta: Dict[str, Dict] = {}
     meetings_by_year: Dict[str, List[Tuple[str, str, str]]] = defaultdict(list)
     sitemap_urls: List[str] = []
-    opatreni_by_approval_year = group_opatreni_by_approval_year(opatreni_list)
+    opatreni_by_content_year = group_opatreni_by_content_year(opatreni_list)
 
     for resolution in data:
         if not all(key in resolution for key in ("id", "datum", "organ")):
@@ -119,7 +119,7 @@ def main() -> None:
             entries,
             meetings_by_year.get(year, []),
             args.output,
-            opatreni_by_approval_year.get(year, []),
+            opatreni_by_content_year.get(year, []),
         )
         sitemap_urls.append(f"/usneseni/{year}/")
 
@@ -145,7 +145,7 @@ def main() -> None:
 
 
 __all__ = [
-    "group_opatreni_by_approval_year",
+    "group_opatreni_by_content_year",
     "render_budget_links_section",
     "ro_slug_from_id",
     "rz_anchor",

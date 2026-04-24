@@ -1,0 +1,23 @@
+{
+  "id": "RM/2091/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel dle důvodové zprávy a příloh projednat a schválit rozpočtové změny\n7/2026/ZM až 52/2026/ZM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

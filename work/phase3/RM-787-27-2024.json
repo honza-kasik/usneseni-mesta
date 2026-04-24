@@ -1,0 +1,23 @@
+{
+  "id": "RM/787/27/2024",
+  "datum": "2024-01-11",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "projednala"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala a souhlasí s návrhem aktualizace dokumentu „Strategický plán rozvoje města Litovel“, jehož\nnedílnou přílohou je „Akční plán“, v předloženém znění."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit aktualizaci dokumentu „Strategický plán rozvoje města\nLitovel“, jehož nedílnou přílohou je „Akční plán“, v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

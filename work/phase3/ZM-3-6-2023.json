@@ -1,0 +1,26 @@
+{
+  "id": "ZM/3/6/2023",
+  "datum": "2023-09-14",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí kontrolu usnesení z 3., 4. a 5. zasedání Zastupitelstva města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí zápis z jednání Finančního výboru ze dne 11. 9. 2023."
+    },
+    {
+      "label": "c",
+      "text": "bere na vědomí zápis ze schůze OV Březové ze dne 5. 7. 2023 a 2. 8. 2023, OV Chořelice ze dne 10. 8. 2023,\nOV Myslechovice ze dne 13. 7. 2023, OV Nová Ves ze dne 1. 9. 2023 a OV Savín ze dne 9. 7. 2023."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ZM/6/10/2024",
+  "datum": "2024-02-08",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. ZM/10/5/2023 ze dne 19.6.2023."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zveřejnění záměru prodeje pozemků města Litovel v lokalitě Pavlínka, specifikovaných v důvodové\nzprávě, dle předložených pravidel."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

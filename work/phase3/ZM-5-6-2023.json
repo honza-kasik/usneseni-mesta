@@ -1,0 +1,28 @@
+{
+  "id": "ZM/5/6/2023",
+  "datum": "2023-09-14",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření předložené Kupní smlouvy na výkup části pozemků parc.č. 33/2 a parc.č. 34/4, v k.ú. Víska\nu Litovle, mezi prodávajícími panem M. V. a manželi L. a J. Z. a kupujícím městem Litovel, zastoupeným starostou\npanem Viktorem Kohoutem, za cenu stanovenou znaleckým posudkem."
+    },
+    {
+      "label": "c",
+      "text": "ukládá starostovi podepsat Kupní smlouvu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ZM/11/8/2023",
+  "datum": "2023-12-07",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje přijetí dotace ve výši 43.350 Kč na základě žádosti města Litovel o dotaci od Olomouckého kraje.\nÚčelem dotace je zajištění realizace projektu „Doprovodná zeleň cyklostezky Litovel – Tři Dvory“."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje předloženou Smlouvu o poskytnutí dotace na základě žádosti města Litovel ve výši 43.350 Kč.\nSmlouva bude uzavřena mezi městem Litovel a Olomouckým krajem."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "43.350 Kč"
+  ]
+}

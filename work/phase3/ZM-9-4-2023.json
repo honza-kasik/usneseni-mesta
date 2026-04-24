@@ -1,0 +1,35 @@
+{
+  "id": "ZM/9/4/2023",
+  "datum": "2023-04-20",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí se vstupem do projektu SSOOK na výstavbu dotřiďovací linky."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje záměr poskytnout příspěvek ve výši 14.754.000 Kč splatný v průběhu šesti let a to postupně\n2023: 1.475.000 Kč, 2024: 3.324.568 Kč, 2025: 3.324.568 Kč, 2026: 2.213.100 Kč, 2027: 2.213.100 Kč,\n2027: 2.213.000 Kč, 2028: 2.203.264 Kč Servisní společnosti odpady Olomouckého kraje, a.s., IČO 076 86 501,\nse sídlem Jeremenkova 1191/40a, Hodolany, 779 00 Olomouc."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "1.475.000 Kč",
+    "14.754.000 Kč",
+    "2.203.264 Kč",
+    "2.213.000 Kč",
+    "2.213.100 Kč",
+    "3.324.568 Kč"
+  ]
+}

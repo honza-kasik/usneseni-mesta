@@ -1,0 +1,26 @@
+{
+  "id": "ZM/9/23/2025",
+  "datum": "2025-12-11",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předloženou kupní smlouvu, podle které společnost Alibona a.s. IČ 45192553, Svatoplukova 1416/15,\n784 01 Litovel prodává městu Litovel nově vytvořený pozemek parc.č. 64/2 ostatní plocha/jiná plocha\no výměře 7 m2, v k.ú. Nasobůrky, obec Litovel, okres Olomouc, za sjednanou kupní cenu ve výši 3.500 Kč,\ntj. 500 Kč/m2."
+    },
+    {
+      "label": "b",
+      "text": "ukládá starostovi města schválenou smlouvu podepsat."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "3.500 Kč",
+    "500 Kč"
+  ]
+}

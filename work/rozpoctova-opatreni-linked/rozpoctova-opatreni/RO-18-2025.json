@@ -1,0 +1,172 @@
+{
+  "id": "RO/18/2025",
+  "number": 18,
+  "year": 2025,
+  "approval_date": "2025-09-24",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 59,
+    "type": "schůzi",
+    "date": "2025-09-24"
+  },
+  "source_resolutions": [
+    "RM/1832/59/2025",
+    "RM/1833/59/2025",
+    "RM/1838/59/2025"
+  ],
+  "budget_change_ids": [
+    "142/2025/RM",
+    "143/2025/RM",
+    "144/2025/RM",
+    "145/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "142/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "5 957,00",
+          "amount_value": 5957.0,
+          "description": "přijaté pojistné plnění (RZ 142/2025/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "142/2025/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 457"
+          ],
+          "amount": "5 957,00",
+          "amount_value": 5957.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 142/2025/RM)"
+        },
+        {
+          "budget_change_id": "143/2025/RM",
+          "raw_codes": [
+            "3141",
+            "5331",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "-340 000,00",
+          "amount_value": -340000.0,
+          "description": "ŠJ Litovel - neinvestiční příspěvek (RZ 143/2025/RM)"
+        },
+        {
+          "budget_change_id": "143/2025/RM",
+          "raw_codes": [
+            "3141",
+            "6351",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "340 000,00",
+          "amount_value": 340000.0,
+          "description": "ŠJ Litovel - investiční příspěvek - nízkoteplotní mobilní výhřevné udržovací skříně (RZ 143/2025/RM)"
+        },
+        {
+          "budget_change_id": "144/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 144/2025/RM)"
+        },
+        {
+          "budget_change_id": "144/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5329",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "DSO Region Moravská cesta - dar na pokrytí akce o nás na Hané (RZ 144/2025/RM)"
+        },
+        {
+          "budget_change_id": "145/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 145/2025/RM)"
+        },
+        {
+          "budget_change_id": "145/2025/RM",
+          "raw_codes": [
+            "3111",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Církevní mateřská škola Svatojánek v Litovli - dar na organizační zajištění drakiády, která proběhne 10. října 2025 (RZ 145/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 142/2025/RM",
+      "text": "Dne 9. 9. 2025 obdrželo město Litovel od UNIQA pojišťovna, a.s. v rámci likvidace škodní události číslo 5502068725 ze dne 25. 8. 2025 platbu ve výši 5.957,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 143/2025/RM",
+      "text": "Dne 18.9.2025 obdržel finanční odbor žádost o rozpočtovou změnu týkající se příspěvku na provoz Školní jídelny Litovel. Ředitelka ŠJ žádá o převod částky 340 000 Kč z příspěvku na provoz na investiční příspěvek na pořízení 2 ks nízkoteplotních mobilních výhřevných udržovacích skříní. Řešeno v součinnosti s OŠKS, který souhlasí a doporučuje žádosti vyhovět."
+    },
+    {
+      "title": "Rozpočtová změna č. 144/2025/RM",
+      "text": "Dar poskytnutý na základě žádosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 145/2025/RM",
+      "text": "Dar poskytnutý na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._18_2025_dne_24.9.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 18/2025 schválené Radou města Litovel\ndne 24. září 2025\nRozpočtové opatření bylo schváleno na 59. schůzi Rady města Litovel dne 24. září 2025 na základě usnesení\nRM/1832/59/2025, RM/1833/59/2025, RM/1838/59/2025.\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč\n6320 2322 5 957,00 přijaté pojistné plnění (RZ 142/2025/RM)\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč\nopravy, údržba a rekonstrukce místních\n2212 5171 3 003 457 5 957,00 komunikací a chodníků (RZ\n142/2025/RM)\nŠJ Litovel - neinvestiční příspěvek (RZ\n3141 5331 50 4 000 000 -340 000,00\n143/2025/RM)\nŠJ Litovel - investiční příspěvek -\n3141 6351 50 4 000 000 340 000,00 nízkoteplotní mobilní výhřevné\nudržovací skříně (RZ 143/2025/RM)\ntransfery dle rozhodnutí RM (RZ\n3429 5901 4 000 000 -2 000,00\n144/2025/RM)\nDSO Region Moravská cesta - dar na\n3429 5329 4 000 000 2 000,00 pokrytí akce o nás na Hané (RZ\n144/2025/RM)\ntransfery dle rozhodnutí RM (RZ\n3429 5901 4 000 000 -5 000,00\n145/2025/RM)\nCírkevní mateřská škola Svatojánek v\nLitovli - dar na organizační zajištění\n3111 5339 4 000 000 5 000,00\ndrakiády, která proběhne 10. října 2025\n(RZ 145/2025/RM)\nRozpočtová změna č. 142/2025/RM\nDne 9. 9. 2025 obdrželo město Litovel od UNIQA pojišťovna, a.s. v rámci likvidace škodní události číslo 5502068725\nze dne 25. 8. 2025 platbu ve výši 5.957,00 Kč.\nRozpočtová změna č. 143/2025/RM\nDne 18.9.2025 obdržel finanční odbor žádost o rozpočtovou změnu týkající se příspěvku na provoz Školní jídelny\nLitovel. Ředitelka ŠJ žádá o převod částky 340 000 Kč z příspěvku na provoz na investiční příspěvek na pořízení 2 ks\nnízkoteplotních mobilních výhřevných udržovacích skříní. Řešeno v součinnosti s OŠKS, který souhlasí a doporučuje\nžádosti vyhovět.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 144/2025/RM\nDar poskytnutý na základě žádosti.\nRozpočtová změna č. 145/2025/RM\nDar poskytnutý na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 6. 10. 2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1832/59/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1833/59/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1838/59/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1838/59/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "142/2025/RM",
+        "143/2025/RM"
+      ]
+    }
+  ]
+}

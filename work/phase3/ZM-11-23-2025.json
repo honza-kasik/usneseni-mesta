@@ -1,0 +1,26 @@
+{
+  "id": "ZM/11/23/2025",
+  "datum": "2025-12-11",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předloženou kupní smlouvu, podle které manželé J. a J. L., bytem Nasobůrky prodávají městu Litovel\nnově vytvořený pozemek parc.č. 333 ostatní plocha/jiná plocha o výměře 8 m2, v k.ú. Nasobůrky, obec Litovel,\nokres Olomouc, za sjednanou kupní cenu ve výši 4.000 Kč, tj. 500 Kč/m2."
+    },
+    {
+      "label": "b",
+      "text": "ukládá starostovi města schválenou smlouvu podepsat."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "4.000 Kč",
+    "500 Kč"
+  ]
+}

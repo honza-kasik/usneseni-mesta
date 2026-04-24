@@ -350,10 +350,10 @@ def load_opatreni_dir(input_json: Path, explicit_dir: Optional[Path]) -> List[Di
     return [json.loads(path.read_text(encoding="utf-8")) for path in sorted(opatreni_dir.glob("*.json"))]
 
 
-def group_opatreni_by_approval_year(opatreni_list: List[Dict]) -> Dict[str, List[Dict]]:
+def group_opatreni_by_content_year(opatreni_list: List[Dict]) -> Dict[str, List[Dict]]:
     grouped: Dict[str, List[Dict]] = defaultdict(list)
     for opatreni in opatreni_list:
-        approval_date = opatreni.get("approval_date") or ""
-        if len(approval_date) >= 4:
-            grouped[approval_date[:4]].append(opatreni)
+        year = opatreni.get("year")
+        if year is not None:
+            grouped[str(year)].append(opatreni)
     return grouped

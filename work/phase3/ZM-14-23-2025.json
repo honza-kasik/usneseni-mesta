@@ -1,0 +1,49 @@
+{
+  "id": "ZM/14/23/2025",
+  "datum": "2025-12-11",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje poskytnutí dotace žadatelům o finanční podporu na rok 2026 dle předloženého návrhu. Současně\nsouhlasí s podepsáním každé jednotlivé smlouvy až po řádném a úplném vyúčtování dotace či dotací z roku 2025."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a Spolkem TJ VS Litovel, z. s.\no poskytnutí dotace ve výši 370.000 Kč na zajištění sportovní činnosti tělovýchovné jednoty v roce 2026\na rozpočtovou změnu týkající se této dotace."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a Charitou Šternberk, střediskem Litovel\no poskytnutí dotace v celkové výši 930.000 Kč, z toho 450.000 Kč na provozní náklady pečovatelské služby,\n200.000 Kč na provozní náklady MC Rybička, 100.000 Kč na mzdové náklady zdravotních sester, 50.000 Kč na\nprovozní náklady sanitárního kontejneru, 50.000 Kč na sociálně aktivizační služby pro rodiny s dětmi, 50.000 Kč\nna provoz poradny Nedlužím a 30.000 Kč na organizační zajištění pouti na Starém městě v roce 2026\na rozpočtovou změnu týkající se této dotace."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a Spolkem TJ VS Litovel, z. s.\no poskytnutí dotace ve výši 100.000 Kč na organizační zajištění sportovní soutěže BOBR CUP 2026\na rozpočtovou změnu týkající se této dotace."
+    },
+    {
+      "label": "e",
+      "text": "schvaluje uzavření smlouvy v předloženém znění mezi městem Litovel a spolkem TJ Tatran Litovel, Litovel, z.\ns. o poskytnutí dotace ve výši 4.500.000 Kč na zajištění sportovní činnosti tělovýchovné jednoty v roce 2026\na rozpočtovou změnu týkající se této dotace."
+    },
+    {
+      "label": "f",
+      "text": "schvaluje uzavření smlouvy mezi městem Litovel a Domem dětí a mládeže Litovel o poskytnutí dotace ve výši\n320.000 Kč, z toho 220.000 Kč na prázdninový pobyt pro děti a 100.000 Kč na podporu činnosti DDM a na zajištění\nprovozu dopravního hřiště v roce 2026."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "100.000 Kč",
+    "200.000 Kč",
+    "220.000 Kč",
+    "30.000 Kč",
+    "320.000 Kč",
+    "370.000 Kč",
+    "4.500.000 Kč",
+    "450.000 Kč",
+    "50.000 Kč",
+    "930.000 Kč"
+  ]
+}

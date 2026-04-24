@@ -1,0 +1,23 @@
+{
+  "id": "ZM/4/7/2023",
+  "datum": "2023-11-23",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje Střednědobý výhled rozpočtu města Litovel na období 2024–2027."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

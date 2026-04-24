@@ -1,0 +1,22 @@
+{
+  "id": "RM/2100/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "rozhodla"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "rozhodla nevypisovat konkursní řízení na funkci ředitele v Mateřské škole Gemerská, příspěvkové organizaci."
+    },
+    {
+      "label": "b",
+      "text": "rozhodla nevypisovat konkursní řízení na funkci ředitele v Mateřské škole G. Frištenského, příspěvkové\norganizaci."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

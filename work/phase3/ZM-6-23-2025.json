@@ -1,0 +1,60 @@
+{
+  "id": "ZM/6/23/2025",
+  "datum": "2025-12-11",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje",
+    "souhlasí",
+    "stanovuje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s použitím revolvingového úvěru u KB, a.s. na financování akcí v hodnotách uvedených v důvodové\nzprávě k návrhu rozpočtu města Litovel na rok 2026."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje rozpočet města Litovel na rok 2026, včetně rozpočtu Fondu rozvoje bydlení, rozpočtu Fondu rezerv\nna obnovu vodovodů a kanalizací, rozpočtu Fondu rezerv na zajištění přípravy a realizace protipovodňových\nopatření a rozpočtu Sociálního fondu dle přílohy č. 1."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje závazné ukazatele rozpočtu města Litovel na rok 2026 uvedené v příloze č. 2."
+    },
+    {
+      "label": "e",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření, které neovlivní celkové příjmy a výdaje\nschváleného rozpočtu města Litovel na rok 2026, a to maximálně do výše 900.000 Kč v rámci jednoho přesunu\nrozpočtových prostředků."
+    },
+    {
+      "label": "f",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření souvisejících s dotacemi ze státního rozpočtu,\nstátních fondů a územních samosprávných celků, a to bez finančního omezení."
+    },
+    {
+      "label": "g",
+      "text": "zmocňuje Radu města Litovel k provádění rozpočtových opatření souvisejících s přijatými dary a s přijatým\npojistným plněním, a to bez finančního omezení."
+    },
+    {
+      "label": "h",
+      "text": "zmocňuje Radu města k provádění rozpočtových opatření, pokud jde o změny závazných ukazatelů vůči jiným\nosobám, a to bez finančního omezení."
+    },
+    {
+      "label": "i",
+      "text": "ukládá Radě města Litovel stanovit příspěvkovým organizacím, které zřídilo město Litovel, účel použití\nschváleného příspěvku z rozpočtu města Litovel na rok 2026."
+    },
+    {
+      "label": "j",
+      "text": "stanovuje, že rozpis rozpočtu do plného třídění rozpočtové skladby dle vyhlášky č. 412/2021 Sb., ve znění\npozdějších předpisů, provede finanční odbor."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "900.000 Kč"
+  ]
+}

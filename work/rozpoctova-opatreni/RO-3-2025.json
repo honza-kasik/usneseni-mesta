@@ -1,0 +1,2204 @@
+{
+  "id": "RO/3/2025",
+  "number": 3,
+  "year": 2025,
+  "approval_date": "2025-02-13",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 17,
+    "type": "zasedání",
+    "date": "2025-02-13"
+  },
+  "source_resolutions": [
+    "ZM/10/17/2025",
+    "ZM/12/17/2025"
+  ],
+  "budget_change_ids": [
+    "1/2025/ZM",
+    "10/2025/ZM",
+    "11/2025/ZM",
+    "12/2025/ZM",
+    "13/2025/ZM",
+    "14/2025/ZM",
+    "15/2025/ZM",
+    "16/2025/ZM",
+    "17/2025/ZM",
+    "18/2025/ZM",
+    "19/2025/ZM",
+    "2/2025/ZM",
+    "20/2025/ZM",
+    "21/2025/ZM",
+    "22/2025/ZM",
+    "23/2025/ZM",
+    "24/2025/ZM",
+    "25/2025/ZM",
+    "26/2025/ZM",
+    "27/2025/ZM",
+    "28/2025/ZM",
+    "29/2025/ZM",
+    "3/2025/ZM",
+    "30/2025/ZM",
+    "31/2025/ZM",
+    "32/2025/ZM",
+    "33/2025/ZM",
+    "34/2025/ZM",
+    "35/2025/ZM",
+    "36/2025/ZM",
+    "37/2025/ZM",
+    "38/2025/ZM",
+    "39/2025/ZM",
+    "4/2025/ZM",
+    "40/2025/ZM",
+    "41/2025/ZM",
+    "42/2025/ZM",
+    "43/2025/ZM",
+    "44/2025/ZM",
+    "45/2025/ZM",
+    "46/2025/ZM",
+    "47/2025/ZM",
+    "48/2025/ZM",
+    "49/2025/ZM",
+    "5/2025/ZM",
+    "50/2025/ZM",
+    "51/2025/ZM",
+    "6/2025/ZM",
+    "7/2025/ZM",
+    "8/2025/ZM",
+    "9/2025/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "1/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "4 000 000,00",
+          "amount_value": 4000000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 1/2025/ZM)"
+        },
+        {
+          "budget_change_id": "2/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "69 000 000,00",
+          "amount_value": 69000000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 2/2025/ZM)"
+        },
+        {
+          "budget_change_id": "3/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8123"
+          ],
+          "amount": "50 000 000,00",
+          "amount_value": 50000000.0,
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 3/2025/ZM)"
+        },
+        {
+          "budget_change_id": "4/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 4/2025/ZM)"
+        },
+        {
+          "budget_change_id": "5/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "28 000,00",
+          "amount_value": 28000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 5/2025/ZM)"
+        },
+        {
+          "budget_change_id": "6/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "680 000,00",
+          "amount_value": 680000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 6/2025/ZM)"
+        },
+        {
+          "budget_change_id": "7/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 7/2025/ZM)"
+        },
+        {
+          "budget_change_id": "8/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 8/2025/ZM)"
+        },
+        {
+          "budget_change_id": "10/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 10/2025/ZM)"
+        },
+        {
+          "budget_change_id": "11/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "15 416,00",
+          "amount_value": 15416.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 11/2025/ZM)"
+        },
+        {
+          "budget_change_id": "14/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "174 324,00",
+          "amount_value": 174324.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 14/2025/ZM)"
+        },
+        {
+          "budget_change_id": "15/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 15/2025/ZM)"
+        },
+        {
+          "budget_change_id": "18/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "203 870,93",
+          "amount_value": 203870.93,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 18/2025/ZM)"
+        },
+        {
+          "budget_change_id": "21/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "390 000,00",
+          "amount_value": 390000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 21/2025/ZM)"
+        },
+        {
+          "budget_change_id": "23/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "7 260,00",
+          "amount_value": 7260.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 23/2025/ZM)"
+        },
+        {
+          "budget_change_id": "26/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "330 000,00",
+          "amount_value": 330000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 26/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "10 637 057,62",
+          "amount_value": 10637057.62,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "30/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 30/2025/ZM)"
+        },
+        {
+          "budget_change_id": "31/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 31/2025/ZM)"
+        },
+        {
+          "budget_change_id": "32/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 32/2025/ZM)"
+        },
+        {
+          "budget_change_id": "33/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "260 000,00",
+          "amount_value": 260000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 33/2025/ZM)"
+        },
+        {
+          "budget_change_id": "38/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "529 300,00",
+          "amount_value": 529300.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 38/2025/ZM)"
+        },
+        {
+          "budget_change_id": "40/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "44 000,00",
+          "amount_value": 44000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 40/2025/ZM)"
+        },
+        {
+          "budget_change_id": "41/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "230 000,00",
+          "amount_value": 230000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 41/2025/ZM)"
+        },
+        {
+          "budget_change_id": "42/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "27 258,40",
+          "amount_value": 27258.4,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 42/2025/ZM)"
+        },
+        {
+          "budget_change_id": "45/2025/ZM",
+          "raw_codes": [
+            "236",
+            "8115"
+          ],
+          "amount": "458 086,98",
+          "amount_value": 458086.98,
+          "description": "změna stavu finančních prostředků na bankovním účtu Sociálního fondu (RZ 45/2025/ZM)"
+        },
+        {
+          "budget_change_id": "46/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "141 512,65",
+          "amount_value": 141512.65,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 46/2025/ZM)"
+        },
+        {
+          "budget_change_id": "2/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8123",
+            "69",
+            "000"
+          ],
+          "amount": "000,00",
+          "amount_value": 0.0,
+          "description": ") dlouhodobě přijaté půjčené prostředky (RZ 2/2025/ZM"
+        },
+        {
+          "budget_change_id": "3/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8123",
+            "50",
+            "000"
+          ],
+          "amount": "000,00",
+          "amount_value": 0.0,
+          "description": ") dlouhodobě přijaté půjčené prostředky (RZ 3/2025/ZM"
+        },
+        {
+          "budget_change_id": "4/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 200 000,00",
+          "amount_value": 5200000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 4/2025/ZM"
+        },
+        {
+          "budget_change_id": "6/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 680 000,00",
+          "amount_value": 5680000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 6/2025/ZM"
+        },
+        {
+          "budget_change_id": "7/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 200 000,00",
+          "amount_value": 5200000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 7/2025/ZM"
+        },
+        {
+          "budget_change_id": "8/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 250 000,00",
+          "amount_value": 5250000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 8/2025/ZM"
+        },
+        {
+          "budget_change_id": "10/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 100 000,00",
+          "amount_value": 5100000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 10/2025/ZM"
+        },
+        {
+          "budget_change_id": "14/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 174 324,00",
+          "amount_value": 5174324.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 14/2025/ZM"
+        },
+        {
+          "budget_change_id": "15/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 400 000,00",
+          "amount_value": 5400000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 15/2025/ZM"
+        },
+        {
+          "budget_change_id": "18/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 203 870,93",
+          "amount_value": 5203870.93,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 18/2025/ZM"
+        },
+        {
+          "budget_change_id": "21/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 390 000,00",
+          "amount_value": 5390000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 21/2025/ZM"
+        },
+        {
+          "budget_change_id": "26/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 330 000,00",
+          "amount_value": 5330000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 26/2025/ZM"
+        },
+        {
+          "budget_change_id": "30/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 120 000,00",
+          "amount_value": 5120000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 30/2025/ZM"
+        },
+        {
+          "budget_change_id": "31/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 150 000,00",
+          "amount_value": 5150000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 31/2025/ZM"
+        },
+        {
+          "budget_change_id": "32/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 250 000,00",
+          "amount_value": 5250000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 32/2025/ZM"
+        },
+        {
+          "budget_change_id": "33/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 260 000,00",
+          "amount_value": 5260000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 33/2025/ZM"
+        },
+        {
+          "budget_change_id": "38/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 529 300,00",
+          "amount_value": 5529300.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 38/2025/ZM"
+        },
+        {
+          "budget_change_id": "39/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 500 000,00",
+          "amount_value": 5500000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 39/2025/ZM"
+        },
+        {
+          "budget_change_id": "41/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 230 000,00",
+          "amount_value": 5230000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 41/2025/ZM"
+        },
+        {
+          "budget_change_id": "45/2025/ZM",
+          "raw_codes": [
+            "236",
+            "811"
+          ],
+          "amount": "5 458 086,98",
+          "amount_value": 5458086.98,
+          "description": ") změna stavu finančních prostředků na bankovním účtu Sociálního fondu (RZ 45/2025/ZM"
+        },
+        {
+          "budget_change_id": "46/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 141 512,65",
+          "amount_value": 5141512.65,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 46/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "9/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "2111"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "svoz TKO - příjem z poskytování služeb (RZ 9/2025/ZM)"
+        },
+        {
+          "budget_change_id": "12/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "2229",
+            "41"
+          ],
+          "amount": "367 748,10",
+          "amount_value": 367748.1,
+          "description": "Technické služby Litovel - vratka účelově vázaného příspěvku - energie (RZ 12/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "2 100 000,00",
+          "amount_value": 2100000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "16/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 16/2025/ZM)"
+        },
+        {
+          "budget_change_id": "17/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "820 000,00",
+          "amount_value": 820000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 17/2025/ZM)"
+        },
+        {
+          "budget_change_id": "18/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "2229",
+            "44"
+          ],
+          "amount": "196 305,89",
+          "amount_value": 196305.89,
+          "description": "Městský klub - vratka účelově vázaného příspěvku (RZ 18/2025/ZM)"
+        },
+        {
+          "budget_change_id": "18/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2122",
+            "49"
+          ],
+          "amount": "33 823,01",
+          "amount_value": 33823.01,
+          "description": "MŠ Frištenského - odpisy (RZ 18/2025/ZM)"
+        },
+        {
+          "budget_change_id": "18/2025/ZM",
+          "raw_codes": [
+            "231",
+            "4171",
+            "2229"
+          ],
+          "amount": "0,17",
+          "amount_value": 0.17,
+          "description": "Ostatní vratky transferů - příspěvek na živobytí (RZ 18/2025/ZM)"
+        },
+        {
+          "budget_change_id": "19/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2229",
+            "48"
+          ],
+          "amount": "130 000,00",
+          "amount_value": 130000.0,
+          "description": "MŠ Gemerská - vratka účelově vázaného příspěvku (RZ 19/2025/ZM)"
+        },
+        {
+          "budget_change_id": "20/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "2",
+            "0",
+            "888"
+          ],
+          "amount": "270 000,00",
+          "amount_value": 270000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 20/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "47"
+          ],
+          "amount": "22 127,15",
+          "amount_value": 22127.15,
+          "description": "ZŠ a MŠ Nasobůrky - vratka účelově vázaného příspěvku (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2122",
+            "48"
+          ],
+          "amount": "64 000,00",
+          "amount_value": 64000.0,
+          "description": "MŠ Gemerská - odpisy (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "46"
+          ],
+          "amount": "114 131,65",
+          "amount_value": 114131.65,
+          "description": "ZŠ Jungmannova - vratka účelově vázáného příspěvku (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2122",
+            "49"
+          ],
+          "amount": "1 176,99",
+          "amount_value": 1176.99,
+          "description": "MŠ Frištenského - odpisy (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "2229",
+            "49"
+          ],
+          "amount": "27 000,00",
+          "amount_value": 27000.0,
+          "description": "MŠ Frištenského - vratka účelově vázaného příspěvku (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "45"
+          ],
+          "amount": "303 964,21",
+          "amount_value": 303964.21,
+          "description": "ZŠ Vítězná - vratka účelově vázaného příspěvku (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "24/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "46"
+          ],
+          "amount": "82 600,00",
+          "amount_value": 82600.0,
+          "description": "ZŠ Jungmannova - vratky účelově vázáného příspěvku (RZ 24/2025/ZM)"
+        },
+        {
+          "budget_change_id": "25/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "2229",
+            "45"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "ZŠ Vítězná - vratka účelově vázaného příspěvku (RZ 25/2025/ZM)"
+        },
+        {
+          "budget_change_id": "27/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "3111"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "příjem z prodeje pozemků (RZ 27/2025/ZM)"
+        },
+        {
+          "budget_change_id": "28/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "3111"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "příjem z prodeje pozemků (RZ 28/2025/ZM)"
+        },
+        {
+          "budget_change_id": "34/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "3111"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "příjem z prodeje pozemků (RZ 34/2025/ZM)"
+        },
+        {
+          "budget_change_id": "35/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "50 512,00",
+          "amount_value": 50512.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 35/2025/ZM)"
+        },
+        {
+          "budget_change_id": "36/2025/ZM",
+          "raw_codes": [
+            "231",
+            "1122"
+          ],
+          "amount": "1 985 200,00",
+          "amount_value": 1985200.0,
+          "description": "daň z příjmů PO za obce (RZ 36/2025/ZM)"
+        },
+        {
+          "budget_change_id": "43/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "730 000,00",
+          "amount_value": 730000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 43/2025/ZM)"
+        },
+        {
+          "budget_change_id": "44/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "3111"
+          ],
+          "amount": "2 100 000,00",
+          "amount_value": 2100000.0,
+          "description": "příjem z prodeje pozemků (RZ 44/2025/ZM)"
+        },
+        {
+          "budget_change_id": "47/2025/ZM",
+          "raw_codes": [
+            "236",
+            "6330",
+            "413"
+          ],
+          "amount": "4 141 512,65",
+          "amount_value": 4141512.65,
+          "description": ") příjem na účtu Sociálního fondu dle vyúčtování za rok 2024 (RZ 47/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3631",
+            "6121",
+            "170522504",
+            "3 003 631"
+          ],
+          "amount": "4 000 000,00",
+          "amount_value": 4000000.0,
+          "description": "výměna svítidel III. etapa - čerpání dotace (RZ 1/2025/ZM)"
+        },
+        {
+          "budget_change_id": "2/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2310",
+            "6121",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "17 000 000,00",
+          "amount_value": 17000000.0,
+          "description": "Savín - vodovod - podíl města (RZ 2/2025/ZM)"
+        },
+        {
+          "budget_change_id": "2/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "23 000 000,00",
+          "amount_value": 23000000.0,
+          "description": "Savín - splašková kanalizace - podíl města (RZ 2/2025/ZM)"
+        },
+        {
+          "budget_change_id": "2/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "29 000 000,00",
+          "amount_value": 29000000.0,
+          "description": "Nová Ves - splašková kanalizace - podíl města (RZ 2/2025/ZM)"
+        },
+        {
+          "budget_change_id": "3/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "3 000 442"
+          ],
+          "amount": "50 000 000,00",
+          "amount_value": 50000000.0,
+          "description": "revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala) (RZ 3/2025/ZM)"
+        },
+        {
+          "budget_change_id": "4/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3314",
+            "5171",
+            "17 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Městská knihovna - oprava výtahu (RZ 4/2025/ZM)"
+        },
+        {
+          "budget_change_id": "5/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3314",
+            "5169",
+            "17 000 000"
+          ],
+          "amount": "28 000,00",
+          "amount_value": 28000.0,
+          "description": "Městská knihovna - nákup služeb (RZ 5/2025/ZM)"
+        },
+        {
+          "budget_change_id": "6/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2341",
+            "5171",
+            "7 000 725"
+          ],
+          "amount": "680 000,00",
+          "amount_value": 680000.0,
+          "description": "Oprava loviště Olomouckého rybníka (RZ 6/2025/ZM)"
+        },
+        {
+          "budget_change_id": "7/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2333",
+            "6142",
+            "7 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Úpravy vodního toku Papírenská voda - zřízení služebnosti (RZ 7/2025/ZM)"
+        },
+        {
+          "budget_change_id": "8/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2333",
+            "6121",
+            "7 000 776"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Radniční Morava - přeložka ČEZ (RZ 8/2025/ZM)"
+        },
+        {
+          "budget_change_id": "9/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "5166",
+            "7 000 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "konzultační služby v oblasti odpadového hospodářství (RZ 9/2025/ZM)"
+        },
+        {
+          "budget_change_id": "10/2025/ZM",
+          "raw_codes": [
+            "231",
+            "1014",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "péče o týraní zvířata, odchyt holubů, deratizace (RZ 10/2025/ZM)"
+        },
+        {
+          "budget_change_id": "11/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3725",
+            "5169",
+            "2",
+            "7 900 000"
+          ],
+          "amount": "15 416,00",
+          "amount_value": 15416.0,
+          "description": "likvidace biologicky rozložitelného odpadu - povodně 2024 (RZ 11/2025/ZM)"
+        },
+        {
+          "budget_change_id": "12/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "367 748,10",
+          "amount_value": 367748.1,
+          "description": "mytí a dezinfekce nádob na odpad (RZ 12/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5019",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "požární ochrana - dobrovolná část - povodně - refundace mezd (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5039",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "požární ochrana - dobrovolná část - povodně - refundace pojistného (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5132",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "požární ochrana - dobrovolná část - povodně - ochranné pomůcky (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5137",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "požární ochrana - dobrovolná část - povodně - DDHM (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5171",
+            "2",
+            "15 900 000"
+          ],
+          "amount": "1 447 755,11",
+          "amount_value": 1447755.11,
+          "description": "požární ochrana - dobrovolná část - povodně - opravy a udržování (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "13/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5512",
+            "5171",
+            "2",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "102 244,89",
+          "amount_value": 102244.89,
+          "description": "požární ochrana - dobrovolná část - povodně - opravy a udržování (RZ 13/2025/ZM)"
+        },
+        {
+          "budget_change_id": "14/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "5192",
+            "1 000 000"
+          ],
+          "amount": "174 324,00",
+          "amount_value": 174324.0,
+          "description": "úhrada nákladů řízení (RZ 14/2025/ZM)"
+        },
+        {
+          "budget_change_id": "15/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6171",
+            "5171",
+            "10 000 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "výměna vstupních dveří a oken kanceláře krizového řízení a přilehlých skladů ve dvoře budovy radnice (RZ 15/2025/ZM)"
+        },
+        {
+          "budget_change_id": "16/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3111",
+            "5171",
+            "2",
+            "4 900 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Mateřské školy - povodně - opravy (RZ 16/2025/ZM)"
+        },
+        {
+          "budget_change_id": "17/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "5171",
+            "2",
+            "4 900 428"
+          ],
+          "amount": "820 000,00",
+          "amount_value": 820000.0,
+          "description": "Sokolovna - povodně - opravy (RZ 17/2025/ZM)"
+        },
+        {
+          "budget_change_id": "18/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "6121",
+            "4 000 446"
+          ],
+          "amount": "434 000,00",
+          "amount_value": 434000.0,
+          "description": "Litovel - zábavový areál - PD (RZ 18/2025/ZM)"
+        },
+        {
+          "budget_change_id": "20/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "5171",
+            "2",
+            "4 900 410"
+          ],
+          "amount": "270 000,00",
+          "amount_value": 270000.0,
+          "description": "Budova GJO - povodně - opravy (RZ 20/2025/ZM)"
+        },
+        {
+          "budget_change_id": "21/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3314",
+            "5171",
+            "2",
+            "308",
+            "17 900 000"
+          ],
+          "amount": "390 000,00",
+          "amount_value": 390000.0,
+          "description": "Městská knihovna - Tři Dvory - povodně - opravy (RZ 21/2025/ZM)"
+        },
+        {
+          "budget_change_id": "22/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "6121",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "532 400,00",
+          "amount_value": 532400.0,
+          "description": "ZŠ a MŠ Nasobůrky - rekonstrukce - PD (RZ 22/2025/ZM)"
+        },
+        {
+          "budget_change_id": "23/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "7 260,00",
+          "amount_value": 7260.0,
+          "description": "nová sportovní hala - administrace žádosti (RZ 23/2025/ZM)"
+        },
+        {
+          "budget_change_id": "24/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "5169",
+            "46",
+            "4 000 445"
+          ],
+          "amount": "82 600,00",
+          "amount_value": 82600.0,
+          "description": "ZŠ Jungmannova - administrace projektu rekonstrucke ŠD a doplnění ICT /RZ 24/2025/ZM)"
+        },
+        {
+          "budget_change_id": "25/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3113",
+            "6121",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "ZŠ Vítězná - modernizace řídícího systému vzduchotechniky a vytápění III. Etapa (RZ 25/2025/ZM)"
+        },
+        {
+          "budget_change_id": "26/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3421",
+            "6122",
+            "301",
+            "2 033 470"
+          ],
+          "amount": "330 000,00",
+          "amount_value": 330000.0,
+          "description": "Myslechovice - herní prvek na zahradu KD (RZ 26/2025/ZM)"
+        },
+        {
+          "budget_change_id": "27/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "304",
+            "3 003 659"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "Rovadovice, Chořelice - odstranění zápachu na stokové síti (RZ 27/2025/ZM)"
+        },
+        {
+          "budget_change_id": "28/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Litovel - smart WC do parku Míru (RZ 28/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "5171",
+            "2",
+            "306",
+            "3 900 000"
+          ],
+          "amount": "292 389,62",
+          "amount_value": 292389.62,
+          "description": "KD Víska - povodeň - výměna parket (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "6122",
+            "2",
+            "306",
+            "3 900 000"
+          ],
+          "amount": "240 000,00",
+          "amount_value": 240000.0,
+          "description": "KD Víska - povodeň - kotel (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 003 589"
+          ],
+          "amount": "4 500 000,00",
+          "amount_value": 4500000.0,
+          "description": "Litovel - úprava ulic Šmakalova a ČSA (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2212",
+            "6121",
+            "3 003 644"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Litovel - Uničovská ul. - PD (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "309",
+            "3 003 557"
+          ],
+          "amount": "2 300 000,00",
+          "amount_value": 2300000.0,
+          "description": "Nasobůrky - smíšená stezka pro chodce a cyklisty podél II/635 (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "1 600 000,00",
+          "amount_value": 1600000.0,
+          "description": "Nasobůrky - III/3732 - průtah - realizace - přeložka CETIN (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "3 003 650"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Litovel - Žerotínova ul. - revitalizace - PD (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "3 003 643"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Litovel - prodloužení kanalizace ul. Pavlínka (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2219",
+            "6121",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "65 098,00",
+          "amount_value": 65098.0,
+          "description": "Rozvadovice - chodník do obce k návsi - PD (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "11 374,00",
+          "amount_value": 11374.0,
+          "description": "Myslechovice - stožáry (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "6121",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "69 696,00",
+          "amount_value": 69696.0,
+          "description": "Unčovice - Sokolovna - bezpečnostní venkovní rolety (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "6121",
+            "301",
+            "2 033 646"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Myslechovice - KD - rekonstrukce elektroinstalace (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "110 000,00",
+          "amount_value": 110000.0,
+          "description": "Litovel - malý sál Záložny - dodávka a montáž oken (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "301",
+            "2 033 630"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Myslechovice - úprava návsi - PD, zeleň, přeložka ČEZ (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "29/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 003 610"
+          ],
+          "amount": "163 500,00",
+          "amount_value": 163500.0,
+          "description": "Litovel - areál B. Němcové - bytový a parkovací dům - PD pro ÚR + demolice (RZ 29/2025/ZM)"
+        },
+        {
+          "budget_change_id": "30/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3421",
+            "6122",
+            "303",
+            "2 033 470"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Nová ves - nový herní prvek - kolotoč (RZ 30/2025/ZM)"
+        },
+        {
+          "budget_change_id": "31/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3421",
+            "6122",
+            "304",
+            "2 033 470"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Rozvadovice - likvidace nevyhovujícího a pořízení nového herního prvku (RZ 31/2025/ZM)"
+        },
+        {
+          "budget_change_id": "32/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3421",
+            "6122",
+            "302",
+            "2 033 470"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Chudobín - likvidace nevyhovujícího a pořízení nového herního prvku (RZ 32/2025/ZM)"
+        },
+        {
+          "budget_change_id": "33/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "6121",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Myslechovice - KD - nové dveře (RZ 33/2025/ZM)"
+        },
+        {
+          "budget_change_id": "34/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "30 003 660"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Fotovoltaika pro ČOV Litovel - projekční příprava (RZ 34/2025/ZM)"
+        },
+        {
+          "budget_change_id": "35/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3341",
+            "6122",
+            "2",
+            "308",
+            "16 900 000"
+          ],
+          "amount": "50 512,00",
+          "amount_value": 50512.0,
+          "description": "Městský rozhlas - povodně - Tři Dvory - rozhlasová ústředna a mirkofon (RZ 35/2025/ZM)"
+        },
+        {
+          "budget_change_id": "26/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6399",
+            "5365",
+            "14 000 000"
+          ],
+          "amount": "1 985 200,00",
+          "amount_value": 1985200.0,
+          "description": "platby daní a poplatků (RZ 26/2025/ZM)"
+        },
+        {
+          "budget_change_id": "37/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6402",
+            "5364",
+            "98348",
+            "14 000 000"
+          ],
+          "amount": "-162 966,68",
+          "amount_value": -162966.68,
+          "description": "Finanční vypořádání roku 2024 - volby do EP (RZ 37/2025/ZM)"
+        },
+        {
+          "budget_change_id": "37/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6402",
+            "5364",
+            "98193",
+            "14 000 000"
+          ],
+          "amount": "-174 132,64",
+          "amount_value": -174132.64,
+          "description": "Finanční vypořádání roku 2024 - volby do zastupit. kraje (RZ 37/2025/ZM)"
+        },
+        {
+          "budget_change_id": "37/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6409",
+            "5901",
+            "14 000 000"
+          ],
+          "amount": "337 099,32",
+          "amount_value": 337099.32,
+          "description": "Vratky přeplatků minulých období, platby dle usnesení .. (RZ 37/2025/ZM)"
+        },
+        {
+          "budget_change_id": "38/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5311",
+            "5042",
+            "9 000 000"
+          ],
+          "amount": "399 300,00",
+          "amount_value": 399300.0,
+          "description": "Městká policie - licence MP manager (RZ 38/2025/ZM)"
+        },
+        {
+          "budget_change_id": "38/2025/ZM",
+          "raw_codes": [
+            "231",
+            "5311",
+            "5168",
+            "9 000 000"
+          ],
+          "amount": "130 000,00",
+          "amount_value": 130000.0,
+          "description": "Městká policie - licence MP manager - paušál - tehnická podpora aj.(RZ 38/2025/ZM)"
+        },
+        {
+          "budget_change_id": "39/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "6122",
+            "18 000 000"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Muzeum Litovel - protipovodňové zábrany (RZ 39/2025/ZM)"
+        },
+        {
+          "budget_change_id": "40/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "5137",
+            "2",
+            "18 900 000"
+          ],
+          "amount": "39 000,00",
+          "amount_value": 39000.0,
+          "description": "Muzeum Litovel - povodně - pořízení nábytku do dílny (RZ 40/2025/ZM)"
+        },
+        {
+          "budget_change_id": "40/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "5137",
+            "18 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Muzeum Litovel - pořízení a instalace nového ohřevu vody v dílně (RZ 40/2025/ZM)"
+        },
+        {
+          "budget_change_id": "41/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "5171",
+            "2",
+            "18 900 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Muzeum Litovel - povodně - nahození osekaných omítek (RZ 41/2025/ZM)"
+        },
+        {
+          "budget_change_id": "41/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "5169",
+            "2",
+            "18 900 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Muzeum Litovel - povodně - výmalba (RZ 41/2025/ZM)"
+        },
+        {
+          "budget_change_id": "41/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3315",
+            "5171",
+            "2",
+            "18 900 000"
+          ],
+          "amount": "70 000,00",
+          "amount_value": 70000.0,
+          "description": "Muzeum Litovel - povodně - oprava elektrorozvodů (RZ 41/2025/ZM)"
+        },
+        {
+          "budget_change_id": "42/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2295",
+            "5323",
+            "3 003 468"
+          ],
+          "amount": "27 258,40",
+          "amount_value": 27258.4,
+          "description": "Koordinátor integrovaného dopravního systému Olomuckého kraje - příspěvek na dopravní obslužnost (RZ 42/2025/ZM)"
+        },
+        {
+          "budget_change_id": "43/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "5171",
+            "2",
+            "12 900 000"
+          ],
+          "amount": "730 000,00",
+          "amount_value": 730000.0,
+          "description": "Nebytové hospodářství - povodně - opravy (RZ 43/2025/ZM)"
+        },
+        {
+          "budget_change_id": "44/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3632",
+            "5171",
+            "12 000 000"
+          ],
+          "amount": "2 100 000,00",
+          "amount_value": 2100000.0,
+          "description": "Hřbitov Litovel - Chořelice - oprava zdi + vstupní portál (RZ 44/2025/ZM)"
+        },
+        {
+          "budget_change_id": "45/2025/ZM",
+          "raw_codes": [
+            "236",
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "458 086,98",
+          "amount_value": 458086.98,
+          "description": "čerpání sociálního fondu (RZ 45/2025/ZM)"
+        },
+        {
+          "budget_change_id": "46/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6330",
+            "5342",
+            "1 000 000"
+          ],
+          "amount": "141 512,65",
+          "amount_value": 141512.65,
+          "description": "převod do sociálního fondu (RZ 46/2025/ZM)"
+        },
+        {
+          "budget_change_id": "47/2025/ZM",
+          "raw_codes": [
+            "236",
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "141 512,65",
+          "amount_value": 141512.65,
+          "description": "čerpání sociálního fondu (RZ 47/2025/ZM)"
+        },
+        {
+          "budget_change_id": "48/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-370 000,00",
+          "amount_value": -370000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 48/2025/ZM)"
+        },
+        {
+          "budget_change_id": "48/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "370 000,00",
+          "amount_value": 370000.0,
+          "description": "TJ Vodní sporty Litovel, z.s. - dotace na zajištění sportovní činnosti v roce 2025 (RZ 48/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-930 000,00",
+          "amount_value": -930000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "450 000,00",
+          "amount_value": 450000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provozní náklady pečovatelské služby (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3900",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provozní náklady MC Rybička (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na mzdové náklady sester (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "4371",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na sociálně aktivizační služby pro rodiny s dětmi (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "4312",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na provoz poradny Nedlužím (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "49/2025/ZM",
+          "raw_codes": [
+            "231",
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Charita Šternberk, středisko Litovel - dotace na organizační zajištění pouti na Starém městě (RZ 49/2025/ZM)"
+        },
+        {
+          "budget_change_id": "50/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 50/2025/ZM)"
+        },
+        {
+          "budget_change_id": "50/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "TJ Vodní sporty Litovel, z.s. - dotace na organizační zajištění sportovní soutěže BOBR CUP 2025 (RZ 50/2025/ZM)"
+        },
+        {
+          "budget_change_id": "51/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 500 000,00",
+          "amount_value": -4500000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 51/2025/ZM)"
+        },
+        {
+          "budget_change_id": "51/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "4 500 000,00",
+          "amount_value": 4500000.0,
+          "description": "TJ Tatran Litovel, z.s. - dotace na zajištění činnosti tělovýchovné jednot v roce 2025 (RZ 51/2025/ZM)"
+        },
+        {
+          "budget_change_id": "3/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6121",
+            "3",
+            "000",
+            "442",
+            "50",
+            "000"
+          ],
+          "amount": "000,00",
+          "amount_value": 0.0,
+          "description": ") revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala) (RZ 3/2025/ZM"
+        },
+        {
+          "budget_change_id": "19/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3613",
+            "5171",
+            "2",
+            "4",
+            "900",
+            "405"
+          ],
+          "amount": "130 000,00",
+          "amount_value": 130000.0,
+          "description": ") Budova zvláštní školy - povodně - opravy (RZ 19/2025/ZM"
+        },
+        {
+          "budget_change_id": "33/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3392",
+            "5171",
+            "301",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": ") Myslechovice KD - oprava střechy (RZ 33/2025/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 1/2025/ZM",
+      "text": "Dne 19. 12. 2024 obdrželo město Litovel od Ministerstva průmyslu a obchodu ČR dotaci na akci výměna svítidel - III. etapa. Tato akce je realizována odborem MHaSI. Vlastní podíl města v rozpočtu na rok 2025 je již narozpočtován. Jedná se o zapojení dotačních prostředků do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 2/2025/ZM",
+      "text": "Ve schváleném rozpočtu města Litovel na rok 2025 nejsou zatím rozpočtovány podíly města k dotační akci Savín – vodovod, Nová Ves + Savín – splašková kanalizace. Dotační podíl již ve schváleném rozpočtu je. V souladu se záměry ZM budou finanční prostředky čerpány z dlouhodobého úvěru u Komerční banky, a.s. na základě smlouvy podepsané dne 19. 12. 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 3/2025/ZM",
+      "text": "Dne 24.1.2025 byla na finanční odbor doručena žádost od vedoucího odboru MHaSI na rozpočtovou změnu týkající se revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala). V souladu se záměry ZM budou finanční prostředky čerpány z dlouhodobého úvěru u Komerční banky, a.s. na základě smlouvy podepsané dne 19. 12. 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 4/2025/ZM",
+      "text": "Dne 15. 1. 2025 požádala vedoucí Městské knihovny o navýšení rozpočtu z důvodu opravy porouchaného výtahu v budově Městské knihovny."
+    },
+    {
+      "title": "Rozpočtová změna č. 5/2025/ZM",
+      "text": "Dne 21.1.2025 požádala vedoucí Městské knihovny o navýšení rozpočtu z důvodu zvýšení ceny úklidových služeb."
+    },
+    {
+      "title": "Rozpočtová změna č. 6/2025/ZM",
+      "text": "Dne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na akci Olomoucký rybník – oprava loviště. Jedná se o vícepráce vzniklé během realizace stavby. Jedná se o maximální částku. V současné době se jedná mezi zhotovitelem, stavebním dozorem a vedením města o přesném vyčíslení více a méněprací."
+    },
+    {
+      "title": "Rozpočtová změna č. 7/2025/ZM",
+      "text": "Dne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu platby pro Povodí Moravy za zřízení služebnosti (věcného břemene) vzniklé v rámci realizace projektu Úpravy vodního toku Papírenská voda. Přesun z rozpočtu 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 8/2025/ZM",
+      "text": "Dne 29.1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu nákladů spojených s přeložkou vedení nízkého napětí. Přeložka sítě ČEZ Distribuce a.s., je vyvolána realizací stavby: Opravy na Radniční Moravě. Součástí této stavby je i stavba nového mostu v ulici Jungmannova včetně přeložky inženýrských sítí."
+    },
+    {
+      "title": "Rozpočtová změna č. 9/2025/ZM",
+      "text": "Dne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu nákladů spojených s konzultačními službami v oblasti odpadového hospodářství."
+    },
+    {
+      "title": "Rozpočtová změna č. 10/2025/ZM",
+      "text": "Dne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu nákladů na deratizaci, odchyt holubů a péči o týraná zvířata."
+    },
+    {
+      "title": "Rozpočtová změna č. 11/2025/ZM",
+      "text": "Dne 27.1.2025 byly na finanční odbor doručeny faktury od Kompostárny Nasobůrky za likvidaci biologicky rozložitelného odpadu souvisejícího s povodněmi v září 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 12/2025/ZM",
+      "text": "Dne 30.1. 2025 byla na finanční obor doručena od vedoucího OŽP žádost na rozpočtovou změnu na zajištění pokrytí výdajů na mytí a dezinfekci nádob na odpad."
+    },
+    {
+      "title": "Rozpočtová změna č. 13/2025/ZM",
+      "text": "Dne 15. 1. 2025 požádal útvar krizového řízení o navýšení rozpočtu na úseku Požární ochrana – dobrovolná část na úhradu nákladů spojených s řešením povodňových škod po povodni v září 2024. Předpokládané výdaje zahrnují například refundace mezd a pojistného, ochranné pomůcky, drobný dlouhodobý hmotný majetek, opravy a udržování."
+    },
+    {
+      "title": "Rozpočtová změna č. 14/2025/ZM",
+      "text": "Dne 16. 1. 2025 obdrželo město Litovel rozsudek Krajského soudu v Ostravě ve věci sporu mezi městem Litovel a MUDr. I. Š. Na základě tohoto rozsudku muselo město uhradit do 3 dnů od nabytí právní moci náhradu nákladů řízení a náhradu nákladů odvolacího řízení v celkové výši 174.324,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 15/2025/ZM",
+      "text": "Dne 20.1.2025 požádal vedoucí oddělení vnitřních věcí o navýšení rozpočtu na realizaci výměny vstupních dveří a oken kanceláře krizového řízení a přilehlých skladů ve dvorové části budovy radnice."
+    },
+    {
+      "title": "Rozpočtová změna č. 16/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod v mateřských školách. Jedná se hlavně o osekání omítek v budově MŠ Čihadlo a nové omítky ve všech budovách MŠ zasažených povodní."
+    },
+    {
+      "title": "Rozpočtová změna č. 17/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod v Sokolovně v Litovli. Jedná se o nové zateplení podlah, krytinu, nové dveře."
+    },
+    {
+      "title": "Rozpočtová změna č. 18/2025/ZM",
+      "text": "Dne 22.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na vyhotovení projektové dokumentace na zábavový areál v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 19/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod na budově zvláštní školy. Jedná se o zajištění statiky, opravy popraskaného zdiva."
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod na budově GJO. Jedná se o nové podlahy, krytinu, omítky, výmalbu."
+    },
+    {
+      "title": "Rozpočtová změna č. 21/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod v knihovně ve Třech Dvorech. Jedná se o novou elektřinu, omítky, výmalbu, krytinu."
+    },
+    {
+      "title": "Rozpočtová změna č. 22/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na pokrytí výdajů na PD - ZŠ a MŠ Nasobůrky - rekonstrukce (smlouva na 532.400,-)."
+    },
+    {
+      "title": "Rozpočtová změna č. 23/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na pokrytí výdajů na administraci žádosti o dotaci na novu sportovní halu. Ve schváleném rozpočtu je na tuto administraci rozpočtováno 59 290 Kč, celkové výdaje činí 66 550 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 24/2025/ZM",
+      "text": "Dne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na pokrytí výdajů na administraci projektu rekonstrukce školních družin a doplnění ICT ZŠ Jungmannova."
+    },
+    {
+      "title": "Rozpočtová změna č. 25/2025/ZM",
+      "text": "Dne 30.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu. OŠKS má ve schváleném rozpočtu 1 200 000 Kč na 2. etapu modernizace řídícího systému vzduchotechniky a vytápění v ZŠ Vítězná. Dnes, tj. 30. ledna přišel od prováděcí firmy návrh smlouvy, kde je uvedena cena 1 030 882 Kč bez DPH tj. 1 247 367,20 Kč s DPH se zdůvodněním, že je nutno nainstalovat část týkající se vizualizace stravování. Žádá proto o navýšení této části rozpočtu o 50 000 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 26/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení herního prvku na zahradu KD v Myslechovicích. Jedná se o požadavek OV - víceúčelová herní sestava pro menší děti na zahradu KD."
+    },
+    {
+      "title": "Rozpočtová změna č. 27/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na odstranění zápachu na stokové síti – Rozvadovice, Chořelice. Realizace akce má vyřešit únik zápachu z kanalizace v místní části Chořelice."
+    },
+    {
+      "title": "Rozpočtová změna č. 28/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení Smart WC do parku Míru. Jedná se o požadavek vedení města. Součástí chytrého WC bude i přebalovací pult, WC bude napojeno na kanalizaci, vodu, elektřinu. Realizací dojde ke zkvalitnění pobytu občanů v této lokalitě."
+    },
+    {
+      "title": "Rozpočtová změna č. 29/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na akce, které se přesunuly z roku 2024 do roku 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení herního prvku (kolotoč) na dětské hřiště na Nové Vsi. Jedná se o požadavek OV."
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na likvidaci nevyhovujícího a pořízení nového herního prvku v Rozvadovicích. Bude zlikvidována nevyhovující vahadlová houpačka a nahrazena novým herním prvkem."
+    },
+    {
+      "title": "Rozpočtová změna č. 32/2025/ZM",
+      "text": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na likvidaci nevyhovujícího a pořízení nového herního prvku v Chudobíně. Bude zlikvidován nevyhovující herní prvek a nahrazen novými (3ks)."
+    },
+    {
+      "title": "Rozpočtová změna č. 33/2025/ZM",
+      "text": "Dne 27.1.2025 byla doručena od vedoucího MHaSI žádost na rozpočtovou změnu týkající se opravy střechy KD v Myslechovicích a výměnu vstupních dveří. Jedná se o demontáž staré krytiny a montáž nového modifikovaného pásu na střeše KD.v Myslechovicích. Na střeše se nyní nachází plechová střešní krytina, která je přibita hřebíky, které jsou z velké části uvolněny a povytaženy. Navíc, tato krytina vůbec není vhodná pro použití na tak malém sklonu. Původní krytina bude nahrazena modifikovaným pásem Euroflex zelený o tloušťce 5,2mm, mechanicky kotveným k podkladu."
+    },
+    {
+      "title": "Rozpočtová změna č. 34/2025/ZM",
+      "text": "Dne 27.1.2025 požádal vedoucí odboru MHaSI o rozpočtovou změnu týkající se pořízení fotovoltaiky pro ČOV Litovel.. Na tuto akci je již rozhodnutí o poskytnutí dotace ve výši 50 % způsobilých nákladů. Nyní probíhá projekční příprava, administrace dotace a statické posouzení stavu střech a plotu."
+    },
+    {
+      "title": "Rozpočtová změna č. 35/2025/ZM",
+      "text": "Dne 23.1.2025 byla na finanční odbor doručena žádost od pracovníka krizového řízení na rozpočtovou změnu týkající se řešení povodňových škod. Jedná se pořízení nové rozhlasové ústředny a mikrofonu do Třech Dvorů. Původní byla zničena při povodních."
+    },
+    {
+      "title": "Rozpočtová změna č. 36/2025/ZM",
+      "text": "Úprava odhadu daně z příjmů právnických osob za obce na základě předběžných účetních výkazů za rok 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 37/2025/ZM",
+      "text": "Úprava výdajové části rozpočtu dle finančního vypořádání roku 2024 sestaveného na základě předběžných účetních výkazů za rok 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 38/2025/ZM",
+      "text": "Dne 27.1.2025 byl doručen od zástupce velitele MP požadavek na rozpočtovou změnu. V rámci modernizace a nárůstu administrativní agendy (stacionární radary) potřebuje MP aktualizovat informační systém. Jedná se o MP Manager, který v minulosti MP využívala. Dle cenové nabídky se jedná o jednorázovou platbu za licenci a měsíční paušál za servis, technickou a zákaznickou podporu, servisy pravidelných aktualizací aj. V rozpočtové změně je počítáno s deseti měsíčními paušály (březen – prosinec)."
+    },
+    {
+      "title": "Rozpočtová změna č. 39/2025/ZM",
+      "text": "Dne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na pořízení protipovodňových zábran."
+    },
+    {
+      "title": "Rozpočtová změna č. 40/2025/ZM",
+      "text": "Dne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na řešení povodňových škod. Jedná se o náhradu zbývající části poničeného nábytku v dílně a odstranění starého a instalaci nového (úspornějšího) ohřevu vody v dílně."
+    },
+    {
+      "title": "Rozpočtová změna č. 41/2025/ZM",
+      "text": "Dne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na řešení povodňových škod."
+    },
+    {
+      "title": "Rozpočtová změna č. 42/2025/ZM",
+      "text": "Dne 28.1.2025 byla na finanční odbor doručena informace od Koordinátora integrovaného dopravního systému Olomouckého kraje o výši příspěvku města Litovel na zajištění dopravní obslužnosti Olomouckého kraje na rok 2025. V této informaci je vyčísleno inflační navýšení ve výši 2,4% proti roku 2024. Ve schváleném rozpočtu města Litovel na rok 2025 je plánována hodnota 1.900.000,00 Kč, RZ řeší navýšení o chybějící prostředky na skutečný stav dle doručené informace."
+    },
+    {
+      "title": "Rozpočtová změna č. 43/2025/ZM",
+      "text": "Dne 29.1.2025 požádala vedoucí OBH o rozpočtovou změnu týkající se odstranění škod po povodni v nebytovém prostoru v budově Sokolovny - ve Fitcentru. Jedná se o vysoušení nebytového prostoru, odstranění stávající podlahové krytiny, osekání vlhkého zdiva, natažení nových sanačních omítek, nové podlahy."
+    },
+    {
+      "title": "Rozpočtová změna č. 44/2025/ZM",
+      "text": "Dne 29.1.2025 požádala vedoucí OBH o navýšení rozpočtu na opravu hřbitovní zdi se vstupním portálem vč. odvodnění zpevněných ploch na hřbitově v Litovli – Chořelicích. Projektová dokumentace byla dokončena v prosinci r. 2024. Jedná se o opravu části hřbitovní zdi se vstupním portálem hřbitova Litovel – Chořelice. Součástí je také úprava nejbližšího přilehlého okolí a odvedení dešťových vod ode zdi a zpevněných ploch hřbitova."
+    },
+    {
+      "title": "Rozpočtová změna č. 45/2025/ZM - Zapojení zůstatku na bankovním účtu SF k 31. 12. 2024 do rozpočtu SF na",
+      "text": "rok 2025 § 6171 Na účtu Sociálního fondu byl k 31.12.2024 zůstatek ve výši 458.086,98 Kč, který je potřeba zapojit do rozpočtu Sociálního fondu na rok 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2025/ZM - Vyúčtování přídělu finančních prostředků za rok 2024 do Sociálního fondu",
+      "text": "V souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno vyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných – čl. 1, bod 1) a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, doručené 28. 1. 2025, ze kterého vyplývá rozdíl ve výši 141.512,65 Kč, který má být odveden ve prospěch Sociálního fondu."
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2025/ZM - Příjem finančních prostředků do rozpočtu Sociálního fondu na rok 2025 dle",
+      "text": "vyúčtování za rok 2024 V souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno vyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných – čl. 1, bod 1) a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, doručené 28. 1. 2025, ze kterého vyplývá rozdíl ve výši 141.512,65 Kč, který má být odveden ve prospěch Sociálního fondu."
+    },
+    {
+      "title": "Rozpočtová změna č. 48/2025/ZM – RZ 51/2025/ZM",
+      "text": "Dotace poskytnuté žadatelům o finanční podporu na rok 2025."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._3_2025_dne_13.2._2025_.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 3/2025 schválené Zastupitelstvem města Litovel\ndne 13. února 2025\nRozpočtové opatření bylo schváleno na 17. zasedání Zastupitelstva města Litovel dne 13. února 2025 na základě\nusnesení ZM/10/17/2025 a ZM/12/17/2025.\nZměny ve financování:\nODP\nSU POL UZ MU ORJ ORG Kč Popis\nA\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 4 000 000,00\n1/2025/ZM)\n231 8123 69 000 000,00 dlouhodobě přijaté půjčené prostředky (RZ 2/2025/ZM)\n231 8123 50 000 000,00 dlouhodobě přijaté půjčené prostředky (RZ 3/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 200 000,00\n4/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 28 000,00\n5/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 680 000,00\n6/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 200 000,00\n7/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 250 000,00\n8/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 100 000,00\n10/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 15 416,00\n11/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 174 324,00\n14/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 400 000,00\n15/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 203 870,93\n18/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 390 000,00\n21/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 7 260,00\n23/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 330 000,00\n26/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 10 637 057,62\n29/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 120 000,00\n30/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 150 000,00\n31/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 250 000,00\n32/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 260 000,00\n33/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 529 300,00\n38/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 500 000,00\n39/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 44 000,00\n40/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 230 000,00\n41/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 27 258,40\n42/2025/ZM)\nzměna stavu finančních prostředků na bankovním účtu\n236 8115 458 086,98\nSociálního fondu (RZ 45/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n231 8115 141 512,65\n46/2025/ZM)\nZměny v příjmech:\nSU ODPA POL UZ MU ORJ ORG Kč Popis\n231 3722 2111 60 000,00 svoz TKO - příjem z poskytování služeb (RZ 9/2025/ZM)\nTechnické služby Litovel - vratka účelově vázaného\n231 3639 2229 41 367 748,10\npříspěvku - energie (RZ 12/2025/ZM)\n231 6320 2322 2 888 2 100 000,00 přijaté pojistné plnění - povodně (RZ 13/2025/ZM)\n231 6320 2322 2 888 200 000,00 přijaté pojistné plnění - povodně (RZ 16/2025/ZM)\n231 6320 2322 2 888 820 000,00 přijaté pojistné plnění - povodně (RZ 17/2025/ZM)\nMěstský klub - vratka účelově vázaného příspěvku (RZ\n231 3392 2229 44 196 305,89\n18/2025/ZM)\n231 3111 2122 49 33 823,01 MŠ Frištenského - odpisy (RZ 18/2025/ZM)\nOstatní vratky transferů - příspěvek na živobytí (RZ\n231 4171 2229 0,17\n18/2025/ZM)\nMŠ Gemerská - vratka účelově vázaného příspěvku (RZ\n231 3111 2229 48 130 000,00\n19/2025/ZM)\n231 6320 2322 2 0 888 270 000,00 přijaté pojistné plnění - povodně (RZ 20/2025/ZM)\nZŠ a MŠ Nasobůrky - vratka účelově vázaného příspěvku\n231 3113 2229 47 22 127,15\n(RZ 22/2025/ZM)\n231 3111 2122 48 64 000,00 MŠ Gemerská - odpisy (RZ 22/2025/ZM)\nZŠ Jungmannova - vratka účelově vázáného příspěvku (RZ\n231 3113 2229 46 114 131,65\n22/2025/ZM)\n231 3111 2122 49 1 176,99 MŠ Frištenského - odpisy (RZ 22/2025/ZM)\nMŠ Frištenského - vratka účelově vázaného příspěvku (RZ\n231 3111 2229 49 27 000,00\n22/2025/ZM)\nZŠ Vítězná - vratka účelově vázaného příspěvku (RZ\n231 3113 2229 45 303 964,21\n22/2025/ZM)\nZŠ Jungmannova - vratky účelově vázáného příspěvku (RZ\n231 3113 2229 46 82 600,00\n24/2025/ZM)\nZŠ Vítězná - vratka účelově vázaného příspěvku (RZ\n231 3113 2229 45 50 000,00\n25/2025/ZM)\n231 3639 3111 2 000 000,00 příjem z prodeje pozemků (RZ 27/2025/ZM)\n231 3639 3111 1 000 000,00 příjem z prodeje pozemků (RZ 28/2025/ZM)\n231 3639 3111 1 000 000,00 příjem z prodeje pozemků (RZ 34/2025/ZM)\n231 6320 2322 2 888 50 512,00 přijaté pojistné plnění - povodně (RZ 35/2025/ZM)\n231 1122 1 985 200,00 daň z příjmů PO za obce (RZ 36/2025/ZM)\n231 6320 2322 2 888 730 000,00 přijaté pojistné plnění - povodně (RZ 43/2025/ZM)\n231 3639 3111 2 100 000,00 příjem z prodeje pozemků (RZ 44/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\npříjem na účtu Sociálního fondu dle vyúčtování za rok 2024\n236 6330 4134 141 512,65\n(RZ 47/2025/ZM)\nZměny ve výdajích:\nSU ODPA POL UZ MU ORJ ORG Kč Popis\nvýměna svítidel III. etapa - čerpání dotace (RZ\n231 3631 6121 170522504 3 003 631 4 000 000,00\n1/2025/ZM)\n231 2310 6121 311 3 003 597 17 000 000,00 Savín - vodovod - podíl města (RZ 2/2025/ZM)\nSavín - splašková kanalizace - podíl města (RZ\n231 2321 6121 311 3 003 598 23 000 000,00\n2/2025/ZM)\nNová Ves - splašková kanalizace - podíl města\n231 2321 6121 303 3 003 599 29 000 000,00\n(RZ 2/2025/ZM)\nrevitalizace sportovního areálu Sokolovny v\n231 3412 6121 3 000 442 50 000 000,00 Litovli 2. etapa (nová sportovní hala) (RZ\n3/2025/ZM)\nMěstská knihovna - oprava výtahu (RZ\n231 3314 5171 17 000 000 200 000,00\n4/2025/ZM)\nMěstská knihovna - nákup služeb (RZ\n231 3314 5169 17 000 000 28 000,00\n5/2025/ZM)\nOprava loviště Olomouckého rybníka (RZ\n231 2341 5171 7 000 725 680 000,00\n6/2025/ZM)\nÚpravy vodního toku Papírenská voda - zřízení\n231 2333 6142 7 000 000 200 000,00\nslužebnosti (RZ 7/2025/ZM)\nRadniční Morava - přeložka ČEZ (RZ\n231 2333 6121 7 000 776 250 000,00\n8/2025/ZM)\nkonzultační služby v oblasti odpadového\n231 3722 5166 7 000 000 60 000,00\nhospodářství (RZ 9/2025/ZM)\npéče o týraní zvířata, odchyt holubů, deratizace\n231 1014 5169 7 000 000 100 000,00\n(RZ 10/2025/ZM)\nlikvidace biologicky rozložitelného odpadu -\n231 3725 5169 2 7 900 000 15 416,00\npovodně 2024 (RZ 11/2025/ZM)\nmytí a dezinfekce nádob na odpad (RZ\n231 3722 5169 7 000 000 367 748,10\n12/2025/ZM)\npožární ochrana - dobrovolná část - povodně -\n231 5512 5019 2 15 900 000 200 000,00\nrefundace mezd (RZ 13/2025/ZM)\npožární ochrana - dobrovolná část - povodně -\n231 5512 5039 2 15 900 000 50 000,00\nrefundace pojistného (RZ 13/2025/ZM)\npožární ochrana - dobrovolná část - povodně -\n231 5512 5132 2 15 900 000 100 000,00\nochranné pomůcky (RZ 13/2025/ZM)\npožární ochrana - dobrovolná část - povodně -\n231 5512 5137 2 15 900 000 200 000,00\nDDHM (RZ 13/2025/ZM)\npožární ochrana - dobrovolná část - povodně -\n231 5512 5171 2 15 900 000 1 447 755,11\nopravy a udržování (RZ 13/2025/ZM)\npožární ochrana - dobrovolná část - povodně -\n231 5512 5171 2 308 15 900 000 102 244,89\nopravy a udržování (RZ 13/2025/ZM)\n231 3639 5192 1 000 000 174 324,00 úhrada nákladů řízení (RZ 14/2025/ZM)\nvýměna vstupních dveří a oken kanceláře\n231 6171 5171 10 000 000 400 000,00 krizového řízení a přilehlých skladů ve dvoře\nbudovy radnice (RZ 15/2025/ZM)\nMateřské školy - povodně - opravy (RZ\n231 3111 5171 2 4 900 000 200 000,00\n16/2025/ZM)\n231 3412 5171 2 4 900 428 820 000,00 Sokolovna - povodně - opravy (RZ 17/2025/ZM)\n231 3429 6121 4 000 446 434 000,00 Litovel - zábavový areál - PD (RZ 18/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nBudova zvláštní školy - povodně - opravy (RZ\n231 3613 5171 2 4 900 405 130 000,00\n19/2025/ZM)\nBudova GJO - povodně - opravy (RZ\n231 3613 5171 2 4 900 410 270 000,00\n20/2025/ZM)\nMěstská knihovna - Tři Dvory - povodně -\n231 3314 5171 2 308 17 900 000 390 000,00\nopravy (RZ 21/2025/ZM)\nZŠ a MŠ Nasobůrky - rekonstrukce - PD (RZ\n231 3113 6121 47 4 000 000 532 400,00\n22/2025/ZM)\nnová sportovní hala - administrace žádosti (RZ\n231 3412 6121 4 000 442 7 260,00\n23/2025/ZM)\nZŠ Jungmannova - administrace projektu\n231 3113 5169 46 4 000 445 82 600,00 rekonstrucke ŠD a doplnění ICT /RZ\n24/2025/ZM)\nZŠ Vítězná - modernizace řídícího systému\n231 3113 6121 45 4 000 000 50 000,00 vzduchotechniky a vytápění III. Etapa (RZ\n25/2025/ZM)\nMyslechovice - herní prvek na zahradu KD (RZ\n231 3421 6122 301 2 033 470 330 000,00\n26/2025/ZM)\nRovadovice, Chořelice - odstranění zápachu na\n231 2321 6121 304 3 003 659 2 000 000,00\nstokové síti (RZ 27/2025/ZM)\nLitovel - smart WC do parku Míru (RZ\n231 3639 6121 3 000 000 1 000 000,00\n28/2025/ZM)\nKD Víska - povodeň - výměna parket (RZ\n231 3392 5171 2 306 3 900 000 292 389,62\n29/2025/ZM)\n231 3392 6122 2 306 3 900 000 240 000,00 KD Víska - povodeň - kotel (RZ 29/2025/ZM)\nLitovel - úprava ulic Šmakalova a ČSA (RZ\n231 3639 6121 3 003 589 4 500 000,00\n29/2025/ZM)\n231 2212 6121 3 003 644 200 000,00 Litovel - Uničovská ul. - PD (RZ 29/2025/ZM)\nNasobůrky - smíšená stezka pro chodce a\n231 2219 6121 309 3 003 557 2 300 000,00\ncyklisty podél II/635 (RZ 29/2025/ZM)\nNasobůrky - III/3732 - průtah - realizace -\n231 2219 6121 309 3 003 612 1 600 000,00\npřeložka CETIN (RZ 29/2025/ZM)\nLitovel - Žerotínova ul. - revitalizace - PD (RZ\n231 2219 6121 3 003 650 35 000,00\n29/2025/ZM)\nLitovel - prodloužení kanalizace ul. Pavlínka\n231 2321 6121 3 003 643 500 000,00\n(RZ 29/2025/ZM)\nRozvadovice - chodník do obce k návsi - PD\n231 2219 6121 304 2 030 000 65 098,00\n(RZ 29/2025/ZM)\n231 3639 6121 301 2 030 000 11 374,00 Myslechovice - stožáry (RZ 29/2025/ZM)\nUnčovice - Sokolovna - bezpečnostní venkovní\n231 3392 6121 310 2 033 465 69 696,00\nrolety (RZ 29/2025/ZM)\nMyslechovice - KD - rekonstrukce\n231 3392 6121 301 2 033 646 250 000,00\nelektroinstalace (RZ 29/2025/ZM)\nLitovel - malý sál Záložny - dodávka a montáž\n231 3613 6121 3 000 000 110 000,00\noken (RZ 29/2025/ZM)\nMyslechovice - úprava návsi - PD, zeleň,\n231 3639 6121 301 2 033 630 300 000,00\npřeložka ČEZ (RZ 29/2025/ZM)\nLitovel - areál B. Němcové - bytový a parkovací\n231 3639 6121 3 003 610 163 500,00\ndům - PD pro ÚR + demolice (RZ 29/2025/ZM)\nNová ves - nový herní prvek - kolotoč (RZ\n231 3421 6122 303 2 033 470 120 000,00\n30/2025/ZM)\nRozvadovice - likvidace nevyhovujícího a\n231 3421 6122 304 2 033 470 150 000,00 pořízení nového herního prvku (RZ\n31/2025/ZM)\nChudobín - likvidace nevyhovujícího a pořízení\n231 3421 6122 302 2 033 470 250 000,00\nnového herního prvku (RZ 32/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMyslechovice KD - oprava střechy (RZ\n231 3392 5171 301 2 030 000 200 000,00\n33/2025/ZM)\nMyslechovice - KD - nové dveře (RZ\n231 3392 6121 301 2 030 000 60 000,00\n33/2025/ZM)\nFotovoltaika pro ČOV Litovel - projekční\n231 2321 6121 30 003 660 1 000 000,00\npříprava (RZ 34/2025/ZM)\nMěstský rozhlas - povodně - Tři Dvory -\n231 3341 6122 2 308 16 900 000 50 512,00 rozhlasová ústředna a mirkofon (RZ\n35/2025/ZM)\n231 6399 5365 14 000 000 1 985 200,00 platby daní a poplatků (RZ 26/2025/ZM)\nFinanční vypořádání roku 2024 - volby do EP\n231 6402 5364 98348 14 000 000 -162 966,68\n(RZ 37/2025/ZM)\nFinanční vypořádání roku 2024 - volby do\n231 6402 5364 98193 14 000 000 -174 132,64\nzastupit. kraje (RZ 37/2025/ZM)\nVratky přeplatků minulých období, platby dle\n231 6409 5901 14 000 000 337 099,32\nusnesení .. (RZ 37/2025/ZM)\nMěstká policie - licence MP manager (RZ\n231 5311 5042 9 000 000 399 300,00\n38/2025/ZM)\nMěstká policie - licence MP manager - paušál -\n231 5311 5168 9 000 000 130 000,00\ntehnická podpora aj.(RZ 38/2025/ZM)\nMuzeum Litovel - protipovodňové zábrany (RZ\n231 3315 6122 18 000 000 500 000,00\n39/2025/ZM)\nMuzeum Litovel - povodně - pořízení nábytku\n231 3315 5137 2 18 900 000 39 000,00\ndo dílny (RZ 40/2025/ZM)\nMuzeum Litovel - pořízení a instalace nového\n231 3315 5137 18 000 000 5 000,00\nohřevu vody v dílně (RZ 40/2025/ZM)\nMuzeum Litovel - povodně - nahození\n231 3315 5171 2 18 900 000 80 000,00\nosekaných omítek (RZ 41/2025/ZM)\nMuzeum Litovel - povodně - výmalba (RZ\n231 3315 5169 2 18 900 000 80 000,00\n41/2025/ZM)\nMuzeum Litovel - povodně - oprava\n231 3315 5171 2 18 900 000 70 000,00\nelektrorozvodů (RZ 41/2025/ZM)\nKoordinátor integrovaného dopravního systému\n231 2295 5323 3 003 468 27 258,40 Olomuckého kraje - příspěvek na dopravní\nobslužnost (RZ 42/2025/ZM)\nNebytové hospodářství - povodně - opravy (RZ\n231 3613 5171 2 12 900 000 730 000,00\n43/2025/ZM)\nHřbitov Litovel - Chořelice - oprava zdi +\n231 3632 5171 12 000 000 2 100 000,00\nvstupní portál (RZ 44/2025/ZM)\n236 6171 5901 1 000 000 458 086,98 čerpání sociálního fondu (RZ 45/2025/ZM)\n231 6330 5342 1 000 000 141 512,65 převod do sociálního fondu (RZ 46/2025/ZM)\n236 6171 5901 1 000 000 141 512,65 čerpání sociálního fondu (RZ 47/2025/ZM)\n231 3429 5901 4 000 000 -370 000,00 transfery dle rozhodnutí RM (RZ 48/2025/ZM)\nTJ Vodní sporty Litovel, z.s. - dotace na zajištění\n231 3419 5222 4 000 000 370 000,00 sportovní činnosti v roce 2025 (RZ\n48/2025/ZM)\n231 3429 5901 4 000 000 -930 000,00 transfery dle rozhodnutí RM (RZ 49/2025/ZM)\nCharita Šternberk, středisko Litovel - dotace na\n231 4359 5223 4 000 000 450 000,00 provozní náklady pečovatelské služby (RZ\n49/2025/ZM)\nCharita Šternberk, středisko Litovel - dotace na\n231 3900 5223 4 000 000 200 000,00 provozní náklady MC Rybička (RZ\n49/2025/ZM)\nCharita Šternberk, středisko Litovel - dotace na\n231 4359 5223 4 000 000 100 000,00\nmzdové náklady sester (RZ 49/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nCharita Šternberk, středisko Litovel - dotace na\n231 4359 5223 4 000 000 50 000,00 provozní náklady sanitárního kontejneru (RZ\n49/2025/ZM)\nCharita Šternberk, středisko Litovel - dotace na\n231 4371 5223 4 000 000 50 000,00 sociálně aktivizační služby pro rodiny s dětmi\n(RZ 49/2025/ZM)\nCharita Šternberk, středisko Litovel - dotace na\n231 4312 5223 4 000 000 50 000,00\nprovoz poradny Nedlužím (RZ 49/2025/ZM)\nCharita Šternberk, středisko Litovel - dotace na\n231 4359 5223 4 000 000 30 000,00 organizační zajištění pouti na Starém městě (RZ\n49/2025/ZM)\n231 3429 5901 4 000 000 -100 000,00 transfery dle rozhodnutí RM (RZ 50/2025/ZM)\nTJ Vodní sporty Litovel, z.s. - dotace na\n231 3419 5222 4 000 000 100 000,00 organizační zajištění sportovní soutěže BOBR\nCUP 2025 (RZ 50/2025/ZM)\n231 3429 5901 4 000 000 -4 500 000,00 transfery dle rozhodnutí RM (RZ 51/2025/ZM)\nTJ Tatran Litovel, z.s. - dotace na zajištění\n231 3419 5222 4 000 423 4 500 000,00 činnosti tělovýchovné jednot v roce 2025 (RZ\n51/2025/ZM)\nRozpočtová změna č. 1/2025/ZM\nDne 19. 12. 2024 obdrželo město Litovel od Ministerstva průmyslu a obchodu ČR dotaci na akci výměna svítidel - III.\netapa. Tato akce je realizována odborem MHaSI. Vlastní podíl města v rozpočtu na rok 2025 je již narozpočtován. Jedná\nse o zapojení dotačních prostředků do rozpočtu města.\nRozpočtová změna č. 2/2025/ZM\nVe schváleném rozpočtu města Litovel na rok 2025 nejsou zatím rozpočtovány podíly města k dotační akci Savín –\nvodovod, Nová Ves + Savín – splašková kanalizace. Dotační podíl již ve schváleném rozpočtu je. V souladu se záměry\nZM budou finanční prostředky čerpány z dlouhodobého úvěru u Komerční banky, a.s. na základě smlouvy podepsané\ndne 19. 12. 2024.\nRozpočtová změna č. 3/2025/ZM\nDne 24.1.2025 byla na finanční odbor doručena žádost od vedoucího odboru MHaSI na rozpočtovou změnu týkající se\nrevitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala). V souladu se záměry ZM budou\nfinanční prostředky čerpány z dlouhodobého úvěru u Komerční banky, a.s. na základě smlouvy podepsané dne 19. 12.\n2024.\nRozpočtová změna č. 4/2025/ZM\nDne 15. 1. 2025 požádala vedoucí Městské knihovny o navýšení rozpočtu z důvodu opravy porouchaného výtahu\nv budově Městské knihovny.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 5/2025/ZM\nDne 21.1.2025 požádala vedoucí Městské knihovny o navýšení rozpočtu z důvodu zvýšení ceny úklidových služeb.\nRozpočtová změna č. 6/2025/ZM\nDne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na akci Olomoucký rybník – oprava loviště. Jedná se o\nvícepráce vzniklé během realizace stavby. Jedná se o maximální částku. V současné době se jedná mezi zhotovitelem,\nstavebním dozorem a vedením města o přesném vyčíslení více a méněprací.\nRozpočtová změna č. 7/2025/ZM\nDne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu platby pro Povodí Moravy za zřízení služebnosti\n(věcného břemene) vzniklé v rámci realizace projektu Úpravy vodního toku Papírenská voda. Přesun z rozpočtu 2024.\nRozpočtová změna č. 8/2025/ZM\nDne 29.1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu nákladů spojených s přeložkou vedení nízkého\nnapětí. Přeložka sítě ČEZ Distribuce a.s., je vyvolána realizací stavby: Opravy na Radniční Moravě. Součástí této stavby\nje i stavba nového mostu v ulici Jungmannova včetně přeložky inženýrských sítí.\nRozpočtová změna č. 9/2025/ZM\nDne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu nákladů spojených s konzultačními službami\nv oblasti odpadového hospodářství.\nRozpočtová změna č. 10/2025/ZM\nDne 14. 1. 2025 požádal vedoucí OŽP o navýšení rozpočtu na úhradu nákladů na deratizaci, odchyt holubů a péči o\ntýraná zvířata.\nRozpočtová změna č. 11/2025/ZM\nDne 27.1.2025 byly na finanční odbor doručeny faktury od Kompostárny Nasobůrky za likvidaci biologicky\nrozložitelného odpadu souvisejícího s povodněmi v září 2024.\nRozpočtová změna č. 12/2025/ZM\nDne 30.1. 2025 byla na finanční obor doručena od vedoucího OŽP žádost na rozpočtovou změnu na zajištění pokrytí\nvýdajů na mytí a dezinfekci nádob na odpad.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 13/2025/ZM\nDne 15. 1. 2025 požádal útvar krizového řízení o navýšení rozpočtu na úseku Požární ochrana – dobrovolná část na\núhradu nákladů spojených s řešením povodňových škod po povodni v září 2024. Předpokládané výdaje zahrnují\nnapříklad refundace mezd a pojistného, ochranné pomůcky, drobný dlouhodobý hmotný majetek, opravy a udržování.\nRozpočtová změna č. 14/2025/ZM\nDne 16. 1. 2025 obdrželo město Litovel rozsudek Krajského soudu v Ostravě ve věci sporu mezi městem Litovel a\nMUDr. I. Š. Na základě tohoto rozsudku muselo město uhradit do 3 dnů od nabytí právní moci náhradu nákladů řízení\na náhradu nákladů odvolacího řízení v celkové výši 174.324,00 Kč.\nRozpočtová změna č. 15/2025/ZM\nDne 20.1.2025 požádal vedoucí oddělení vnitřních věcí o navýšení rozpočtu na realizaci výměny vstupních dveří a oken\nkanceláře krizového řízení a přilehlých skladů ve dvorové části budovy radnice.\nRozpočtová změna č. 16/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod v mateřských školách. Jedná\nse hlavně o osekání omítek v budově MŠ Čihadlo a nové omítky ve všech budovách MŠ zasažených povodní.\nRozpočtová změna č. 17/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod v Sokolovně v Litovli. Jedná\nse o nové zateplení podlah, krytinu, nové dveře.\nRozpočtová změna č. 18/2025/ZM\nDne 22.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na vyhotovení projektové dokumentace na zábavový areál\nv Litovli.\nRozpočtová změna č. 19/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod na budově zvláštní školy. Jedná\nse o zajištění statiky, opravy popraskaného zdiva.\nRozpočtová změna č. 20/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod na budově GJO. Jedná se o\nnové podlahy, krytinu, omítky, výmalbu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 21/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na řešení povodňových škod v knihovně ve Třech Dvorech.\nJedná se o novou elektřinu, omítky, výmalbu, krytinu.\nRozpočtová změna č. 22/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na pokrytí výdajů na PD - ZŠ a MŠ Nasobůrky -\nrekonstrukce (smlouva na 532.400,-).\nRozpočtová změna č. 23/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na pokrytí výdajů na administraci žádosti o dotaci na novu\nsportovní halu. Ve schváleném rozpočtu je na tuto administraci rozpočtováno 59 290 Kč, celkové výdaje činí 66 550\nKč.\nRozpočtová změna č. 24/2025/ZM\nDne 21.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu na pokrytí výdajů na administraci projektu rekonstrukce\nškolních družin a doplnění ICT ZŠ Jungmannova.\nRozpočtová změna č. 25/2025/ZM\nDne 30.1.2025 požádal vedoucí OŠKS o navýšení rozpočtu. OŠKS má ve schváleném rozpočtu 1 200 000 Kč na 2.\netapu modernizace řídícího systému vzduchotechniky a vytápění v ZŠ Vítězná. Dnes, tj. 30. ledna přišel od prováděcí\nfirmy návrh smlouvy, kde je uvedena cena 1 030 882 Kč bez DPH tj. 1 247 367,20 Kč s DPH se zdůvodněním, že je\nnutno nainstalovat část týkající se vizualizace stravování. Žádá proto o navýšení této části rozpočtu o 50 000 Kč.\nRozpočtová změna č. 26/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení herního prvku na zahradu KD v\nMyslechovicích. Jedná se o požadavek OV - víceúčelová herní sestava pro menší děti na zahradu KD.\nRozpočtová změna č. 27/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na odstranění zápachu na stokové síti –\nRozvadovice, Chořelice. Realizace akce má vyřešit únik zápachu z kanalizace v místní části Chořelice.\nRozpočtová změna č. 28/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení Smart WC do parku Míru. Jedná se o\npožadavek vedení města. Součástí chytrého WC bude i přebalovací pult, WC bude napojeno na kanalizaci, vodu,\nelektřinu. Realizací dojde ke zkvalitnění pobytu občanů v této lokalitě.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 29/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na akce, které se přesunuly z roku 2024 do roku\n2025.\nRozpočtová změna č. 30/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení herního prvku (kolotoč) na dětské\nhřiště na Nové Vsi. Jedná se o požadavek OV.\nRozpočtová změna č. 31/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na likvidaci nevyhovujícího a pořízení nového\nherního prvku v Rozvadovicích. Bude zlikvidována nevyhovující vahadlová houpačka a nahrazena novým herním\nprvkem.\nRozpočtová změna č. 32/2025/ZM\nDne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na likvidaci nevyhovujícího a pořízení nového\nherního prvku v Chudobíně. Bude zlikvidován nevyhovující herní prvek a nahrazen novými (3ks).\nRozpočtová změna č. 33/2025/ZM\nDne 27.1.2025 byla doručena od vedoucího MHaSI žádost na rozpočtovou změnu týkající se opravy střechy KD\nv Myslechovicích a výměnu vstupních dveří. Jedná se o demontáž staré krytiny a montáž nového modifikovaného pásu\nna střeše KD.v Myslechovicích. Na střeše se nyní nachází plechová střešní krytina, která je přibita hřebíky, které jsou\nz velké části uvolněny a povytaženy. Navíc, tato krytina vůbec není vhodná pro použití na tak malém sklonu. Původní\nkrytina bude nahrazena modifikovaným pásem Euroflex zelený o tloušťce 5,2mm, mechanicky kotveným k podkladu.\nRozpočtová změna č. 34/2025/ZM\nDne 27.1.2025 požádal vedoucí odboru MHaSI o rozpočtovou změnu týkající se pořízení fotovoltaiky pro ČOV Litovel..\nNa tuto akci je již rozhodnutí o poskytnutí dotace ve výši 50 % způsobilých nákladů. Nyní probíhá projekční příprava,\nadministrace dotace a statické posouzení stavu střech a plotu.\nRozpočtová změna č. 35/2025/ZM\nDne 23.1.2025 byla na finanční odbor doručena žádost od pracovníka krizového řízení na rozpočtovou změnu týkající\nse řešení povodňových škod. Jedná se pořízení nové rozhlasové ústředny a mikrofonu do Třech Dvorů. Původní byla\nzničena při povodních.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 36/2025/ZM\nÚprava odhadu daně z příjmů právnických osob za obce na základě předběžných účetních výkazů za rok 2024.\nRozpočtová změna č. 37/2025/ZM\nÚprava výdajové části rozpočtu dle finančního vypořádání roku 2024 sestaveného na základě předběžných účetních\nvýkazů za rok 2024.\nRozpočtová změna č. 38/2025/ZM\nDne 27.1.2025 byl doručen od zástupce velitele MP požadavek na rozpočtovou změnu. V rámci modernizace a nárůstu\nadministrativní agendy (stacionární radary) potřebuje MP aktualizovat informační systém. Jedná se o MP Manager,\nkterý v minulosti MP využívala. Dle cenové nabídky se jedná o jednorázovou platbu za licenci a měsíční paušál za\nservis, technickou a zákaznickou podporu, servisy pravidelných aktualizací aj. V rozpočtové změně je počítáno s deseti\nměsíčními paušály (březen – prosinec).\nRozpočtová změna č. 39/2025/ZM\nDne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na pořízení\nprotipovodňových zábran.\nRozpočtová změna č. 40/2025/ZM\nDne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na řešení povodňových\nškod. Jedná se o náhradu zbývající části poničeného nábytku v dílně a odstranění starého a instalaci nového\n(úspornějšího) ohřevu vody v dílně.\nRozpočtová změna č. 41/2025/ZM\nDne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na řešení povodňových škod.\nRozpočtová změna č. 42/2025/ZM\nDne 28.1.2025 byla na finanční odbor doručena informace od Koordinátora integrovaného dopravního systému\nOlomouckého kraje o výši příspěvku města Litovel na zajištění dopravní obslužnosti Olomouckého kraje na rok 2025.\nV této informaci je vyčísleno inflační navýšení ve výši 2,4% proti roku 2024. Ve schváleném rozpočtu města Litovel na\nrok 2025 je plánována hodnota 1.900.000,00 Kč, RZ řeší navýšení o chybějící prostředky na skutečný stav dle doručené\ninformace.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 43/2025/ZM\nDne 29.1.2025 požádala vedoucí OBH o rozpočtovou změnu týkající se odstranění škod po povodni v nebytovém\nprostoru v budově Sokolovny - ve Fitcentru. Jedná se o vysoušení nebytového prostoru, odstranění stávající podlahové\nkrytiny, osekání vlhkého zdiva, natažení nových sanačních omítek, nové podlahy.\nRozpočtová změna č. 44/2025/ZM\nDne 29.1.2025 požádala vedoucí OBH o navýšení rozpočtu na opravu hřbitovní zdi se vstupním portálem vč. odvodnění\nzpevněných ploch na hřbitově v Litovli – Chořelicích. Projektová dokumentace byla dokončena v prosinci r. 2024.\nJedná se o opravu části hřbitovní zdi se vstupním portálem hřbitova Litovel – Chořelice. Součástí je také úprava\nnejbližšího přilehlého okolí a odvedení dešťových vod ode zdi a zpevněných ploch hřbitova.\nRozpočtová změna č. 45/2025/ZM - Zapojení zůstatku na bankovním účtu SF k 31. 12. 2024 do rozpočtu SF na\nrok 2025 § 6171\nNa účtu Sociálního fondu byl k 31.12.2024 zůstatek ve výši 458.086,98 Kč, který je potřeba zapojit do rozpočtu\nSociálního fondu na rok 2025.\nRozpočtová změna č. 46/2025/ZM - Vyúčtování přídělu finančních prostředků za rok 2024 do Sociálního fondu\nV souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno vyúčtování skutečné\nvýše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných – čl. 1, bod 1) a skutečně\nvyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, doručené 28. 1. 2025, ze kterého\nvyplývá rozdíl ve výši 141.512,65 Kč, který má být odveden ve prospěch Sociálního fondu.\nRozpočtová změna č. 47/2025/ZM - Příjem finančních prostředků do rozpočtu Sociálního fondu na rok 2025 dle\nvyúčtování za rok 2024\nV souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno vyúčtování skutečné\nvýše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných – čl. 1, bod 1) a skutečně\nvyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, doručené 28. 1. 2025, ze kterého\nvyplývá rozdíl ve výši 141.512,65 Kč, který má být odveden ve prospěch Sociálního fondu.\nRozpočtová změna č. 48/2025/ZM – RZ 51/2025/ZM\nDotace poskytnuté žadatelům o finanční podporu na rok 2025.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 25.2.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

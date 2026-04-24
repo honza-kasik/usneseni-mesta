@@ -61,13 +61,20 @@ def main():
 
     for p in sorted(args.input.glob("*.json")):
         data = json.loads(p.read_text(encoding="utf-8"))
-        parsed = parse_id(data["id"])
+        if not isinstance(data, dict):
+            continue
+
+        resolution_id = data.get("id")
+        if not resolution_id:
+            continue
+
+        parsed = parse_id(resolution_id)
         if not parsed:
             continue
 
         num, schuze, rok = parsed
         usneseni.append(data)
-        by_key[(num, schuze)].append((rok, data["id"]))
+        by_key[(num, schuze)].append((rok, resolution_id))
 
     # seřaď kandidáty podle roku (vzestupně)
     for k in by_key:

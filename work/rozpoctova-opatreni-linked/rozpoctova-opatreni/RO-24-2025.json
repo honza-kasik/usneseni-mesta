@@ -1,0 +1,476 @@
+{
+  "id": "RO/24/2025",
+  "number": 24,
+  "year": 2025,
+  "approval_date": "2025-12-11",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "92/2025/ZM",
+    "93/2025/ZM",
+    "94/2025/ZM",
+    "95/2025/ZM",
+    "96/2025/ZM",
+    "97/2025/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "92/2025/ZM",
+          "raw_codes": [
+            "1112"
+          ],
+          "amount": "107 380,75",
+          "amount_value": 107380.75,
+          "description": "příjem z daně z příjmů FO(RZ 92/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "4113",
+            "90002",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "190 626,74",
+          "amount_value": 190626.74,
+          "description": "SFŽP ČR - neinv. přijaté transfery se SF - vodovod Savín (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "4213",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "-17 234 531,30",
+          "amount_value": -17234531.3,
+          "description": "SFŽP ČR - inv. přijaté transfery se SF - vodovod Savín (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "4116",
+            "148515016"
+          ],
+          "amount": "834 342,94",
+          "amount_value": 834342.94,
+          "description": "MŽP ČR - neinv. dotace - Savín + Nová Ves - splašková kanalizace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "4216",
+            "148515501"
+          ],
+          "amount": "-36 231 176,03",
+          "amount_value": -36231176.03,
+          "description": "MŽP ČR - inv. dotace - Savín + Nová Ves - splašková kanalizace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "96/2025/ZM",
+          "raw_codes": [
+            "4216",
+            "14504",
+            "13 000 286"
+          ],
+          "amount": "-10 483 032,00",
+          "amount_value": -10483032.0,
+          "description": "MV ČR - inv. účel. dotace - Zajitění kyberbezpečnosti MěÚ Litovel (RZ 96/2025/ZM)"
+        },
+        {
+          "budget_change_id": "97/2025/ZM",
+          "raw_codes": [
+            "1113"
+          ],
+          "amount": "156 574,00",
+          "amount_value": 156574.0,
+          "description": "příjem z daně z příjmů FO vybírané srážkou podle zvláštní sazby daně (RZ 97/2025/ZM)"
+        },
+        {
+          "budget_change_id": "97/2025/ZM",
+          "raw_codes": [
+            "111"
+          ],
+          "amount": "3 156 574,00",
+          "amount_value": 3156574.0,
+          "description": ") příjem z daně z příjmů FO vybírané srážkou podle zvláštní sazby daně (RZ 97/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "92/2025/ZM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "107 380,75",
+          "amount_value": 107380.75,
+          "description": "ZŠ Jungmannova - neinvestiční příspěvek (RZ 92/2025/ZM)"
+        },
+        {
+          "budget_change_id": "93/2025/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "1 240 000,00",
+          "amount_value": 1240000.0,
+          "description": "revitalizace sportovního areálu Sokolovny v Litovli (RZ 93/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90002",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "-480 000,00",
+          "amount_value": -480000.0,
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "480 000,00",
+          "amount_value": 480000.0,
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90002",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "190 626,74",
+          "amount_value": 190626.74,
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "-17 234 531,30",
+          "amount_value": -17234531.3,
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90002",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "99 767,92",
+          "amount_value": 99767.92,
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "2310",
+            "6121",
+            "90992",
+            "311",
+            "3 003 597"
+          ],
+          "amount": "1 563 032,82",
+          "amount_value": 1563032.82,
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515016",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "-483 337,00",
+          "amount_value": -483337.0,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515016",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "-480 000,01",
+          "amount_value": -480000.01,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "483 337,00",
+          "amount_value": 483337.0,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "480 000,01",
+          "amount_value": 480000.01,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515016",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "400 964,67",
+          "amount_value": 400964.67,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "-18 115 588,02",
+          "amount_value": -18115588.02,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "-18 115 588,01",
+          "amount_value": -18115588.01,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "303",
+            "3 003 599"
+          ],
+          "amount": "163 737,27",
+          "amount_value": 163737.27,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515501",
+            "311",
+            "3 003 598"
+          ],
+          "amount": "3 303 900,47",
+          "amount_value": 3303900.47,
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "96/2025/ZM",
+          "raw_codes": [
+            "6171",
+            "6122",
+            "14504",
+            "13 000 286"
+          ],
+          "amount": "-10 483 032,00",
+          "amount_value": -10483032.0,
+          "description": "Zajištění kyber. bezpečnosti MěÚ Litovel - dotace (RZ 96/2025/ZM)"
+        },
+        {
+          "budget_change_id": "96/2025/ZM",
+          "raw_codes": [
+            "6171",
+            "6122",
+            "14504",
+            "13 000 286"
+          ],
+          "amount": "6 440 800,00",
+          "amount_value": 6440800.0,
+          "description": "Zajištění kyber. bezpečnosti MěÚ Litovel - dotace (RZ 96/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "148515016",
+            "311",
+            "3",
+            "003",
+            "598"
+          ],
+          "amount": "378 194,67",
+          "amount_value": 378194.67,
+          "description": ") Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "93/2025/ZM",
+          "raw_codes": [
+            "8123"
+          ],
+          "amount": "1 240 000,00",
+          "amount_value": 1240000.0,
+          "description": "dlouhodobé úvěry (RZ 93/2025/ZM)"
+        },
+        {
+          "budget_change_id": "94/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "1 662 800,74",
+          "amount_value": 1662800.74,
+          "description": "změna stavu fin. prostředků na BÚ (RZ 94/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-55 183,60",
+          "amount_value": -55183.6,
+          "description": "změna stavu fin. prostředků na BÚ (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "95/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "3 467 637,74",
+          "amount_value": 3467637.74,
+          "description": "změna stavu fin. prostředků na BÚ (RZ 95/2025/ZM)"
+        },
+        {
+          "budget_change_id": "96/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "6 440 800,00",
+          "amount_value": 6440800.0,
+          "description": "změna stavu fin. prostředků na BÚ (RZ 96/2025/ZM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 92/2025/ZM",
+      "text": "Dne 3.10.2025 požádala ředitelka ZŠ Jungmannova o navýšení provozního příspěvku. Navýšení je požadováno, aby byly pokryty výdaje na odpisy majetku, které se zvýšily z důvodu předání majetku k hospodaření a pořízení majetku z dotačních prostředků během roku. Žádost je přílohou rozpočtových změn."
+    },
+    {
+      "title": "Rozpočtová změna č. 93/2025/ZM",
+      "text": "Rozpočtová změna na základě požadavku vedoucího OŠKS ze dne 20. 11. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 94/2025/ZM",
+      "text": "Ve schváleném rozpočtu na rok 2025 byla rozpočtována dotace na akci Savín – vodovod ve výši 22 681 010 Kč. V rozpočtu byla zahrnuta celá dotace na tuto akci dle obdrženého rozhodnutí a jako investiční. Skutečná výše obdržené dotace od SFŽP ČR činí 5 637 105,44 Kč, z toho bylo 190 626,74 Kč poskytnuto jako neinvestiční dotace a 5 446 478,70 Kč jako investiční dotace. Ve výdajové části rozpočtu byly dotační výdaje rozpočtovány ve stejné výši jako v příjmové části. V souladu s dotačními podmínkami bylo čerpáno a příslušnými účelovými znaky (dále jen UZ) označeno celkem 7 299 906,18 Kč, z toho 7 009 511,52 Kč UZ pro investiční výdaje a 290 394,66 Kč pro investiční výdaje. Jelikož poskytovatel poslal část dotace i jako neinvestiční, bylo nutné i výdaje označit určeným UZ a změnou rozpisu rozpočtu došlo ve výdajích ke změně UZ určeného pro neinvestiční výdaje. Objem rozpočtovaných dotačních výdajů se nezměnil. Rozpočtová změna řeší v první části úpravu rozpočtu na příjmové a výdajové straně dle skutečně obdržených dotačních prostředků a úpravu UZ. Druhá část řeší předfinancování uznatelných výdajů (označených UZ). Akce pokračuje v rozpočtu roku 2026."
+    },
+    {
+      "title": "Rozpočtová změna č. 95/2025/ZM",
+      "text": "Ve schváleném rozpočtu na rok 2025 byla rozpočtována dotace na akci Savín + Nová Ves – splašková kanalizace ve výši 60 069 546,11 Kč. V rozpočtu byla zahrnuta celá dotace na tuto akci dle obdrženého rozhodnutí. Skutečná výše obdržené dotace od v roce 2025 činí 24 672 713,02 Kč (z toho 834 342,94 Kč neinvestiční a 23 838 370,08 Kč investiční dotace. Ve výdajové části rozpočtu byly dotační výdaje rozpočtovány ve stejné výši jako v příjmové části. V souladu s dotačními podmínkami bylo čerpáno a příslušnými účelovými znaky (dále jen UZ) označeno celkem 28 085 167,16 Kč, z toho 27 306 007,82 Kč UZ pro investiční výdaje a 779 159,34 Kč pro investiční výdaje. Jelikož poskytovatel poslal část dotace i jako neinvestiční, bylo nutné i výdaje označit určeným UZ a změnou rozpisu rozpočtu došlo ve výdajích ke změně UZ určeného pro neinvestiční výdaje. Objem rozpočtovaných dotačních výdajů se nezměnil. Rozpočtová změna řeší v první části úpravu rozpočtu na příjmové a výdajové straně dle skutečně obdržených dotačních prostředků a úpravu UZ. Druhá část řeší předfinancování uznatelných výdajů (označených UZ). Akce pokračuje v rozpočtu roku 2026."
+    },
+    {
+      "title": "Rozpočtová změna č. 96/2025/ZM",
+      "text": "Ve schváleném rozpočtu je rozpočtovaná akce Zajištění kyber. bezpečnosti MěÚ Litovel. V rozpočtu města byla rozpočtovaná dotace na tuto akci ve výši 12 446 832 Kč. Skutečně obdržené dotační prostředky činí 1 963 800 Kč. V souladu s rozhodnutím o poskytnutí dotace byly účelovým znakem označeny výdaje ve výši 8 404 600 Kč. Rozpočtová změna řeší v první části úpravu rozpočtu dle skutečně obdržených dotačních prostředků a v druhé části předfinancování uznatelných výdajů (označených UZ). Akce pokračuje v rozpočtu roku 2026, kdy se očekává platba faktur a příjem dotačních prostředků."
+    },
+    {
+      "title": "Rozpočtová změna č. 97/2025/ZM",
+      "text": "HZS Olomouckého kraj, požární stanice Litovel požádal město Litovel o zakoupení a umístění průmyslové pračky a sušičky na zásahové obleky hasičů na stanici profesionálních hasičů v Litovli. Dle cenové nabídky se jedná o sestavu pračky a sušičky SpeedQueen STW10 a Bright Logic WL4 a dávkovač tekutých prostředků Brightlogic WL4 a cena činí 156 574 Kč. Vedení města se rozhodlo jejich žádosti vyhovět. Žádost a cenová nabídka je součástí tohoto materiálu."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._24_2025_dne_11.12.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 24/2025 schválené Zastupitelstvem města Litovel\ndne 11.12. 2025\nRozpočtové opatření bylo schváleno na 23. zasedání města Litovel dne 11. prosince 2025 na základě usnesení\nZM/4/23/2025.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\n1112 107 380,75 příjem z daně z příjmů FO(RZ 92/2025/ZM)\nSFŽP ČR - neinv. přijaté transfery se SF -\n4113 90002 311 3 003 597 190 626,74\nvodovod Savín (RZ 94/2025/ZM)\nSFŽP ČR - inv. přijaté transfery se SF -\n4213 90992 311 3 003 597 -17 234 531,30\nvodovod Savín (RZ 94/2025/ZM)\nMŽP ČR - neinv. dotace - Savín + Nová Ves -\n4116 148515016 834 342,94\nsplašková kanalizace (RZ 95/2025/ZM)\nMŽP ČR - inv. dotace - Savín + Nová Ves -\n4216 148515501 -36 231 176,03\nsplašková kanalizace (RZ 95/2025/ZM)\nMV ČR - inv. účel. dotace - Zajitění\n4216 14504 13 000 286 -10 483 032,00 kyberbezpečnosti MěÚ Litovel (RZ\n96/2025/ZM)\npříjem z daně z příjmů FO vybírané srážkou\n1113 156 574,00\npodle zvláštní sazby daně (RZ 97/2025/ZM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\nZŠ Jungmannova - neinvestiční příspěvek (RZ\n3113 5331 46 4 000 000 107 380,75\n92/2025/ZM)\nrevitalizace sportovního areálu Sokolovny v\n3412 6121 4 000 442 1 240 000,00\nLitovli (RZ 93/2025/ZM)\n2310 6121 90002 311 3 003 597 -480 000,00 Vodovod Savín - dotace (RZ 94/2025/ZM)\n2310 6121 90992 311 3 003 597 480 000,00 Vodovod Savín - dotace (RZ 94/2025/ZM)\n2310 6121 90002 311 3 003 597 190 626,74 Vodovod Savín - dotace (RZ 94/2025/ZM)\n2310 6121 90992 311 3 003 597 -17 234 531,30 Vodovod Savín - dotace (RZ 94/2025/ZM)\n2310 6121 90002 311 3 003 597 99 767,92 Vodovod Savín - dotace (RZ 94/2025/ZM)\n2310 6121 90992 311 3 003 597 1 563 032,82 Vodovod Savín - dotace (RZ 94/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515016 303 3 003 599 -483 337,00\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515016 311 3 003 598 -480 000,01\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515501 303 3 003 599 483 337,00\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515501 311 3 003 598 480 000,01\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515016 303 3 003 599 400 964,67\ndotace (RZ 95/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515016 311 3 003 598 378 194,67\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515501 303 3 003 599 -18 115 588,02\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515501 311 3 003 598 -18 115 588,01\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515501 303 3 003 599 163 737,27\ndotace (RZ 95/2025/ZM)\nSavín + Nová Ves - splašková kanalizace -\n2321 6121 148515501 311 3 003 598 3 303 900,47\ndotace (RZ 95/2025/ZM)\nZajištění kyber. bezpečnosti MěÚ Litovel -\n6171 6122 14504 13 000 286 -10 483 032,00\ndotace (RZ 96/2025/ZM)\nZajištění kyber. bezpečnosti MěÚ Litovel -\n6171 6122 14504 13 000 286 6 440 800,00\ndotace (RZ 96/2025/ZM)\nPožární ochrana - profesionální část -\n5511 6122 15 000 000 120 879,00 průmyslová pračka a sušička - dávkovač\ntekutých prostředků (RZ97/2025/ZM)\nPožární ochrana - profesionální část -\n5511 5137 15 000 000 35 695,00 průmyslová pračka a sušička\n(RZ97/2025/ZM)\nZměny ve financování:\nODPA POL UZ ORJ ORG Kč\n8123 1 240 000,00 dlouhodobé úvěry (RZ 93/2025/ZM)\nzměna stavu fin. prostředků na BÚ (RZ\n8115 1 662 800,74\n94/2025/ZM)\nzměna stavu fin. prostředků na BÚ (RZ\n8115 -55 183,60\n95/2025/ZM)\nzměna stavu fin. prostředků na BÚ (RZ\n8115 3 467 637,74\n95/2025/ZM)\nzměna stavu fin. prostředků na BÚ (RZ\n8115 6 440 800,00\n96/2025/ZM)\nRozpočtová změna č. 92/2025/ZM\nDne 3.10.2025 požádala ředitelka ZŠ Jungmannova o navýšení provozního příspěvku. Navýšení je požadováno, aby\nbyly pokryty výdaje na odpisy majetku, které se zvýšily z důvodu předání majetku k hospodaření a pořízení majetku\nz dotačních prostředků během roku. Žádost je přílohou rozpočtových změn.\nRozpočtová změna č. 93/2025/ZM\nRozpočtová změna na základě požadavku vedoucího OŠKS ze dne 20. 11. 2025.\nRozpočtová změna č. 94/2025/ZM\nVe schváleném rozpočtu na rok 2025 byla rozpočtována dotace na akci Savín – vodovod ve výši 22 681 010\nKč. V rozpočtu byla zahrnuta celá dotace na tuto akci dle obdrženého rozhodnutí a jako investiční. Skutečná\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nvýše obdržené dotace od SFŽP ČR činí 5 637 105,44 Kč, z toho bylo 190 626,74 Kč poskytnuto jako\nneinvestiční dotace a 5 446 478,70 Kč jako investiční dotace.\nVe výdajové části rozpočtu byly dotační výdaje rozpočtovány ve stejné výši jako v příjmové části. V souladu\ns dotačními podmínkami bylo čerpáno a příslušnými účelovými znaky (dále jen UZ) označeno celkem\n7 299 906,18 Kč, z toho 7 009 511,52 Kč UZ pro investiční výdaje a 290 394,66 Kč pro investiční výdaje.\nJelikož poskytovatel poslal část dotace i jako neinvestiční, bylo nutné i výdaje označit určeným UZ a změnou\nrozpisu rozpočtu došlo ve výdajích ke změně UZ určeného pro neinvestiční výdaje. Objem rozpočtovaných\ndotačních výdajů se nezměnil.\nRozpočtová změna řeší v první části úpravu rozpočtu na příjmové a výdajové straně dle skutečně obdržených\ndotačních prostředků a úpravu UZ. Druhá část řeší předfinancování uznatelných výdajů (označených UZ).\nAkce pokračuje v rozpočtu roku 2026.\nRozpočtová změna č. 95/2025/ZM\nVe schváleném rozpočtu na rok 2025 byla rozpočtována dotace na akci Savín + Nová Ves – splašková\nkanalizace ve výši 60 069 546,11 Kč. V rozpočtu byla zahrnuta celá dotace na tuto akci dle obdrženého\nrozhodnutí. Skutečná výše obdržené dotace od v roce 2025 činí 24 672 713,02 Kč (z toho 834 342,94 Kč\nneinvestiční a 23 838 370,08 Kč investiční dotace.\nVe výdajové části rozpočtu byly dotační výdaje rozpočtovány ve stejné výši jako v příjmové části. V souladu\ns dotačními podmínkami bylo čerpáno a příslušnými účelovými znaky (dále jen UZ) označeno celkem\n28 085 167,16 Kč, z toho 27 306 007,82 Kč UZ pro investiční výdaje a 779 159,34 Kč pro investiční výdaje.\nJelikož poskytovatel poslal část dotace i jako neinvestiční, bylo nutné i výdaje označit určeným UZ a změnou\nrozpisu rozpočtu došlo ve výdajích ke změně UZ určeného pro neinvestiční výdaje. Objem rozpočtovaných\ndotačních výdajů se nezměnil.\nRozpočtová změna řeší v první části úpravu rozpočtu na příjmové a výdajové straně dle skutečně obdržených\ndotačních prostředků a úpravu UZ. Druhá část řeší předfinancování uznatelných výdajů (označených UZ).\nAkce pokračuje v rozpočtu roku 2026.\nRozpočtová změna č. 96/2025/ZM\nVe schváleném rozpočtu je rozpočtovaná akce Zajištění kyber. bezpečnosti MěÚ Litovel. V rozpočtu města\nbyla rozpočtovaná dotace na tuto akci ve výši 12 446 832 Kč. Skutečně obdržené dotační prostředky činí 1 963\n800 Kč.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nV souladu s rozhodnutím o poskytnutí dotace byly účelovým znakem označeny výdaje ve výši 8 404 600 Kč.\nRozpočtová změna řeší v první části úpravu rozpočtu dle skutečně obdržených dotačních prostředků a v druhé\nčásti předfinancování uznatelných výdajů (označených UZ). Akce pokračuje v rozpočtu roku 2026, kdy se\nočekává platba faktur a příjem dotačních prostředků.\nRozpočtová změna č. 97/2025/ZM\nHZS Olomouckého kraj, požární stanice Litovel požádal město Litovel o zakoupení a umístění průmyslové\npračky a sušičky na zásahové obleky hasičů na stanici profesionálních hasičů v Litovli. Dle cenové nabídky\nse jedná o sestavu pračky a sušičky SpeedQueen STW10 a Bright Logic WL4 a dávkovač tekutých prostředků\nBrightlogic WL4 a cena činí 156 574 Kč. Vedení města se rozhodlo jejich žádosti vyhovět. Žádost a cenová\nnabídka je součástí tohoto materiálu.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 18.12. 2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1977/65/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "92/2025/ZM",
+        "93/2025/ZM",
+        "94/2025/ZM",
+        "95/2025/ZM",
+        "96/2025/ZM",
+        "97/2025/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/4/23/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "92/2025/ZM",
+        "93/2025/ZM",
+        "94/2025/ZM",
+        "95/2025/ZM",
+        "96/2025/ZM",
+        "97/2025/ZM"
+      ]
+    }
+  ]
+}

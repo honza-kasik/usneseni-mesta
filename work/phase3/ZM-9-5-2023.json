@@ -1,0 +1,25 @@
+{
+  "id": "ZM/9/5/2023",
+  "datum": "2023-06-19",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předloženou Kupní smlouvu, podle které prodávající, tj. město Litovel, IČO 00299138, zastoupené\nstarostou, prodává nově vzniklé pozemky parc.č. 725/1, orná půda, o výměře cca 2.821 m2, parc.č. 725/13, orná\npůda, o výměře cca 1.566 m2, parc.č. 725/23, orná půda, o výměře cca 65 m2 a parc.č. 725/22, orná půda, o výměře\ncca 34 m2 (celková výměra prodávaných pozemků je 4.486 m2), vše v k.ú. Litovel, obec Litovel, kupujícímu,\nspolečnosti FORblock s.r.o., IČO 06156908, se sídlem Pavlínka 4/5, 784 01 Litovel, zastoupené Ing. Jiřím\nSedláčkem za cenu 1.500 Kč/m2 + DPH."
+    },
+    {
+      "label": "b",
+      "text": "ukládá starostovi podepsat Kupní smlouvu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "1.500 Kč"
+  ]
+}

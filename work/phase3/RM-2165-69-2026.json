@@ -1,0 +1,29 @@
+{
+  "id": "RM/2165/69/2026",
+  "datum": "2026-03-12",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje své usnesení č. RM/2067/67/2026 pod bodem a). Zbývající část usnesení pod bodem b) zůstává\nv platnosti."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje místo pro umístění automatického modulu typu CWC R110 veřejných sociálních zařízení od firmy\nDAKO Brno, spol. s.r.o., v parku Míru v Litovli, na části pozemku parc.č. 102/4, v k.ú. Litovel, vedeného v kultuře\nostatní plocha – zeleň, konkrétně mezi dvěma stávajícími stromy."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "RM/2067/67/2026",
+      "type": "explicit",
+      "resolved": "RM/2067/67/2026"
+    }
+  ],
+  "amounts": []
+}

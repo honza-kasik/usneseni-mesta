@@ -1,0 +1,23 @@
+{
+  "id": "ZM/18/22/2025",
+  "datum": "2025-09-25",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí aktualizovaný strategický plán rozvoje města Litovel a aktualizovaný akční plán."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje aktualizovaný strategický plán rozvoje města Litovel včetně aktualizovaného akčního plánu pro\nobdobí 2024-2030."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ZM/16/6/2023",
+  "datum": "2023-09-14",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje přijetí dotace ve výši 202.714 Kč z programu Národní plán obnovy – Podpora přirozených funkcí\nkrajiny na realizaci projektu: Liniová výsadba u Litovle – k.ú. Unčovice."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "202.714 Kč"
+  ]
+}

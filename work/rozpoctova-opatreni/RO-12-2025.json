@@ -1,0 +1,331 @@
+{
+  "id": "RO/12/2025",
+  "number": 12,
+  "year": 2025,
+  "approval_date": "2025-06-24",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 20,
+    "type": "zasedání",
+    "date": "24. června"
+  },
+  "source_resolutions": [
+    "ZM/8/20/2025"
+  ],
+  "budget_change_ids": [
+    "62/2025/ZM",
+    "63/2025/ZM",
+    "64/2025/ZM",
+    "65/2025/ZM",
+    "66/2025/ZM",
+    "67/2025/ZM",
+    "68/2025/ZM",
+    "69/2025/ZM",
+    "70/2025/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "67/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 67/2025/ZM)"
+        },
+        {
+          "budget_change_id": "68/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 68/2025/ZM)"
+        },
+        {
+          "budget_change_id": "69/2025/ZM",
+          "raw_codes": [
+            "231",
+            "8115"
+          ],
+          "amount": "302 016,00",
+          "amount_value": 302016.0,
+          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 69/2025/ZM)"
+        },
+        {
+          "budget_change_id": "68/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 200 000,00",
+          "amount_value": 5200000.0,
+          "description": ") změna stavu finančních prostředků na bankovních účtech (RZ 68/2025/ZM"
+        },
+        {
+          "budget_change_id": "69/2025/ZM",
+          "raw_codes": [
+            "231",
+            "811"
+          ],
+          "amount": "5 302 016,00",
+          "amount_value": 5302016.0,
+          "description": ") změna stavu finančních prostředků na bankovních účtech (RZ 69/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "64/2025/ZM",
+          "raw_codes": [
+            "231",
+            "1334"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 64/2025/ZM)"
+        },
+        {
+          "budget_change_id": "65/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "2111"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "sběr a svoz komunálních odpadů - příjmy z poskytování služeb (RZ 65/2025/ZM)"
+        },
+        {
+          "budget_change_id": "70/2025/ZM",
+          "raw_codes": [
+            "231",
+            "1334"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 70/2025/ZM)"
+        },
+        {
+          "budget_change_id": "65/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "211"
+          ],
+          "amount": "1 300 000,00",
+          "amount_value": 1300000.0,
+          "description": ") sběr a svoz komunálních odpadů - příjmy z poskytování služeb (RZ 65/2025/ZM"
+        },
+        {
+          "budget_change_id": "70/2025/ZM",
+          "raw_codes": [
+            "231",
+            "133"
+          ],
+          "amount": "4 300 000,00",
+          "amount_value": 4300000.0,
+          "description": ") příjmy z odvodů za odnětí půdy ze ZPF (RZ 70/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "62/2025/ZM",
+          "raw_codes": [
+            "231",
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-370 000,00",
+          "amount_value": -370000.0,
+          "description": "úroky z úvěrů (RZ 62/2025/ZM)"
+        },
+        {
+          "budget_change_id": "62/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "370 000,00",
+          "amount_value": 370000.0,
+          "description": "Litovel - park pro psy (RZ 62/2025/ZM)"
+        },
+        {
+          "budget_change_id": "63/2025/ZM",
+          "raw_codes": [
+            "236",
+            "3744",
+            "6119",
+            "3 000 000"
+          ],
+          "amount": "-1 161 600,00",
+          "amount_value": -1161600.0,
+          "description": "FRNPPO - Hydrotechnické posouzení vlivu povodně na město (RZ 63/2025/ZM)"
+        },
+        {
+          "budget_change_id": "63/2025/ZM",
+          "raw_codes": [
+            "236",
+            "3744",
+            "6119",
+            "7 000 000"
+          ],
+          "amount": "1 161 600,00",
+          "amount_value": 1161600.0,
+          "description": "FRNPPO - Hydrotechnické posouzení vlivu povodně na město (RZ 63/2025/ZM)"
+        },
+        {
+          "budget_change_id": "64/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3729",
+            "6121",
+            "7 000 782"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Haňovice - II. etapa - realizace záměru - váha, buňka, zázemí aj. (RZ 64/2025/ZM)"
+        },
+        {
+          "budget_change_id": "65/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3722",
+            "5137",
+            "7 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "odpadové hospodářství - pořízení sběrných nádob, kontejnerů (RZ 65/2025/ZM)"
+        },
+        {
+          "budget_change_id": "66/2025/ZM",
+          "raw_codes": [
+            "231",
+            "2321",
+            "6121",
+            "304",
+            "3 003 659"
+          ],
+          "amount": "-920 000,00",
+          "amount_value": -920000.0,
+          "description": "Rozvadovice, Chořelice - odstranění zápachu na stokové síti (RZ 66/2025/ZM)"
+        },
+        {
+          "budget_change_id": "66/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3412",
+            "6122",
+            "308",
+            "2 033 470"
+          ],
+          "amount": "920 000,00",
+          "amount_value": 920000.0,
+          "description": "Tři Dvory - workout (RZ 66/2025/ZM)"
+        },
+        {
+          "budget_change_id": "67/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "transfery a dary dle rozhodnutí RM (RZ 67/2025/ZM)"
+        },
+        {
+          "budget_change_id": "68/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3330",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Římskokatolická farnost Litovel - dotace- na oprava - výměna střešní krytiny na budově fary (RZ 68/2025/ZM)"
+        },
+        {
+          "budget_change_id": "69/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3639",
+            "5166",
+            "3 000 000"
+          ],
+          "amount": "302 016,00",
+          "amount_value": 302016.0,
+          "description": "Strategický plán rozvoje města (RZ 69/2025/ZM)"
+        },
+        {
+          "budget_change_id": "70/2025/ZM",
+          "raw_codes": [
+            "231",
+            "3745",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "veřejná zeleň - nákup služeb (RZ 70/2025/ZM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 63/2025/ZM",
+      "text": "Odbor MH a SI má ve schváleném rozpočtu na rok 2025 vyčleněnou částku na zpracování studie: Hydrotechnické posouzení a návrh protipovodňových opatření. Po poradě s vedením města bylo rozhodnuto, že zpracování této studie bude mít na starosti odbor ŽP. Zástupci odboru ŽP se několikrát zúčastnili jednání s Povodím Moravy, jsou členy povodňové komise. Vzhledem k tomu, že v současné době není odbor MH a SI personálně plně zajištěn, tak se jedná o logické rozhodnutí, které by mělo zajistit bezproblémovou realizaci této akce."
+    },
+    {
+      "title": "Rozpočtová změna č. 64/2025/ZM",
+      "text": "Dobývací prostor Haňovice - jedná se o dobudování zázemí pro obsluhu na dobývacím prostoru. Původně byla v návrhu rozpočtu uvedena částka 1,5 mil. Kč. Poté byla při tvorbě rozpočtu částka snížena o 300 000 Kč. Stavba již byly započata (instalace mostní váhy, základy pro buňku apod.), ale ukazuje se nyní, že původní navrhovaná částka byla reálná, a proto odbor ŽP žádá o navýšení rozpočtu na tuto akci o 300 000 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 65/2025/ZM",
+      "text": "Rozpočtová změna na základě návrhu OŽP, řešící navýšení výdajů na odpadové hospodářství. Jedná se o částku na pořízení sběrných nádob a kontejnerů na tříděný odpad (především se to týká biologického odpadu) a pouličních košů na tříděný odpad. Výdaje budou pokryty zlepšenými příjmy v oblasti odpadového hospodářství."
+    },
+    {
+      "title": "Rozpočtová změna č. 66/2025/ZM",
+      "text": "Osadní výbor Tři Dvory ve spolupráci s JSDH Tři Dvory vznesli požadavek na pořízení workoutových prvků včetně dopadové plochy v prostoru u hasičské zbrojnice vedle dětského hřiště. Akce bude hrazena z participativního rozpočtu, který budou mít tímto Tři Dvory vyčerpaný. Akce Rozvadovice, Chořelice – odstranění zápachu na stokové síti bude letos jen projektována, realizace proběhne v příštím roce."
+    },
+    {
+      "title": "Rozpočtová změna č. 67/2025/ZM",
+      "text": "Rozpočtová změna na základě požadavku vedoucího OŠKS ze dne 4. 6. 2025: „Žádám o navýšení položky „Transfery, dary, příspěvky dle rozhodnutí ZML a RML“ v rozpočtu OŠKS o částku 150.000 Kč z důvodu nedostatku fin. prostředků na finanční podporu dalších žadatelů v roce 2025“. Vedení města této změně rozpočtu vyslovuje jednoznačnou podporu, protože příspěvky a žádosti o dotace na činnost spolků a nejrůznějších dalších aktivit dosáhly oproti roku 2024 enormního navýšení a museli jsme hodně krátit. Na transfery v kompetenci rady města pro celý rok zbylo podstatně méně. Od ledna chodilo a chodí spousta dalších žádostí o příspěvky a Rada města se snaží korigovat a šetřit, přesto nám zbývá do konce roku již pouze 7 tisíc Kč. Víme, že tu jsou a zcela jistě přijdou ještě další požadavky a jsme přesvědčeni o tom, že podpora aktivit neziskového sektoru je žádoucí a potřebná."
+    },
+    {
+      "title": "Rozpočtová změna č. 68/2025/ZM",
+      "text": "Rozpočtová změna na základě žádosti Římskokatolické farnosti Litovel ze dne 30. 5. 2025. Finanční prostředky budou použity na opravu – výměnu střešní krytiny na budově fary Římskokatolické farnosti v Litovli, která se nachází v samotném historickém jádru města."
+    },
+    {
+      "title": "Rozpočtová změna č. 69/2025/ZM",
+      "text": "Rozpočtová změna řešící vznik Strategického plánu rozvoje města Litovel na období 2026 – 2036 na základě nabídky společnosti RPSC ideas s.r.o. se sídlem v Olomouci. Strategický plán je stále častěji povinnou přílohou žádosti o dotační prostředky a v současnosti aktuální platný je příliš obecný a neodpovídá požadavkům poskytovatelů dotačních prostředků."
+    },
+    {
+      "title": "Rozpočtová změna č. 70/2025/ZM",
+      "text": "Rozpočtová změna řešící posílení finančních prostředků pro odbor ŽP, který připravuje na podzim realizaci významných projektů v oblasti veřejné a krajinné zeleně. Především se jedná o revitalizaci hrušňové aleje mezi Nasobůrkami a Vískou, realizace poslední etapy ozelenění průmyslové zóny v Nasobůrkách, realizace nové uliční zeleně v Nasobůrkách, dokončení ozeleňovacích prací na sídlišti K. Sedláka apod."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._12_2025_dne_24.6.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 12/2025 schválené Zastupitelstvem města Litovel\ndne 24. června 2025\nRozpočtové opatření bylo schváleno na 20. zasedání Zastupitelstva města Litovel dne 24. června na základě usnesení\nZM/8/20/2025.\nZměny ve financování:\nSU ODPA POL UZ ORJ ORG Kč Popis\nzměna stavu finančních prostředků na bankovních účtech\n231 8115 150 000,00\n(RZ 67/2025/ZM)\nzměna stavu finančních prostředků na bankovních účtech\n231 8115 200 000,00\n(RZ 68/2025/ZM)\nzměna stavu finančních prostředků na bankovních účtech\n231 8115 302 016,00\n(RZ 69/2025/ZM)\nZměny v příjmech:\nSU ODPA POL UZ ORJ ORG Kč Popis\n231 1334 300 000,00 příjmy z odvodů za odnětí půdy ze ZPF (RZ 64/2025/ZM)\nsběr a svoz komunálních odpadů - příjmy z poskytování\n231 3722 2111 300 000,00\nslužeb (RZ 65/2025/ZM)\n231 1334 300 000,00 příjmy z odvodů za odnětí půdy ze ZPF (RZ 70/2025/ZM)\nZměny ve výdajích:\nSU ODPA POL UZ ORJ ORG Kč Popis\n231 6310 5141 14 000 000 -370 000,00 úroky z úvěrů (RZ 62/2025/ZM)\n231 3639 6121 3 000 000 370 000,00 Litovel - park pro psy (RZ 62/2025/ZM)\nFRNPPO - Hydrotechnické posouzení vlivu povodně\n236 3744 6119 3 000 000 -1 161 600,00\nna město (RZ 63/2025/ZM)\nFRNPPO - Hydrotechnické posouzení vlivu povodně\n236 3744 6119 7 000 000 1 161 600,00\nna město (RZ 63/2025/ZM)\nHaňovice - II. etapa - realizace záměru - váha, buňka,\n231 3729 6121 7 000 782 300 000,00\nzázemí aj. (RZ 64/2025/ZM)\nodpadové hospodářství - pořízení sběrných nádob,\n231 3722 5137 7 000 000 300 000,00\nkontejnerů (RZ 65/2025/ZM)\nRozvadovice, Chořelice - odstranění zápachu na\n231 2321 6121 304 3 003 659 -920 000,00\nstokové síti (RZ 66/2025/ZM)\n231 3412 6122 308 2 033 470 920 000,00 Tři Dvory - workout (RZ 66/2025/ZM)\n231 3429 5901 4 000 000 150 000,00 transfery a dary dle rozhodnutí RM (RZ 67/2025/ZM)\nŘímskokatolická farnost Litovel - dotace- na oprava -\n231 3330 5223 4 000 000 200 000,00 výměna střešní krytiny na budově fary (RZ\n68/2025/ZM)\n231 3639 5166 3 000 000 302 016,00 Strategický plán rozvoje města (RZ 69/2025/ZM)\n231 3745 5169 7 000 000 300 000,00 veřejná zeleň - nákup služeb (RZ 70/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č.62/2025/ZM\nOdbor MH a SI byl vedením města pověřen vyhradit v parku u domova důchodců prostor na hřiště pro psy. Proběhlo\nvytyčení vhodného prostoru. Nyní jsme obdrželi cenovou nabídku na oplocení, herní prvky a mobiliář. Pro realizaci\nhřiště je nutná rozpočtová změna.\nRozpočtová změna č. 63/2025/ZM\nOdbor MH a SI má ve schváleném rozpočtu na rok 2025 vyčleněnou částku na zpracování studie: Hydrotechnické\nposouzení a návrh protipovodňových opatření. Po poradě s vedením města bylo rozhodnuto, že zpracování této studie\nbude mít na starosti odbor ŽP. Zástupci odboru ŽP se několikrát zúčastnili jednání s Povodím Moravy, jsou členy\npovodňové komise. Vzhledem k tomu, že v současné době není odbor MH a SI personálně plně zajištěn, tak se jedná o\nlogické rozhodnutí, které by mělo zajistit bezproblémovou realizaci této akce.\nRozpočtová změna č. 64/2025/ZM\nDobývací prostor Haňovice - jedná se o dobudování zázemí pro obsluhu na dobývacím prostoru. Původně byla v návrhu\nrozpočtu uvedena částka 1,5 mil. Kč. Poté byla při tvorbě rozpočtu částka snížena o 300 000 Kč. Stavba již byly započata\n(instalace mostní váhy, základy pro buňku apod.), ale ukazuje se nyní, že původní navrhovaná částka byla reálná, a\nproto odbor ŽP žádá o navýšení rozpočtu na tuto akci o 300 000 Kč.\nRozpočtová změna č. 65/2025/ZM\nRozpočtová změna na základě návrhu OŽP, řešící navýšení výdajů na odpadové hospodářství. Jedná se o částku na\npořízení sběrných nádob a kontejnerů na tříděný odpad (především se to týká biologického odpadu) a pouličních košů\nna tříděný odpad. Výdaje budou pokryty zlepšenými příjmy v oblasti odpadového hospodářství.\nRozpočtová změna č. 66/2025/ZM\nOsadní výbor Tři Dvory ve spolupráci s JSDH Tři Dvory vznesli požadavek na pořízení workoutových prvků\nvčetně dopadové plochy v prostoru u hasičské zbrojnice vedle dětského hřiště. Akce bude hrazena z\nparticipativního rozpočtu, který budou mít tímto Tři Dvory vyčerpaný. Akce Rozvadovice, Chořelice –\nodstranění zápachu na stokové síti bude letos jen projektována, realizace proběhne v příštím roce.\nRozpočtová změna č. 67/2025/ZM\nRozpočtová změna na základě požadavku vedoucího OŠKS ze dne 4. 6. 2025: „Žádám o navýšení položky „Transfery,\ndary, příspěvky dle rozhodnutí ZML a RML“ v rozpočtu OŠKS o částku 150.000 Kč z důvodu nedostatku fin. prostředků\nna finanční podporu dalších žadatelů v roce 2025“. Vedení města této změně rozpočtu vyslovuje jednoznačnou\npodporu, protože příspěvky a žádosti o dotace na činnost spolků a nejrůznějších dalších aktivit dosáhly oproti roku 2024\nenormního navýšení a museli jsme hodně krátit. Na transfery v kompetenci rady města pro celý rok zbylo podstatně\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nméně. Od ledna chodilo a chodí spousta dalších žádostí o příspěvky a Rada města se snaží korigovat a šetřit, přesto nám\nzbývá do konce roku již pouze 7 tisíc Kč. Víme, že tu jsou a zcela jistě přijdou ještě další požadavky a jsme přesvědčeni\no tom, že podpora aktivit neziskového sektoru je žádoucí a potřebná.\nRozpočtová změna č. 68/2025/ZM\nRozpočtová změna na základě žádosti Římskokatolické farnosti Litovel ze dne 30. 5. 2025. Finanční prostředky budou\npoužity na opravu – výměnu střešní krytiny na budově fary Římskokatolické farnosti v Litovli, která se nachází\nv samotném historickém jádru města.\nRozpočtová změna č. 69/2025/ZM\nRozpočtová změna řešící vznik Strategického plánu rozvoje města Litovel na období 2026 – 2036 na základě nabídky\nspolečnosti RPSC ideas s.r.o. se sídlem v Olomouci. Strategický plán je stále častěji povinnou přílohou žádosti o dotační\nprostředky a v současnosti aktuální platný je příliš obecný a neodpovídá požadavkům poskytovatelů dotačních\nprostředků.\nRozpočtová změna č. 70/2025/ZM\nRozpočtová změna řešící posílení finančních prostředků pro odbor ŽP, který připravuje na podzim realizaci významných\nprojektů v oblasti veřejné a krajinné zeleně. Především se jedná o revitalizaci hrušňové aleje mezi Nasobůrkami a\nVískou, realizace poslední etapy ozelenění průmyslové zóny v Nasobůrkách, realizace nové uliční zeleně\nv Nasobůrkách, dokončení ozeleňovacích prací na sídlišti K. Sedláka apod.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 7.7.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

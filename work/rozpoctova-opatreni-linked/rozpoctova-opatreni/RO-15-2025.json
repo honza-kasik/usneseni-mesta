@@ -1,0 +1,54 @@
+{
+  "id": "RO/15/2025",
+  "number": 15,
+  "year": 2025,
+  "approval_date": "2025-08-12",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 56,
+    "type": "schůzi",
+    "date": "12. srpna"
+  },
+  "source_resolutions": [
+    "RM/1769/56/2025"
+  ],
+  "budget_change_ids": [
+    "127/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "127/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "D.K. – dar na organizační zajištění turnaje v malé kopané dne 2.8.2025 v Chořelicích (RZ 127/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 127/2025/RM",
+      "text": "Dar poskytnutý na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._15_2025_dne_12.8.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 15/2025 schválené Radou města Litovel\ndne 12. srpna 2025\nRozpočtové opatření bylo schváleno na 56. schůzi Rady města Litovel dne 12. srpna na základě usnesení\nRM/1769/56/2025\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč Popis\n3429 5901 4 000 000 - 3 000,00 Transfery dle rozhodnutí RM (RZ 127/2025/RM)\nD.K. – dar na organizační zajištění turnaje v malé kopané dne\n3419 5492 307 4 000 000 3 000,00\n2.8.2025 v Chořelicích (RZ 127/2025/RM)\nRozpočtová změna č. 127/2025/RM\nDar poskytnutý na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 22.8.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1769/56/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ZM/9/20/2025",
+  "datum": "2025-06-24",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu k předloženému materiálu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje Závěrečný účet města Litovel za rok 2024 a souhlasí s celoročním hospodařením, a to bez výhrad."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje účetní závěrku města Litovel k 31.12. 2024."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

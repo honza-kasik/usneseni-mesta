@@ -1,0 +1,23 @@
+{
+  "id": "ZM/6/16/2024",
+  "datum": "2024-12-12",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje Smlouvu o revolvingovém úvěru, registrační číslo 99049319023, mezi městem Litovel a Komerční\nbankou, a.s. a pověřuje starostu města podpisem příslušných dokumentů k uzavření této smlouvy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

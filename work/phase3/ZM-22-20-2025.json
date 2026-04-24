@@ -1,0 +1,30 @@
+{
+  "id": "ZM/22/20/2025",
+  "datum": "2025-06-24",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "stanovuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "stanovuje název nové ulice Strouhalova pro parc.č. 835/12, 833/21, 833/20, 293/17 až po hranu parc.č. 299/2."
+    },
+    {
+      "label": "b",
+      "text": "stanovuje název ulice Pošmýlská částečně rozšířit i na parc.č. 293/17."
+    },
+    {
+      "label": "c",
+      "text": "stanovuje název ulice Pavlínka, která nově zahrne parc.č. 833/10, 842/1, 842/2, 837/3, 835/5, 829 až po hranu\nparc.č. 1638/15."
+    },
+    {
+      "label": "d",
+      "text": "stanovuje název ulice Žerotínova (rovněž označována jako Sadová) rozšířit až po hranu parc.č. 1638/15."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

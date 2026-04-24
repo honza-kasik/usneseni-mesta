@@ -1,0 +1,342 @@
+{
+  "id": "RO/22/2025",
+  "number": 22,
+  "year": 2025,
+  "approval_date": "2025-11-27",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 63,
+    "type": "schůzi",
+    "date": "2025-11-27"
+  },
+  "source_resolutions": [
+    "RM/1938/63/2025"
+  ],
+  "budget_change_ids": [
+    "163/2025/RM",
+    "164/2025/RM",
+    "165/2025/RM",
+    "166/2025/RM",
+    "167/2025/RM",
+    "168/2025/RM",
+    "169/2025/RM",
+    "170/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "166/2025/RM",
+          "raw_codes": [
+            "4116",
+            "34053"
+          ],
+          "amount": "-320,16",
+          "amount_value": -320.16,
+          "description": "MK ČR - účel. dotaceTritius (RZ 166/2025/RM)"
+        },
+        {
+          "budget_change_id": "168/2025/RM",
+          "raw_codes": [
+            "4116",
+            "13024"
+          ],
+          "amount": "305 711,49",
+          "amount_value": 305711.49,
+          "description": "MPSV ČR - SPOD (RZ 168/2025/RM)"
+        },
+        {
+          "budget_change_id": "170/2025/RM",
+          "raw_codes": [
+            "4122",
+            "405",
+            "308"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Ol. kraj - účel. dar pro JSDH Savín a Tři Dvory (RZ 170/2025/RM)"
+        },
+        {
+          "budget_change_id": "170/2025/RM",
+          "raw_codes": [
+            "4122",
+            "405",
+            "311"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Ol. kraj - účel. dar pro JSDH Savín a Tři Dvory (RZ 170/2025/RM)"
+        },
+        {
+          "budget_change_id": "168/2025/RM",
+          "raw_codes": [
+            "4116",
+            "130"
+          ],
+          "amount": "24 305 711,49",
+          "amount_value": 24305711.49,
+          "description": ") MPSV ČR - SPOD (RZ 168/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "163/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "-6 755,00",
+          "amount_value": -6755.0,
+          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM)"
+        },
+        {
+          "budget_change_id": "163/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "-14 200,00",
+          "amount_value": -14200.0,
+          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM)"
+        },
+        {
+          "budget_change_id": "163/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "-7 804,00",
+          "amount_value": -7804.0,
+          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM)"
+        },
+        {
+          "budget_change_id": "163/2025/RM",
+          "raw_codes": [
+            "3412",
+            "5137",
+            "308",
+            "2 033 470"
+          ],
+          "amount": "28 759,00",
+          "amount_value": 28759.0,
+          "description": "Tři Dvory - workout - lavička (RZ 163/2025/RM)"
+        },
+        {
+          "budget_change_id": "164/2025/RM",
+          "raw_codes": [
+            "2341",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "260 000,00",
+          "amount_value": 260000.0,
+          "description": "OŽP - čištění odpadního zatrubněného kanálu u Uničovského rybníka (RZ 164/2025/RM)"
+        },
+        {
+          "budget_change_id": "164/2025/RM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-260 000,00",
+          "amount_value": -260000.0,
+          "description": "úroky z přijatých úvěrů a půjček (RZ 164/2025/RM)"
+        },
+        {
+          "budget_change_id": "165/2025/RM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "úroky z přijatých úvěrů a půjček (RZ 165/2025/RM)"
+        },
+        {
+          "budget_change_id": "165/2025/RM",
+          "raw_codes": [
+            "1039",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "OŽP - pořízení plomb pro výkon státní správy myslivosti (RZ 165/2025/RM)"
+        },
+        {
+          "budget_change_id": "166/2025/RM",
+          "raw_codes": [
+            "3314",
+            "5172",
+            "34053",
+            "17 000 000"
+          ],
+          "amount": "-320,16",
+          "amount_value": -320.16,
+          "description": "Městská knihovna - čerpání účel dotace - Tritius (RZ 166/2025/RM)"
+        },
+        {
+          "budget_change_id": "167/2025/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-106 280,00",
+          "amount_value": -106280.0,
+          "description": "Unčovice - revitalizace veřejných ploch u Sokolovny (RZ 167/2025/RM)"
+        },
+        {
+          "budget_change_id": "167/2025/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "106 280,00",
+          "amount_value": 106280.0,
+          "description": "Unčovice - Sokolovna - renovace místnosti (RZ 167/2025/RM)"
+        },
+        {
+          "budget_change_id": "168/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "285 711,49",
+          "amount_value": 285711.49,
+          "description": "SPOD (RZ 168/2025/RM)"
+        },
+        {
+          "budget_change_id": "169/2025/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "3 003 457"
+          ],
+          "amount": "-506 990,00",
+          "amount_value": -506990.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 169/2025/RM)"
+        },
+        {
+          "budget_change_id": "169/2025/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 457"
+          ],
+          "amount": "-369 046,00",
+          "amount_value": -369046.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 169/2025/RM)"
+        },
+        {
+          "budget_change_id": "169/2025/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "309",
+            "3 003 642"
+          ],
+          "amount": "876 036,00",
+          "amount_value": 876036.0,
+          "description": "Nasobůrky - rekonstrukce místní komunikace za hřištěm (RZ 169/2025/RM)"
+        },
+        {
+          "budget_change_id": "170/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "405",
+            "311",
+            "15 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "JSDH Savín - dar od Ol. kraje - čerpání (RZ 170/2025/RM)"
+        },
+        {
+          "budget_change_id": "170/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "405",
+            "308",
+            "15 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "JSDH Tři Dvory - dar od Ol. kraje - čerpání (RZ 170/2025/RM)"
+        },
+        {
+          "budget_change_id": "168/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5167",
+            "13024",
+            "5",
+            "000",
+            "000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": ") SPOD (RZ 168/2025/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 163/2025/RM",
+      "text": "Dne 11.11.2025 požádal odbor MH a SI o rozpočtovou změnu. Na žádost OV Tři Dvory bude k jejich novému workoutovému hřišti pořízena plastová lavička s opěradlem (lavička bude pevně ukotvena). Pro realizaci nákupu je potřeba změnit §"
+    },
+    {
+      "title": "Rozpočtová změna č. 164/2025/RM",
+      "text": "Dne 18. 11. 2025 požádal vedoucí OŽP o rozpočtovou změnu související se vyčištěním odpadního zatrubněného kanálu u Uničovského rybníka. Jedná se o důležitý krok, protože odpadní kanál je zanesený z velké části sedimentem z rybníka a jeho kapacita odvézt vodu je omezena. Při výlovu rybníka letos na podzim měli rybáři velké problémy. Navíc v rámci stavby sportovní haly je nově do tohoto potrubí svedena dešťová voda z této stavby. V příloze je uvedena cenová nabídka společnosti Sezako s.r.o.,"
+    },
+    {
+      "title": "Rozpočtová změna č. 165/2025/RM",
+      "text": "Dne 18. 11. 2025 požádal vedoucí OŽP o rozpočtovou změnu související s pořízením plomb pro výkon státní správy myslivosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 166/2025/RM",
+      "text": "Dne 6. 11. 2025 byla vrácena nevyčerpaná část účelové dotace od Ministerstva kultury ČR určené pro Městskou knihovnu na přechod z automatizovaného systému Clavius na Tritius. Je nutná úprava rozpočtu dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 167/2025/RM",
+      "text": "Dne 19. 11. 2025 požádal odbor MH a SI o rozpočtovou změnu. V Sokolovně v místní části Unčovice se nachází místnost v neuživatelném stavu. Stav je ze strany OV roky neřešený a byl způsobem bývalými nájemníky. Kompetentní osoba OV prostor po ukončení nájmu řádně nepřevzala. O prostor má zájem nový nájemník a je nutné tento uvést do uživatelného stavu. Pro realizaci je požadována tato RZ. Akce je odsouhlasena s předsedou OV Unčovice a bude hrazena z participativního rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 168/2025/RM",
+      "text": "Na základě přijatého oznámení z MPSV ČR byl městu Litovel přiznán doplatek neinvestičního účelového transferu z kapitoly 313 - MPSV státního rozpočtu roku 2025 na pokrytí výdajů na činnosti vykonávané obcí s rozšířenou působností v agendě sociálně-právní ochrany dětí (podle zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, dále jen „zákon č. 359/1999 Sb.“.) za rok 2024. Výše doplatku transferu činí 305 711,49 Kč. Je nutná úprava rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 169/2025/RM",
+      "text": "Dne 20. 11. 2025 požádal odbor MH a SI o rozpočtovou změnu. V důsledku vykonaných víceprací na stavbě rekonstrukce místní komunikace v OV Nasobůrky se navýšila celková cena SoD. Tato změna bude řešena Dodatkem ke Smlouvě a je předložena do RM 27/11. Pro úhradu tohoto Dodatku je požadována tato RZ."
+    },
+    {
+      "title": "Rozpočtová změna č. 170/2025/RM",
+      "text": "Dne 19. 11. 2025 přijalo město Litovel na svůj účet 20 000 Kč od Olomouckého kraje na základě uzavřené darovací smlouvy. Dle darovací smlouvy je obdarovaný oprávněn použít dar pouze na výdaje spojené s vybavením jednotky sboru dobrovolných hasičů Savín ve výši 10 000 Kč a jednotky sboru dobrovolných hasičů Tři Dvory ve výši 10 000 Kč zřízené obdarovaným. Obdarovaný je povinen použít dar do 31. 1. 2026."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._22_2025_dne_27.11.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 22/2025 schválené Radou města Litovel\ndne 27.11. 2025\nRozpočtové opatření bylo schváleno na 63. schůzi Rady města Litovel dne 27. listopadu 2025 na základě usnesení\nRM/1938/63/2025.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\nMK ČR - účel. dotaceTritius (RZ\n4116 34053 -320,16\n166/2025/RM)\n4116 13024 305 711,49 MPSV ČR - SPOD (RZ 168/2025/RM)\nOl. kraj - účel. dar pro JSDH Savín a Tři Dvory\n4122 405 308 10 000,00\n(RZ 170/2025/RM)\nOl. kraj - účel. dar pro JSDH Savín a Tři Dvory\n4122 405 311 10 000,00\n(RZ 170/2025/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\nTři Dvory - drobná vydání OV + opravy + DPP\n3429 5169 308 2 030 000 -6 755,00\n(RZ 163/2025/RM)\nTři Dvory - drobná vydání OV + opravy + DPP\n3429 5171 308 2 030 000 -14 200,00\n(RZ 163/2025/RM)\nTři Dvory - drobná vydání OV + opravy + DPP\n3429 5139 308 2 030 000 -7 804,00\n(RZ 163/2025/RM)\nTři Dvory - workout - lavička (RZ\n3412 5137 308 2 033 470 28 759,00\n163/2025/RM)\nOŽP - čištění odpadního zatrubněného kanálu u\n2341 5169 7 000 000 260 000,00\nUničovského rybníka (RZ 164/2025/RM)\núroky z přijatých úvěrů a půjček (RZ\n6310 5141 14 000 000 -260 000,00\n164/2025/RM)\núroky z přijatých úvěrů a půjček (RZ\n6310 5141 14 000 000 -10 000,00\n165/2025/RM)\nOŽP - pořízení plomb pro výkon státní správy\n1039 5139 7 000 000 10 000,00\nmyslivosti (RZ 165/2025/RM)\nMěstská knihovna - čerpání účel dotace - Tritius\n3314 5172 34053 17 000 000 -320,16\n(RZ 166/2025/RM)\nUnčovice - revitalizace veřejných ploch u\n2219 6121 310 2 030 000 -106 280,00\nSokolovny (RZ 167/2025/RM)\nUnčovice - Sokolovna - renovace místnosti (RZ\n3392 5169 310 2 033 465 106 280,00\n167/2025/RM)\n6171 5011 13024 5 000 000 285 711,49 SPOD (RZ 168/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n6171 5167 13024 5 000 000 20 000,00 SPOD (RZ 168/2025/RM)\nopravy, údržba a rekonstrukce místních\n2212 6121 3 003 457 -506 990,00\nkomunikací a chodníků (RZ 169/2025/RM)\nopravy, údržba a rekonstrukce místních\n2212 5171 3 003 457 -369 046,00\nkomunikací a chodníků (RZ 169/2025/RM)\nNasobůrky - rekonstrukce místní komunikace za\n2212 6121 309 3 003 642 876 036,00\nhřištěm (RZ 169/2025/RM)\nJSDH Savín - dar od Ol. kraje - čerpání (RZ\n5512 5137 405 311 15 000 000 10 000,00\n170/2025/RM)\nJSDH Tři Dvory - dar od Ol. kraje - čerpání (RZ\n5512 5137 405 308 15 000 000 10 000,00\n170/2025/RM)\nRozpočtová změna č. 163/2025/RM\nDne 11.11.2025 požádal odbor MH a SI o rozpočtovou změnu. Na žádost OV Tři Dvory bude k jejich novému\nworkoutovému hřišti pořízena plastová lavička s opěradlem (lavička bude pevně ukotvena). Pro realizaci nákupu je\npotřeba změnit §\nRozpočtová změna č. 164/2025/RM\nDne 18. 11. 2025 požádal vedoucí OŽP o rozpočtovou změnu související se vyčištěním odpadního zatrubněného kanálu\nu Uničovského rybníka. Jedná se o důležitý krok, protože odpadní kanál je zanesený z velké části sedimentem z rybníka\na jeho kapacita odvézt vodu je omezena. Při výlovu rybníka letos na podzim měli rybáři velké problémy. Navíc v rámci\nstavby sportovní haly je nově do tohoto potrubí svedena dešťová voda z této stavby. V příloze je uvedena cenová nabídka\nspolečnosti Sezako s.r.o.,\nRozpočtová změna č. 165/2025/RM\nDne 18. 11. 2025 požádal vedoucí OŽP o rozpočtovou změnu související s pořízením plomb pro výkon státní správy\nmyslivosti.\nRozpočtová změna č. 166/2025/RM\nDne 6. 11. 2025 byla vrácena nevyčerpaná část účelové dotace od Ministerstva kultury ČR určené pro Městskou\nknihovnu na přechod z automatizovaného systému Clavius na Tritius. Je nutná úprava rozpočtu dle skutečnosti.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 167/2025/RM\nDne 19. 11. 2025 požádal odbor MH a SI o rozpočtovou změnu. V Sokolovně v místní části Unčovice se nachází místnost\nv neuživatelném stavu. Stav je ze strany OV roky neřešený a byl způsobem bývalými nájemníky. Kompetentní osoba OV\nprostor po ukončení nájmu řádně nepřevzala. O prostor má zájem nový nájemník a je nutné tento uvést do uživatelného\nstavu. Pro realizaci je požadována tato RZ. Akce je odsouhlasena s předsedou OV Unčovice a bude hrazena z\nparticipativního rozpočtu.\nRozpočtová změna č. 168/2025/RM\nNa základě přijatého oznámení z MPSV ČR byl městu Litovel přiznán doplatek neinvestičního účelového transferu z\nkapitoly 313 - MPSV státního rozpočtu roku 2025 na pokrytí výdajů na činnosti vykonávané obcí s rozšířenou\npůsobností v agendě sociálně-právní ochrany dětí (podle zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve\nznění pozdějších předpisů, dále jen „zákon č. 359/1999 Sb.“.) za rok 2024. Výše doplatku transferu činí 305 711,49 Kč.\nJe nutná úprava rozpočtu.\nRozpočtová změna č. 169/2025/RM\nDne 20. 11. 2025 požádal odbor MH a SI o rozpočtovou změnu. V důsledku vykonaných víceprací na stavbě\nrekonstrukce místní komunikace v OV Nasobůrky se navýšila celková cena SoD. Tato změna bude řešena Dodatkem ke\nSmlouvě a je předložena do RM 27/11. Pro úhradu tohoto Dodatku je požadována tato RZ.\nRozpočtová změna č. 170/2025/RM\nDne 19. 11. 2025 přijalo město Litovel na svůj účet 20 000 Kč od Olomouckého kraje na základě uzavřené darovací\nsmlouvy. Dle darovací smlouvy je obdarovaný oprávněn použít dar pouze na výdaje spojené s vybavením jednotky\nsboru dobrovolných hasičů Savín ve výši 10 000 Kč a jednotky sboru dobrovolných hasičů Tři Dvory ve výši 10 000\nKč zřízené obdarovaným. Obdarovaný je povinen použít dar do 31. 1. 2026.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 4.12. 2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

@@ -19,8 +19,7 @@ Jedno usnesení = jeden JSON soubor.
 
 == Architektura
 
-Pipeline má pět hlavních fází pro usnesení a tři navazující volitelné fáze pro
-rozpočtová opatření:
+Pipeline má šest hlavních fází a tři navazující fáze pro rozpočtová opatření:
 
 [cols="1,3"]
 |===
@@ -28,28 +27,33 @@ rozpočtová opatření:
 |Parsování PDF → základní JSON
 
 |Phase 2
-|Strukturální analýza usnesení
+|Parsování rozpočtových opatření
 
 |Phase 3
-|Resolvování referencí mezi usneseními
+|Strukturální analýza usnesení
 
 |Phase 4
-|Vytvoření fulltextového indexu
+|Resolvování referencí mezi usneseními
 
 |Phase 5
-|Statický export do Jekyll struktury
+|Vytvoření fulltextového indexu usnesení
 
 |Phase 6
-|Parsování rozpočtových opatření
+|Statický export webu bez rozpočtových opatření
 
 |Phase 7
 |Propojení rozpočtových opatření s usneseními
 
 |Phase 8
+|Vytvoření fulltextového indexu rozpočtových opatření
+
+|Phase 9
 |Statický export z propojených dat
 |===
 
-Fáze 4 a 5 jsou na sobě nezávislé – obě čerpají z výstupu fáze 3.
+Fáze 5 a 6 jsou na sobě nezávislé – obě čerpají z výstupu fáze 4. Fáze 7 až 9
+lze typicky opakovat bez znovuspuštění parsování rozpočtových opatření ve fázi
+2.
 
 == Pipeline skript
 
@@ -60,25 +64,25 @@ Všechny fáze lze spustit najednou pomocí `pipeline.py`.
 [source,bash]
 ----
 # Celý pipeline od začátku s daty v tomto repozitáři
-python pipeline.py --pdf resources --from-phase 1 --to-phase 8
+python pipeline.py --pdf resources --from-phase 1 --to-phase 9
 
-# Přeskočit fáze 1–2 a pokračovat od fáze 3
+# Přeskočit parsování a pokračovat od analýzy usnesení
 python pipeline.py --pdf pdf_dir/ --from-phase 3
 
-# Spustit pouze fáze 2 a 3
+# Spustit pouze parsování RO a analýzu usnesení nad existující fází 1
 python pipeline.py --pdf pdf_dir/ --from-phase 2 --to-phase 3
 
 # Vlastní pracovní adresář a výstup
 python pipeline.py --pdf pdf_dir/ --workdir moje_data/ --export vystup/
 
-# Doplnit rozpočtová opatření a propojit je s existujícími daty z Phase 3
-python pipeline.py --from-phase 6 --to-phase 7
+# Naparsovat rozpočtová opatření a propojit je s existujícími usneseními z Phase 4
+python pipeline.py --from-phase 2 --to-phase 7
 
-# Doplnit rozpočtová opatření, propojit je a vytvořit statický export s vazbami
-python pipeline.py --from-phase 6 --to-phase 8
+# Přegenerovat pouze návazné kroky nad existujícími RO JSON daty
+python pipeline.py --from-phase 7 --to-phase 9
 
 # Vlastní adresář s PDF rozpočtových opatření
-python pipeline.py --from-phase 6 --to-phase 8 --ro-pdf resources/rozpoctova-opatreni
+python pipeline.py --from-phase 2 --to-phase 9 --ro-pdf resources/rozpoctova-opatreni
 
 # Zobrazit příkazy bez spuštění
 python pipeline.py --pdf pdf_dir/ --dry-run
@@ -90,12 +94,13 @@ python pipeline.py --pdf pdf_dir/ --dry-run
 ----
 pdf_dir/          ← vstupní PDF soubory (rekurzivně prohledáváno)
 work/phase1/      ← výstup fáze 1
-work/phase2/      ← výstup fáze 2
 work/phase3/      ← výstup fáze 3
 work/phase4/      ← výstup fáze 4
-work/rozpoctova-opatreni/        ← výstup fáze 6
+work/rozpoctova-opatreni/        ← výstup fáze 2
 work/rozpoctova-opatreni-linked/ ← výstup fáze 7
-export/           ← výstup fáze 5 nebo 8
+export/assets/usneseni/    ← výstup fáze 5
+export/assets/usneseni/ro/ ← výstup fáze 8
+export/           ← výstup fáze 6 nebo 9
 ----
 
 === Parametry
@@ -121,7 +126,7 @@ při parsování usnesení přeskočí.
 |Začít od fáze N (výchozí: 1)
 
 |`--to-phase N`
-|Skončit po fázi N (výchozí: 5; rozpočtová opatření jsou fáze 6–8)
+|Skončit po fázi N (výchozí: 6; fáze 7–9 doplňují rozpočtová opatření)
 
 |`--dry-run`
 |Pouze zobrazí příkazy, nespustí je
@@ -148,7 +153,63 @@ python phase1_parse_pdf.py input.pdf output_dir/
 python phase1_parse_pdf.py pdf_dir/ output_dir/
 ----
 
-== Phase 2 – Analýza syrového textu usnesení
+== Phase 2 – Parsování rozpočtových opatření
+
+Rozpočtová opatření jsou samostatný typ PDF dokumentů, proto se neparsují přes
+Phase 1 určenou pro usnesení. Parser vytváří jeden JSON soubor pro každé
+opatření.
+
+=== Výstupní struktura
+
+[source,json]
+----
+{
+  "id": "RO/1/2026",
+  "number": 1,
+  "year": 2026,
+  "approval_date": "2025-12-11",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 23,
+    "type": "zasedání",
+    "date": "2025-12-11"
+  },
+  "source_resolutions": [
+    "ZM/6/23/2025"
+  ],
+  "budget_change_ids": [
+    "1/2026/ZM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2026/ZM",
+          "raw_codes": ["3429", "5901", "4 000 000"],
+          "amount": "-370 000,00",
+          "amount_value": -370000.0,
+          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 1/2026/ZM)"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/...",
+  "text_raw": "..."
+}
+----
+
+=== Použití
+
+[source,bash]
+----
+python parse_rozpoctova_opatreni.py resources/rozpoctova-opatreni work/rozpoctova-opatreni
+----
+
+== Phase 3 – Analýza syrového textu usnesení
 
 Zpracuje JSON z Phase 1.
 
@@ -207,10 +268,10 @@ Zpracuje JSON z Phase 1.
 
 [source,bash]
 ----
-python phase2_resolution_analysis.py --input phase1_dir/ --output phase2_dir/
+python phase2_resolution_analysis.py --input phase1_dir/ --output phase3_dir/
 ----
 
-== Phase 3 – Resolvování referencí
+== Phase 4 – Resolvování referencí
 
 Usnesení mohou odkazovat jedno na druhé.
 V této fázi se resolvují reference:
@@ -229,7 +290,7 @@ Na závěr jsou vypsány statistiky do konzole.
 
 === Vstup
 
-- adresář s JSON soubory ze Phase 2
+- adresář s JSON soubory ze Phase 3
 
 === Výstup
 
@@ -241,16 +302,16 @@ Na závěr jsou vypsány statistiky do konzole.
 
 [source,bash]
 ----
-python phase3_resolve_references.py --input phase2_dir/ --output phase3_dir/
+python phase3_resolve_references.py --input phase3_dir/ --output phase4_dir/
 ----
 
-== Phase 4 – Vytvoření indexu
+== Phase 5 – Vytvoření indexu usnesení
 
 Vytvoří index pro fulltextové vyhledávání.
 
 === Vstup
 
-- `usneseni.json` ze Phase 3
+- `usneseni.json` ze Phase 4
 
 === Výstupní struktura
 
@@ -262,10 +323,10 @@ Vytvoří index pro fulltextové vyhledávání.
 
 [source,bash]
 ----
-python phase4_index_build.py --input phase3_dir/usneseni.json --output phase4_dir/
+python phase4_index_build.py --input phase4_dir/usneseni.json --output export/assets/usneseni/
 ----
 
-== Phase 5 – Statický export
+== Phase 6 – Statický export bez rozpočtových opatření
 
 Generuje statické stránky ve struktuře vhodné pro Jekyll.
 
@@ -279,7 +340,7 @@ Negeneruje hlavní stránku `/usneseni/` (ta existuje ručně).
 
 === Vstup
 
-- `usneseni.json` ze Phase 3 (stejný vstup jako Phase 4)
+- `usneseni.json` ze Phase 4 (stejný vstup jako Phase 5)
 
 === Výstupní struktura
 
@@ -298,65 +359,10 @@ export/
 
 [source,bash]
 ----
-python phase5_static_export.py --input phase3_dir/usneseni.json --output export_dir/
+python phase5_static_export.py --input phase4_dir/usneseni.json --output export_dir/
 ----
 
-== Rozpočtová opatření
-
-Rozpočtová opatření jsou samostatný typ PDF dokumentů, proto se neparsují přes Phase 1
-určenou pro usnesení. Parser vytváří jeden JSON soubor pro každé opatření.
-
-=== Výstupní struktura
-
-[source,json]
-----
-{
-  "id": "RO/1/2026",
-  "number": 1,
-  "year": 2026,
-  "approval_date": "2025-12-11",
-  "approved_by": "Zastupitelstvem města Litovel",
-  "organ": "ZM",
-  "meeting": {
-    "number": 23,
-    "type": "zasedání",
-    "date": "2025-12-11"
-  },
-  "source_resolutions": [
-    "ZM/6/23/2025"
-  ],
-  "budget_change_ids": [
-    "1/2026/ZM"
-  ],
-  "sections": [
-    {
-      "type": "vydaje",
-      "label": "Změny ve výdajích",
-      "rows": [
-        {
-          "budget_change_id": "1/2026/ZM",
-          "raw_codes": ["3429", "5901", "4 000 000"],
-          "amount": "-370 000,00",
-          "amount_value": -370000.0,
-          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 1/2026/ZM)"
-        }
-      ]
-    }
-  ],
-  "notes": [],
-  "source_pdf": "resources/rozpoctova-opatreni/...",
-  "text_raw": "..."
-}
-----
-
-=== Použití
-
-[source,bash]
-----
-python parse_rozpoctova_opatreni.py resources/rozpoctova-opatreni work/rozpoctova-opatreni
-----
-
-=== Propojení s usneseními
+== Phase 7 – Propojení rozpočtových opatření s usneseními
 
 Po parsování lze vytvořit odvozenou datovou vrstvu, která propojí:
 
@@ -367,7 +373,7 @@ Po parsování lze vytvořit odvozenou datovou vrstvu, která propojí:
 [source,bash]
 ----
 python crosslink_rozpoctova_opatreni.py \
-  --resolutions work/phase3/usneseni.json \
+  --resolutions work/phase4/usneseni.json \
   --opatreni work/rozpoctova-opatreni \
   --output work/rozpoctova-opatreni-linked
 ----
@@ -380,15 +386,15 @@ Výstup:
 - `stats.json` – statistiky a případné opravy zjevných překlepů v odkazech.
 
 Statický export lze následně vygenerovat z propojených dat spuštěním pipeline do
-fáze 8:
+fáze 9:
 
 [source,bash]
 ----
-python pipeline.py --from-phase 6 --to-phase 8
+python pipeline.py --from-phase 7 --to-phase 9
 ----
 
 Stránky usnesení pak obsahují také sekci `Rozpočtová opatření`, pokud má dané
-usnesení vazbu na konkrétní `RO` nebo `RZ`. Fáze 8 zároveň generuje samostatné
+usnesení vazbu na konkrétní `RO` nebo `RZ`. Fáze 9 zároveň generuje samostatné
 statické stránky rozpočtových opatření:
 
 [source]
@@ -406,6 +412,52 @@ rozpočtového opatření, např.:
 [source]
 ----
 /rozpoctova-opatreni/RO-6-2026/#rz-53-2026-rm
+----
+
+== Phase 8 – Vytvoření indexu rozpočtových opatření
+
+Vytvoří fulltextový index rozpočtových opatření pro frontendové vyhledávání.
+Index se generuje z propojených RO JSON dat a ukládá se přímo do exportní
+struktury webu.
+
+=== Vstup
+
+- adresář `work/rozpoctova-opatreni-linked/rozpoctova-opatreni`
+
+=== Výstupní struktura
+
+- `export/assets/usneseni/ro/index/` – fulltextový index po rocích
+- `export/assets/usneseni/ro/data/` – RO data po rocích
+- `export/assets/usneseni/ro/meta.json` – metadata indexu
+
+=== Použití
+
+[source,bash]
+----
+python phase4_ro_index_build.py \
+  --input work/rozpoctova-opatreni-linked/rozpoctova-opatreni \
+  --output export/assets/usneseni/ro
+----
+
+== Phase 9 – Statický export včetně rozpočtových opatření
+
+Přegeneruje statický web nad propojenými daty tak, aby stránky usnesení
+obsahovaly vazby na `RO` a současně vznikly samostatné stránky rozpočtových
+opatření.
+
+=== Vstup
+
+- `work/rozpoctova-opatreni-linked/usneseni.json`
+- `work/rozpoctova-opatreni-linked/rozpoctova-opatreni/`
+
+=== Použití
+
+[source,bash]
+----
+python phase5_static_export.py \
+  --input work/rozpoctova-opatreni-linked/usneseni.json \
+  --opatreni work/rozpoctova-opatreni-linked/rozpoctova-opatreni \
+  --output export
 ----
 
 == Principy návrhu

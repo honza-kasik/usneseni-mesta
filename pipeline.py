@@ -7,31 +7,32 @@ Pipeline – spustí všechny fáze zpracování usnesení za sebou.
 Výchozí adresářová struktura (lze přepsat argumenty):
   pdf_dir/          ← vstupní PDF soubory pro usnesení
   work/phase1/      ← výstup fáze 1
-  work/phase2/      ← výstup fáze 2
   work/phase3/      ← výstup fáze 3
   work/phase4/      ← výstup fáze 4
-  work/rozpoctova-opatreni/        ← parsovaná rozpočtová opatření
-  work/rozpoctova-opatreni-linked/ ← propojení opatření s usneseními
-  export/           ← výstup fáze 5 (statický export)
+  work/rozpoctova-opatreni/        ← výstup fáze 2
+  work/rozpoctova-opatreni-linked/ ← výstup fáze 7
+  export/assets/usneseni/    ← výstup fáze 5
+  export/assets/usneseni/ro/ ← výstup fáze 8
+  export/                    ← výstup fáze 6 a 9 (statický export)
 
 Použití:
   # Celý pipeline od začátku
   python pipeline.py --pdf pdf_dir/
 
-  # Přeskočit fáze 1–2 a pokračovat od fáze 3
+  # Přeskočit parsování a pokračovat od analýzy usnesení
   python pipeline.py --pdf pdf_dir/ --from-phase 3
 
-  # Spustit pouze fáze 2 a 3
+  # Spustit pouze parsování RO a analýzu usnesení nad existující fází 1
   python pipeline.py --pdf pdf_dir/ --from-phase 2 --to-phase 3
 
   # Vlastní pracovní adresář
   python pipeline.py --pdf pdf_dir/ --workdir moje_data/ --export vystup/
 
-  # Doplnit rozpočtová opatření a propojit je s usneseními
-  python pipeline.py --from-phase 6 --to-phase 7
+  # Naparsovat rozpočtová opatření a propojit je s usneseními
+  python pipeline.py --from-phase 2 --to-phase 7
 
-  # Doplnit rozpočtová opatření, propojit a přegenerovat statický export z propojených dat
-  python pipeline.py --from-phase 6 --to-phase 8
+  # Vzít už naparsovaná data a přegenerovat vše od crosslinku dál
+  python pipeline.py --from-phase 7 --to-phase 9
 """
 
 import argparse
@@ -181,11 +182,12 @@ def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Pat
     """
 
     phase1 = workdir / "phase1"
-    phase2 = workdir / "phase2"
+    ro = workdir / "rozpoctova-opatreni"
     phase3 = workdir / "phase3"
     phase4 = workdir / "phase4"
-    ro = workdir / "rozpoctova-opatreni"
     ro_linked = workdir / "rozpoctova-opatreni-linked"
+    exported_usneseni_index = export_dir / "assets" / "usneseni"
+    exported_ro_index = exported_usneseni_index / "ro"
 
     return [
         {
@@ -197,51 +199,7 @@ def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Pat
         },
         {
             "number": 2,
-            "name": "Fáze 2 – analýza usnesení",
-            "cmd": lambda: [
-                sys.executable, "phase2_resolution_analysis.py",
-                "--input", str(phase1),
-                "--output", str(phase2),
-            ],
-            "output_check": lambda: phase2.exists() and any(phase2.glob("*.json")),
-            "output_hint": str(phase2),
-        },
-        {
-            "number": 3,
-            "name": "Fáze 3 – resolvování referencí",
-            "cmd": lambda: [
-                sys.executable, "phase3_resolve_references.py",
-                "--input", str(phase2),
-                "--output", str(phase3),
-            ],
-            "output_check": lambda: (phase3 / "usneseni.json").exists(),
-            "output_hint": str(phase3 / "usneseni.json"),
-        },
-        {
-            "number": 4,
-            "name": "Fáze 4 – sestavení indexu",
-            "cmd": lambda: [
-                sys.executable, "phase4_index_build.py",
-                "--input", str(phase3 / "usneseni.json"),
-                "--output", str(phase4),
-            ],
-            "output_check": lambda: (phase4 / "meta.json").exists(),
-            "output_hint": str(phase4),
-        },
-        {
-            "number": 5,
-            "name": "Fáze 5 – statický export",
-            "cmd": lambda: [
-                sys.executable, "phase5_static_export.py",
-                "--input", str(phase3 / "usneseni.json"),
-                "--output", str(export_dir),
-            ],
-            "output_check": lambda: export_dir.exists() and any(export_dir.iterdir()),
-            "output_hint": str(export_dir),
-        },
-        {
-            "number": 6,
-            "name": "Fáze 6 – parsování rozpočtových opatření",
+            "name": "Fáze 2 – parsování rozpočtových opatření",
             "cmd": lambda: [
                 sys.executable, "parse_rozpoctova_opatreni.py",
                 str(ro_pdf_dir),
@@ -252,11 +210,55 @@ def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Pat
             "requires_ro_pdf": True,
         },
         {
+            "number": 3,
+            "name": "Fáze 3 – analýza usnesení",
+            "cmd": lambda: [
+                sys.executable, "phase2_resolution_analysis.py",
+                "--input", str(phase1),
+                "--output", str(phase3),
+            ],
+            "output_check": lambda: phase3.exists() and any(phase3.glob("*.json")),
+            "output_hint": str(phase3),
+        },
+        {
+            "number": 4,
+            "name": "Fáze 4 – resolvování referencí",
+            "cmd": lambda: [
+                sys.executable, "phase3_resolve_references.py",
+                "--input", str(phase3),
+                "--output", str(phase4),
+            ],
+            "output_check": lambda: (phase4 / "usneseni.json").exists(),
+            "output_hint": str(phase4 / "usneseni.json"),
+        },
+        {
+            "number": 5,
+            "name": "Fáze 5 – sestavení indexu usnesení",
+            "cmd": lambda: [
+                sys.executable, "phase4_index_build.py",
+                "--input", str(phase4 / "usneseni.json"),
+                "--output", str(exported_usneseni_index),
+            ],
+            "output_check": lambda: (exported_usneseni_index / "meta.json").exists(),
+            "output_hint": str(exported_usneseni_index),
+        },
+        {
+            "number": 6,
+            "name": "Fáze 6 – export webu bez rozpočtových opatření",
+            "cmd": lambda: [
+                sys.executable, "phase5_static_export.py",
+                "--input", str(phase4 / "usneseni.json"),
+                "--output", str(export_dir),
+            ],
+            "output_check": lambda: export_dir.exists() and any(export_dir.iterdir()),
+            "output_hint": str(export_dir),
+        },
+        {
             "number": 7,
             "name": "Fáze 7 – propojení rozpočtových opatření s usneseními",
             "cmd": lambda: [
                 sys.executable, "crosslink_rozpoctova_opatreni.py",
-                "--resolutions", str(phase3 / "usneseni.json"),
+                "--resolutions", str(phase4 / "usneseni.json"),
                 "--opatreni", str(ro),
                 "--output", str(ro_linked),
             ],
@@ -270,7 +272,18 @@ def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Pat
         },
         {
             "number": 8,
-            "name": "Fáze 8 – statický export z propojených dat",
+            "name": "Fáze 8 – sestavení indexu rozpočtových opatření",
+            "cmd": lambda: [
+                sys.executable, "phase4_ro_index_build.py",
+                "--input", str(ro_linked / "rozpoctova-opatreni"),
+                "--output", str(exported_ro_index),
+            ],
+            "output_check": lambda: (exported_ro_index / "meta.json").exists(),
+            "output_hint": str(exported_ro_index),
+        },
+        {
+            "number": 9,
+            "name": "Fáze 9 – export webu včetně rozpočtových opatření",
             "cmd": lambda: [
                 sys.executable, "phase5_static_export.py",
                 "--input", str(ro_linked / "usneseni.json"),
@@ -317,8 +330,8 @@ def main():
         help="Začít od fáze N (výchozí: 1)"
     )
     ap.add_argument(
-        "--to-phase", type=int, default=5, metavar="N",
-        help="Skončit po fázi N (výchozí: 5; rozpočtová opatření jsou fáze 6–8)"
+        "--to-phase", type=int, default=6, metavar="N",
+        help="Skončit po fázi N (výchozí: 6; fáze 7–9 doplňují rozpočtová opatření)"
     )
     ap.add_argument(
         "--dry-run", action="store_true",
@@ -326,8 +339,8 @@ def main():
     )
     args = ap.parse_args()
 
-    if not (1 <= args.from_phase <= 8 and 1 <= args.to_phase <= 8):
-        failure("--from-phase a --to-phase musí být v rozmezí 1–8")
+    if not (1 <= args.from_phase <= 9 and 1 <= args.to_phase <= 9):
+        failure("--from-phase a --to-phase musí být v rozmezí 1–9")
         sys.exit(1)
 
     if args.from_phase > args.to_phase:
@@ -352,7 +365,7 @@ def main():
     print(f"\n{BOLD}Pipeline usnesení města Litovel{RESET}")
     if args.pdf is not None:
         print(f"  PDF vstup : {args.pdf}")
-    if any(p["number"] >= 6 for p in selected):
+    if any(p.get("requires_ro_pdf") for p in selected):
         print(f"  RO PDF    : {args.ro_pdf}")
     print(f"  Pracovní  : {args.workdir}")
     print(f"  Export    : {args.export}")

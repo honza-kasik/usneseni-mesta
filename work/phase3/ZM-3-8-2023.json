@@ -1,0 +1,35 @@
+{
+  "id": "ZM/3/8/2023",
+  "datum": "2023-12-07",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí kontrolu usnesení ze 4., 5. a 6. ZML."
+    },
+    {
+      "label": "b",
+      "text": "bere na vědomí zápis z jednání Kontrolního výboru ze dne 1. 11. 2023 a 30. 11. 2023."
+    },
+    {
+      "label": "c",
+      "text": "bere na vědomí zápis z jednání Finančního výboru ze dne 27. 11. 2023."
+    },
+    {
+      "label": "d",
+      "text": "ukládá útvaru tajemníka dodat zastupitelům zápisy ze schůzí Osadních výborů od počátku jejich funkce."
+    },
+    {
+      "label": "e",
+      "text": "bere na vědomí předložené zápisy z Osadních výborů."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

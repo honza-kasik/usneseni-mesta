@@ -1,0 +1,23 @@
+{
+  "id": "RM/2109/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje",
+    "nedoporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "nedoporučuje Zastupitelstvu města Litovel projednat a schválit záměr vyhotovení studie využitelnosti budovy\nbývalé ZŠ Myslechovice za účelem zřízení domu pro seniory s pečovatelskou službou."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel nechat vypracovat paralelní zadání na budovu bývalé\nZŠ Myslechovice ve spolupráci s městským architektem. Cílem je získat architektonicko-dispoziční návrh\nbudoucího využití objektu."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

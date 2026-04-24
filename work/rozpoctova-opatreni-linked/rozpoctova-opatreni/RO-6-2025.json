@@ -1,0 +1,240 @@
+{
+  "id": "RO/6/2025",
+  "number": 6,
+  "year": 2025,
+  "approval_date": "2025-03-20",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 18,
+    "type": "zasedání",
+    "date": "2025-03-20"
+  },
+  "source_resolutions": [
+    "ZM/4/18/2025"
+  ],
+  "budget_change_ids": [
+    "52/2025/ZM",
+    "53/2025/RM",
+    "53/2025/ZM",
+    "54/2025/ZM",
+    "55/2025/ZM",
+    "56/2025/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "52/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "17 605,73",
+          "amount_value": 17605.73,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 52/2025/ZM)"
+        },
+        {
+          "budget_change_id": "53/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 53/2025/ZM)"
+        },
+        {
+          "budget_change_id": "55/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "370 000,00",
+          "amount_value": 370000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 55/2025/ZM)"
+        },
+        {
+          "budget_change_id": "56/2025/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "10 656 182,60",
+          "amount_value": 10656182.6,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 56/2025/ZM)"
+        },
+        {
+          "budget_change_id": "53/2025/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 600 000,00",
+          "amount_value": 5600000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 53/2025/ZM"
+        },
+        {
+          "budget_change_id": "55/2025/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 370 000,00",
+          "amount_value": 5370000.0,
+          "description": ") změna stavu finančních prostředků na BÚ (RZ 55/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "52/2025/ZM",
+          "raw_codes": [
+            "4152",
+            "2",
+            "888"
+          ],
+          "amount": "64 977,27",
+          "amount_value": 64977.27,
+          "description": "Revúca - peněžitý dar - povodně (RZ 52/2025/ZM)"
+        },
+        {
+          "budget_change_id": "54/2025/ZM",
+          "raw_codes": [
+            "1122"
+          ],
+          "amount": "231 510,00",
+          "amount_value": 231510.0,
+          "description": "Daň z příjmů právnických osob za obce (RZ 54/2025/ZM)"
+        },
+        {
+          "budget_change_id": "54/2025/ZM",
+          "raw_codes": [
+            "112"
+          ],
+          "amount": "2 231 510,00",
+          "amount_value": 2231510.0,
+          "description": ") Daň z příjmů právnických osob za obce (RZ 54/2025/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "52/2025/ZM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "2",
+            "306",
+            "16 900 000"
+          ],
+          "amount": "82 583,00",
+          "amount_value": 82583.0,
+          "description": "Víska - povodně - čištění vodního toku od naplavenin kukuřičného stonku (RZ 52/2025/ZM)"
+        },
+        {
+          "budget_change_id": "53/2025/RM",
+          "raw_codes": [
+            "3419",
+            "6322",
+            "4 000 000"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "TJ Vodní sporty Litovel - investiční transfer - PD (RZ 53/2025/RM)"
+        },
+        {
+          "budget_change_id": "54/2025/ZM",
+          "raw_codes": [
+            "6399",
+            "5365",
+            "14 000 000"
+          ],
+          "amount": "231 510,00",
+          "amount_value": 231510.0,
+          "description": "Platby daní a poplatků (RZ 54/2025/ZM)"
+        },
+        {
+          "budget_change_id": "55/2025/ZM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "301",
+            "2 033 470"
+          ],
+          "amount": "370 000,00",
+          "amount_value": 370000.0,
+          "description": "Myslechovice - herní prvek dle požadavků OV (RZ 55/2025/ZM)"
+        },
+        {
+          "budget_change_id": "56/2025/ZM",
+          "raw_codes": [
+            "3639",
+            "6351",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "4 672 177,02",
+          "amount_value": 4672177.02,
+          "description": "Technické služby Litovel - inv. transfery zřízeným přísp. org. - rekonstrukce AB (RZ 56/2025/ZM)"
+        },
+        {
+          "budget_change_id": "56/2025/ZM",
+          "raw_codes": [
+            "3639",
+            "6451",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "5 984 005,58",
+          "amount_value": 5984005.58,
+          "description": "Technické služby Litovel - inv. půjčené prostředky zřízeným přísp. org. - rekonstrukce AB (RZ 56/2025/ZM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 52/2025/ZM",
+      "text": "Dne 25.2.2025 byl od pracovníka krizového řízení doručen požadavek na rozpočtovou změnu týkající se povodní, a to čištění vodního toku Víska od naplavenin kukuřičného stonku. Odůvodnění tohoto požadavku – viz. níže. Při povodních v září 2024, došlo ke značnému znečištění koryta výše uvedené vodní plochy. Vlastníkem vodní plochy je Státní pozemkový úřad, místně příslušným Krajský pozemkový úřad, ul. Blanická 1 v Olomouci. Tento jsem písemně oslovil a vyzval je k vyčištění koryta. Vedoucí Ing. Chromčákovou byla moje žádost předána na odd. správy majetku, kde mi bylo Ing. Gajdou sděleno, že považují za problém pouze vodou vymletý štěrk pod kolejištěm na ul. Dukelská v Litovli, který zasáhl do koryta zmiňovaného vodního díla a že se jedná o koryto vodního toku přirozeného, tudíž nemají zákonnou povinnost jej upravovat nebo čistit a jejich technik provádějící prověrku na místě naznal, že není potřeba koryto jakkoliv čistit. V korytě jsou naplaveny mimo jiné i zbytky kukuřice z okolních polí. Na základě předchozího neúspěchu na Státním pozemkovém úřadě, kdy jsem zapomněl podotknout ještě podstatnou věc, který je sice majitelem vodní plochy, ovšem bez povinnosti správy, bylo osloven pan Damajka ze spol. ZKJD a předseda ZD Haňovice Ing. Obrátil. Pan Damajka vystavil cenovou nabídku na úklid naplavenin kukuřičného stonku a p. Obrátil by se postaral o likvidaci tohoto naplaveného materiálu, který by byl převezen z místa nakládky dle dohody na hnojiště ZD Haňovice do Myslechovic. Cenová nabídka od ZJKD je na částku 68.250,- Kč bez DPH (viz. příloha) a je potřeba na ni provést rozpočtovou změnu, kterou je potřeba schválit zastupitelstvem. Rozsah úklidových prací jsem projednával i s ředitelem TS Bc. Erlecem, ale na dané práce je potřeba speciální techniku, kterou TS nedisponují. Je potřeba vzít v potaz, že pokud bychom nevyužili uvedenou nabídku a vytěžený kukuřičný stonek vyváželi na oficiální skládku (vždycky bude vytěženo něco víc, než kukuřice – hlína apod.) bude muset být proveden rozbor zeminy a bude se jednat o skládku nebezpečného odpadu, což může náklady navýšit troj až čtyřnásobně."
+    },
+    {
+      "title": "Rozpočtová změna č. 53/2025/ZM",
+      "text": "Na 17. zasedání zastupitelstva města Litovel byla členy TJ Vodní sporty prezentována idea vybudování nového areálu loděnice. Prezentovaná vizualizace byla členy ZM vnímána pozitivně a záměr se setkal se všeobecnou tichou podporou. Vedení města navrhuje RZ ve výši 600 tis. Kč, která bude určena na jako investiční transfer pro TJ Vodní sporty na spolufinancování projektové dokumentace nového areálu loděnice. Zbývající potřebné prostředky zajistí TJ z jiných zdrojů."
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2025/ZM",
+      "text": "Úprava odhadu daně z příjmů právnických osob za obce na základě konečných účetních výkazů města Litovel za rok 2024. Navazuje na údaje schváleného rozpočtu na rok 2025 a na RZ 36/2025/ZM, která byla schválena 13. 2. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2025/ZM",
+      "text": "Na jednání ZM dne 13. 2. 2025 byla mimo jiné schválena i RZ 26/2025/ZM v objemu 330.000,00 Kč („Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení herního prvku na zahradu KD v Myslechovicích. Jedná se o požadavek OV - víceúčelová herní sestava pro menší děti na zahradu KD“). Následně proběhla komunikace mezi předsedou OV Myslechovice a vedením města ohledně jiné alternativy řešení této záležitosti. Na základě pokynu pana starosty je do tohoto materiálu zapracován tento návrh, který umožní, aby až se vyjasní technicko-organizační záležitosti této akce, mohlo být neprodleně přistoupeno k případné realizaci. RZ zvyšuje celkové výdaje na tuto akci na hodnotu 700 tis. Kč, což zahrnuje cenu herního prvku ve výši 656.229,00Kč (včetně DPH) dle obdržené nabídky a případné další záležitosti související s instalací herního prvku. V příloze zápis z jednání OV Myslechovice ze dne 7. 3. 2025 a kalkulace ceny herního prvku dle návrhu originálního dětského hřiště."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2025/ZM",
+      "text": "TECHNICKÉ SLUŽBY Litovel, příspěvková organizace zřízená městem Litovel dlouhodobě připravovaly rekonstrukci administrativní budovy, která se nachází v areálu TS. Na akci se povedlo získat dotaci z OPŽP, která bude proplacena po ukončení akce, a již je dokončen výběr dodavatelské firmy. V příloze podklady od TS."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._6_2025_dne_20.3.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 6/2025 schválené Zastupitelstvem města Litovel\ndne 20. března 2025\nRozpočtové opatření bylo schváleno na 18. zasedání Zastupitelstva města Litovel dne 20. března 2025 na základě\nusnesení ZM/4/18/2025.\nZměny ve financování:\nODPA POL UZ MU ORJ ORG Kč Popis\nzměna stavu finančních prostředků na BÚ (RZ\n8115 17 605,73\n52/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n8115 600 000,00\n53/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n8115 370 000,00\n55/2025/ZM)\nzměna stavu finančních prostředků na BÚ (RZ\n8115 10 656 182,60\n56/2025/ZM)\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč Popis\n4152 2 888 64 977,27 Revúca - peněžitý dar - povodně (RZ 52/2025/ZM)\nDaň z příjmů právnických osob za obce (RZ\n1122 231 510,00\n54/2025/ZM)\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč Popis\nVíska - povodně - čištění vodního toku od naplavenin\n2333 5169 2 306 16 900 000 82 583,00\nkukuřičného stonku (RZ 52/2025/ZM)\nTJ Vodní sporty Litovel - investiční transfer - PD (RZ\n3419 6322 4 000 000 600 000,00\n53/2025/RM)\n6399 5365 14 000 000 231 510,00 Platby daní a poplatků (RZ 54/2025/ZM)\nMyslechovice - herní prvek dle požadavků OV (RZ\n3421 6122 301 2 033 470 370 000,00\n55/2025/ZM)\nTechnické služby Litovel - inv. transfery zřízeným\n3639 6351 41 3 000 000 4 672 177,02\npřísp. org. - rekonstrukce AB (RZ 56/2025/ZM)\nTechnické služby Litovel - inv. půjčené prostředky\n3639 6451 41 3 000 000 5 984 005,58 zřízeným přísp. org. - rekonstrukce AB (RZ\n56/2025/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 52/2025/ZM\nDne 25.2.2025 byl od pracovníka krizového řízení doručen požadavek na rozpočtovou změnu týkající se povodní, a to\nčištění vodního toku Víska od naplavenin kukuřičného stonku. Odůvodnění tohoto požadavku – viz. níže.\nPři povodních v září 2024, došlo ke značnému znečištění koryta výše uvedené vodní plochy. Vlastníkem vodní plochy\nje Státní pozemkový úřad, místně příslušným Krajský pozemkový úřad, ul. Blanická 1 v Olomouci. Tento jsem písemně\noslovil a vyzval je k vyčištění koryta. Vedoucí Ing. Chromčákovou byla moje žádost předána na odd. správy majetku,\nkde mi bylo Ing. Gajdou sděleno, že považují za problém pouze vodou vymletý štěrk pod kolejištěm na ul. Dukelská\nv Litovli, který zasáhl do koryta zmiňovaného vodního díla a že se jedná o koryto vodního toku přirozeného, tudíž\nnemají zákonnou povinnost jej upravovat nebo čistit a jejich technik provádějící prověrku na místě naznal, že není\npotřeba koryto jakkoliv čistit.\nV korytě jsou naplaveny mimo jiné i zbytky kukuřice z okolních polí. Na základě předchozího neúspěchu na Státním\npozemkovém úřadě, kdy jsem zapomněl podotknout ještě podstatnou věc, který je sice majitelem vodní plochy, ovšem\nbez povinnosti správy, bylo osloven pan Damajka ze spol. ZKJD a předseda ZD Haňovice Ing. Obrátil. Pan Damajka\nvystavil cenovou nabídku na úklid naplavenin kukuřičného stonku a p. Obrátil by se postaral o likvidaci tohoto\nnaplaveného materiálu, který by byl převezen z místa nakládky dle dohody na hnojiště ZD Haňovice do Myslechovic.\nCenová nabídka od ZJKD je na částku 68.250,- Kč bez DPH (viz. příloha) a je potřeba na ni provést rozpočtovou změnu,\nkterou je potřeba schválit zastupitelstvem.\nRozsah úklidových prací jsem projednával i s ředitelem TS Bc. Erlecem, ale na dané práce je potřeba speciální techniku,\nkterou TS nedisponují.\nJe potřeba vzít v potaz, že pokud bychom nevyužili uvedenou nabídku a vytěžený kukuřičný stonek vyváželi na oficiální\nskládku (vždycky bude vytěženo něco víc, než kukuřice – hlína apod.) bude muset být proveden rozbor zeminy a bude\nse jednat o skládku nebezpečného odpadu, což může náklady navýšit troj až čtyřnásobně.\nRozpočtová změna č. 53/2025/ZM\nNa 17. zasedání zastupitelstva města Litovel byla členy TJ Vodní sporty prezentována idea vybudování nového areálu\nloděnice. Prezentovaná vizualizace byla členy ZM vnímána pozitivně a záměr se setkal se všeobecnou tichou podporou.\nVedení města navrhuje RZ ve výši 600 tis. Kč, která bude určena na jako investiční transfer pro TJ Vodní sporty na\nspolufinancování projektové dokumentace nového areálu loděnice. Zbývající potřebné prostředky zajistí TJ z jiných\nzdrojů.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 54/2025/ZM\nÚprava odhadu daně z příjmů právnických osob za obce na základě konečných účetních výkazů města Litovel za rok\n2024. Navazuje na údaje schváleného rozpočtu na rok 2025 a na RZ 36/2025/ZM, která byla schválena 13. 2. 2025.\nRozpočtová změna č. 55/2025/ZM\nNa jednání ZM dne 13. 2. 2025 byla mimo jiné schválena i RZ 26/2025/ZM v objemu 330.000,00 Kč („Dne 23.1.2025\npožádal vedoucí odboru MH a SI o navýšení rozpočtu na pořízení herního prvku na zahradu KD v Myslechovicích.\nJedná se o požadavek OV - víceúčelová herní sestava pro menší děti na zahradu KD“). Následně proběhla komunikace\nmezi předsedou OV Myslechovice a vedením města ohledně jiné alternativy řešení této záležitosti. Na základě pokynu\npana starosty je do tohoto materiálu zapracován tento návrh, který umožní, aby až se vyjasní technicko-organizační\nzáležitosti této akce, mohlo být neprodleně přistoupeno k případné realizaci. RZ zvyšuje celkové výdaje na tuto akci na\nhodnotu 700 tis. Kč, což zahrnuje cenu herního prvku ve výši 656.229,00Kč (včetně DPH) dle obdržené nabídky a\npřípadné další záležitosti související s instalací herního prvku. V příloze zápis z jednání OV Myslechovice ze dne 7. 3.\n2025 a kalkulace ceny herního prvku dle návrhu originálního dětského hřiště.\nRozpočtová změna č. 56/2025/ZM\nTECHNICKÉ SLUŽBY Litovel, příspěvková organizace zřízená městem Litovel dlouhodobě připravovaly rekonstrukci\nadministrativní budovy, která se nachází v areálu TS. Na akci se povedlo získat dotaci z OPŽP, která bude proplacena\npo ukončení akce, a již je dokončen výběr dodavatelské firmy. V příloze podklady od TS.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 27.3.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/4/18/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "ZM/4/18/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "52/2025/ZM",
+        "53/2025/ZM",
+        "54/2025/ZM",
+        "55/2025/ZM",
+        "56/2025/ZM"
+      ]
+    }
+  ]
+}

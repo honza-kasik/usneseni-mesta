@@ -1,0 +1,32 @@
+{
+  "id": "RM/2083/68/2026",
+  "datum": "2026-02-19",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí předložené zápisy z otevírání a hodnocení nabídek k prodeji pozemků v lokalitě Pavlínka II."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit předloženou Kupní smlouvu mezi městem Litovel\njako prodávajícím a panem O. M. jako kupujícím, jejímž předmětem je prodej pozemku parc.č. 838/1,\no výměře 1 201 m2, orná půda, k.ú. Litovel, za cenu 2.868 Kč/m2, tj. 3.444.468 Kč vč. DPH. Vedlejší náklady hradí\nkupující."
+    },
+    {
+      "label": "c",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit předloženou Kupní smlouvu mezi městem Litovel\njako prodávajícím a manželi M. V. a K. D. jako kupujícími, jejímž předmětem je prodej pozemku parc.č. 802,\no výměře 459 m2, ostatní plocha/jiná plocha a parc.č. 803, o výměře 466 m2, ostatní plocha/jiná plocha,\nvše k.ú. Litovel, za cenu 2.835 Kč/m2, tj. 2.622.375 Kč vč. DPH. Vedlejší náklady hradí kupující."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "2.622.375 Kč",
+    "2.835 Kč",
+    "2.868 Kč",
+    "3.444.468 Kč"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ZM/16/20/2025",
+  "datum": "2025-06-24",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje prodej pozemků parc.č. st. 92, o výměře 313 m2 a parc.č. 46/3, o výměře 803 m2, vše k.ú. Chudobín,\nŘímskokatolické církvi Chudobín, zastoupené P. Mgr. R. M. H."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje předloženou Kupní smlouvu, jejímž předmětem je prodej pozemků parc.č.st. 92, o výměře 313 m2\na parc.č. 46/3, o výměře 803 m2, vše k.ú. Chudobín, Římskokatolické farnosti Chudobín, zastoupené\nP. Mgr. R. M. H., za cenu 200.000 Kč dle znaleckého posudku. Veškeré náklady jdou k tíži kupujícího."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "200.000 Kč"
+  ]
+}

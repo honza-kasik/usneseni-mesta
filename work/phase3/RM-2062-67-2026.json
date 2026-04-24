@@ -1,0 +1,24 @@
+{
+  "id": "RM/2062/67/2026",
+  "datum": "2026-01-29",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí se změnou způsobu platby (na bezhotovostní) za použití veřejných WC v ul. Husova."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí se zvýšením vstupu na 20 Kč/vstup za použití veřejných WC v ul. Husova."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "20 Kč"
+  ]
+}

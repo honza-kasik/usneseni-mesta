@@ -1,0 +1,516 @@
+{
+  "id": "RO/7/2025",
+  "number": 7,
+  "year": 2025,
+  "approval_date": "2025-04-10",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 49,
+    "type": "schůzi",
+    "date": "2025-04-10"
+  },
+  "source_resolutions": [
+    "RM/1555/49/2025",
+    "RM/1556/49/2025",
+    "RM/1557/49/2025",
+    "RM/1571/49/2025"
+  ],
+  "budget_change_ids": [
+    "37/2025/RM",
+    "73/2025/RM",
+    "74/2025/RM",
+    "75/2025/RM",
+    "76/2025/RM",
+    "77/2025/RM",
+    "78/2025/RM",
+    "79/2025/RM",
+    "80/2025/RM",
+    "81/2025/RM",
+    "82/2025/RM",
+    "83/2025/RM",
+    "84/2025/RM",
+    "85/2025/RM",
+    "86/2025/RM",
+    "87/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "73/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "3 465,00",
+          "amount_value": 3465.0,
+          "description": "přijaté pojistné plnění (RZ 73/2025/RM)"
+        },
+        {
+          "budget_change_id": "75/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "57 530,00",
+          "amount_value": 57530.0,
+          "description": "přijaté pojistné plnění (RZ 75/2025/RM)"
+        },
+        {
+          "budget_change_id": "77/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "90 000,00",
+          "amount_value": 90000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 77/2025/RM)"
+        },
+        {
+          "budget_change_id": "78/2025/RM",
+          "raw_codes": [
+            "4116",
+            "29014",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "388 950,00",
+          "amount_value": 388950.0,
+          "description": "MZe ČR - finanční příspěvek na obnovu lesních porostů pro TS Litovel (RZ 78/2025/RM)"
+        },
+        {
+          "budget_change_id": "79/2025/RM",
+          "raw_codes": [
+            "4116",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "51 154,00",
+          "amount_value": 51154.0,
+          "description": "MZe ČR - finanční příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lesích pro TS Litovel (RZ 79/2025/RM)"
+        },
+        {
+          "budget_change_id": "81/2025/RM",
+          "raw_codes": [
+            "4116",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "28 953,00",
+          "amount_value": 28953.0,
+          "description": "MZe ČR - finanční příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lesích pro TS Litovel (RZ 81/2025/RM)"
+        },
+        {
+          "budget_change_id": "82/2025/RM",
+          "raw_codes": [
+            "4116",
+            "29014",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "186 700,00",
+          "amount_value": 186700.0,
+          "description": "MZe ČR - finanční příspěvek na obnovu lesních porostů pro TS Litovel (RZ 82/2025/RM)"
+        },
+        {
+          "budget_change_id": "84/2025/RM",
+          "raw_codes": [
+            "4116",
+            "143533092",
+            "49"
+          ],
+          "amount": "353 281,81",
+          "amount_value": 353281.81,
+          "description": "MŠMT ČR - účelová neinvestiční dotace pro MŠ Frištenského na realizaci projektu v rámci Operačního programu Jan Amos Komenský - projekty využívající zjednodušené vykazování (RZ 84/2025/RM)"
+        },
+        {
+          "budget_change_id": "84/2025/RM",
+          "raw_codes": [
+            "4116",
+            "143133092",
+            "49"
+          ],
+          "amount": "84 090,59",
+          "amount_value": 84090.59,
+          "description": "MŠMT ČR - účelová neinvestiční dotace pro MŠ Frištenského na realizaci projektu v rámci Operačního programu Jan Amos Komenský - projekty využívající zjednodušené vykazování (RZ 84/2025/RM)"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "73/2025/RM",
+          "raw_codes": [
+            "3315",
+            "5169",
+            "18 000 000"
+          ],
+          "amount": "3 465,00",
+          "amount_value": 3465.0,
+          "description": "Muzeum - nákup služeb (RZ 73/2025/RM)"
+        },
+        {
+          "budget_change_id": "74/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "4 000 000"
+          ],
+          "amount": "-56 000,00",
+          "amount_value": -56000.0,
+          "description": "POST BELLUM, z.ú. - dotace na podporu vzdělávacího programu v projektu Paměti národa \"Příběhy našich sousedů\" (RZ 74/2025/RM)"
+        },
+        {
+          "budget_change_id": "74/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "56 000,00",
+          "amount_value": 56000.0,
+          "description": "POST BELLUM, z.ú. - dotace na podporu vzdělávacího programu v projektu Paměti národa \"Příběhy našich sousedů\" (RZ 74/2025/RM)"
+        },
+        {
+          "budget_change_id": "75/2025/RM",
+          "raw_codes": [
+            "5511",
+            "5169",
+            "15 000 000"
+          ],
+          "amount": "57 530,00",
+          "amount_value": 57530.0,
+          "description": "Požární ochrana - nákup služeb (RZ 75/2025/RM)"
+        },
+        {
+          "budget_change_id": "76/2025/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "301",
+            "2 033 646"
+          ],
+          "amount": "-16 940,00",
+          "amount_value": -16940.0,
+          "description": "Myslechovice - KD - rekonstrukce elektroinstalace (RZ 76/2025/RM)"
+        },
+        {
+          "budget_change_id": "76/2025/RM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "16 940,00",
+          "amount_value": 16940.0,
+          "description": "Myslechovice - PD oprava kaple (RZ 76/2025/RM)"
+        },
+        {
+          "budget_change_id": "77/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "2",
+            "307",
+            "3 900 000"
+          ],
+          "amount": "90 000,00",
+          "amount_value": 90000.0,
+          "description": "Chořelice - domek OV - povodně - oprava (RZ 77/2025/RM)"
+        },
+        {
+          "budget_change_id": "78/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29014",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "388 950,00",
+          "amount_value": 388950.0,
+          "description": "převod příspěvku příjemci - Technické služby Litovel - finanční příspěvek na obnovu lesních porostů (RZ 78/2025/RM)"
+        },
+        {
+          "budget_change_id": "79/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "51 154,00",
+          "amount_value": 51154.0,
+          "description": "převod příspěvku příjemci - Technické služby Litovel - příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lesích (RZ 79/2025/RM)"
+        },
+        {
+          "budget_change_id": "80/2025/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "0",
+            "4 000 000"
+          ],
+          "amount": "-95 000,00",
+          "amount_value": -95000.0,
+          "description": "Městský klub - klubovna - výměna oken (RZ 80/2025/RM)"
+        },
+        {
+          "budget_change_id": "80/2025/RM",
+          "raw_codes": [
+            "3412",
+            "6122",
+            "0",
+            "4 000 423"
+          ],
+          "amount": "95 000,00",
+          "amount_value": 95000.0,
+          "description": "TJ Tatran Litovel - šatny - nový kotel (RZ 80/2025/RM)"
+        },
+        {
+          "budget_change_id": "81/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "28 953,00",
+          "amount_value": 28953.0,
+          "description": "převod příspěvku příjemci - Technické služby Litovel - příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lesích (RZ 81/2025/RM)"
+        },
+        {
+          "budget_change_id": "82/2025/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29014",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "186 700,00",
+          "amount_value": 186700.0,
+          "description": "převod příspěvku příjemci - Technické služby Litovel - příspěvek na obnovu lesních porostů (RZ 82/2025/RM)"
+        },
+        {
+          "budget_change_id": "83/2025/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "OŠKS - ostatní záležitosti školství - posudky, audity, projekty a ostatní výdaje (RZ 83/2025/RM)"
+        },
+        {
+          "budget_change_id": "83/2025/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "OŠKS - revitalizace sportovního areálu Sokolovny - BOZP a TDI (RZ 83/2025/RM)"
+        },
+        {
+          "budget_change_id": "84/2025/RM",
+          "raw_codes": [
+            "3111",
+            "5336",
+            "143533092",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "353 281,81",
+          "amount_value": 353281.81,
+          "description": "převod dotace příjemci - MŠ Frištenského - účelová neinvestiční dotace na realizaci projektu v rámci Operačního programu Jan Amos Komenský - projekty využívající zjednodušené vykazování (RZ 84/2025/RM)"
+        },
+        {
+          "budget_change_id": "85/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 85/2025/RM)"
+        },
+        {
+          "budget_change_id": "85/2025/RM",
+          "raw_codes": [
+            "4359",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Zet-My, z.s. - dar na podporu činnosti odlehčovací služby v roce 2025 (RZ 85/2025/RM)"
+        },
+        {
+          "budget_change_id": "86/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 86/2025/RM)"
+        },
+        {
+          "budget_change_id": "86/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Myslivecký spolek Litovel Doubrava - dar na organizační zajištění dětského dne, který se uskuteční 3.5.2025 a na organizační zajištění střeleckého závodu O pohár Doubravy, který se uskuteční 14.6.2025 (RZ 86/2025/RM)"
+        },
+        {
+          "budget_change_id": "37/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "zrušení RZ 37/2025/RM (schválené usnesením RM/1417/46/2025/ah) na základě usnesení RM/1557/49/2025 - ZO Českého zahrádkářského svazu Litovel (RZ 87/2025/RM)"
+        },
+        {
+          "budget_change_id": "37/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "zrušení RZ 37/2025/RM (schválené usnesením RM/1417/46/2025/ah) na základě usnesení RM/1557/49/2025 - transfery dle rozhodnutí RM (RZ 87/2025/RM)"
+        },
+        {
+          "budget_change_id": "84/2025/RM",
+          "raw_codes": [
+            "3111",
+            "5336",
+            "143133092",
+            "49",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "84 090,59",
+          "amount_value": 84090.59,
+          "description": ") převod dotace příjemci - MŠ Frištenského - účelová neinvestiční dotace na realizaci projektu v rámci Operačního programu Jan Amos Komenský - projekty využívající zjednodušené vykazování (RZ 84/2025/RM"
+        },
+        {
+          "budget_change_id": "87/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "(schválené usnesením RM/1417/46/2025/ah) na základě usnesení RM/1557/49/2025 - ZO Českého zahrádkářského svazu Litovel (RZ 87/2025/RM"
+        },
+        {
+          "budget_change_id": "87/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "(schválené usnesením RM/1417/46/2025/ah) na základě usnesení RM/1557/49/2025 - transfery dle rozhodnutí RM (RZ 87/2025/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 73/2025/RM",
+      "text": "Dne 12. 3. 2025 obdrželo město Litovel od Hasičské vzájemné pojišťovny, a.s., v rámci likvidace škodní události ze dne 21. 2. 2025 platbu ve výši 3.465,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 74/2025/RM",
+      "text": "Dne 30.1.2025 schválila rada města na základě podkladů z OŠKS poskytnutí dotace pro POST BELLUM, z. ú. na podporu vzdělávacího programu v projektu Paměti národa a s tím související rozpočtovou změnu. Je nutné zjednat nápravu a přesunout tento výdaj na odpovídající paragraf a položku."
+    },
+    {
+      "title": "Rozpočtová změna č. 75/2025/RM",
+      "text": "Dne 18. 3. 2025 obdrželo město Litovel platbu ve výši 57.530,00 Kč od Generali České pojišťovny, a.s., v rámci likvidace škodní události ze dne 19. 12. 2024 (signalizace výjezdu vozidel HZS na Dukelské ulici)."
+    },
+    {
+      "title": "Rozpočtová změna č. 76/2025/RM",
+      "text": "Dne 19.3.2025 byla od odboru MHaSI doručena žádost o rozpočtovou změnu: Vedoucí MH objednal PD opravy kaple sv. Michala v místní části Myslechovice. Tato objednávka není kryta rozpočtem, pro úhradu došlé faktury je požadována rozpočtová změna. PD bude hrazena z participativního rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 77/2025/RM",
+      "text": "K pokrytí nákladů na řešení následků povodní požaduje odbor MH a SI navýšení rozpočtu. Na domku osadního výboru v Chořelicích je potřeba provést sanaci vlhkého zdiva po povodni (osekat omítky, odvlhčit zdivo, znovu omítnout a vymalovat). Tyto práce řešil již původní požadavek na rozpočtovou změnu týkající se povodňových škod. Podklady pro zpracování požadavku nebyly úplné, nyní byla doručena opravená cenová nabídka, na základě které je celková částka na opravu domku osadního výboru vyčíslena na 193 tisíc Kč. Proto požadujeme navýšení výdajů o 90 tisíc Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 78/2025/RM",
+      "text": "Převod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje ze dne 11. 3. 2025. Na účet města připsáno 3. 4. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 79/2025/RM",
+      "text": "Převod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje ze dne 11. 3. 2025. Na účet města připsáno 3. 4. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 80/2025/RM",
+      "text": "Dne 20. 3. 2025 byla od odboru školství, kultury a sportu doručena žádost o rozpočtovou změnu týkající se výměny nefunkčního plynového kotle na ohřev vody a vytápění šaten v areálu TJ Taran Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 81/2025/RM",
+      "text": "Převod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje ze dne 17. 3. 2025. Na účet města bylo připsáno 31. 3. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 82/2025/RM",
+      "text": "Převod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje ze dne 17. 3. 2025. Na účet města bylo připsáno 31. 3. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 83/2025/RM",
+      "text": "Dne 2. 4. 2025 byla od odboru školství, kultury a sportu doručena žádost o rozpočtovou změnu vypracovaná pracovnicí OŠKS: „Tímto bych chtěla požádat o provedení rozpočtové změny z důvodu nedostatku prostředků na § 3412.Tyto prostředky budou sloužit k pokrytí nákladů na BOZP a TDI do převodu finančních prostředků na sportovní halu z odboru MHSI“."
+    },
+    {
+      "title": "Rozpočtová změna č. 84/2025/RM",
+      "text": "Převod finančních prostředků ve prospěch MŠ G. Frištenského v souladu s rozpočtovým opatřením z Krajského úřadu Olomouckého kraje ze dne 2. 4. 2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 85/2025/RM",
+      "text": "Poskytnutí daru z rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 86/2025/RM",
+      "text": "Poskytnutí daru z rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 87/2025/RM",
+      "text": "Dne 10.4.2025 bylo RM schváleno usnesení RM/1557/49/2025, kterým se ruší usnesení RM/1417/46/2025/ah. Toto zrušené usnesení se týkalo uzavření smlouvy o poskytnutí dotace mezi městem Litovel a ZO Českého zahrádkářského svazu v předloženém znění a rozpočtové změny týkající se této dotace (RZ 37/2025/RM). V důsledku schváleného usnesení (RM/1557/49/2025) byla dne 16.4. 2025 RZ 37/2025/RM zrušena RZ 87/2025/RM."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._7_2025_dne_10.4.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 7/2025 schválené Radou města Litovel\ndne 10. dubna 2025\nRozpočtové opatření bylo schváleno na 49. schůzi Rady města Litovel dne 10. dubna 2025 na základě usnesení\nRM/1555/49/2025, RM/1556/49/2025, RM/1557/49/2025, RM/1571/49/2025.\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč Popis\n6320 2322 3 465,00 přijaté pojistné plnění (RZ 73/2025/RM)\n6320 2322 57 530,00 přijaté pojistné plnění (RZ 75/2025/RM)\npřijaté pojistné plnění - povodně (RZ\n6320 2322 2 888 90 000,00\n77/2025/RM)\nMZe ČR - finanční příspěvek na obnovu\n4116 29014 41 14 000 000 388 950,00 lesních porostů pro TS Litovel (RZ\n78/2025/RM)\nMZe ČR - finanční příspěvek na\nekologické a k přírodě šetrné technologie\n4116 29015 41 14 000 000 51 154,00\npři hospodaření v lesích pro TS Litovel\n(RZ 79/2025/RM)\nMZe ČR - finanční příspěvek na\nekologické a k přírodě šetrné technologie\n4116 29015 41 14 000 000 28 953,00\npři hospodaření v lesích pro TS Litovel\n(RZ 81/2025/RM)\nMZe ČR - finanční příspěvek na obnovu\n4116 29014 41 14 000 000 186 700,00 lesních porostů pro TS Litovel (RZ\n82/2025/RM)\nMŠMT ČR - účelová neinvestiční dotace\npro MŠ Frištenského na realizaci projektu\nv rámci Operačního programu Jan Amos\n4116 143533092 49 353 281,81\nKomenský - projekty využívající\nzjednodušené vykazování (RZ\n84/2025/RM)\nMŠMT ČR - účelová neinvestiční dotace\npro MŠ Frištenského na realizaci projektu\nv rámci Operačního programu Jan Amos\n4116 143133092 49 84 090,59\nKomenský - projekty využívající\nzjednodušené vykazování (RZ\n84/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč Popis\n3315 5169 18 000 000 3 465,00 Muzeum - nákup služeb (RZ 73/2025/RM)\nPOST BELLUM, z.ú. - dotace na podporu\nvzdělávacího programu v projektu Paměti\n3113 5169 4 000 000 -56 000,00\nnároda \"Příběhy našich sousedů\" (RZ\n74/2025/RM)\nPOST BELLUM, z.ú. - dotace na podporu\nvzdělávacího programu v projektu Paměti\n3900 5221 4 000 000 56 000,00\nnároda \"Příběhy našich sousedů\" (RZ\n74/2025/RM)\nPožární ochrana - nákup služeb (RZ\n5511 5169 15 000 000 57 530,00\n75/2025/RM)\nMyslechovice - KD - rekonstrukce\n3392 6121 301 2 033 646 -16 940,00\nelektroinstalace (RZ 76/2025/RM)\nMyslechovice - PD oprava kaple (RZ\n3326 5171 301 2 030 000 16 940,00\n76/2025/RM)\nChořelice - domek OV - povodně - oprava (RZ\n3429 5171 2 307 3 900 000 90 000,00\n77/2025/RM)\npřevod příspěvku příjemci - Technické služby\n3639 5336 29014 41 14 000 000 388 950,00 Litovel - finanční příspěvek na obnovu lesních\nporostů (RZ 78/2025/RM)\npřevod příspěvku příjemci - Technické služby\nLitovel - příspěvek na ekologické a k přírodě\n3639 5336 29015 41 14 000 000 51 154,00\nšetrné technologie při hospodaření v lesích (RZ\n79/2025/RM)\nMěstský klub - klubovna - výměna oken (RZ\n3613 5171 0 4 000 000 -95 000,00\n80/2025/RM)\nTJ Tatran Litovel - šatny - nový kotel (RZ\n3412 6122 0 4 000 423 95 000,00\n80/2025/RM)\npřevod příspěvku příjemci - Technické služby\nLitovel - příspěvek na ekologické a k přírodě\n3639 5336 29015 41 14 000 000 28 953,00\nšetrné technologie při hospodaření v lesích (RZ\n81/2025/RM)\npřevod příspěvku příjemci - Technické služby\n3639 5336 29014 41 14 000 000 186 700,00 Litovel - příspěvek na obnovu lesních porostů\n(RZ 82/2025/RM)\nOŠKS - ostatní záležitosti školství - posudky,\n3319 5901 4 000 000 -50 000,00 audity, projekty a ostatní výdaje (RZ\n83/2025/RM)\nOŠKS - revitalizace sportovního areálu\n3412 6121 4 000 442 50 000,00\nSokolovny - BOZP a TDI (RZ 83/2025/RM)\npřevod dotace příjemci - MŠ Frištenského -\núčelová neinvestiční dotace na realizaci\n3111 5336 143533092 49 4 000 000 353 281,81 projektu v rámci Operačního programu Jan\nAmos Komenský - projekty využívající\nzjednodušené vykazování (RZ 84/2025/RM)\npřevod dotace příjemci - MŠ Frištenského -\n3111 5336 143133092 49 4 000 000 84 090,59 účelová neinvestiční dotace na realizaci\nprojektu v rámci Operačního programu Jan\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nAmos Komenský - projekty využívající\nzjednodušené vykazování (RZ 84/2025/RM)\n3429 5901 4 000 000 -5 000,00 transfery dle rozhodnutí RM (RZ 85/2025/RM)\nZet-My, z.s. - dar na podporu činnosti\n4359 5222 4 000 000 5 000,00 odlehčovací služby v roce 2025 (RZ\n85/2025/RM)\n3429 5901 4 000 000 -5 000,00 transfery dle rozhodnutí RM (RZ 86/2025/RM)\nMyslivecký spolek Litovel Doubrava - dar na\norganizační zajištění dětského dne, který se\n3429 5222 4 000 000 5 000,00 uskuteční 3.5.2025 a na organizační zajištění\nstřeleckého závodu O pohár Doubravy, který se\nuskuteční 14.6.2025 (RZ 86/2025/RM)\nzrušení RZ 37/2025/RM (schválené usnesením\nRM/1417/46/2025/ah) na základě usnesení\n3429 5222 4 000 000 -10 000,00 RM/1557/49/2025 - ZO Českého\nzahrádkářského svazu Litovel (RZ\n87/2025/RM)\nzrušení RZ 37/2025/RM (schválené usnesením\nRM/1417/46/2025/ah) na základě usnesení\n3429 5901 4 000 000 10 000,00\nRM/1557/49/2025 - transfery dle rozhodnutí\nRM (RZ 87/2025/RM)\nRozpočtová změna č. 73/2025/RM\nDne 12. 3. 2025 obdrželo město Litovel od Hasičské vzájemné pojišťovny, a.s., v rámci likvidace škodní události ze\ndne 21. 2. 2025 platbu ve výši 3.465,00 Kč.\nRozpočtová změna č. 74/2025/RM\nDne 30.1.2025 schválila rada města na základě podkladů z OŠKS poskytnutí dotace pro POST BELLUM, z. ú. na\npodporu vzdělávacího programu v projektu Paměti národa a s tím související rozpočtovou změnu. Je nutné zjednat\nnápravu a přesunout tento výdaj na odpovídající paragraf a položku.\nRozpočtová změna č. 75/2025/RM\nDne 18. 3. 2025 obdrželo město Litovel platbu ve výši 57.530,00 Kč od Generali České pojišťovny, a.s., v rámci\nlikvidace škodní události ze dne 19. 12. 2024 (signalizace výjezdu vozidel HZS na Dukelské ulici).\nRozpočtová změna č. 76/2025/RM\nDne 19.3.2025 byla od odboru MHaSI doručena žádost o rozpočtovou změnu: Vedoucí MH objednal PD opravy kaple\nsv. Michala v místní části Myslechovice. Tato objednávka není kryta rozpočtem, pro úhradu došlé faktury je požadována\nrozpočtová změna. PD bude hrazena z participativního rozpočtu.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 77/2025/RM\nK pokrytí nákladů na řešení následků povodní požaduje odbor MH a SI navýšení rozpočtu. Na domku osadního výboru\nv Chořelicích je potřeba provést sanaci vlhkého zdiva po povodni (osekat omítky, odvlhčit zdivo, znovu omítnout a\nvymalovat). Tyto práce řešil již původní požadavek na rozpočtovou změnu týkající se povodňových škod. Podklady pro\nzpracování požadavku nebyly úplné, nyní byla doručena opravená cenová nabídka, na základě které je celková částka\nna opravu domku osadního výboru vyčíslena na 193 tisíc Kč. Proto požadujeme navýšení výdajů o 90 tisíc Kč.\nRozpočtová změna č. 78/2025/RM\nPřevod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu\nOlomouckého kraje ze dne 11. 3. 2025. Na účet města připsáno 3. 4. 2025.\nRozpočtová změna č. 79/2025/RM\nPřevod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu\nOlomouckého kraje ze dne 11. 3. 2025. Na účet města připsáno 3. 4. 2025.\nRozpočtová změna č. 80/2025/RM\nDne 20. 3. 2025 byla od odboru školství, kultury a sportu doručena žádost o rozpočtovou změnu týkající se výměny\nnefunkčního plynového kotle na ohřev vody a vytápění šaten v areálu TJ Taran Litovel.\nRozpočtová změna č. 81/2025/RM\nPřevod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu\nOlomouckého kraje ze dne 17. 3. 2025. Na účet města bylo připsáno 31. 3. 2025.\nRozpočtová změna č. 82/2025/RM\nPřevod finančních prostředků ve prospěch TS dle rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu\nOlomouckého kraje ze dne 17. 3. 2025. Na účet města bylo připsáno 31. 3. 2025.\nRozpočtová změna č. 83/2025/RM\nDne 2. 4. 2025 byla od odboru školství, kultury a sportu doručena žádost o rozpočtovou změnu vypracovaná pracovnicí\nOŠKS: „Tímto bych chtěla požádat o provedení rozpočtové změny z důvodu nedostatku prostředků na § 3412.Tyto\nprostředky budou sloužit k pokrytí nákladů na BOZP a TDI do převodu finančních prostředků na sportovní halu\nz odboru MHSI“.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 84/2025/RM\nPřevod finančních prostředků ve prospěch MŠ G. Frištenského v souladu s rozpočtovým opatřením z Krajského úřadu\nOlomouckého kraje ze dne 2. 4. 2025.\nRozpočtová změna č. 85/2025/RM\nPoskytnutí daru z rozpočtu města.\nRozpočtová změna č. 86/2025/RM\nPoskytnutí daru z rozpočtu města.\nRozpočtová změna č. 87/2025/RM\nDne 10.4.2025 bylo RM schváleno usnesení RM/1557/49/2025, kterým se ruší usnesení RM/1417/46/2025/ah. Toto\nzrušené usnesení se týkalo uzavření smlouvy o poskytnutí dotace mezi městem Litovel a ZO Českého zahrádkářského\nsvazu v předloženém znění a rozpočtové změny týkající se této dotace (RZ 37/2025/RM). V důsledku schváleného\nusnesení (RM/1557/49/2025) byla dne 16.4. 2025 RZ 37/2025/RM zrušena RZ 87/2025/RM.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 16.4.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

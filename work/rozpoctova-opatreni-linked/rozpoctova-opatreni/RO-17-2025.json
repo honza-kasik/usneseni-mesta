@@ -1,0 +1,675 @@
+{
+  "id": "RO/17/2025",
+  "number": 17,
+  "year": 2025,
+  "approval_date": "2025-09-11",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 58,
+    "type": "schůzi",
+    "date": "2025-09-11"
+  },
+  "source_resolutions": [
+    "RM/1809/58/2025"
+  ],
+  "budget_change_ids": [
+    "128/2025/RM",
+    "129/2025/RM",
+    "130/2025/RM",
+    "131/2025/RM",
+    "132/2025/RM",
+    "133/2025/RM",
+    "134/2025/RM",
+    "135/2025/RM",
+    "136/2025/RM",
+    "137/2025/RM",
+    "138/2025/RM",
+    "139/2025/RM",
+    "140/2025/RM",
+    "141/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "128/2025/RM",
+          "raw_codes": [
+            "4116",
+            "143533092",
+            "46"
+          ],
+          "amount": "950 961,50",
+          "amount_value": 950961.5,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Jungmannova na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů (RZ 128/2025/RM)"
+        },
+        {
+          "budget_change_id": "128/2025/RM",
+          "raw_codes": [
+            "4116",
+            "143133092",
+            "46"
+          ],
+          "amount": "226 354,50",
+          "amount_value": 226354.5,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Jungmannova na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů (RZ 128/2025/RM)"
+        },
+        {
+          "budget_change_id": "129/2025/RM",
+          "raw_codes": [
+            "4116",
+            "143533092",
+            "45"
+          ],
+          "amount": "1 099 274,92",
+          "amount_value": 1099274.92,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Vítězná na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů (RZ 129/2025/RM)"
+        },
+        {
+          "budget_change_id": "129/2025/RM",
+          "raw_codes": [
+            "4116",
+            "143133092",
+            "45"
+          ],
+          "amount": "261 657,08",
+          "amount_value": 261657.08,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Vítězná na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů (RZ 129/2025/RM)"
+        },
+        {
+          "budget_change_id": "130/2025/RM",
+          "raw_codes": [
+            "3319",
+            "2321"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "dar od společnosti CEREALIS, a.s. - Litovelské slavnosti (RZ 130/2025/RM)"
+        },
+        {
+          "budget_change_id": "132/2025/RM",
+          "raw_codes": [
+            "3722",
+            "2321"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "dar od FCC Litovel s.r.o. (RZ 132/2025/RM)"
+        },
+        {
+          "budget_change_id": "133/2025/RM",
+          "raw_codes": [
+            "4116",
+            "13015"
+          ],
+          "amount": "-48 883,00",
+          "amount_value": -48883.0,
+          "description": "MPSV ČR - příspěvek na výkon sociální práce (RZ 133/2025/RM)"
+        },
+        {
+          "budget_change_id": "134/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "40 722,00",
+          "amount_value": 40722.0,
+          "description": "přijaté pojistné plnění (RZ 134/2025/RM)"
+        },
+        {
+          "budget_change_id": "135/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "41 263,00",
+          "amount_value": 41263.0,
+          "description": "přijaté pojistné plnění (RZ 135/2025/RM)"
+        },
+        {
+          "budget_change_id": "136/2025/RM",
+          "raw_codes": [
+            "4116",
+            "149517085",
+            "3 003 557"
+          ],
+          "amount": "443 006,49",
+          "amount_value": 443006.49,
+          "description": "MMR ČR - účelová neinv. dotace - Nasobůrky - smíšená stezka pro chodce a cyklisty (RZ 136/2025/RM)"
+        },
+        {
+          "budget_change_id": "136/2025/RM",
+          "raw_codes": [
+            "4216",
+            "149517519",
+            "3 003 557"
+          ],
+          "amount": "6 328 664,27",
+          "amount_value": 6328664.27,
+          "description": "MMR ČR - účelová inv. dotace - Nasobůrky - smíšená stezka pro chodce a cyklisty (RZ 136/2025/RM)"
+        },
+        {
+          "budget_change_id": "139/2025/RM",
+          "raw_codes": [
+            "5269",
+            "2321",
+            "2",
+            "888"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "J.K. - povodeň 2024 - dar (RZ 139/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "4116",
+            "14022",
+            "2"
+          ],
+          "amount": "317 611,00",
+          "amount_value": 317611.0,
+          "description": "MV ČR - účelová neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "132/2025/RM",
+          "raw_codes": [
+            "3722",
+            "232"
+          ],
+          "amount": "1 200 000,00",
+          "amount_value": 1200000.0,
+          "description": ") dar od FCC Litovel s.r.o. (RZ 132/2025/RM"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "4116",
+            "14022"
+          ],
+          "amount": "2 317 611,00",
+          "amount_value": 2317611.0,
+          "description": ") MV ČR - účelová neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "128/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143533092",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "950 961,50",
+          "amount_value": 950961.5,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Jungmannova na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů - přeposlání dotace příjemci(RZ 128/2025/RM)"
+        },
+        {
+          "budget_change_id": "128/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143133092",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "226 354,50",
+          "amount_value": 226354.5,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Jungmannova na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů - přeposlání dotace příjemci(RZ 128/2025/RM)"
+        },
+        {
+          "budget_change_id": "129/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143533092",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "1 099 274,92",
+          "amount_value": 1099274.92,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Vítězná na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů - přeposlání dotace příjemci (RZ 129/2025/RM)"
+        },
+        {
+          "budget_change_id": "129/2025/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143133092",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "261 657,08",
+          "amount_value": 261657.08,
+          "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ Vítězná na realizaci projektu v rámci OP JAK - projekty využívající zjedn. vykazování nákladů - přeposlání dotace příjemci (RZ 129/2025/RM)"
+        },
+        {
+          "budget_change_id": "130/2025/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "4 000 436"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Litovelské slavnosti (RZ 130/2025/RM)"
+        },
+        {
+          "budget_change_id": "131/2025/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 212,00",
+          "amount_value": -7212.0,
+          "description": "ostatní záležitosti odboru školství (RZ 131/2025/RM)"
+        },
+        {
+          "budget_change_id": "131/2025/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4 000 407"
+          ],
+          "amount": "7 212,00",
+          "amount_value": 7212.0,
+          "description": "DDM - oprava podlahy (RZ 131/2025/RM)"
+        },
+        {
+          "budget_change_id": "132/2025/RM",
+          "raw_codes": [
+            "3722",
+            "5137",
+            "7 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "OŽP - pořízení košů na veřejná prostranství (RZ 132/2025/RM)"
+        },
+        {
+          "budget_change_id": "132/2025/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "4 000 436"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Litovelské slavnosti - podpora ekologických aktivit (RZ 132/2025/RM)"
+        },
+        {
+          "budget_change_id": "133/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5169",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "-48 883,00",
+          "amount_value": -48883.0,
+          "description": "příspěvek na výkon sociální práce (RZ 133/2025/RM)"
+        },
+        {
+          "budget_change_id": "134/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5171",
+            "10 000 000"
+          ],
+          "amount": "40 722,00",
+          "amount_value": 40722.0,
+          "description": "OVV - opravy a udržování (RZ 134/2025/RM)"
+        },
+        {
+          "budget_change_id": "135/2025/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 457"
+          ],
+          "amount": "41 263,00",
+          "amount_value": 41263.0,
+          "description": "oprava, údržba a rekonstrukce mk a chodníků (RZ 135/2025/RM)"
+        },
+        {
+          "budget_change_id": "136/2025/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "149517519",
+            "309",
+            "3 003 557"
+          ],
+          "amount": "1 559 987,85",
+          "amount_value": 1559987.85,
+          "description": "Nasobůrky - smíšená stezka pro chodce a cyklisty - dotace (RZ 136/2025/RM)"
+        },
+        {
+          "budget_change_id": "137/2025/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "302",
+            "2 033 651"
+          ],
+          "amount": "-130 000,00",
+          "amount_value": -130000.0,
+          "description": "Chudobín - chodník podél mk k zámku (RZ 137/2025/RM)"
+        },
+        {
+          "budget_change_id": "138/2025/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Unčovice - revitalizace veřejných ploch u Sokolovny (RZ 138/2025/RM)"
+        },
+        {
+          "budget_change_id": "138/2025/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "310",
+            "2 033 470"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Unčovice - herní prvek - pískoviště (RZ 138/2025/RM)"
+        },
+        {
+          "budget_change_id": "139/2025/RM",
+          "raw_codes": [
+            "3314",
+            "5171",
+            "2",
+            "308",
+            "17 900 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Městská knihovna - povodeň - opravy a udržování (RZ 139/2025/RM)"
+        },
+        {
+          "budget_change_id": "140/2025/RM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-250 000,00",
+          "amount_value": -250000.0,
+          "description": "Finanční odbor - úroky z přijatých úvěrů a půjček (RZ 140/2025/RM)"
+        },
+        {
+          "budget_change_id": "140/2025/RM",
+          "raw_codes": [
+            "3315",
+            "5171",
+            "2",
+            "18 900 000"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Muzeum Litovel - povodeň - oprava - výkop, nopová folie, drenáž aj. (RZ 140/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5171",
+            "14022",
+            "2",
+            "307",
+            "15 900 000"
+          ],
+          "amount": "16 610,00",
+          "amount_value": 16610.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "14022",
+            "2",
+            "307",
+            "15 900 000"
+          ],
+          "amount": "28 099,00",
+          "amount_value": 28099.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5139",
+            "14022",
+            "2",
+            "307",
+            "15 900 000"
+          ],
+          "amount": "4 216,00",
+          "amount_value": 4216.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5169",
+            "14022",
+            "2",
+            "307",
+            "15 900 000"
+          ],
+          "amount": "116 343,00",
+          "amount_value": 116343.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5169",
+            "14022",
+            "2",
+            "311",
+            "15 900 000"
+          ],
+          "amount": "19 653,00",
+          "amount_value": 19653.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5019",
+            "14022",
+            "2",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "8 985,00",
+          "amount_value": 8985.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5039",
+            "14022",
+            "2",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "3 037,00",
+          "amount_value": 3037.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5169",
+            "14022",
+            "2",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "113 299,00",
+          "amount_value": 113299.0,
+          "description": "účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM)"
+        },
+        {
+          "budget_change_id": "137/2025/RM",
+          "raw_codes": [
+            "3412",
+            "5169",
+            "305",
+            "2",
+            "033",
+            "470"
+          ],
+          "amount": "130 000,00",
+          "amount_value": 130000.0,
+          "description": ") Březové - sportovní hřiště (terenní úpravy) (RZ 137/2025/RM"
+        },
+        {
+          "budget_change_id": "141/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5134",
+            "14022",
+            "2",
+            "308",
+            "15",
+            "900",
+            "000"
+          ],
+          "amount": "7 369,00",
+          "amount_value": 7369.0,
+          "description": ") účel. neinv. dotace na výdaje spojené se zásahy JSDH obcí při mimořádných událostech způsobených tlakovou níží BORIS (RZ 141/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "136/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-5 211 682,91",
+          "amount_value": -5211682.91,
+          "description": "změna stavu prostředků na BÚ (136/2025/RM)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 128/2025/RM",
+      "text": "Dne 30.7.2025 byla na účet města přijata dotace od MŠMT ČR pro ZŠ Jungmannova na realizaci projektu v rámci OP J.A. Komenský – projekty využívající zjednodušené vykazování nákladů. Je nutná úprava rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 129/2025/RM",
+      "text": "Dne 20.8.2025 obdrželo město Litovel dotaci od MŠMT ČR pro ZŠ Vítězná. Jedná se finanční prostředky určené na realizaci projektu v rámci OP Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů. Je nutná úprava rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 130/2025/RM",
+      "text": "Dne 1.8.2025 byla na účet města připsána platba ve výši 15 000 Kč. Jedná se o účelový dar od společnosti CEREALIS, a.s. na programové zajištění Litovelských slavností konaných dne 6.9.2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 131/2025/RM",
+      "text": "Dne 28.8.2025 požádal OŠKS o rozpočtovou změnu. Volné fin. prostředky z “ostatní záležitosti odboru školství“ budou použity na drobné opravy linolea v budově DDM na Staroměstském náměstí."
+    },
+    {
+      "title": "Rozpočtová změna č. 132/2025/RM",
+      "text": "Dne 7.8.2025 obdrželo město Litovel na svůj účet dar ve výši 200 000 Kč. Jedná se o účelový dar od společnosti FCC Litovel, s.r.o. za účelem podpory školních, sportovních a ekologických aktivit města Litovel v roce 2025. Dle rozhodnutí vedení města bude polovina tohoto daru použita OŽP na pořízení košů na tříděný odpad na veřejná prostranství. Druhá polovina daru bude použita na podporu ekologických aktivit v rámci Litovelských slavností."
+    },
+    {
+      "title": "Rozpočtová změna č. 133/2025/RM",
+      "text": "Dne 28.7.2025 obdrželo město Litovel od MPSV ČR Rozhodnutí o poskytnutí dotace týkající se příspěvku na výkon sociální práce. Výše poskytnuté dotace pro rok 2025 činí 356 227 Kč. Ve schváleném rozpočtu je tato dotace rozpočtována ve výši 405 110 Kč. Je nutná úprava rozpočtu dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 134/2025/RM",
+      "text": "Dne 15.8.2025 obdržel finanční odbor od Hasičské vzájemné pojišťovny sdělení o ukončení šetření škody a výplatě pojistného plnění týkající se škodní události přepětí při bouřce – radniční věž. Bylo přiznáno pojistné plnění ve výši 40 722 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 135/2025/RM",
+      "text": "Dne 8.8.2025 obdrželo město Litovel od ČPP pojistné plnění za poškození dopravního ostrůvku v Unčovicích, které bylo způsobeno dopravní nehodou dne 30.4.2025."
+    },
+    {
+      "title": "Rozpočtová změna č. 136/2025/RM",
+      "text": "Dne 30.7.2025 obdrželo město Litovel od MMR ČR zbývající dotační prostředky na akci Nasobůrky – smíšená stezka pro cyklisty a chodce."
+    },
+    {
+      "title": "Rozpočtová změna č. 137/2025/RM",
+      "text": "Dne 3.9.2025 požádal odbor MH a SI o rozpočtovou změnu. Na sportovním hřišti v místní části Březové je potřeba dořešit terénní úpravy a zaset trávník na sportovní hřiště. Požadavek vznesl předseda OV a souhlasí s tím, že realizace bude hrazena z participativního rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 138/2025/RM",
+      "text": "Dne 4.9.2025 požádal odbor MH a SI o rozpočtovou změnu. Na dětském hřišti za Sokolovnou v místní části Unčovice je nevyhovující herní prvek (pískoviště). Pro jeho likvidaci a pořízení náhrady je požadována tato RZ. Akce je odsouhlasena s předsedou OV Unčovice a herní prvek bude hrazen z participativního rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 139/2025/RM",
+      "text": "V lednu obdrželo města Litovel dar od p. J.K. na obnovu knihovny v místní části Tři Dvory, která byla postižená a poškozená povodněmi v září 2024. Dle textu ve smlouvě: Obnovou se rozumí jak rekonstrukce nebo oprava, tak i případná likvidace objektu a výstavba (spolufinancování výstavby) nového objektu sloužícího jako knihovna (případně ve své části jako knihovna). Vedením města bylo rozhodnuto, že bude opravena stávající budova knihovny."
+    },
+    {
+      "title": "Rozpočtová změna č. 140/2025/RM",
+      "text": "Dne 4.9.2025 požádal vedoucí Muzea o rozpočtovou změnu týkající se oprav po povodni v roce 2024. V rámci oprav budovy muzea po povodni a zlepšení odolnosti budovy vůči vzlínající vodě bylo nutno vykopat zásyp kolem budovy, prohloubit výkop a následně znovu aplikovat příslušnou nopovou folii a instalovat drenáž. Aby se nemuselo s rozpočtovou změnou čekat na nejbližší jednání ZM, kde by se na vykrytí požadavku použili nové příjmy nebo položka 8115, navrhuje FO vykrytí z prostředků vyčleněných v rozpočtu na úroky z přijatých úvěrů. Použití těchto prostředků je možné díky kvalitnímu řízení finančních toků města, kdy byly nové úvěrové zdroje zatím čerpány v minimální výši a díky tomu dojde v letošním roce k nižší potřebě čerpat finanční prostředky na úhradu úroků z tohoto úvěru."
+    },
+    {
+      "title": "Rozpočtová změna č. 141/2025/RM",
+      "text": "Dne 2.9.2025 přijalo město Litovel na svůj účet účelovou neinvestiční dotaci od MV ČR ve výši 317 611 Kč. Finanční prostředky jsou určené na výdaje spojené se zásahy jednotek SDH obcí při mimořádných událostech způsobených tlakovou níží BORIS v období od 11. září 2024 do 31. prosince 2024. Finanční prostředky jsou určeny pro jednotky SDH Chořelice, Savín, Tři Dvory."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._17_2025_dne_11.9.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 17/2025 schválené Radou města Litovel\ndne 11. září 2025\nRozpočtové opatření bylo schváleno na 58. schůzi Rady města Litovel dne 11. září 2025 na základě usnesení\nRM/1809/58/2025.\nZměny v příjmech:\nODPA POL UZ MU ORJ ORG Kč\nMŠMT ČR - účelová neinv. dotace pro ZŠ\nJungmannova na realizaci projektu v rámci\n4116 143533092 46 950 961,50\nOP JAK - projekty využívající zjedn.\nvykazování nákladů (RZ 128/2025/RM)\nMŠMT ČR - účelová neinv. dotace pro ZŠ\nJungmannova na realizaci projektu v rámci\n4116 143133092 46 226 354,50\nOP JAK - projekty využívající zjedn.\nvykazování nákladů (RZ 128/2025/RM)\nMŠMT ČR - účelová neinv. dotace pro ZŠ\nVítězná na realizaci projektu v rámci OP\n4116 143533092 45 1 099 274,92\nJAK - projekty využívající zjedn.\nvykazování nákladů (RZ 129/2025/RM)\nMŠMT ČR - účelová neinv. dotace pro ZŠ\nVítězná na realizaci projektu v rámci OP\n4116 143133092 45 261 657,08\nJAK - projekty využívající zjedn.\nvykazování nákladů (RZ 129/2025/RM)\ndar od společnosti CEREALIS, a.s. -\n3319 2321 15 000,00\nLitovelské slavnosti (RZ 130/2025/RM)\ndar od FCC Litovel s.r.o. (RZ\n3722 2321 200 000,00\n132/2025/RM)\nMPSV ČR - příspěvek na výkon sociální\n4116 13015 -48 883,00\npráce (RZ 133/2025/RM)\n6320 2322 40 722,00 přijaté pojistné plnění (RZ 134/2025/RM)\n6320 2322 41 263,00 přijaté pojistné plnění (RZ 135/2025/RM)\nMMR ČR - účelová neinv. dotace -\n4116 149517085 3 003 557 443 006,49 Nasobůrky - smíšená stezka pro chodce a\ncyklisty (RZ 136/2025/RM)\nMMR ČR - účelová inv. dotace -\n4216 149517519 3 003 557 6 328 664,27 Nasobůrky - smíšená stezka pro chodce a\ncyklisty (RZ 136/2025/RM)\nJ.K. - povodeň 2024 - dar (RZ\n5269 2321 2 888 50 000,00\n139/2025/RM)\nMV ČR - účelová neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n4116 14022 2 317 611,00\nmimořádných událostech způsobených\ntlakovou níží BORIS (RZ 141/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč\nMŠMT ČR - účelová neinv. dotace\npro ZŠ Jungmannova na realizaci\nprojektu v rámci OP JAK -\n3113 5336 143533092 46 4 000 000 950 961,50\nprojekty využívající zjedn.\nvykazování nákladů - přeposlání\ndotace příjemci(RZ 128/2025/RM)\nMŠMT ČR - účelová neinv. dotace\npro ZŠ Jungmannova na realizaci\nprojektu v rámci OP JAK -\n3113 5336 143133092 46 4 000 000 226 354,50\nprojekty využívající zjedn.\nvykazování nákladů - přeposlání\ndotace příjemci(RZ 128/2025/RM)\nMŠMT ČR - účelová neinv. dotace\npro ZŠ Vítězná na realizaci\nprojektu v rámci OP JAK -\n3113 5336 143533092 45 4 000 000 1 099 274,92 projekty využívající zjedn.\nvykazování nákladů - přeposlání\ndotace příjemci (RZ\n129/2025/RM)\nMŠMT ČR - účelová neinv. dotace\npro ZŠ Vítězná na realizaci\nprojektu v rámci OP JAK -\n3113 5336 143133092 45 4 000 000 261 657,08 projekty využívající zjedn.\nvykazování nákladů - přeposlání\ndotace příjemci (RZ\n129/2025/RM)\nLitovelské slavnosti (RZ\n3319 5169 4 000 436 15 000,00\n130/2025/RM)\nostatní záležitosti odboru školství\n3319 5901 4 000 000 -7 212,00\n(RZ 131/2025/RM)\nDDM - oprava podlahy (RZ\n3613 5171 4 000 407 7 212,00\n131/2025/RM)\nOŽP - pořízení košů na veřejná\n3722 5137 7 000 000 100 000,00\nprostranství (RZ 132/2025/RM)\nLitovelské slavnosti - podpora\n3319 5169 4 000 436 100 000,00 ekologických aktivit (RZ\n132/2025/RM)\npříspěvek na výkon sociální práce\n6171 5169 13015 5 000 000 -48 883,00\n(RZ 133/2025/RM)\nOVV - opravy a udržování (RZ\n6171 5171 10 000 000 40 722,00\n134/2025/RM)\noprava, údržba a rekonstrukce mk\n2212 5171 3 003 457 41 263,00\na chodníků (RZ 135/2025/RM)\nNasobůrky - smíšená stezka pro\n2219 6121 149517519 309 3 003 557 1 559 987,85 chodce a cyklisty - dotace (RZ\n136/2025/RM)\nChudobín - chodník podél mk k\n2219 6121 302 2 033 651 -130 000,00\nzámku (RZ 137/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nBřezové - sportovní hřiště (terenní\n3412 5169 305 2 033 470 130 000,00\núpravy) (RZ 137/2025/RM)\nUnčovice - revitalizace veřejných\n2219 6121 310 2 030 000 -100 000,00 ploch u Sokolovny (RZ\n138/2025/RM)\nUnčovice - herní prvek - pískoviště\n3421 6122 310 2 033 470 100 000,00\n(RZ 138/2025/RM)\nMěstská knihovna - povodeň -\n3314 5171 2 308 17 900 000 50 000,00 opravy a udržování (RZ\n139/2025/RM)\nFinanční odbor - úroky z přijatých\n6310 5141 14 000 000 -250 000,00\núvěrů a půjček (RZ 140/2025/RM)\nMuzeum Litovel - povodeň -\n3315 5171 2 18 900 000 250 000,00 oprava - výkop, nopová folie,\ndrenáž aj. (RZ 140/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5171 14022 2 307 15 900 000 16 610,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5137 14022 2 307 15 900 000 28 099,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5139 14022 2 307 15 900 000 4 216,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5169 14022 2 307 15 900 000 116 343,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5169 14022 2 311 15 900 000 19 653,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5019 14022 2 308 15 900 000 8 985,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5039 14022 2 308 15 900 000 3 037,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\n5512 5134 14022 2 308 15 900 000 7 369,00\nspojené se zásahy JSDH obcí při\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nmimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\núčel. neinv. dotace na výdaje\nspojené se zásahy JSDH obcí při\n5512 5169 14022 2 308 15 900 000 113 299,00 mimořádných událostech\nzpůsobených tlakovou níží BORIS\n(RZ 141/2025/RM)\nZměny ve financování:\nODPA POL UZ MU ORJ ORG Kč\nzměna stavu prostředků na BÚ\n8115 -5 211 682,91\n(136/2025/RM)\nRozpočtová změna č. 128/2025/RM\nDne 30.7.2025 byla na účet města přijata dotace od MŠMT ČR pro ZŠ Jungmannova na realizaci projektu v rámci OP\nJ.A. Komenský – projekty využívající zjednodušené vykazování nákladů. Je nutná úprava rozpočtu.\nRozpočtová změna č. 129/2025/RM\nDne 20.8.2025 obdrželo město Litovel dotaci od MŠMT ČR pro ZŠ Vítězná. Jedná se finanční prostředky určené na\nrealizaci projektu v rámci OP Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů. Je nutná\núprava rozpočtu.\nRozpočtová změna č. 130/2025/RM\nDne 1.8.2025 byla na účet města připsána platba ve výši 15 000 Kč. Jedná se o účelový dar od společnosti CEREALIS,\na.s. na programové zajištění Litovelských slavností konaných dne 6.9.2025.\nRozpočtová změna č. 131/2025/RM\nDne 28.8.2025 požádal OŠKS o rozpočtovou změnu. Volné fin. prostředky z “ostatní záležitosti odboru\nškolství“ budou použity na drobné opravy linolea v budově DDM na Staroměstském náměstí.\nRozpočtová změna č. 132/2025/RM\nDne 7.8.2025 obdrželo město Litovel na svůj účet dar ve výši 200 000 Kč. Jedná se o účelový dar od společnosti FCC\nLitovel, s.r.o. za účelem podpory školních, sportovních a ekologických aktivit města Litovel v roce 2025. Dle rozhodnutí\nvedení města bude polovina tohoto daru použita OŽP na pořízení košů na tříděný odpad na veřejná prostranství. Druhá\npolovina daru bude použita na podporu ekologických aktivit v rámci Litovelských slavností.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 133/2025/RM\nDne 28.7.2025 obdrželo město Litovel od MPSV ČR Rozhodnutí o poskytnutí dotace týkající se příspěvku na výkon\nsociální práce. Výše poskytnuté dotace pro rok 2025 činí 356 227 Kč. Ve schváleném rozpočtu je tato dotace\nrozpočtována ve výši 405 110 Kč. Je nutná úprava rozpočtu dle skutečnosti.\nRozpočtová změna č. 134/2025/RM\nDne 15.8.2025 obdržel finanční odbor od Hasičské vzájemné pojišťovny sdělení o ukončení šetření škody a výplatě\npojistného plnění týkající se škodní události přepětí při bouřce – radniční věž. Bylo přiznáno pojistné plnění ve výši\n40 722 Kč.\nRozpočtová změna č. 135/2025/RM\nDne 8.8.2025 obdrželo město Litovel od ČPP pojistné plnění za poškození dopravního ostrůvku v Unčovicích, které\nbylo způsobeno dopravní nehodou dne 30.4.2025.\nRozpočtová změna č. 136/2025/RM\nDne 30.7.2025 obdrželo město Litovel od MMR ČR zbývající dotační prostředky na akci Nasobůrky – smíšená stezka\npro cyklisty a chodce.\nRozpočtová změna č. 137/2025/RM\nDne 3.9.2025 požádal odbor MH a SI o rozpočtovou změnu. Na sportovním hřišti v místní části Březové je\npotřeba dořešit terénní úpravy a zaset trávník na sportovní hřiště. Požadavek vznesl předseda OV a souhlasí\ns tím, že realizace bude hrazena z participativního rozpočtu.\nRozpočtová změna č. 138/2025/RM\nDne 4.9.2025 požádal odbor MH a SI o rozpočtovou změnu. Na dětském hřišti za Sokolovnou v místní části\nUnčovice je nevyhovující herní prvek (pískoviště). Pro jeho likvidaci a pořízení náhrady je požadována tato\nRZ. Akce je odsouhlasena s předsedou OV Unčovice a herní prvek bude hrazen z participativního rozpočtu.\nRozpočtová změna č. 139/2025/RM\nV lednu obdrželo města Litovel dar od p. J.K. na obnovu knihovny v místní části Tři Dvory, která byla postižená a\npoškozená povodněmi v září 2024. Dle textu ve smlouvě: Obnovou se rozumí jak rekonstrukce nebo oprava, tak i\npřípadná likvidace objektu a výstavba (spolufinancování výstavby) nového objektu sloužícího jako knihovna (případně\nve své části jako knihovna). Vedením města bylo rozhodnuto, že bude opravena stávající budova knihovny.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 140/2025/RM\nDne 4.9.2025 požádal vedoucí Muzea o rozpočtovou změnu týkající se oprav po povodni v roce 2024. V rámci oprav\nbudovy muzea po povodni a zlepšení odolnosti budovy vůči vzlínající vodě bylo nutno vykopat zásyp kolem budovy,\nprohloubit výkop a následně znovu aplikovat příslušnou nopovou folii a instalovat drenáž. Aby se nemuselo\ns rozpočtovou změnou čekat na nejbližší jednání ZM, kde by se na vykrytí požadavku použili nové příjmy nebo položka\n8115, navrhuje FO vykrytí z prostředků vyčleněných v rozpočtu na úroky z přijatých úvěrů. Použití těchto prostředků\nje možné díky kvalitnímu řízení finančních toků města, kdy byly nové úvěrové zdroje zatím čerpány v minimální výši\na díky tomu dojde v letošním roce k nižší potřebě čerpat finanční prostředky na úhradu úroků z tohoto úvěru.\nRozpočtová změna č. 141/2025/RM\nDne 2.9.2025 přijalo město Litovel na svůj účet účelovou neinvestiční dotaci od MV ČR ve výši 317 611 Kč. Finanční\nprostředky jsou určené na výdaje spojené se zásahy jednotek SDH obcí při mimořádných událostech způsobených\ntlakovou níží BORIS v období od 11. září 2024 do 31. prosince 2024. Finanční prostředky jsou určeny pro jednotky\nSDH Chořelice, Savín, Tři Dvory.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 19.9.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1809/58/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1809/58/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "128/2025/RM",
+        "129/2025/RM",
+        "130/2025/RM",
+        "131/2025/RM",
+        "132/2025/RM",
+        "133/2025/RM",
+        "134/2025/RM",
+        "135/2025/RM",
+        "136/2025/RM",
+        "137/2025/RM",
+        "138/2025/RM",
+        "139/2025/RM",
+        "140/2025/RM",
+        "141/2025/RM"
+      ]
+    }
+  ]
+}

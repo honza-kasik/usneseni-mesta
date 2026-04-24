@@ -1,0 +1,1315 @@
+{
+  "id": "RO/5/2025",
+  "number": 5,
+  "year": 2025,
+  "approval_date": "2025-03-13",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 48,
+    "type": "schůzi",
+    "date": "2025-03-13"
+  },
+  "source_resolutions": [
+    "RM/1504/48/2025",
+    "RM/1505/48/2025",
+    "RM/1506/48/2025",
+    "RM/1521/48/2025",
+    "RM/1522/48/2025"
+  ],
+  "budget_change_ids": [
+    "45/2025/RM",
+    "46/2025/RM",
+    "47/2025/RM",
+    "48/2025/RM",
+    "49/2025/RM",
+    "50/2025/RM",
+    "51/2025/RM",
+    "52/2025/RM",
+    "53/2025/RM",
+    "54/2025/RM",
+    "56/2025/RM",
+    "57/2025/RM",
+    "58/2025/RM",
+    "59/2025/RM",
+    "60/2025/RM",
+    "61/2025/RM",
+    "62/2025/RM",
+    "63/2025/RM",
+    "64/2025/RM",
+    "65/2025/RM",
+    "66/2025/RM",
+    "67/2025/RM",
+    "68/2025/RM",
+    "69/2025/RM",
+    "70/2025/RM",
+    "71/2025/RM",
+    "72/2025/RM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "47/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-19 831 844,96",
+          "amount_value": -19831844.96,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 47/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-55 848,00",
+          "amount_value": -55848.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 49/2025/RM)"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "45/2025/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "66 000,00",
+          "amount_value": 66000.0,
+          "description": "účelová neinvestiční dotace - ÚP ČR - příspěvek na výkon pěstounské péče (RZ 45/2025/RM)"
+        },
+        {
+          "budget_change_id": "46/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "4 996,00",
+          "amount_value": 4996.0,
+          "description": "přijaté pojistné plnění (RZ 46/2025/RM)"
+        },
+        {
+          "budget_change_id": "47/2025/RM",
+          "raw_codes": [
+            "4116",
+            "148515016",
+            "3 000 781"
+          ],
+          "amount": "670 642,09",
+          "amount_value": 670642.09,
+          "description": "MŽP ČR - přijaté účelové dotace -solární sušárna kalů pro ČOV (RZ 47/2025/RM)"
+        },
+        {
+          "budget_change_id": "47/2025/RM",
+          "raw_codes": [
+            "4216",
+            "148515501",
+            "3 000 781"
+          ],
+          "amount": "19 161 202,87",
+          "amount_value": 19161202.87,
+          "description": "MŽP ČR - přijaté účelové dotace - solární sušárna kalů pro ČOV (RZ 47/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 008"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 012"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 016"
+          ],
+          "amount": "3 700,00",
+          "amount_value": 3700.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 027"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 037"
+          ],
+          "amount": "8 800,00",
+          "amount_value": 8800.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 046"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 048"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 053"
+          ],
+          "amount": "12 248,00",
+          "amount_value": 12248.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 054"
+          ],
+          "amount": "6 100,00",
+          "amount_value": 6100.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 058"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 063"
+          ],
+          "amount": "4 100,00",
+          "amount_value": 4100.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 068"
+          ],
+          "amount": "8 700,00",
+          "amount_value": 8700.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121",
+            "3 089"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "přijaté neinvestiční transfery od obcí (RZ 49/2025/RM)"
+        },
+        {
+          "budget_change_id": "53/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "110 000,00",
+          "amount_value": 110000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 53/2025/RM)"
+        },
+        {
+          "budget_change_id": "54/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 54/2025/RM)"
+        },
+        {
+          "budget_change_id": "56/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 56/2025/RM)"
+        },
+        {
+          "budget_change_id": "57/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "přijaté pojistné plnění - povodně (RZ 57/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "90 780,00",
+          "amount_value": 90780.0,
+          "description": "přijaté přijaté pojistné plnění (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "49/2025/RM",
+          "raw_codes": [
+            "4121"
+          ],
+          "amount": "3 058 700,00",
+          "amount_value": 3058700.0,
+          "description": ") přijaté neinvestiční transfery od obcí (RZ 49/2025/RM"
+        },
+        {
+          "budget_change_id": "52/2025/RM",
+          "raw_codes": [
+            "6320",
+            "2322",
+            "2",
+            "888"
+          ],
+          "amount": "170 000,00",
+          "amount_value": 170000.0,
+          "description": ") přijaté pojistní plnění - povodně (RZ 52/2025/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "45/2025/RM",
+          "raw_codes": [
+            "4339",
+            "5011",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "příspěvek na výkon pěstounské péče (RZ 45/2025/RM)"
+        },
+        {
+          "budget_change_id": "45/2025/RM",
+          "raw_codes": [
+            "4339",
+            "5031",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "příspěvek na výkon pěstounské péče (RZ 45/2025/RM)"
+        },
+        {
+          "budget_change_id": "45/2025/RM",
+          "raw_codes": [
+            "4339",
+            "5032",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "příspěvek na výkon pěstounské péče (RZ 45/2025/RM)"
+        },
+        {
+          "budget_change_id": "45/2025/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 536"
+          ],
+          "amount": "44 000,00",
+          "amount_value": 44000.0,
+          "description": "příspěvek na výkon pěstounské péče (RZ 45/2025/RM)"
+        },
+        {
+          "budget_change_id": "46/2025/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "311",
+            "3 000 000"
+          ],
+          "amount": "4 996,00",
+          "amount_value": 4996.0,
+          "description": "KD Savín - ostatní služby a revize (RZ 46/2025/RM)"
+        },
+        {
+          "budget_change_id": "48/2025/RM",
+          "raw_codes": [
+            "6112",
+            "5169",
+            "1 000 000"
+          ],
+          "amount": "-49 950,00",
+          "amount_value": -49950.0,
+          "description": "Kancelář tajemínka - nákup ostatních služeb (RZ 48/2025/RM)"
+        },
+        {
+          "budget_change_id": "48/2025/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "1 000 000"
+          ],
+          "amount": "49 950,00",
+          "amount_value": 49950.0,
+          "description": "Kancelář tajemníka - zpracování Kroniky města Litovel 2021 (RZ 48/2025/RM)"
+        },
+        {
+          "budget_change_id": "50/2025/RM",
+          "raw_codes": [
+            "1037",
+            "5169",
+            "7 000 781"
+          ],
+          "amount": "-120 000,00",
+          "amount_value": -120000.0,
+          "description": "Solární sušárna kalů - kompenzační opatření - založení remízku Šargoun (RZ 50/2025/RM)"
+        },
+        {
+          "budget_change_id": "50/2025/RM",
+          "raw_codes": [
+            "2341",
+            "5171",
+            "7 000 725"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Oprava lovistě Olomouckého rybníka (RZ 50/2025/RM)"
+        },
+        {
+          "budget_change_id": "51/2025/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 456"
+          ],
+          "amount": "-80 000,00",
+          "amount_value": -80000.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 51/2025/RM)"
+        },
+        {
+          "budget_change_id": "51/2025/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "307",
+            "3 000 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Chořelice - oplocení pozemku po směně (RZ 51/2025/RM)"
+        },
+        {
+          "budget_change_id": "53/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "2",
+            "307",
+            "3 900 000"
+          ],
+          "amount": "110 000,00",
+          "amount_value": 110000.0,
+          "description": "Chořelice - povodně - domek OV - opravy (RZ 53/2025/RM)"
+        },
+        {
+          "budget_change_id": "54/2025/RM",
+          "raw_codes": [
+            "3322",
+            "5171",
+            "2",
+            "3 903 634"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Svatojánský most - povodně - oprava (RZ 54/2025/RM)"
+        },
+        {
+          "budget_change_id": "56/2025/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "2",
+            "3 903 457"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Litovel - dlážděný ostrůvek v křižovatce u Relaxu - povodně - oprava (RZ 56/2025/RM)"
+        },
+        {
+          "budget_change_id": "57/2025/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "2",
+            "3 900 334"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "Biotop Litovel - povodně - opravy (RZ 57/2025/RM)"
+        },
+        {
+          "budget_change_id": "58/2025/RM",
+          "raw_codes": [
+            "6409",
+            "5166",
+            "1 000 000"
+          ],
+          "amount": "-651,93",
+          "amount_value": -651.93,
+          "description": "Kancelář tajemníka - poradenské, právní služby, ... (RZ 58/2025/RM)"
+        },
+        {
+          "budget_change_id": "58/2025/RM",
+          "raw_codes": [
+            "6171",
+            "5179",
+            "1 000 000"
+          ],
+          "amount": "651,93",
+          "amount_value": 651.93,
+          "description": "Svaz měst a obcí ČR - členský příspěvek (RZ 58/2025/RM)"
+        },
+        {
+          "budget_change_id": "52/2025/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "2",
+            "307",
+            "3 900 000"
+          ],
+          "amount": "170 000,00",
+          "amount_value": 170000.0,
+          "description": "Chořelice - povodně - povrch na sportovním hřišti (RZ 52/2025/RM)"
+        },
+        {
+          "budget_change_id": "59/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "transfery dle rozhodnutí RM (RZ 59/2025/RM)"
+        },
+        {
+          "budget_change_id": "59/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "L.K. - dar na organizační zajištění dětského maškarního karnevalu pro děti MŠ, který se konal 16. úrora 2025 (RZ 59/2025/RM)"
+        },
+        {
+          "budget_change_id": "60/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 60/2025/RM)"
+        },
+        {
+          "budget_change_id": "60/2025/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "TJ Sokol Unčovice - dotace na opravu a údržbu sportovního areálu a činnost TJ v roce 2025 (RZ 60/2025/RM)"
+        },
+        {
+          "budget_change_id": "61/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Chořelice - dotace na podporu hasičského sportu v Chořelicích v roce 2025 (RZ 61/2025/RM)"
+        },
+        {
+          "budget_change_id": "62/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Ing. K.A. - dar na zajištění kulturního a společenského života v Chudobíně v roce 2025 (RZ 62/2025/RM)"
+        },
+        {
+          "budget_change_id": "63/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "301",
+            "4 000 000"
+          ],
+          "amount": "17 500,00",
+          "amount_value": 17500.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Myslechovice - dotace na zajištění kulturního a společenského života v Myslechovicích v roce 2025 (RZ 63/2025/RM)"
+        },
+        {
+          "budget_change_id": "63/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "301",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Myslechovice - dotace na podporu hasičského sportu v Myslechovicích v roce 2025 (RZ 63/2025/RM)"
+        },
+        {
+          "budget_change_id": "64/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "309",
+            "4 000 000"
+          ],
+          "amount": "17 500,00",
+          "amount_value": 17500.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Nasobůrky - dotace na zajištění kulturního a společenského života v Nasobůrkách v roce 2025 (RZ 64/2025/RM)"
+        },
+        {
+          "budget_change_id": "65/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "22 500,00",
+          "amount_value": 22500.0,
+          "description": "Mgr. E.K. - dotace na zajištění kulturního a společenského života v Nové Vsi v roce 2025 (RZ 65/2025/RM)"
+        },
+        {
+          "budget_change_id": "66/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "304",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Rozvadovice - dotace na zajištění kulturního a společenského života v Rozvadovicích v roce 2025 (RZ 66/2025/RM)"
+        },
+        {
+          "budget_change_id": "67/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "17 500,00",
+          "amount_value": 17500.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Savín - dotace na zajištění kulturního a společenského života v Savíně v roce 2025 (RZ 67/2025/RM)"
+        },
+        {
+          "budget_change_id": "68/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "308",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Tři Dvory - dotace na zajištění kulturního a společenského života ve Třech Dvorech v roce 2025 (RZ 68/2025/RM)"
+        },
+        {
+          "budget_change_id": "69/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "12 500,00",
+          "amount_value": 12500.0,
+          "description": "Ing. T.R. - dotace na zajištění kulturního a společenského života v Unčovicích v roce 2025 (RZ 69/2025/RM)"
+        },
+        {
+          "budget_change_id": "70/2025/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "305",
+            "4 000 000"
+          ],
+          "amount": "17 500,00",
+          "amount_value": 17500.0,
+          "description": "J.K. - dotace na zajištění kulturního a společenského života prostřednictvím ČČK v Březovém v roce 2025 (RZ 70/2025/RM)"
+        },
+        {
+          "budget_change_id": "71/2025/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "305",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "SH ČMS - Sbor dobrovolných hasičů Březové - dotace na podporu hasičského sportu v Březovém v roce 2025 (RZ 71/2025/RM)"
+        },
+        {
+          "budget_change_id": "61/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-179 000,00",
+          "amount_value": -179000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 61/2025/RM - RZ 71/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "J.N. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "V.P. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "J.K. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "P.G. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "O.H. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "K.Z. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "Z.M. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "R.G. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "S.Z. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "J.P. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "J.M. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "M.S. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "J.D. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "T.R. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "L.F. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "12 250,00",
+          "amount_value": 12250.0,
+          "description": "J.J. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "A.J. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "F.K. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "M.S. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "T.T. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "T.Č. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "P.V. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "D.D. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "M.M. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "M.F. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "J.D. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "M.S. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "K.V. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "P.P. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "O.V. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "D.K. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "11 000,00",
+          "amount_value": 11000.0,
+          "description": "R.N. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "9 750,00",
+          "amount_value": 9750.0,
+          "description": "R.U. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14 900 000"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "I.D. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM)"
+        },
+        {
+          "budget_change_id": "61/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "307",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "7 500,00",
+          "amount_value": 7500.0,
+          "description": ") SH ČMS - Sbor dobrovolných hasičů Chořelice - dotace na zajištění kulturního a společenského života v roce 2025 (RZ 61/2025/RM"
+        },
+        {
+          "budget_change_id": "71/2025/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-179 000,00",
+          "amount_value": -179000.0,
+          "description": "RZ 71/2025/RM"
+        },
+        {
+          "budget_change_id": "72/2025/RM",
+          "raw_codes": [
+            "5269",
+            "5492",
+            "2",
+            "14",
+            "900",
+            "000"
+          ],
+          "amount": "8 780,00",
+          "amount_value": 8780.0,
+          "description": ") I.V. - dar za záchranu majetku města Litovel při povodních v září 2024 (RZ 72/2025/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 45/2025/RM",
+      "text": "Dne 7.2.2025 obdrželo město Litovel od Úřadu práce ČR státní příspěvek na výkon pěstounské péče."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2025/RM",
+      "text": "Dne 17. 2. 2025 obdrželo město Litovel od Direct pojišťovna, a.s., v rámci likvidace škodní události na KD v Savíně ze dne 19. 8. 2023 platbu ve výši 4.996,00 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2025/RM",
+      "text": "V roce 2024 město Litovel dokončilo akci Solární sušárna kalů pro ČOV. V roce 2025 bude tato akce finančně dokončena, tak jak bylo popsáno již při schvalování RZ 147/2024/RM, kdy město Litovel obdrží na základě poslední podané žádosti o platbu zbývající část dotačních prostředků ve výši 19 831 844,96 Kč od poskytovatele dotace MŽP ČR (akce byla předfinancována)."
+    },
+    {
+      "title": "Rozpočtová změna č. 48/2025/RM",
+      "text": "Dne 3.3.2025 byla na finanční odbor doručena faktura ve výši 49 950 Kč za vypracování Kroniky města Litovel 2021 na základě usnesení RM/1437/46/2025. S výdaji na zpracování kroniky není ve schváleném rozpočtu počítáno a dle vyhlášky o rozpočtové skladbě výdaje související vedením obecní kroniky patří na § 3319 Ostatní záležitosti kultury."
+    },
+    {
+      "title": "Rozpočtová změna č. 49/2025/RM",
+      "text": "V lednu a únoru přijalo město Litovel neinvestiční transfery od obcí v celkové výši 55 848 Kč. Je nutná úprava rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 50/2025/RM",
+      "text": "Dne 3.3.2025 požádal vedoucí OŽP o rozpočtovou změnu. Město Litovel dokončuje stavbu Oprava loviště a kádiště u Olomouckého rybníka. V současné době již jsou dohodnuty více a méněpráce. Podstatná část finančních prostředků, které měly vícepráce pokrýt již schválilo zastupitelstvo města Litovel. Na požadavek rybářů se vedení města rozhodlo vybudovat k lovišti pro snadný přístup i schody nalevo od požeráku. Odbor ŽP již ale nebude požadovat další rozpočtové změny po zastupitelstvu, ale zbytek financí bude řešeno v rámci svého schváleného rozpočtu. Vícepráce jsou řešeny v dodatku č. 2 se společností IDS Olomouc, kterou na této schůzi Rady taktéž předkládáme. Kryto úsporami na jiné akci OŽP."
+    },
+    {
+      "title": "Rozpočtová změna č. 51/2025/RM",
+      "text": "Dne 4.3.2025 byla od odboru MHaSI doručena žádost o rozpočtovou změnu. Dne12.12.2024 byla ZML schválena směna pozemků (parc. 14 o výměře 41 m2, vlastník město za parc. 60/3 o výměře 41 m2 vše v k.ú. Chořelice – vlastníci fyzické osoby Ivana Filipová Olomouc, Marcela Vydrželová, Prostějovičky). Byl objednán geometrický plán – části pozemků, které jsou předmětem směny byly vytýčeny v terénu. Jedná se o úpravu oplocení mezi pozemkem města (parc. 60/3 a soukromým, parc. č. 60/2). Stávající oplocení je v nevyhovujícím stavu, částečně uhnívá, nelze v tomto stavu přemístit. Dodavatel společně s Ing. Vaňkem shlédli na místě samém. Oplocení je nutné dodat nové, tzn. likvidace původního a dodání nového s rozšířením o část, o kterou se pozemek rozšiřuje po zaměření. K pokrytí nákladů na výše popsané je požadována rozpočtová změna."
+    },
+    {
+      "title": "Rozpočtová změna č. 52/2025/RM",
+      "text": "Dne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se sportovního hřiště v Chořelicích a oprav po povodni v září 2024. Na sportovním hřišti v Chořelicích je třeba provést nivelaci, navézt, rozhrnout a hutnit pískový materiál (šotolinu)."
+    },
+    {
+      "title": "Rozpočtová změna č. 53/2025/RM",
+      "text": "Dne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se domku OV Chořelice a oprav po povodni v září 2024. Na domku osadního výboru v Chořelicích je potřeba provést sanaci vlhkého zdiva po povodni (osekat omítky, odvlhčit zdivo, znovu omítnout a vymalovat)."
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2025/RM",
+      "text": "Dne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se opravy Svatojánského mostu po povodni v září 2024. Na opravu Svatojánského mostu je nyní zpracovávána cenová nabídka. Je potřeba opravit podemletý ledolam na návodní straně pilíře č. 3."
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2025/RM",
+      "text": "Při číslování rozpočtových změn došlo k vynechání čísla této rozpočtové změny. Jedná se administrativní záležitost, pod tímto číslem nebyla předložena žádná rozpočtová změna a tato pozice v číselné řadě evidovaných rozpočtových změn zůstane neobsazena."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2025/RM",
+      "text": "Dne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se opravy dlážděného ostrůvku v křižovatce u Relaxu v Litovli po povodni v září 2024. Vlivem povodně došlo k narušení podloží pod žulovými kostkami, je potřeba znovu osadit kostky do betonového lože a zaspárovat."
+    },
+    {
+      "title": "Rozpočtová změna č. 57/2025/RM",
+      "text": "Dne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se biotopu a oprav po povodni v září 2024. Vlivem tlaku spodní vody došlo k nadzvednutí izolační folie, tím došlo ke vzniku trhlin a nerovností kamenného koberce. Opravy na biotopu zajistí Technické služby."
+    },
+    {
+      "title": "Rozpočtová změna č. 58/2025/RM",
+      "text": "Dne 5.3.2025 byla na FO doručena faktura od Svazu měst a obcí ČR týkající se úhrady členského příspěvku za rok 2025. Ve schváleném rozpočtu je na tento členský příspěvek rozpočtováno 37 000 Kč. Je nutná úprava rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 59/2025/RM - Rozpočtová změna č. 71/2025/RM",
+      "text": "Dary a dotace poskytnuté z rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2025/RM",
+      "text": "Během povodní v září 2024 se při záchraně majetku města Litovel a následném úklidu škod dobrovolně zapojili i občané města a místních částí. Při prohlídkách postižených míst s likvidátorem naší pojišťovny město Litovel dostalo pochvalu za zabránění rozsáhlým škodám právě díky i těmto dobrovolníkům. V rámci pojistné smlouvy města Litovel byla možnost využít pojistného plnění na tyto brigádnické práce. Finanční odbor společně s občany vyčíslil brigádnické hodiny a podklady zaslal k posouzení pojišťovně. Pojistné plnění bylo připsáno na účet města v plné výši dle předloženého vyčíslení v celkové výši 90.780,-- Kč. Vedení města s touto formou výplaty vyslovilo v průběhu jednání se zástupci pojišťovny souhlas. Zvolený postup je v souladu s metodickými doporučeními ústředních orgánů, které jsme obdrželi v souvislosti s povodňovou situací a byl také konzultován s právním útvarem městského úřadu Litovel."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._5_2025_dne_13.3.2025.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 5/2025 schválené Radou města Litovel\ndne 13. března 2025\nRozpočtové opatření bylo schváleno na 48. schůzi Rady města Litovel dne 13. března 2025 na základě usnesení\nRM/1504/48/2025, RM/1505/48/2025, RM/1506/48/2025, RM/1521/48/2025, RM/1522/48/2025.\nZměny ve financování:\nODPA POL UZ MU ORJ ORG Kč Popis\nzměna stavu finančních prostředků na BÚ (RZ\n8115 -19 831 844,96\n47/2025/RM)\nzměna stavu finančních prostředků na BÚ (RZ\n8115 -55 848,00\n49/2025/RM)\nZměny v příjmech:\nODP\nPOL UZ MU ORJ ORG Kč Popis\nA\núčelová neinvestiční dotace - ÚP ČR - příspěvek na\n4116 13010 66 000,00\nvýkon pěstounské péče (RZ 45/2025/RM)\n6320 2322 4 996,00 přijaté pojistné plnění (RZ 46/2025/RM)\nMŽP ČR - přijaté účelové dotace -solární sušárna\n4116 148515016 3 000 781 670 642,09\nkalů pro ČOV (RZ 47/2025/RM)\nMŽP ČR - přijaté účelové dotace - solární sušárna\n4216 148515501 3 000 781 19 161 202,87\nkalů pro ČOV (RZ 47/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 008 2 000,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 012 1 400,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 016 3 700,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 027 2 000,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 037 8 800,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 046 1 400,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 048 4 000,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 053 12 248,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 054 6 100,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 058 700,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 063 4 100,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 068 8 700,00\n49/2025/RM)\npřijaté neinvestiční transfery od obcí (RZ\n4121 3 089 700,00\n49/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n6320 2322 2 888 170 000,00 přijaté pojistní plnění - povodně (RZ 52/2025/RM)\n6320 2322 2 888 110 000,00 přijaté pojistné plnění - povodně (RZ 53/2025/RM)\n6320 2322 2 888 500 000,00 přijaté pojistné plnění - povodně (RZ 54/2025/RM)\n6320 2322 2 888 200 000,00 přijaté pojistné plnění - povodně (RZ 56/2025/RM)\n6320 2322 2 888 600 000,00 přijaté pojistné plnění - povodně (RZ 57/2025/RM)\n6320 2322 2 888 90 780,00 přijaté přijaté pojistné plnění (RZ 72/2025/RM)\nZměny ve výdajích:\nODPA POL UZ MU ORJ ORG Kč Popis\npříspěvek na výkon pěstounské péče (RZ\n4339 5011 13010 5 000 000 15 000,00\n45/2025/RM)\npříspěvek na výkon pěstounské péče (RZ\n4339 5031 13010 5 000 000 5 000,00\n45/2025/RM)\npříspěvek na výkon pěstounské péče (RZ\n4339 5032 13010 5 000 000 2 000,00\n45/2025/RM)\npříspěvek na výkon pěstounské péče (RZ\n4339 5169 13010 5 000 536 44 000,00\n45/2025/RM)\nKD Savín - ostatní služby a revize (RZ\n3392 5169 311 3 000 000 4 996,00\n46/2025/RM)\nKancelář tajemínka - nákup ostatních služeb (RZ\n6112 5169 1 000 000 -49 950,00\n48/2025/RM)\nKancelář tajemníka - zpracování Kroniky města\n3319 5169 1 000 000 49 950,00\nLitovel 2021 (RZ 48/2025/RM)\nSolární sušárna kalů - kompenzační opatření -\n1037 5169 7 000 781 -120 000,00\nzaložení remízku Šargoun (RZ 50/2025/RM)\nOprava lovistě Olomouckého rybníka (RZ\n2341 5171 7 000 725 120 000,00\n50/2025/RM)\nopravy, údržba a rekonstrukce místních komunikací\n2219 6121 3 003 456 -80 000,00\na chodníků (RZ 51/2025/RM)\nChořelice - oplocení pozemku po směně (RZ\n3639 6121 307 3 000 000 80 000,00\n51/2025/RM)\nChořelice - povodně - domek OV - opravy (RZ\n3429 5171 2 307 3 900 000 110 000,00\n53/2025/RM)\nSvatojánský most - povodně - oprava (RZ\n3322 5171 2 3 903 634 500 000,00\n54/2025/RM)\nLitovel - dlážděný ostrůvek v křižovatce u Relaxu -\n2212 5171 2 3 903 457 200 000,00\npovodně - oprava (RZ 56/2025/RM)\nBiotop Litovel - povodně - opravy (RZ\n3412 5171 2 3 900 334 600 000,00\n57/2025/RM)\nKancelář tajemníka - poradenské, právní služby, ...\n6409 5166 1 000 000 -651,93\n(RZ 58/2025/RM)\nSvaz měst a obcí ČR - členský příspěvek (RZ\n6171 5179 1 000 000 651,93\n58/2025/RM)\nChořelice - povodně - povrch na sportovním hřišti\n3412 5171 2 307 3 900 000 170 000,00\n(RZ 52/2025/RM)\n3429 5901 4 000 000 -2 500,00 transfery dle rozhodnutí RM (RZ 59/2025/RM)\nL.K. - dar na organizační zajištění dětského\n3900 5492 310 4 000 000 2 500,00 maškarního karnevalu pro děti MŠ, který se konal\n16. úrora 2025 (RZ 59/2025/RM)\n3429 5901 4 000 000 -20 000,00 transfery dle rozhodnutí RM (RZ 60/2025/RM)\nTJ Sokol Unčovice - dotace na opravu a údržbu\n3419 5222 310 4 000 000 20 000,00 sportovního areálu a činnost TJ v roce 2025 (RZ\n60/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSH ČMS - Sbor dobrovolných hasičů Chořelice -\n3429 5222 307 4 000 000 7 500,00 dotace na zajištění kulturního a společenského\nživota v roce 2025 (RZ 61/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Chořelice -\n5512 5222 307 4 000 000 30 000,00 dotace na podporu hasičského sportu v Chořelicích\nv roce 2025 (RZ 61/2025/RM)\nIng. K.A. - dar na zajištění kulturního a\n3900 5492 302 4 000 000 10 000,00 společenského života v Chudobíně v roce 2025 (RZ\n62/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Myslechovice\n- dotace na zajištění kulturního a společenského\n3429 5222 301 4 000 000 17 500,00\nživota v Myslechovicích v roce 2025 (RZ\n63/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Myslechovice\n5512 5222 301 4 000 000 7 000,00 - dotace na podporu hasičského sportu v\nMyslechovicích v roce 2025 (RZ 63/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Nasobůrky -\ndotace na zajištění kulturního a společenského\n3429 5222 309 4 000 000 17 500,00\nživota v Nasobůrkách v roce 2025 (RZ\n64/2025/RM)\nMgr. E.K. - dotace na zajištění kulturního a\n3900 5492 303 4 000 000 22 500,00 společenského života v Nové Vsi v roce 2025 (RZ\n65/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Rozvadovice -\ndotace na zajištění kulturního a společenského\n3429 5222 304 4 000 000 2 500,00\nživota v Rozvadovicích v roce 2025 (RZ\n66/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Savín - dotace\n3429 5222 311 4 000 000 17 500,00 na zajištění kulturního a společenského života v\nSavíně v roce 2025 (RZ 67/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Tři Dvory -\ndotace na zajištění kulturního a společenského\n3429 5222 308 4 000 000 10 000,00\nživota ve Třech Dvorech v roce 2025 (RZ\n68/2025/RM)\nIng. T.R. - dotace na zajištění kulturního a\n3900 5492 310 4 000 000 12 500,00 společenského života v Unčovicích v roce 2025 (RZ\n69/2025/RM)\nJ.K. - dotace na zajištění kulturního a společenského\n3900 5492 305 4 000 000 17 500,00 života prostřednictvím ČČK v Březovém v roce\n2025 (RZ 70/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Březové -\n5512 5222 305 4 000 000 7 000,00 dotace na podporu hasičského sportu v Březovém v\nroce 2025 (RZ 71/2025/RM)\ntransfery dle rozhodnutí RM (RZ 61/2025/RM - RZ\n3429 5901 4 000 000 -179 000,00\n71/2025/RM)\nJ.N. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nV.P. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nJ.K. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nP.G. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nO.H. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nK.Z. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nA.S. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nZ.M. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nR.G. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nS.Z. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 400,00\npovodních v září 2024 (RZ 72/2025/RM)\nJ.P. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nJ.M. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 3 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nM.S. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nJ.D. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 2 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nT.R. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 2 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nL.F. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nJ.J. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 12 250,00\npovodních v září 2024 (RZ 72/2025/RM)\nA.J. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 7 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nF.K. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 6 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nM.S. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nT.T. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nT.Č. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nP.V. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nD.D. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nM.M. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nM.F. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nJ.D. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nM.S. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nK.V. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nP.P. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 500,00\npovodních v září 2024 (RZ 72/2025/RM)\nO.V. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 2 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nD.K. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 2 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nR.N. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 11 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nR.U. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 9 750,00\npovodních v září 2024 (RZ 72/2025/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nI.V. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 8 780,00\npovodních v září 2024 (RZ 72/2025/RM)\nI.D. - dar za záchranu majetku města Litovel při\n5269 5492 2 14 900 000 1 000,00\npovodních v září 2024 (RZ 72/2025/RM)\nRozpočtová změna č. 45/2025/RM\nDne 7.2.2025 obdrželo město Litovel od Úřadu práce ČR státní příspěvek na výkon pěstounské péče.\nRozpočtová změna č. 46/2025/RM\nDne 17. 2. 2025 obdrželo město Litovel od Direct pojišťovna, a.s., v rámci likvidace škodní události na KD v Savíně ze\ndne 19. 8. 2023 platbu ve výši 4.996,00 Kč.\nRozpočtová změna č. 47/2025/RM\nV roce 2024 město Litovel dokončilo akci Solární sušárna kalů pro ČOV. V roce 2025 bude tato akce finančně\ndokončena, tak jak bylo popsáno již při schvalování RZ 147/2024/RM, kdy město Litovel obdrží na základě poslední\npodané žádosti o platbu zbývající část dotačních prostředků ve výši 19 831 844,96 Kč od poskytovatele dotace MŽP\nČR (akce byla předfinancována).\nRozpočtová změna č. 48/2025/RM\nDne 3.3.2025 byla na finanční odbor doručena faktura ve výši 49 950 Kč za vypracování Kroniky města Litovel 2021\nna základě usnesení RM/1437/46/2025. S výdaji na zpracování kroniky není ve schváleném rozpočtu počítáno a dle\nvyhlášky o rozpočtové skladbě výdaje související vedením obecní kroniky patří na § 3319 Ostatní záležitosti kultury.\nRozpočtová změna č. 49/2025/RM\nV lednu a únoru přijalo město Litovel neinvestiční transfery od obcí v celkové výši 55 848 Kč. Je nutná úprava rozpočtu.\nRozpočtová změna č. 50/2025/RM\nDne 3.3.2025 požádal vedoucí OŽP o rozpočtovou změnu. Město Litovel dokončuje stavbu Oprava loviště a kádiště u\nOlomouckého rybníka. V současné době již jsou dohodnuty více a méněpráce. Podstatná část finančních prostředků,\nkteré měly vícepráce pokrýt již schválilo zastupitelstvo města Litovel. Na požadavek rybářů se vedení města rozhodlo\nvybudovat k lovišti pro snadný přístup i schody nalevo od požeráku. Odbor ŽP již ale nebude požadovat další\nrozpočtové změny po zastupitelstvu, ale zbytek financí bude řešeno v rámci svého schváleného rozpočtu. Vícepráce jsou\nřešeny v dodatku č. 2 se společností IDS Olomouc, kterou na této schůzi Rady taktéž předkládáme. Kryto úsporami na\njiné akci OŽP.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 51/2025/RM\nDne 4.3.2025 byla od odboru MHaSI doručena žádost o rozpočtovou změnu. Dne12.12.2024 byla ZML schválena\nsměna pozemků (parc. 14 o výměře 41 m2, vlastník město za parc. 60/3 o výměře 41 m2 vše v k.ú. Chořelice – vlastníci\nfyzické osoby Ivana Filipová Olomouc, Marcela Vydrželová, Prostějovičky).\nByl objednán geometrický plán – části pozemků, které jsou předmětem směny byly vytýčeny v terénu. Jedná se o úpravu\noplocení mezi pozemkem města (parc. 60/3 a soukromým, parc. č. 60/2). Stávající oplocení je v nevyhovujícím stavu,\nčástečně uhnívá, nelze v tomto stavu přemístit. Dodavatel společně s Ing. Vaňkem shlédli na místě samém. Oplocení je\nnutné dodat nové, tzn. likvidace původního a dodání nového s rozšířením o část, o kterou se pozemek rozšiřuje po\nzaměření. K pokrytí nákladů na výše popsané je požadována rozpočtová změna.\nRozpočtová změna č. 52/2025/RM\nDne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se sportovního hřiště v Chořelicích\na oprav po povodni v září 2024. Na sportovním hřišti v Chořelicích je třeba provést nivelaci, navézt, rozhrnout a hutnit\npískový materiál (šotolinu).\nRozpočtová změna č. 53/2025/RM\nDne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se domku OV Chořelice a oprav\npo povodni v září 2024. Na domku osadního výboru v Chořelicích je potřeba provést sanaci vlhkého zdiva po povodni\n(osekat omítky, odvlhčit zdivo, znovu omítnout a vymalovat).\nRozpočtová změna č. 54/2025/RM\nDne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se opravy Svatojánského mostu\npo povodni v září 2024. Na opravu Svatojánského mostu je nyní zpracovávána cenová nabídka. Je potřeba opravit\npodemletý ledolam na návodní straně pilíře č. 3.\nRozpočtová změna č. 55/2025/RM\nPři číslování rozpočtových změn došlo k vynechání čísla této rozpočtové změny. Jedná se administrativní záležitost,\npod tímto číslem nebyla předložena žádná rozpočtová změna a tato pozice v číselné řadě evidovaných rozpočtových\nzměn zůstane neobsazena.\nRozpočtová změna č. 56/2025/RM\nDne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se opravy dlážděného ostrůvku\nv křižovatce u Relaxu v Litovli po povodni v září 2024. Vlivem povodně došlo k narušení podloží pod žulovými\nkostkami, je potřeba znovu osadit kostky do betonového lože a zaspárovat.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 57/2025/RM\nDne 6.3.2025 byla od odboru MHaSI doručena žádost na rozpočtovou změnu týkající se biotopu a oprav po povodni\nv září 2024. Vlivem tlaku spodní vody došlo k nadzvednutí izolační folie, tím došlo ke vzniku trhlin a nerovností\nkamenného koberce. Opravy na biotopu zajistí Technické služby.\nRozpočtová změna č. 58/2025/RM\nDne 5.3.2025 byla na FO doručena faktura od Svazu měst a obcí ČR týkající se úhrady členského příspěvku za rok\n2025. Ve schváleném rozpočtu je na tento členský příspěvek rozpočtováno 37 000 Kč. Je nutná úprava rozpočtu.\nRozpočtová změna č. 59/2025/RM - Rozpočtová změna č. 71/2025/RM\nDary a dotace poskytnuté z rozpočtu města.\nRozpočtová změna č. 72/2025/RM\nBěhem povodní v září 2024 se při záchraně majetku města Litovel a následném úklidu škod dobrovolně zapojili i občané\nměsta a místních částí. Při prohlídkách postižených míst s likvidátorem naší pojišťovny město Litovel dostalo pochvalu\nza zabránění rozsáhlým škodám právě díky i těmto dobrovolníkům. V rámci pojistné smlouvy města Litovel byla\nmožnost využít pojistného plnění na tyto brigádnické práce. Finanční odbor společně s občany vyčíslil brigádnické\nhodiny a podklady zaslal k posouzení pojišťovně. Pojistné plnění bylo připsáno na účet města v plné výši dle\npředloženého vyčíslení v celkové výši 90.780,-- Kč. Vedení města s touto formou výplaty vyslovilo v průběhu jednání\nse zástupci pojišťovny souhlas. Zvolený postup je v souladu s metodickými doporučeními ústředních orgánů, které jsme\nobdrželi v souvislosti s povodňovou situací a byl také konzultován s právním útvarem městského úřadu Litovel.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 24.3.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1504/48/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1505/48/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1506/48/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1521/48/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1522/48/2025",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1521/48/2025",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "45/2025/RM",
+        "46/2025/RM",
+        "47/2025/RM",
+        "48/2025/RM",
+        "49/2025/RM",
+        "50/2025/RM",
+        "51/2025/RM",
+        "52/2025/RM",
+        "53/2025/RM",
+        "54/2025/RM",
+        "56/2025/RM",
+        "57/2025/RM",
+        "58/2025/RM"
+      ]
+    }
+  ]
+}

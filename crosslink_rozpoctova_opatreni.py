@@ -27,6 +27,8 @@ import re
 from copy import deepcopy
 from pathlib import Path
 
+from static_export.ro_summary import budget_change_groups_from_opatreni
+
 
 RESOLUTION_ID_RE = re.compile(r"^(RM|ZM)/(\d+)/(\d+)/(\d{4})$")
 
@@ -112,6 +114,10 @@ def build_budget_change_index(opatreni_list: list[dict]):
     index = {}
 
     for opatreni in opatreni_list:
+        summary_by_budget_change_id = {
+            group["budget_change_id"]: group
+            for group in budget_change_groups_from_opatreni(opatreni)
+        }
         for section in opatreni.get("sections") or []:
             section_type = section.get("type")
             for row_number, row in enumerate(section.get("rows") or [], start=1):
@@ -125,8 +131,18 @@ def build_budget_change_index(opatreni_list: list[dict]):
                         "opatreni_id": opatreni["id"],
                         "rows": [],
                         "resolution_ids": [],
+                        "plain_title": "",
+                        "affected_place": "",
                     },
                 )
+                if not entry.get("plain_title"):
+                    entry["plain_title"] = str(
+                        summary_by_budget_change_id.get(budget_change_id, {}).get("title") or ""
+                    )
+                if not entry.get("affected_place"):
+                    entry["affected_place"] = str(
+                        summary_by_budget_change_id.get(budget_change_id, {}).get("affected_place") or ""
+                    )
                 entry["rows"].append({
                     "section_type": section_type,
                     "row_number": row_number,
@@ -275,6 +291,8 @@ def crosslink(resolutions: list[dict], opatreni_list: list[dict]):
             resolution_link = {
                 "budget_change_id": budget_change_id,
                 "opatreni_id": opatreni_id,
+                "plain_title": index_entry.get("plain_title") or "",
+                "affected_place": index_entry.get("affected_place") or "",
                 "source": "text",
                 "match": match_type,
                 "section_types": section_types,

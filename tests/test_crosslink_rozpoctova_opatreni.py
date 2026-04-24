@@ -72,13 +72,13 @@ class CrosslinkRozpoctovaOpatreniTest(unittest.TestCase):
                                 "budget_change_id": "53/2026/RM",
                                 "amount": "1 000,00",
                                 "amount_value": 1000.0,
-                                "description": "test 53",
+                                "description": "ZŠ Jungmannova - oprava učebny",
                             },
                             {
                                 "budget_change_id": "54/2026/RM",
                                 "amount": "2 000,00",
                                 "amount_value": 2000.0,
-                                "description": "test 54",
+                                "description": "ČOV Litovel - servis čerpadla",
                             },
                         ],
                     },
@@ -97,10 +97,20 @@ class CrosslinkRozpoctovaOpatreniTest(unittest.TestCase):
             "53/2026/RM",
         )
         self.assertEqual(
+            by_resolution["RM/2161/69/2026"]["budget_change_links"][0]["plain_title"],
+            "ZŠ Jungmannova - oprava učebny",
+        )
+        self.assertEqual(
+            by_resolution["RM/2161/69/2026"]["budget_change_links"][0]["affected_place"],
+            "ZŠ Jungmannova / oprava učebny",
+        )
+        self.assertEqual(
             by_resolution["RM/2139/69/2026"]["budget_opatreni_approved"],
             [{"opatreni_id": "RO/6/2026", "source": "ro_header"}],
         )
         self.assertEqual(index["53/2026/RM"]["resolution_ids"], ["RM/2161/69/2026"])
+        self.assertEqual(index["53/2026/RM"]["plain_title"], "ZŠ Jungmannova - oprava učebny")
+        self.assertEqual(index["53/2026/RM"]["affected_place"], "ZŠ Jungmannova / oprava učebny")
         self.assertEqual(
             linked_opatreni[0]["resolution_links"][-1],
             {

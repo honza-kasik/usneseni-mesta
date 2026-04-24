@@ -7,6 +7,7 @@ from typing import Dict, List, Optional, Tuple
 
 from .format import budget_change_count_label, format_date
 from .paths import meeting_from_id, resolution_url, ro_url, rz_anchor, slug_from_id
+from .ro_summary import summarize_opatreni_plain
 
 
 def render_back_link(
@@ -119,9 +120,7 @@ def render_budget_links_section(resolution: Dict) -> str:
         if not opatreni_id or opatreni_id in seen_approved:
             continue
         seen_approved.add(opatreni_id)
-        approved_lines.append(
-            f'<li>Odkazováno z rozpočtového opatření <a href="{ro_url(opatreni_id)}">{html.escape(opatreni_id)}</a></li>'
-        )
+        approved_lines.append(f'<li><a href="{ro_url(opatreni_id)}">{html.escape(opatreni_id)}</a></li>')
 
     seen_budget_changes = set()
     budget_change_lines = []
@@ -137,19 +136,23 @@ def render_budget_links_section(resolution: Dict) -> str:
         seen_budget_changes.add(key)
 
         url = ro_url(opatreni_id) + "#" + rz_anchor(budget_change_id)
-        budget_change_lines.append(
-            "<li>"
-            f'<a href="{url}">Rozpočtová změna {html.escape(budget_change_id)}</a> '
-            f"v {html.escape(opatreni_id)}"
-            "</li>"
-        )
+        plain_title = (link.get("plain_title") or "").strip()
+        affected_place = (link.get("affected_place") or "").strip()
+        label = f"Rozpočtová změna {html.escape(budget_change_id)}"
+        if plain_title:
+            label += f": {html.escape(plain_title)}"
+        if affected_place and affected_place.lower() not in plain_title.lower():
+            label += f" ({html.escape(affected_place)})"
+        budget_change_lines.append("<li>" f'<a href="{url}">{label}</a> ' f"v {html.escape(opatreni_id)}" "</li>")
 
     if approved_lines:
+        lines.append("<h3>Odkazováno z rozpočtového opatření</h3>")
         lines.append("<ul>")
         lines.extend(approved_lines)
         lines.append("</ul>")
 
     if budget_change_lines:
+        lines.append("<h3>Zmiňuje rozpočtové změny</h3>")
         lines.append(
             f'<details class="usn-budget-change-list" open>'
             f'<summary>{budget_change_count_label(len(budget_change_lines))}</summary>'
@@ -260,10 +263,15 @@ def write_year_index(
         ):
             oid = opatreni["id"]
             approval_date = opatreni.get("approval_date") or ""
-            lines.append(
+            plain_summary = summarize_opatreni_plain(opatreni)
+            link = (
                 f'<a href="{ro_url(oid)}">{html.escape(oid.replace("/", "-"))} '
                 f'<span class="usn-date">({html.escape(format_date(approval_date))})</span></a>'
             )
+            if plain_summary:
+                lines.append(f'<div class="usn-meeting-card">{link}<div class="usn-summary">{html.escape(plain_summary)}</div></div>')
+            else:
+                lines.append(link)
         lines += [
             "</div>",
             '<p class="usn-more"><a href="/rozpoctova-opatreni/">Všechna rozpočtová opatření</a></p>',

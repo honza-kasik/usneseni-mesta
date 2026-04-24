@@ -11,9 +11,12 @@ from .format import budget_change_count_label, format_full_date
 from .paths import ro_slug_from_id, ro_url, resolution_url, rz_anchor
 from .ro_summary import (
     amount_class,
+    summarize_affected_places,
+    budget_change_titles_from_opatreni,
     clean_budget_row_description,
     render_budget_change_totals,
     summarize_budget_change,
+    summarize_opatreni_plain,
 )
 from .usneseni import render_back_link
 
@@ -329,6 +332,11 @@ def write_ro_index(opatreni_list: List[Dict], output_root: Path) -> str:
 
     for opatreni in sorted(opatreni_list, key=lambda item: (item.get("year", 0), item.get("number", 0)), reverse=True):
         oid = opatreni["id"]
+        plain_summary = summarize_opatreni_plain(opatreni)
+        affected_places = summarize_affected_places(opatreni)
+        title_candidates = budget_change_titles_from_opatreni(opatreni)
+        snippet = plain_summary or ", ".join(title_candidates[:2])
+        affected_html = f'<div class="usn-summary">Týká se: {html.escape(affected_places)}</div>' if affected_places else ""
         lines.append(
             '<li class="usn-result">'
             f'<a href="{ro_url(oid)}" class="usn-card">'
@@ -337,7 +345,8 @@ def write_ro_index(opatreni_list: List[Dict], output_root: Path) -> str:
             f'<span class="usn-date">{html.escape(opatreni.get("approval_date") or "")}</span>'
             '</div>'
             f'<div class="usn-summary">{html.escape(opatreni.get("approved_by") or "")}</div>'
-            f'<div class="usn-snippet">{len(opatreni.get("budget_change_ids") or [])} rozpočtových změn</div>'
+            f'<div class="usn-snippet">{html.escape(snippet or f"{len(opatreni.get("budget_change_ids") or [])} rozpočtových změn")}</div>'
+            f"{affected_html}"
             '</a>'
             '</li>'
         )

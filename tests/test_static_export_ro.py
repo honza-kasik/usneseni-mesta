@@ -7,10 +7,17 @@ from phase5_static_export import (
     render_budget_links_section,
     ro_slug_from_id,
     rz_anchor,
+    write_ro_index,
     write_year_index,
     write_ro_page,
 )
 from parse_rozpoctova_opatreni import normalize_financing_sections
+from static_export.ro_summary import (
+    affected_place_service_from_title,
+    aggregate_top_categories,
+    summarize_affected_places,
+    summarize_opatreni_plain,
+)
 
 
 class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
@@ -27,6 +34,7 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
                 {
                     "budget_change_id": "53/2026/RM",
                     "opatreni_id": "RO/6/2026",
+                    "plain_title": "přijaté pojistné plnění",
                     "source": "text",
                     "match": "range",
                 },
@@ -35,7 +43,29 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
 
         self.assertIn('/rozpoctova-opatreni/RO-6-2026/', html)
         self.assertIn('/rozpoctova-opatreni/RO-6-2026/#rz-53-2026-rm', html)
-        self.assertIn('Odkazováno z rozpočtového opatření', html)
+        self.assertIn('<h3>Odkazováno z rozpočtového opatření</h3>', html)
+        self.assertIn('<h3>Zmiňuje rozpočtové změny</h3>', html)
+        self.assertIn('Rozpočtová změna 53/2026/RM: přijaté pojistné plnění', html)
+
+    def test_resolution_budget_links_include_affected_place_when_title_is_generic(self):
+        html = render_budget_links_section({
+            "budget_opatreni_approved": [],
+            "budget_change_links": [
+                {
+                    "budget_change_id": "80/2026/RM",
+                    "opatreni_id": "RO/7/2026",
+                    "plain_title": "renovace vnitřních prostor",
+                    "affected_place": "Unčovice / Sokolovna",
+                    "source": "text",
+                    "match": "direct",
+                },
+            ],
+        })
+
+        self.assertIn(
+            'Rozpočtová změna 80/2026/RM: renovace vnitřních prostor (Unčovice / Sokolovna)',
+            html,
+        )
 
     def test_write_ro_page_contains_rz_anchor_and_resolution_link(self):
         opatreni = {
@@ -388,15 +418,256 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
                         "approval_date": "2026-01-29",
                         "organ": "RM",
                         "budget_change_ids": ["1/2026/RM", "2/2026/RM"],
+                        "sections": [
+                            {
+                                "type": "vydaje",
+                                "rows": [
+                                    {
+                                        "budget_change_id": "1/2026/RM",
+                                        "raw_codes": ["3113", "5169"],
+                                        "amount": "100 000,00",
+                                        "amount_value": 100000.0,
+                                        "description": "ZŠ Jungmannova - služby (RZ 1/2026/RM)",
+                                    },
+                                    {
+                                        "budget_change_id": "2/2026/RM",
+                                        "raw_codes": ["2321", "6121"],
+                                        "amount": "250 000,00",
+                                        "amount_value": 250000.0,
+                                        "description": "ČOV Litovel - technické úpravy (RZ 2/2026/RM)",
+                                    },
+                                ],
+                            },
+                        ],
+                        "notes": [
+                            {
+                                "title": "Rozpočtová změna č. 1/2026/RM",
+                                "text": "Dotace pro školu a související výdaje.",
+                            }
+                        ],
                     },
                 ],
             )
             text = (output / "usneseni" / "2026" / "index.html").read_text(encoding="utf-8")
 
         self.assertIn('<a href="/rozpoctova-opatreni/RO-25-2025/">RO-25-2025 <span class="usn-date">(29. 1.)</span></a>', text)
+        self.assertIn('<div class="usn-summary">2 změn: školy, ČOV / voda, dary a dotace</div>', text)
         self.assertIn('<a href="/rozpoctova-opatreni/">Všechna rozpočtová opatření</a>', text)
         self.assertLess(text.index("<h2>Schůze</h2>"), text.index("<h2>Rozpočtová opatření</h2>"))
         self.assertLess(text.index("<h2>Rozpočtová opatření</h2>"), text.index("<h2>Poslední usnesení</h2>"))
+
+    def test_ro_index_contains_people_facing_summary(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "number": 7,
+            "year": 2026,
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "budget_change_ids": ["79/2026/RM", "80/2026/RM"],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "79/2026/RM",
+                            "raw_codes": ["3392", "5171"],
+                            "amount": "89 843,00",
+                            "amount_value": 89843.0,
+                            "description": "Unčovice - Sokolovna - renovace vnitřních prostor (RZ 79/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "80/2026/RM",
+                            "raw_codes": ["3113", "5336"],
+                            "amount": "576 810,80",
+                            "amount_value": 576810.8,
+                            "description": "ZŠ a MŠ Nasobůrky - dotace OP JAK (RZ 80/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 80/2026/RM",
+                    "text": "Město přijalo účelovou dotaci určenou pro školu.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_index([opatreni], output)
+            text = (output / "rozpoctova-opatreni" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn('<div class="usn-snippet">2 změn: místní části, školy, dary a dotace, kultura a sport</div>', text)
+        self.assertIn('<div class="usn-summary">Týká se: Unčovice / Sokolovna, ZŠ a MŠ Nasobůrky</div>', text)
+
+    def test_ro_summary_uses_top_categories_across_rz_not_full_union(self):
+        opatreni = {
+            "id": "RO/8/2026",
+            "number": 8,
+            "year": 2026,
+            "approval_date": "2026-05-01",
+            "approved_by": "Radou města Litovel",
+            "budget_change_ids": [
+                "1/2026/RM",
+                "2/2026/RM",
+                "3/2026/RM",
+                "4/2026/RM",
+                "5/2026/RM",
+                "6/2026/RM",
+            ],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "1/2026/RM",
+                            "raw_codes": ["3113", "5336"],
+                            "amount": "100 000,00",
+                            "amount_value": 100000.0,
+                            "description": "ZŠ Jungmannova - dotace na vybavení (RZ 1/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "2/2026/RM",
+                            "raw_codes": ["3111", "5336"],
+                            "amount": "90 000,00",
+                            "amount_value": 90000.0,
+                            "description": "MŠ Gemerská - dotace na provoz (RZ 2/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "3/2026/RM",
+                            "raw_codes": ["2321", "6121"],
+                            "amount": "250 000,00",
+                            "amount_value": 250000.0,
+                            "description": "ČOV Litovel - technické úpravy (RZ 3/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "4/2026/RM",
+                            "raw_codes": ["3392", "5171"],
+                            "amount": "80 000,00",
+                            "amount_value": 80000.0,
+                            "description": "Unčovice - Sokolovna - renovace sálu (RZ 4/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "5/2026/RM",
+                            "raw_codes": ["2219", "5171"],
+                            "amount": "70 000,00",
+                            "amount_value": 70000.0,
+                            "description": "Místní komunikace - oprava chodníku (RZ 5/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "6/2026/RM",
+                            "raw_codes": ["5512", "5137"],
+                            "amount": "60 000,00",
+                            "amount_value": 60000.0,
+                            "description": "JSDH - vybavení po povodni (RZ 6/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [],
+        }
+
+        self.assertEqual(
+            aggregate_top_categories(opatreni),
+            ["školy", "dary a dotace", "doprava", "ČOV / voda"],
+        )
+        self.assertEqual(
+            summarize_opatreni_plain(opatreni),
+            "6 změn: školy, dary a dotace, doprava, ČOV / voda",
+        )
+
+    def test_extracts_affected_place_service_from_title(self):
+        self.assertEqual(
+            affected_place_service_from_title("Unčovice - Sokolovna - renovace vnitřních prostor"),
+            "Unčovice / Sokolovna",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("ZŠ a MŠ Nasobůrky - dotace OP JAK"),
+            "ZŠ a MŠ Nasobůrky",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("přijaté pojistné plnění"),
+            "",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("NSA - účelová inv. dotace - Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa"),
+            "Revitalizace sportovního areálu Sokolovny v Litovli",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("volby do Poslanecké sněmovny Parlamentu ČR - dotace"),
+            "volby do Poslanecké sněmovny Parlamentu ČR",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("J.P. - dotace na činnost družstva malé kopané"),
+            "malé kopané",
+        )
+
+    def test_summarize_affected_places_keeps_stable_order(self):
+        opatreni = {
+            "id": "RO/9/2026",
+            "budget_change_ids": ["79/2026/RM", "80/2026/RM", "81/2026/RM"],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "79/2026/RM",
+                            "description": "Unčovice - Sokolovna - renovace sálu (RZ 79/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "80/2026/RM",
+                            "description": "ZŠ a MŠ Nasobůrky - dotace OP JAK (RZ 80/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "81/2026/RM",
+                            "description": "ČOV Litovel - technické úpravy (RZ 81/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [],
+        }
+
+        self.assertEqual(
+            summarize_affected_places(opatreni),
+            "Unčovice / Sokolovna, ZŠ a MŠ Nasobůrky, ČOV Litovel",
+        )
+
+    def test_ro_14_2025_uses_broad_relatable_mentions(self):
+        opatreni = {
+            "id": "RO/14/2025",
+            "budget_change_ids": ["114/2025/RM", "117/2025/RM", "118/2025/RM", "126/2025/RM"],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "114/2025/RM",
+                            "description": "volby do Poslanecké sněmovny Parlamentu ČR - dotace (RZ 114/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "117/2025/RM",
+                            "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa - dotace (RZ 117/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "118/2025/RM",
+                            "description": "J.P. - dotace na činnost družstva malé kopané (RZ 118/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "126/2025/RM",
+                            "description": "T.R. - dotace na činnost družstva malé kopané + oslava 30. výročí založení mk v Unčovicích (RZ 126/2025/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [],
+        }
+
+        self.assertEqual(
+            summarize_affected_places(opatreni),
+            "volby do Poslanecké sněmovny Parlamentu ČR, Revitalizace sportovního areálu Sokolovny v Litovli, malé kopané, …",
+        )
 
 
 if __name__ == "__main__":

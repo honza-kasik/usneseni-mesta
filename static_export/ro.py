@@ -15,6 +15,7 @@ from .ro_summary import (
     render_budget_change_totals,
     summarize_budget_change,
 )
+from .usneseni import render_back_link
 
 
 BUDGET_CHANGE_RE = re.compile(
@@ -149,6 +150,7 @@ def render_budget_change_article(
     anchor: str,
     section_type: str,
 ) -> str:
+    """Render one RZ group with full explanatory note and underlying accounting rows."""
     article_attrs = f' id="{anchor}"' if anchor else ""
     row_label = "účetní řádek" if len(rows) == 1 else "účetní řádky"
     summary = summarize_budget_change(rows, note, budget_change_id)
@@ -163,7 +165,10 @@ def render_budget_change_article(
     if summary["title"]:
         lines.append(f'<p class="usn-rz-title">{html.escape(str(summary["title"]))}</p>')
     if note:
-        lines += ['<aside class="usn-rz-note">', f'<p>{html.escape(str(summary["reason"] or note.get("text") or ""))}</p>', "</aside>"]
+        # For RO pages the note is the human-readable explanation, so render it whole.
+        note_text = str(note.get("text") or "").strip()
+        if note_text:
+            lines += ['<aside class="usn-rz-note">', f'<p>{html.escape(note_text)}</p>', "</aside>"]
 
     totals_html = render_budget_change_totals(summary["totals"])
     if totals_html:
@@ -224,7 +229,12 @@ def write_ro_page(opatreni: Dict, output_root: Path) -> str:
     ]
 
     lines = [
-        '<p class="usn-back"><a href="/rozpoctova-opatreni/">← Zpět na rozpočtová opatření</a></p>',
+        render_back_link(
+            default_href="/rozpoctova-opatreni/",
+            default_label="← Zpět na rozpočtová opatření",
+            allowed_prefixes=("/usneseni", "/rozpoctova-opatreni"),
+            wrapper_class="usn-back",
+        ),
         f"<h1>{html.escape(title)}</h1>",
         f'<p class="usn-meta">{html.escape(approval_date_display or approval_date)} • {html.escape(organ_name)}</p>',
         '<dl class="usn-summary-list">',

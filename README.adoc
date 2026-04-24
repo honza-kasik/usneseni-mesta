@@ -445,6 +445,10 @@ Přegeneruje statický web nad propojenými daty tak, aby stránky usnesení
 obsahovaly vazby na `RO` a současně vznikly samostatné stránky rozpočtových
 opatření.
 
+Na stránkách rozpočtových opatření se u jednotlivých `RZ` zobrazuje plný text
+poznámky z PDF, pokud je k dané změně k dispozici. Účetní řádky zůstávají
+zobrazené pod tímto vysvětlením.
+
 === Vstup
 
 - `work/rozpoctova-opatreni-linked/usneseni.json`

@@ -9,30 +9,41 @@ from .format import budget_change_count_label, format_date
 from .paths import meeting_from_id, resolution_url, ro_url, rz_anchor, slug_from_id
 
 
-def render_back_link() -> str:
-    return """
-<p>
-  <a href="/usneseni/" id="back-link">← Zpět na vyhledávání</a>
+def render_back_link(
+    default_href: str = "/usneseni/",
+    default_label: str = "← Zpět na vyhledávání",
+    allowed_prefixes: Optional[Tuple[str, ...]] = None,
+    wrapper_class: Optional[str] = None,
+) -> str:
+    prefixes = allowed_prefixes or ("/usneseni",)
+    checks = " || ".join(
+        [f'url.pathname === "{prefix}" || url.pathname.startsWith("{prefix}/")' for prefix in prefixes]
+    )
+    wrapper_attr = f' class="{wrapper_class}"' if wrapper_class else ""
+    return f"""
+<p{wrapper_attr}>
+  <a href="{default_href}" id="back-link">{default_label}</a>
 </p>
 
 <script>
-(function() {
+(function() {{
   const a = document.getElementById("back-link");
   if (!a) return;
 
   const back = new URLSearchParams(location.search).get("back");
-  try {
+  try {{
     const url = new URL(back, location.origin);
     if (
       url.origin === location.origin &&
-      (url.pathname === "/usneseni" || url.pathname.startsWith("/usneseni/"))
-    ) {
+      ({checks})
+    ) {{
       a.href = url.pathname + url.search;
-    }
-  } catch (e) {
+      a.textContent = "← Zpět na vyhledávání";
+    }}
+  }} catch (e) {{
     // ignoruj rozbité hodnoty
-  }
-})();
+  }}
+}})();
 </script>
 """
 

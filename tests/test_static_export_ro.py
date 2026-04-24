@@ -92,6 +92,9 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             text = page.read_text(encoding="utf-8")
 
         self.assertEqual(permalink, "/rozpoctova-opatreni/RO-6-2026/")
+        self.assertIn('<p class="usn-back">', text)
+        self.assertIn('<a href="/rozpoctova-opatreni/" id="back-link">← Zpět na rozpočtová opatření</a>', text)
+        self.assertIn('a.textContent = "← Zpět na vyhledávání";', text)
         self.assertIn('id="rz-53-2026-rm"', text)
         self.assertIn('/usneseni/2026/RM-2161-69-2026/', text)
         self.assertIn('organ: "Rada města Litovel"', text)
@@ -140,6 +143,51 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
 
         self.assertIn('<p class="usn-rz-title">Unčovice - židle a stoly pro KD</p>', text)
         self.assertIn('Navýšení výdajů</span> <strong class="usn-amount usn-amount-positive">+120 000,00 Kč</strong>', text)
+
+    def test_write_ro_page_prefers_specific_row_title_over_reserve_line(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 70, "type": "schůzi", "date": "2026-04-02"},
+            "budget_change_ids": ["79/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "79/2026/RM",
+                            "raw_codes": ["3639", "5901", "310", "2 030 000"],
+                            "amount": "-89 843,00",
+                            "amount_value": -89843.0,
+                            "description": "Unčovice - rezerva (RZ 79/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "79/2026/RM",
+                            "raw_codes": ["3392", "5171", "310", "2 033 465"],
+                            "amount": "89 843,00",
+                            "amount_value": 89843.0,
+                            "description": "Unčovice - Sokolovna - renovace vnitřních prostor (RZ 79/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 79/2026/RM",
+                    "text": "Dne 25.3.2026 požádal odbor MH a SI o rozpočtovou změnu.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-7-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn('<p class="usn-rz-title">Unčovice - Sokolovna - renovace vnitřních prostor</p>', text)
+        self.assertNotIn('<p class="usn-rz-title">Unčovice - rezerva</p>', text)
 
     def test_write_ro_page_prefers_note_title_for_mixed_row_bundle(self):
         opatreni = {
@@ -200,6 +248,57 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
         )
         self.assertNotIn('<p class="usn-rz-title">MŠ Gemerská - ostatní přijaté vratky transferů a podobné příjmy</p>', text)
         self.assertIn('Navýšení příjmů</span> <strong class="usn-amount usn-amount-positive">+409 262,82 Kč</strong>', text)
+
+    def test_write_ro_page_renders_full_note_text(self):
+        opatreni = {
+            "id": "RO/22/2025",
+            "approval_date": "2025-11-27",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 63, "type": "schůzi", "date": "2025-11-27"},
+            "budget_change_ids": ["167/2025/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "167/2025/RM",
+                            "raw_codes": ["2219", "6121"],
+                            "amount": "-106 280,00",
+                            "amount_value": -106280.0,
+                            "description": "Unčovice - revitalizace veřejných ploch u Sokolovny (RZ 167/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "167/2025/RM",
+                            "raw_codes": ["3392", "5169"],
+                            "amount": "106 280,00",
+                            "amount_value": 106280.0,
+                            "description": "Unčovice - Sokolovna - renovace místnosti (RZ 167/2025/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 167/2025/RM",
+                    "text": (
+                        "Dne 19. 11. 2025 požádal odbor MH a SI o rozpočtovou změnu. "
+                        "V Sokolovně v místní části Unčovice se nachází místnost v neuživatelném stavu."
+                    ),
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-22-2025" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn(
+            "<p>Dne 19. 11. 2025 požádal odbor MH a SI o rozpočtovou změnu. V Sokolovně v místní části Unčovice se nachází místnost v neuživatelném stavu.</p>",
+            text,
+        )
+        self.assertNotIn("<p>Dne 19.</p>", text)
 
     def test_write_ro_page_shows_reallocation_as_increase_and_decrease(self):
         opatreni = {

@@ -1,3 +1,10 @@
+"""Helpers for deriving resident-facing RO/RZ titles and totals.
+
+The raw RO rows often contain one bookkeeping line and one meaningful line.
+These helpers try to surface the specific citizen-relevant label while keeping
+the accounting rows available below it.
+"""
+
 from __future__ import annotations
 
 import html
@@ -19,16 +26,12 @@ def first_sentence(text: str) -> str:
     text = normalize_whitespace(text)
     if not text:
         return ""
-    match = re.search(r"(.+?[.!?])(\s|$)", text)
+
+    sentence_end_re = re.compile(r"[.!?](?=\s+(?:[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ„\"(]|$))")
+    match = sentence_end_re.search(text)
     if match:
-        return match.group(1).strip()
+        return text[: match.end()].strip()
     return text
-
-
-def plain_reason_from_note(note: Optional[Dict]) -> str:
-    if not note:
-        return ""
-    return first_sentence(note.get("text") or "")
 
 
 def description_title_candidate(description: str) -> str:
@@ -67,6 +70,20 @@ def row_title_candidates(rows: List[Dict], budget_change_id: str) -> List[str]:
     return candidates
 
 
+def is_generic_budget_title(candidate: str) -> bool:
+    """Heuristics for source/transfer lines that should lose to specific targets."""
+    candidate = normalize_whitespace(candidate).lower()
+    generic_patterns = (
+        r"\brezerva\b",
+        r"\btransfery dle rozhodn",
+        r"\bostatni zalezitosti\b",
+        r"\bzmena stavu\b",
+        r"\buroky z prijatych uveru\b",
+        r"\bpresun mezi polozkami\b",
+    )
+    return any(re.search(pattern, candidate) for pattern in generic_patterns)
+
+
 def common_prefix(values: List[str]) -> str:
     if not values:
         return ""
@@ -78,18 +95,23 @@ def common_prefix(values: List[str]) -> str:
 
 
 def plain_title_from_rows(rows: List[Dict], budget_change_id: str) -> str:
+    """Pick the most specific row-derived title for an RZ bundle."""
     candidates = row_title_candidates(rows, budget_change_id)
     if not candidates:
         return ""
     if len(candidates) == 1:
         return candidates[0]
 
+    specific_candidates = [candidate for candidate in candidates if not is_generic_budget_title(candidate)]
+    if len(specific_candidates) == 1:
+        return specific_candidates[0]
+
     prefix = common_prefix(candidates)
     if len(prefix) >= 18:
         return prefix
     if len(set(candidates)) >= 3:
         return ""
-    return candidates[0]
+    return specific_candidates[0] if specific_candidates else candidates[0]
 
 
 def plain_title_from_note(note: Optional[Dict]) -> str:
@@ -118,6 +140,7 @@ def plain_title_from_note(note: Optional[Dict]) -> str:
 
 
 def should_prefer_note_title(rows: List[Dict], budget_change_id: str) -> bool:
+    """Prefer note wording when row bundle has multiple unrelated row labels."""
     candidates = row_title_candidates(rows, budget_change_id)
     if len(candidates) < 3:
         return False
@@ -127,6 +150,7 @@ def should_prefer_note_title(rows: List[Dict], budget_change_id: str) -> bool:
 
 
 def summarize_budget_change(rows: List[Dict], note: Optional[Dict], budget_change_id: str) -> Dict[str, object]:
+    """Return presentation metadata for one rendered RZ group."""
     totals: Dict[str, Dict[str, float]] = {}
     for row in rows:
         section_type = row.get("section_type")
@@ -146,10 +170,9 @@ def summarize_budget_change(rows: List[Dict], note: Optional[Dict], budget_chang
     else:
         title = row_title or note_title
 
-    reason = plain_reason_from_note(note)
     if title:
         title = title.rstrip(".")
-    return {"title": title, "reason": reason, "totals": totals}
+    return {"title": title, "totals": totals}
 
 
 def amount_class(row: Dict) -> str:
@@ -163,6 +186,7 @@ def amount_class(row: Dict) -> str:
 
 
 def render_budget_change_totals(totals: Dict[str, Dict[str, float]]) -> str:
+    """Render user-facing totals for one RZ across income/expense/financing rows."""
     labels = {
         "prijmy": ("Navýšení příjmů", "Snížení příjmů", "Přesun v rámci příjmů bez změny celku"),
         "vydaje": ("Navýšení výdajů", "Snížení výdajů", "Přesun v rámci výdajů bez změny celku"),

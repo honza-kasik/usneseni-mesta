@@ -9715,8 +9715,8 @@
       {
         "budget_change_id": "148/2024/RM",
         "opatreni_id": "RO/24/2024",
-        "plain_title": "V rámci schváleného rozpočtu roku 2024 na platy zaměstnanců za město Litovel (IČO 00299138) je potřeba provést přesun prostředků dle skutečného čerpání na jednotlivých §",
-        "affected_place": "V rámci schváleného rozpočtu roku 2024 na platy zaměstnanců za město Litovel (IČO 00299138) je potřeba provést přesun prostředků dle skutečného čerpání na jednotlivých §",
+        "plain_title": "Činnosti knihovnické - platy zam-ců v pracovním poměru",
+        "affected_place": "Činnosti knihovnické / platy zam-ců v pracovním poměru",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -9754,8 +9754,8 @@
       {
         "budget_change_id": "3/2025/RM",
         "opatreni_id": "RO/2/2025",
-        "plain_title": "Kancelář tajemníka",
-        "affected_place": "Kancelář tajemníka",
+        "plain_title": "Kancelář tajemníka - DSO Region Moravská cesta - členský příspěvek",
+        "affected_place": "Kancelář tajemníka / DSO Region Moravská cesta",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -10748,8 +10748,8 @@
       {
         "budget_change_id": "42/2025/RM",
         "opatreni_id": "RO/4/2025",
-        "plain_title": "Městská policie - prázdninový pobyt dětí",
-        "affected_place": "Městská policie / prázdninový pobyt dětí",
+        "plain_title": "DDM Litovel - prázdninový pobyt dětí",
+        "affected_place": "DDM Litovel / prázdninový pobyt dětí",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -11961,8 +11961,8 @@
       {
         "budget_change_id": "48/2025/RM",
         "opatreni_id": "RO/5/2025",
-        "plain_title": "Kancelář tajemínka - nákup ostatních služeb",
-        "affected_place": "Kancelář tajemínka / nákup ostatních služeb",
+        "plain_title": "Kancelář tajemníka - zpracování Kroniky města Litovel 2021",
+        "affected_place": "Kancelář tajemníka",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -11986,8 +11986,8 @@
       {
         "budget_change_id": "50/2025/RM",
         "opatreni_id": "RO/5/2025",
-        "plain_title": "Solární sušárna kalů - kompenzační opatření - založení remízku Šargoun",
-        "affected_place": "Solární sušárna kalů / kompenzační opatření",
+        "plain_title": "Oprava lovistě Olomouckého rybníka",
+        "affected_place": "Oprava lovistě Olomouckého rybníka",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -11998,8 +11998,8 @@
       {
         "budget_change_id": "51/2025/RM",
         "opatreni_id": "RO/5/2025",
-        "plain_title": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
-        "affected_place": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
+        "plain_title": "Chořelice - oplocení pozemku po směně",
+        "affected_place": "Chořelice / oplocení pozemku po směně",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -12075,8 +12075,8 @@
       {
         "budget_change_id": "58/2025/RM",
         "opatreni_id": "RO/5/2025",
-        "plain_title": "Kancelář tajemníka - poradenské, právní služby, ",
-        "affected_place": "Kancelář tajemníka / poradenské, právní služby",
+        "plain_title": "Svaz měst a obcí ČR - členský příspěvek",
+        "affected_place": "Svaz měst a obcí ČR / členský příspěvek",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -13232,8 +13232,8 @@
       {
         "budget_change_id": "76/2025/RM",
         "opatreni_id": "RO/7/2025",
-        "plain_title": "Myslechovice - KD - rekonstrukce elektroinstalace",
-        "affected_place": "Myslechovice / rekonstrukce elektroinstalace",
+        "plain_title": "Myslechovice - PD oprava kaple",
+        "affected_place": "Myslechovice / PD oprava kaple",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -13283,8 +13283,8 @@
       {
         "budget_change_id": "80/2025/RM",
         "opatreni_id": "RO/7/2025",
-        "plain_title": "Městský klub - klubovna - výměna oken",
-        "affected_place": "Městský klub / klubovna",
+        "plain_title": "TJ Tatran Litovel - šatny - nový kotel",
+        "affected_place": "TJ Tatran Litovel / šatny",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -13321,8 +13321,8 @@
       {
         "budget_change_id": "83/2025/RM",
         "opatreni_id": "RO/7/2025",
-        "plain_title": "OŠKS - ostatní záležitosti školství - posudky, audity, projekty a ostatní výdaje",
-        "affected_place": "ostatní záležitosti školství",
+        "plain_title": "OŠKS - revitalizace sportovního areálu Sokolovny - BOZP a TDI",
+        "affected_place": "revitalizace sportovního areálu Sokolovny",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -14161,8 +14161,8 @@
       {
         "budget_change_id": "88/2025/RM",
         "opatreni_id": "RO/9/2025",
-        "plain_title": "Dne 7.4.2025 byla od VHS Čerlinka s.r.o. doručena faktura za spotřebu vody při úklidu bahna po přívalu deště v Myslechovicích ve výši 1 012 Kč",
-        "affected_place": "",
+        "plain_title": "Odstraňování následků vichřic, smrští a krupobití aj. - Myslechovice - úklid bahna po přívalu deště - voda",
+        "affected_place": "Odstraňování následků vichřic, smrští a krupobití aj",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -14808,8 +14808,8 @@
       {
         "budget_change_id": "93/2025/RM",
         "opatreni_id": "RO/10/2025",
-        "plain_title": "nové dopravní značení dle požadavků, informační systémy a vitríny",
-        "affected_place": "nové dopravní značení dle požadavků, informační systémy a vitríny",
+        "plain_title": "Dětská hřiště - Nová Ves - biotop - herní prvek a související výdaje",
+        "affected_place": "Dětská hřiště / Nová Ves",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -14820,8 +14820,8 @@
       {
         "budget_change_id": "94/2025/RM",
         "opatreni_id": "RO/10/2025",
-        "plain_title": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa",
-        "affected_place": "Revitalizace sportovního areálu Sokolovny v Litovli",
+        "plain_title": "ostatní záležitosti odboru školství",
+        "affected_place": "ostatní záležitosti odboru školství",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -15707,8 +15707,8 @@
       {
         "budget_change_id": "96/2025/RM",
         "opatreni_id": "RO/11/2025",
-        "plain_title": "výkupy pozemků, znalecké posudky, kolky, poplatky, geometrické plány aj",
-        "affected_place": "výkupy pozemků, znalecké posudky, kolky, poplatky, geometrické plány aj",
+        "plain_title": "odborná pomoc, výběrová řízení, inženýrská a dotační činnost",
+        "affected_place": "odborná pomoc, výběrová řízení, inženýrská a dotační činnost",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -15732,8 +15732,8 @@
       {
         "budget_change_id": "98/2025/RM",
         "opatreni_id": "RO/11/2025",
-        "plain_title": "Myslechovice - KD - rekonstrukce elektroinstalace",
-        "affected_place": "Myslechovice / rekonstrukce elektroinstalace",
+        "plain_title": "Březové - sportovní hřiště - vybudování přístřešku",
+        "affected_place": "Březové / sportovní hřiště",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -15744,8 +15744,8 @@
       {
         "budget_change_id": "99/2025/RM",
         "opatreni_id": "RO/11/2025",
-        "plain_title": "Ve schváleném rozpočtu jsou rozpočtovány výdaje na členské příspěvky pro Sdružení obcí střední Moravy a DSO Mirkoregion Litovelsko",
-        "affected_place": "Ve schváleném rozpočtu jsou rozpočtovány výdaje na členské příspěvky pro Sdružení obcí střední Moravy a DSO Mirkoregion Litovelsko",
+        "plain_title": "Kancelář tajemníka - poradenské, právní, služby, studie, ",
+        "affected_place": "Kancelář tajemníka",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -15756,8 +15756,8 @@
       {
         "budget_change_id": "100/2025/RM",
         "opatreni_id": "RO/11/2025",
-        "plain_title": "DSO Region Moravská cesta - podíl města na likvidaci komářích kalamit",
-        "affected_place": "DSO Region Moravská cesta",
+        "plain_title": "OŽP - celoplošná deratizace a likvidace komárů a potkanů",
+        "affected_place": "celoplošná deratizace a likvidace komárů a potkanů",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -15768,7 +15768,7 @@
       {
         "budget_change_id": "101/2025/RM",
         "opatreni_id": "RO/11/2025",
-        "plain_title": "DDM Litovel - dopravní hřiště - údržba, provoz",
+        "plain_title": "DDM Litovel - dotace - dopravní hřiště - provoz, údržba, opravy",
         "affected_place": "DDM Litovel / dopravní hřiště",
         "source": "text",
         "match": "range",
@@ -15804,8 +15804,8 @@
       {
         "budget_change_id": "104/2025/RM",
         "opatreni_id": "RO/11/2025",
-        "plain_title": "OŽP - odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech",
-        "affected_place": "odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech",
+        "plain_title": "administrace výběrového řízení na studii Hydrotechnické posouzení a návrh protipovodňových opatření pro město Litovel",
+        "affected_place": "administrace výběrového řízení na studii Hydrotechnické posouzení a návrh protipovodňových opatření pro město Litovel",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -17620,8 +17620,8 @@
       {
         "budget_change_id": "115/2025/RM",
         "opatreni_id": "RO/14/2025",
-        "plain_title": "Sportovní hřiště - údržba a vybavenost",
-        "affected_place": "Sportovní hřiště",
+        "plain_title": "Dětská hřiště - stroje, přístroje, zařízení",
+        "affected_place": "Dětská hřiště / stroje, přístroje, zařízení",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -17632,8 +17632,8 @@
       {
         "budget_change_id": "116/2025/RM",
         "opatreni_id": "RO/14/2025",
-        "plain_title": "výkupy pozemků, znalecké posudky, ",
-        "affected_place": "výkupy pozemků, znalecké posudky",
+        "plain_title": "Nová Ves - návoz kačírku na břeh biotopu",
+        "affected_place": "Nová Ves / návoz kačírku na břeh biotopu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -19117,8 +19117,8 @@
       {
         "budget_change_id": "131/2025/RM",
         "opatreni_id": "RO/17/2025",
-        "plain_title": "ostatní záležitosti odboru školství",
-        "affected_place": "ostatní záležitosti odboru školství",
+        "plain_title": "DDM - oprava podlahy",
+        "affected_place": "oprava podlahy",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -19195,8 +19195,8 @@
       {
         "budget_change_id": "137/2025/RM",
         "opatreni_id": "RO/17/2025",
-        "plain_title": "Chudobín - chodník podél mk k zámku",
-        "affected_place": "Chudobín / chodník podél mk k zámku",
+        "plain_title": "Březové - sportovní hřiště (terenní úpravy)",
+        "affected_place": "Březové",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -19207,8 +19207,8 @@
       {
         "budget_change_id": "138/2025/RM",
         "opatreni_id": "RO/17/2025",
-        "plain_title": "Unčovice - revitalizace veřejných ploch u Sokolovny",
-        "affected_place": "Unčovice",
+        "plain_title": "Unčovice - herní prvek - pískoviště",
+        "affected_place": "Unčovice / herní prvek",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -19232,8 +19232,8 @@
       {
         "budget_change_id": "140/2025/RM",
         "opatreni_id": "RO/17/2025",
-        "plain_title": "Finanční odbor - úroky z přijatých úvěrů a půjček",
-        "affected_place": "Finanční odbor / úroky z přijatých úvěrů a půjček",
+        "plain_title": "Muzeum Litovel - povodeň - oprava - výkop, nopová folie, drenáž aj",
+        "affected_place": "Muzeum Litovel / povodeň",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -19994,8 +19994,8 @@
       {
         "budget_change_id": "143/2025/RM",
         "opatreni_id": "RO/18/2025",
-        "plain_title": "ŠJ Litovel - neinvestiční příspěvek",
-        "affected_place": "ŠJ Litovel / neinvestiční příspěvek",
+        "plain_title": "ŠJ Litovel - investiční příspěvek - nízkoteplotní mobilní výhřevné udržovací skříně",
+        "affected_place": "ŠJ Litovel / investiční příspěvek",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -20117,7 +20117,7 @@
       {
         "budget_change_id": "80/2025/ZM",
         "opatreni_id": "RO/19/2025",
-        "plain_title": "FRNPPO - realizace protipovodňových opatření",
+        "plain_title": "FRNPPO - realizace protipovodňových opatření - studie",
         "affected_place": "realizace protipovodňových opatření",
         "source": "text",
         "match": "range",
@@ -20814,8 +20814,8 @@
       {
         "budget_change_id": "146/2025/RM",
         "opatreni_id": "RO/20/2025",
-        "plain_title": "Dne 29.9.2025 požádal odbor MH a SI o rozpočtovou změnu",
-        "affected_place": "",
+        "plain_title": "Nová Ves - herní prvek",
+        "affected_place": "Nová Ves / herní prvek",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -20826,8 +20826,8 @@
       {
         "budget_change_id": "147/2025/RM",
         "opatreni_id": "RO/20/2025",
-        "plain_title": "Unčovice - revitalizace veřejných ploch u Sokolovny",
-        "affected_place": "Unčovice",
+        "plain_title": "Unčovice - herní prvek - pískoviště + stoleček",
+        "affected_place": "Unčovice / herní prvek",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -20838,8 +20838,8 @@
       {
         "budget_change_id": "148/2025/RM",
         "opatreni_id": "RO/20/2025",
-        "plain_title": "Fotovoltaika pro ČOV Litovel – PD",
-        "affected_place": "Fotovoltaika pro ČOV Litovel – PD",
+        "plain_title": "Bioplynová stanice -PD",
+        "affected_place": "Bioplynová stanice -PD",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -20886,8 +20886,8 @@
       {
         "budget_change_id": "152/2025/RM",
         "opatreni_id": "RO/20/2025",
-        "plain_title": "OŽP - pořízení kontejnerů na odpad",
-        "affected_place": "pořízení kontejnerů na odpad",
+        "plain_title": "OŽP - modernizace a rozšíření kompostárny - zpracování projektového záměru",
+        "affected_place": "modernizace a rozšíření kompostárny",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -20898,8 +20898,8 @@
       {
         "budget_change_id": "153/2025/RM",
         "opatreni_id": "RO/20/2025",
-        "plain_title": "OŽP - nakládání s odpady - evidence odpadů",
-        "affected_place": "nakládání s odpady / evidence odpadů",
+        "plain_title": "OŽP - rozbory",
+        "affected_place": "rozbory",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -20910,8 +20910,8 @@
       {
         "budget_change_id": "154/2025/RM",
         "opatreni_id": "RO/20/2025",
-        "plain_title": "",
-        "affected_place": "",
+        "plain_title": "OŽP - Haňovice - II. etapa realizace záměru",
+        "affected_place": "Haňovice / II. etapa realizace záměru",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -22602,8 +22602,8 @@
       {
         "budget_change_id": "163/2025/RM",
         "opatreni_id": "RO/22/2025",
-        "plain_title": "Tři Dvory - drobná vydání OV + opravy + DPP",
-        "affected_place": "Tři Dvory / drobná vydání OV, opravy, DPP",
+        "plain_title": "Tři Dvory - workout - lavička",
+        "affected_place": "Tři Dvory / workout",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -22626,8 +22626,8 @@
       {
         "budget_change_id": "165/2025/RM",
         "opatreni_id": "RO/22/2025",
-        "plain_title": "úroky z přijatých úvěrů a půjček",
-        "affected_place": "úroky z přijatých úvěrů a půjček",
+        "plain_title": "OŽP - pořízení plomb pro výkon státní správy myslivosti",
+        "affected_place": "pořízení plomb pro výkon státní správy myslivosti",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -22651,8 +22651,8 @@
       {
         "budget_change_id": "167/2025/RM",
         "opatreni_id": "RO/22/2025",
-        "plain_title": "Unčovice - revitalizace veřejných ploch u Sokolovny",
-        "affected_place": "Unčovice",
+        "plain_title": "Unčovice - Sokolovna - renovace místnosti",
+        "affected_place": "Unčovice / Sokolovna",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -22676,8 +22676,8 @@
       {
         "budget_change_id": "169/2025/RM",
         "opatreni_id": "RO/22/2025",
-        "plain_title": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
-        "affected_place": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
+        "plain_title": "Nasobůrky - rekonstrukce místní komunikace za hřištěm",
+        "affected_place": "Nasobůrky",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -23539,8 +23539,8 @@
       {
         "budget_change_id": "171/2025/RM",
         "opatreni_id": "RO/23/2025",
-        "plain_title": "odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech",
-        "affected_place": "odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech",
+        "plain_title": "Dobývací prostor Haňovice - bezpečnostní technika",
+        "affected_place": "Dobývací prostor Haňovice / bezpečnostní technika",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -23551,8 +23551,8 @@
       {
         "budget_change_id": "172/2025/RM",
         "opatreni_id": "RO/23/2025",
-        "plain_title": "Litovel - úprava ulic Šmakalova",
-        "affected_place": "Litovel / úprava ulic Šmakalova",
+        "plain_title": "revitalizace sídliště Novosady - PD",
+        "affected_place": "revitalizace sídliště Novosady",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -23563,8 +23563,8 @@
       {
         "budget_change_id": "173/2025/RM",
         "opatreni_id": "RO/23/2025",
-        "plain_title": "Fotovoltaika pro ČOV Litovel - PD",
-        "affected_place": "Fotovoltaika pro ČOV Litovel",
+        "plain_title": "Solární sušárna kalů pro ČOV",
+        "affected_place": "Solární sušárna kalů pro ČOV",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -24097,8 +24097,8 @@
       {
         "budget_change_id": "174/2025/RM",
         "opatreni_id": "RO/23/2025",
-        "plain_title": "úroky z přijatých úvěrů a půjček",
-        "affected_place": "úroky z přijatých úvěrů a půjček",
+        "plain_title": "sběr a svoz komunálních odpadů",
+        "affected_place": "sběr a svoz komunálních odpadů",
         "source": "text",
         "match": "direct",
         "section_types": [
@@ -25537,8 +25537,8 @@
       {
         "budget_change_id": "189/2025/RM",
         "opatreni_id": "RO/25/2025",
-        "plain_title": "",
-        "affected_place": "",
+        "plain_title": "Nasobůrky - drobná vydání",
+        "affected_place": "Nasobůrky / drobná vydání",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -25549,8 +25549,8 @@
       {
         "budget_change_id": "190/2025/RM",
         "opatreni_id": "RO/25/2025",
-        "plain_title": "Ochrany dětí ve výši 3 216 611,49 Kč",
-        "affected_place": "Ochrany dětí ve výši 3 216 611,49 Kč",
+        "plain_title": "SPOD",
+        "affected_place": "",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -29140,8 +29140,8 @@
       {
         "budget_change_id": "54/2026/RM",
         "opatreni_id": "RO/6/2026",
-        "plain_title": "Poradenské, právní služby, ostatní služby a studie",
-        "affected_place": "Poradenské, právní služby, ostatní služby a studie",
+        "plain_title": "Zajištění činnosti pověřence pro ochranu osobních údajů a role osoby odpovědné za řízení kybernetické bezpečnosti",
+        "affected_place": "Zajištění činnosti pověřence pro ochranu osobních údajů a role osoby odpovědné za řízení kybernetické bezpečnosti",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -29188,8 +29188,8 @@
       {
         "budget_change_id": "58/2026/RM",
         "opatreni_id": "RO/6/2026",
-        "plain_title": "V měsících lednu a únoru byla uhrazeny členské příspěvky DSO Regionu Moravská cesta ve výši 186 940,00 Kč (rozpočtováno 190 000 Kč) a Sdružení obcí střední Moravy ve výši 85 590,00 Kč (rozpočtováno 90 000 Kč)",
-        "affected_place": "V měsících lednu a únoru byla uhrazeny členské příspěvky DSO Regionu Moravská cesta ve výši 186 940,00 Kč (rozpočtováno 190 000 Kč) a Sdružení obcí střední Moravy ve výši 85 590,00 Kč (rozpočtováno 90 000 Kč)",
+        "plain_title": "poradenské, právní služby, ostatní služby a studie",
+        "affected_place": "poradenské, právní služby, ostatní služby a studie",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -30391,8 +30391,8 @@
       {
         "budget_change_id": "75/2026/RM",
         "opatreni_id": "RO/7/2026",
-        "plain_title": "KŘ - rezervy dle krizového zákona",
-        "affected_place": "rezervy dle krizového zákona",
+        "plain_title": "KŘ - čištění a monitoring kanalizace",
+        "affected_place": "čištění a monitoring kanalizace",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -30403,8 +30403,8 @@
       {
         "budget_change_id": "76/2026/RM",
         "opatreni_id": "RO/7/2026",
-        "plain_title": "KŘ - rezervy dle krizového zákona",
-        "affected_place": "rezervy dle krizového zákona",
+        "plain_title": "KŘ - převod a aktualizace digitálního povodňového plánu - město Litovel a ORP Litovel",
+        "affected_place": "převod a aktualizace digitálního povodňového plánu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -30415,8 +30415,8 @@
       {
         "budget_change_id": "77/2026/RM",
         "opatreni_id": "RO/7/2026",
-        "plain_title": "OŽP - zpracování PD k vynětí půdy",
-        "affected_place": "zpracování PD k vynětí půdy",
+        "plain_title": "svoz komunálního odpadu",
+        "affected_place": "svoz komunálního odpadu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -30427,7 +30427,7 @@
       {
         "budget_change_id": "78/2026/RM",
         "opatreni_id": "RO/7/2026",
-        "plain_title": "Litovel - úprava prostoru před AN směr Mlýnská",
+        "plain_title": "Litovel - nová studna pro zahrádkářskou osadu Pavlínka - PD + související výdaje",
         "affected_place": "Litovel",
         "source": "text",
         "match": "range",
@@ -30463,8 +30463,8 @@
       {
         "budget_change_id": "81/2026/RM",
         "opatreni_id": "RO/7/2026",
-        "plain_title": "Litovel - úprava prostoru před AN směr Mlýnská - PD",
-        "affected_place": "Litovel",
+        "plain_title": "Litovel - areál B. Němcové - VDP",
+        "affected_place": "Litovel / areál B. Němcové",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50436,8 +50436,8 @@
       {
         "budget_change_id": "37/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "Úprava výdajové části rozpočtu dle finančního vypořádání roku 2024 sestaveného na základě předběžných účetních výkazů za rok 2024",
-        "affected_place": "Úprava výdajové části rozpočtu dle finančního vypořádání roku 2024 sestaveného na základě předběžných účetních výkazů za rok 2024",
+        "plain_title": "Vratky přeplatků minulých období, platby dle usnesení ",
+        "affected_place": "Vratky přeplatků minulých období, platby dle usnesení",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -54415,8 +54415,8 @@
       {
         "budget_change_id": "71/2025/ZM",
         "opatreni_id": "RO/16/2025",
-        "plain_title": "Požární ochrana - dobrovolná část - povodeň",
-        "affected_place": "Požární ochrana / dobrovolná část",
+        "plain_title": "OŠKS - ZŠ a DD Palackého - povodeň - oprava podlah a omítek",
+        "affected_place": "ZŠ a DD Palackého / povodeň",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -57411,7 +57411,7 @@
       {
         "budget_change_id": "80/2025/ZM",
         "opatreni_id": "RO/19/2025",
-        "plain_title": "FRNPPO - realizace protipovodňových opatření",
+        "plain_title": "FRNPPO - realizace protipovodňových opatření - studie",
         "affected_place": "realizace protipovodňových opatření",
         "source": "text",
         "match": "range",
@@ -58528,8 +58528,8 @@
       {
         "budget_change_id": "62/2025/ZM",
         "opatreni_id": "RO/12/2025",
-        "plain_title": "úroky z úvěrů",
-        "affected_place": "úroky z úvěrů",
+        "plain_title": "Litovel - park pro psy",
+        "affected_place": "Litovel / park pro psy",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -58578,8 +58578,8 @@
       {
         "budget_change_id": "66/2025/ZM",
         "opatreni_id": "RO/12/2025",
-        "plain_title": "Rozvadovice, Chořelice - odstranění zápachu na stokové síti",
-        "affected_place": "Rozvadovice, Chořelice",
+        "plain_title": "Tři Dvory - workout",
+        "affected_place": "Tři Dvory / workout",
         "source": "text",
         "match": "range",
         "section_types": [

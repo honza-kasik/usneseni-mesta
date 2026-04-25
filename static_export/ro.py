@@ -11,11 +11,13 @@ from .format import budget_change_count_label, format_full_date
 from .paths import ro_slug_from_id, ro_url, resolution_url, rz_anchor
 from .ro_summary import (
     amount_class,
+    clean_budget_row_description,
+    description_title_candidate,
+    format_amount_value,
+    is_generic_budget_title,
+    summarize_budget_change,
     summarize_affected_places,
     budget_change_titles_from_opatreni,
-    clean_budget_row_description,
-    render_budget_change_totals,
-    summarize_budget_change,
     summarize_opatreni_plain,
 )
 from .usneseni import render_back_link
@@ -134,15 +136,88 @@ def render_code_help() -> str:
 """
 
 
-def group_rows_by_budget_change(rows: List[Dict]) -> List[Tuple[str, List[Dict]]]:
-    grouped = []
-    index_by_id = {}
+def section_label(section_type: str) -> str:
+    return {
+        "prijmy": "Příjmy",
+        "vydaje": "Výdaje",
+        "financovani": "Financování",
+    }.get(section_type, section_type)
+
+
+def meeting_chip_text(meeting: Dict) -> str:
+    number = meeting.get("number")
+    meeting_type = (meeting.get("type") or "").strip().lower()
+    if not number:
+        return ""
+    if "schůz" in meeting_type or "schůzi" in meeting_type:
+        return f"{number}. schůze"
+    if "zased" in meeting_type:
+        return f"{number}. zasedání"
+    return f"{number}. {meeting_type}".strip()
+
+
+def transfer_target_phrase(rows: List[Dict], budget_change_id: str) -> str:
+    return transfer_row_phrase(rows, budget_change_id, positive=True)
+
+
+def transfer_source_phrase(rows: List[Dict], budget_change_id: str) -> str:
+    return transfer_row_candidate(rows, budget_change_id, positive=False)
+
+
+def transfer_row_phrase(rows: List[Dict], budget_change_id: str, positive: bool) -> str:
+    target = transfer_row_candidate(rows, budget_change_id, positive)
+    if not target:
+        return ""
+
+    lowered = target.lower()
+    if re.match(r"^(dar|dotace)\b", lowered):
+        return target
+    if " - " in target:
+        head, tail = target.split(" - ", 1)
+        if head and tail:
+            return f"{tail.strip()} pro {head.strip()}"
+    return target
+
+
+def transfer_row_candidate(rows: List[Dict], budget_change_id: str, positive: bool) -> str:
+    candidates = transfer_row_candidates(rows, budget_change_id, positive)
+    return candidates[0] if candidates else ""
+
+
+def transfer_row_candidates(rows: List[Dict], budget_change_id: str, positive: bool) -> List[str]:
+    candidates: List[str] = []
     for row in rows:
-        budget_change_id = row.get("budget_change_id") or ""
-        if budget_change_id not in index_by_id:
-            index_by_id[budget_change_id] = len(grouped)
-            grouped.append((budget_change_id, []))
-        grouped[index_by_id[budget_change_id]][1].append(row)
+        amount_value = row.get("amount_value")
+        if not isinstance(amount_value, (int, float)):
+            continue
+        if positive and float(amount_value) <= 0:
+            continue
+        if not positive and float(amount_value) >= 0:
+            continue
+        description = clean_budget_row_description(row.get("description") or "", budget_change_id)
+        candidate = description_title_candidate(description).strip(" .")
+        if candidate and not is_generic_budget_title(candidate):
+            candidates.append(candidate)
+    return candidates
+
+
+def has_same_transfer_labels(rows: List[Dict], budget_change_id: str) -> bool:
+    sources = {candidate.casefold() for candidate in transfer_row_candidates(rows, budget_change_id, positive=False)}
+    targets = {candidate.casefold() for candidate in transfer_row_candidates(rows, budget_change_id, positive=True)}
+    return bool(sources & targets)
+
+
+def grouped_budget_changes_from_opatreni(opatreni: Dict) -> List[Tuple[str, List[Dict]]]:
+    grouped: List[Tuple[str, List[Dict]]] = []
+    index_by_id: Dict[str, int] = {}
+    for section in opatreni.get("sections") or []:
+        section_type = section.get("type") or ""
+        for row in section.get("rows") or []:
+            budget_change_id = row.get("budget_change_id") or ""
+            if budget_change_id not in index_by_id:
+                index_by_id[budget_change_id] = len(grouped)
+                grouped.append((budget_change_id, []))
+            grouped[index_by_id[budget_change_id]][1].append({**row, "section_type": section_type})
     return grouped
 
 
@@ -151,12 +226,12 @@ def render_budget_change_article(
     rows: List[Dict],
     note: Optional[Dict],
     anchor: str,
-    section_type: str,
 ) -> str:
-    """Render one RZ group with full explanatory note and underlying accounting rows."""
+    """Render one merged RZ card with human explanation first and accounting rows below."""
     article_attrs = f' id="{anchor}"' if anchor else ""
     row_label = "účetní řádek" if len(rows) == 1 else "účetní řádky"
     summary = summarize_budget_change(rows, note, budget_change_id)
+    title = str(summary["title"] or "")
     lines = [
         f'<article{article_attrs} class="usn-rz-group">',
         '<header class="usn-rz-group-head">',
@@ -165,32 +240,128 @@ def render_budget_change_article(
         "</header>",
     ]
 
-    if summary["title"]:
-        lines.append(f'<p class="usn-rz-title">{html.escape(str(summary["title"]))}</p>')
+    if title:
+        lines.append(f'<p class="usn-rz-title">{html.escape(title)}</p>')
     if note:
         # For RO pages the note is the human-readable explanation, so render it whole.
         note_text = str(note.get("text") or "").strip()
         if note_text:
             lines += ['<aside class="usn-rz-note">', f'<p>{html.escape(note_text)}</p>', "</aside>"]
 
-    totals_html = render_budget_change_totals(summary["totals"])
-    if totals_html:
-        lines.append(totals_html)
+    explanation_html = render_budget_change_explanation(summary["totals"], rows, budget_change_id)
+    if explanation_html:
+        lines.append(explanation_html)
 
-    lines.append('<div class="usn-rz-rows">')
+    lines += [
+        '<details class="usn-rz-details">',
+        f"<summary>Účetní řádky a kódy ({len(rows)})</summary>",
+        '<div class="usn-rz-rows">',
+    ]
     for row in rows:
         description = clean_budget_row_description(row.get("description") or "", budget_change_id)
+        row_section_type = row.get("section_type") or ""
+        row_section_label = section_label(str(row_section_type)) if row_section_type else ""
         lines += [
             '<div class="usn-rz-row">',
             '<div class="usn-rz-row-main">',
             f'<strong class="usn-amount{amount_class(row)}">{html.escape(format_amount(row))}</strong>',
+            '<div class="usn-rz-row-copy">',
             f'<p>{html.escape(description)}</p>',
+            f'<p class="usn-rz-row-section">{html.escape(row_section_label)}</p>' if row_section_label else "",
             "</div>",
-            render_code_details(row, section_type),
+            "</div>",
+            render_code_details(row, str(row_section_type)),
             "</div>",
         ]
-    lines += ["</div>", "</article>"]
+    lines += ["</div>", "</details>", "</article>"]
     return "\n".join(lines)
+
+
+def render_budget_change_explanation(
+    totals: Dict[str, Dict[str, float]],
+    rows: List[Dict],
+    budget_change_id: str,
+) -> str:
+    prijmy = totals.get("prijmy") or {}
+    vydaje = totals.get("vydaje") or {}
+    financovani = totals.get("financovani") or {}
+
+    prijmy_positive = float(prijmy.get("positive", 0.0) or 0.0)
+    prijmy_negative = float(prijmy.get("negative", 0.0) or 0.0)
+    vydaje_positive = float(vydaje.get("positive", 0.0) or 0.0)
+    vydaje_negative = float(vydaje.get("negative", 0.0) or 0.0)
+    financovani_positive = float(financovani.get("positive", 0.0) or 0.0)
+    financovani_negative = float(financovani.get("negative", 0.0) or 0.0)
+
+    if (
+        prijmy_positive >= 0.005
+        and vydaje_positive >= 0.005
+        and abs(prijmy_positive - vydaje_positive) < 0.005
+        and prijmy_negative < 0.005
+        and vydaje_negative < 0.005
+        and financovani_positive < 0.005
+        and financovani_negative < 0.005
+    ):
+        amount = html.escape(format_amount_value(prijmy_positive).lstrip("+"))
+        return (
+            '<p class="usn-rz-explanation">'
+            f'Rozpočtově: město přijalo {amount} a stejnou částku zařadilo do výdajů.'
+            "</p>"
+        )
+
+    if (
+        prijmy_positive >= 0.005
+        and prijmy_negative < 0.005
+        and vydaje_positive < 0.005
+        and vydaje_negative < 0.005
+        and financovani_positive < 0.005
+        and financovani_negative < 0.005
+    ):
+        return ""
+
+    if (
+        prijmy_positive >= 0.005
+        and financovani_negative >= 0.005
+        and abs(prijmy_positive - financovani_negative) < 0.005
+        and prijmy_negative < 0.005
+        and vydaje_positive < 0.005
+        and vydaje_negative < 0.005
+        and financovani_positive < 0.005
+    ):
+        amount = html.escape(format_amount_value(prijmy_positive).lstrip("+"))
+        return (
+            '<p class="usn-rz-explanation">'
+            f'Rozpočtově: město přijalo {amount}. Tato změna nezvyšuje výdaje; promítá se do peněz na účtech města.'
+            "</p>"
+        )
+
+    if (
+        vydaje_positive >= 0.005
+        and vydaje_negative >= 0.005
+        and abs(vydaje_positive - vydaje_negative) < 0.005
+        and prijmy_positive < 0.005
+        and prijmy_negative < 0.005
+        and financovani_positive < 0.005
+        and financovani_negative < 0.005
+    ):
+        amount = html.escape(format_amount_value(vydaje_positive).lstrip("+"))
+        if has_same_transfer_labels(rows, budget_change_id):
+            return (
+                '<p class="usn-rz-explanation">'
+                f'Rozpočtově: mění se rozpočtové zařazení výdajů v celkové výši {amount}. Celková výše výdajů se nemění.'
+                "</p>"
+            )
+        target = transfer_target_phrase(rows, budget_change_id)
+        if target:
+            source = transfer_source_phrase(rows, budget_change_id)
+            sentence_end = "" if target.endswith((".", "!", "?")) else "."
+            source_html = f" z položky {html.escape(source)}" if source else ""
+            return (
+                f'<p class="usn-rz-explanation">Rozpočtově: přesun {amount}{source_html} na {html.escape(target)}{sentence_end}</p>'
+            )
+        return f'<p class="usn-rz-explanation">Rozpočtově: přesun {amount} na jiný účel.</p>'
+
+    return ""
 
 
 def write_ro_page(opatreni: Dict, output_root: Path) -> str:
@@ -215,6 +386,7 @@ def write_ro_page(opatreni: Dict, output_root: Path) -> str:
         f'cislo: "{oid}"\n'
         f'organ: "{organ_name}"\n'
         f'datum: "{approval_date}"\n'
+        "rozpoctove_opatreni: true\n"
         f"permalink: {permalink}\n"
         "---\n\n"
     )
@@ -231,6 +403,8 @@ def write_ro_page(opatreni: Dict, output_root: Path) -> str:
         if link.get("relation") == "mentions_budget_change" and link.get("resolution_id")
     ]
 
+    meeting_text = meeting_chip_text(meeting) if meeting else ""
+
     lines = [
         render_back_link(
             default_href="/rozpoctova-opatreni/",
@@ -238,64 +412,45 @@ def write_ro_page(opatreni: Dict, output_root: Path) -> str:
             allowed_prefixes=("/usneseni", "/rozpoctova-opatreni"),
             wrapper_class="usn-back",
         ),
-        f"<h1>{html.escape(title)}</h1>",
-        f'<p class="usn-meta">{html.escape(approval_date_display or approval_date)} • {html.escape(organ_name)}</p>',
-        '<dl class="usn-summary-list">',
-        f"<div><dt>Orgán</dt><dd>{html.escape(organ_name)}</dd></div>",
-        f"<div><dt>Datum schválení</dt><dd>{html.escape(approval_date_display or approval_date)}</dd></div>",
-        f"<div><dt>Rozpočtové změny</dt><dd>{html.escape(budget_change_count_label(len(budget_change_ids)))}</dd></div>",
-        "</dl>",
+        '<header class="usn-ro-hero">',
+        '<p class="usn-ro-kicker">Rozpočet města</p>',
+        f"<h1>{html.escape(oid)}</h1>",
+        (
+            f'<p class="usn-ro-lead">Obsahuje {html.escape(budget_change_count_label(len(budget_change_ids)))}. '
+            f'Schváleno {html.escape(approval_date_display or approval_date)}.</p>'
+        ),
+        '<div class="usn-ro-facts">',
+        f'<span>{html.escape(organ_name)}</span>',
+        f'<span>{html.escape(budget_change_count_label(len(budget_change_ids)))}</span>',
+        f'<span>{html.escape(meeting_text)}</span>' if meeting_text else "",
+        "</div>",
+        "</header>",
     ]
-
-    if meeting:
-        meeting_text = (
-            f'{meeting.get("number", "")}. {meeting.get("type", "")}, '
-            f'{format_full_date(meeting.get("date", "")) or meeting.get("date", "")}'
-        ).strip(" ,")
-        if meeting_text:
-            lines.append(f'<p class="usn-meta-detail">Schváleno: {html.escape(meeting_text)}</p>')
 
     if source_resolution_ids:
         lines.append("<h2>Schvalující usnesení</h2>")
         lines.append(render_resolution_link_list(source_resolution_ids))
 
-    lines.append(render_code_help())
-
     anchored_rz = set()
     rendered_notes = set()
     notes_by_rz = note_map_by_budget_change(opatreni.get("notes") or [])
-    section_titles = {"prijmy": "Příjmy", "vydaje": "Výdaje", "financovani": "Financování"}
+    lines += ["<section class=\"usn-ro-section\">", "<h2>Rozpočtové změny</h2>", '<div class="usn-rz-list">']
+    for budget_change_id, budget_rows in grouped_budget_changes_from_opatreni(opatreni):
+        group_anchor = ""
+        if budget_change_id and budget_change_id not in anchored_rz:
+            group_anchor = rz_anchor(budget_change_id)
+            anchored_rz.add(budget_change_id)
 
-    for section in opatreni.get("sections") or []:
-        rows = section.get("rows") or []
-        if not rows:
-            continue
+        note = notes_by_rz.get(budget_change_id)
+        article_note = None
+        if note and budget_change_id not in rendered_notes:
+            rendered_notes.add(budget_change_id)
+            article_note = note
 
-        section_type = section.get("type") or ""
-        title = section_titles.get(section_type, section.get("label") or section_type)
-        grouped_rows = group_rows_by_budget_change(rows)
-        lines += [
-            f'<section class="usn-ro-section usn-ro-section-{html.escape(section_type)}">',
-            f"<h2>{html.escape(title)}</h2>",
-            '<div class="usn-rz-list">',
-        ]
+        lines.append(render_budget_change_article(budget_change_id, budget_rows, article_note, group_anchor))
+    lines += ["</div>", "</section>"]
 
-        for budget_change_id, budget_rows in grouped_rows:
-            group_anchor = ""
-            if budget_change_id and budget_change_id not in anchored_rz:
-                group_anchor = rz_anchor(budget_change_id)
-                anchored_rz.add(budget_change_id)
-
-            budget_rows = [{**row, "section_type": section_type} for row in budget_rows]
-            note = notes_by_rz.get(budget_change_id)
-            article_note = None
-            if note and budget_change_id not in rendered_notes:
-                rendered_notes.add(budget_change_id)
-                article_note = note
-
-            lines.append(render_budget_change_article(budget_change_id, budget_rows, article_note, group_anchor, section_type))
-
-        lines += ["</div>", "</section>"]
+    lines.append(render_code_help())
 
     notes = opatreni.get("notes") or []
     remaining_notes = [note for note in notes if note_budget_change_id(note) not in rendered_notes]

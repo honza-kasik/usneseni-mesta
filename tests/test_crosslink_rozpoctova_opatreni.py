@@ -1,6 +1,7 @@
 import unittest
 
 from crosslink_rozpoctova_opatreni import (
+    build_budget_change_index,
     crosslink,
     extract_budget_change_mentions,
     resolve_resolution_id,
@@ -119,6 +120,34 @@ class CrosslinkRozpoctovaOpatreniTest(unittest.TestCase):
                 "budget_change_ids": ["53/2026/RM", "54/2026/RM"],
             },
         )
+
+    def test_budget_change_index_uses_destination_title_for_expense_transfer(self):
+        index = build_budget_change_index([
+            {
+                "id": "RO/7/2026",
+                "sections": [
+                    {
+                        "type": "vydaje",
+                        "rows": [
+                            {
+                                "budget_change_id": "77/2026/RM",
+                                "amount": "-50 000,00",
+                                "amount_value": -50000.0,
+                                "description": "OŽP - zpracování PD k vynětí půdy (RZ 77/2026/RM)",
+                            },
+                            {
+                                "budget_change_id": "77/2026/RM",
+                                "amount": "50 000,00",
+                                "amount_value": 50000.0,
+                                "description": "svoz komunálního odpadu (RZ 77/2026/RM)",
+                            },
+                        ],
+                    },
+                ],
+            }
+        ])
+
+        self.assertEqual(index["77/2026/RM"]["plain_title"], "svoz komunálního odpadu")
 
 
 if __name__ == "__main__":

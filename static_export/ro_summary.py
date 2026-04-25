@@ -7,7 +7,6 @@ the accounting rows available below it.
 
 from __future__ import annotations
 
-import html
 import re
 from collections import Counter
 from typing import Dict, List, Optional
@@ -115,6 +114,47 @@ def plain_title_from_rows(rows: List[Dict], budget_change_id: str) -> str:
     return specific_candidates[0] if specific_candidates else candidates[0]
 
 
+def section_total_values(totals: Dict[str, Dict[str, float]]) -> Dict[str, float]:
+    prijmy = totals.get("prijmy") or {}
+    vydaje = totals.get("vydaje") or {}
+    financovani = totals.get("financovani") or {}
+    return {
+        "prijmy_positive": float(prijmy.get("positive", 0.0) or 0.0),
+        "prijmy_negative": float(prijmy.get("negative", 0.0) or 0.0),
+        "vydaje_positive": float(vydaje.get("positive", 0.0) or 0.0),
+        "vydaje_negative": float(vydaje.get("negative", 0.0) or 0.0),
+        "financovani_positive": float(financovani.get("positive", 0.0) or 0.0),
+        "financovani_negative": float(financovani.get("negative", 0.0) or 0.0),
+    }
+
+
+def is_expense_transfer_totals(totals: Dict[str, Dict[str, float]]) -> bool:
+    values = section_total_values(totals)
+    return (
+        values["vydaje_positive"] >= 0.005
+        and values["vydaje_negative"] >= 0.005
+        and abs(values["vydaje_positive"] - values["vydaje_negative"]) < 0.005
+        and values["prijmy_positive"] < 0.005
+        and values["prijmy_negative"] < 0.005
+        and values["financovani_positive"] < 0.005
+        and values["financovani_negative"] < 0.005
+    )
+
+
+def positive_expense_title(rows: List[Dict], budget_change_id: str) -> str:
+    for row in rows:
+        if row.get("section_type") != "vydaje":
+            continue
+        amount_value = row.get("amount_value")
+        if not isinstance(amount_value, (int, float)) or float(amount_value) <= 0:
+            continue
+        description = clean_budget_row_description(row.get("description") or "", budget_change_id)
+        candidate = description_title_candidate(description)
+        if candidate and not is_generic_budget_title(candidate):
+            return candidate
+    return ""
+
+
 def plain_title_from_note(note: Optional[Dict]) -> str:
     if not note:
         return ""
@@ -171,6 +211,9 @@ def summarize_budget_change(rows: List[Dict], note: Optional[Dict], budget_chang
     else:
         title = row_title or note_title
 
+    if is_expense_transfer_totals(totals):
+        title = positive_expense_title(rows, budget_change_id) or title
+
     if title:
         title = title.rstrip(".")
     return {"title": title, "totals": totals}
@@ -184,43 +227,6 @@ def amount_class(row: Dict) -> str:
         if value > 0:
             return " usn-amount-positive"
     return ""
-
-
-def render_budget_change_totals(totals: Dict[str, Dict[str, float]]) -> str:
-    """Render user-facing totals for one RZ across income/expense/financing rows."""
-    labels = {
-        "prijmy": ("Navýšení příjmů", "Snížení příjmů", "Přesun v rámci příjmů bez změny celku"),
-        "vydaje": ("Navýšení výdajů", "Snížení výdajů", "Přesun v rámci výdajů bez změny celku"),
-        "financovani": ("Navýšení financování", "Snížení financování", "Přesun v rámci financování bez změny celku"),
-    }
-    parts = []
-    for key in ("prijmy", "vydaje", "financovani"):
-        section_totals = totals.get(key)
-        if not section_totals:
-            continue
-        positive = section_totals.get("positive", 0.0)
-        negative = section_totals.get("negative", 0.0)
-        increase_label, decrease_label, transfer_label = labels[key]
-
-        if positive >= 0.005:
-            parts.append(
-                '<li>'
-                f'<span class="usn-rz-total-label">{increase_label}</span> '
-                f'<strong class="usn-amount{amount_class({"amount_value": positive})}">{html.escape(format_amount_value(positive))}</strong>'
-                '</li>'
-            )
-        if negative >= 0.005:
-            parts.append(
-                '<li>'
-                f'<span class="usn-rz-total-label">{decrease_label}</span> '
-                f'<strong class="usn-amount{amount_class({"amount_value": -negative})}">{html.escape(format_amount_value(-negative))}</strong>'
-                '</li>'
-            )
-        if positive >= 0.005 and negative >= 0.005 and abs(positive - negative) < 0.005:
-            parts.append(f'<li><span class="usn-rz-total-label">{transfer_label}</span></li>')
-    if not parts:
-        return ""
-    return '<ul class="usn-rz-totals">' + "".join(parts) + '</ul>'
 
 
 CATEGORY_RULES = [

@@ -11973,8 +11973,8 @@
       {
         "budget_change_id": "49/2025/RM",
         "opatreni_id": "RO/5/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "přijaté neinvestiční transfery od obcí",
+        "affected_place": "přijaté neinvestiční transfery od obcí",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -14820,8 +14820,8 @@
       {
         "budget_change_id": "94/2025/RM",
         "opatreni_id": "RO/10/2025",
-        "plain_title": "ostatní záležitosti odboru školství",
-        "affected_place": "ostatní záležitosti odboru školství",
+        "plain_title": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa",
+        "affected_place": "Revitalizace sportovního areálu Sokolovny v Litovli",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -19662,8 +19662,8 @@
       {
         "budget_change_id": "68/2025/ZM",
         "opatreni_id": "RO/12/2025",
-        "plain_title": "změna stavu finančních prostředků na bankovních účtech",
-        "affected_place": "změna stavu finančních prostředků na bankovních účtech",
+        "plain_title": "Římskokatolická farnost Litovel - dotace- na oprava - výměna střešní krytiny na budově fary",
+        "affected_place": "Římskokatolická farnost Litovel / na oprava",
         "source": "text",
         "match": "direct",
         "section_types": [
@@ -27132,8 +27132,8 @@
       {
         "budget_change_id": "32/2026/ZM",
         "opatreni_id": "RO/5/2026",
-        "plain_title": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu",
-        "affected_place": "",
+        "plain_title": "LITOVEL - AREÁL B. NĚMCOVÉ - BYTOVÝ A PARKOVACÍ DŮM - PD PRO ÚR + DEMOLICE (ÚVĚR)",
+        "affected_place": "AREÁL B. NĚMCOVÉ / BYTOVÝ A PARKOVACÍ DŮM",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -49968,8 +49968,8 @@
       {
         "budget_change_id": "1/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "výměna svítidel III. etapa - čerpání dotace",
+        "affected_place": "výměna svítidel III. etapa / čerpání dotace",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -49981,8 +49981,8 @@
       {
         "budget_change_id": "2/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "Ve schváleném rozpočtu města Litovel na rok 2025 nejsou zatím rozpočtovány podíly města k dotační akci Savín – vodovod, Nová Ves + Savín – splašková kanalizace",
-        "affected_place": "Ve schváleném rozpočtu města Litovel na rok 2025 nejsou zatím rozpočtovány podíly města k dotační akci Savín – vodovod, Nová Ves, Savín – splašková kanalizace",
+        "plain_title": "Savín - vodovod - podíl města",
+        "affected_place": "Savín / vodovod",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -49994,8 +49994,8 @@
       {
         "budget_change_id": "3/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "dlouhodobě přijaté půjčené prostředky",
-        "affected_place": "dlouhodobě přijaté půjčené prostředky",
+        "plain_title": "revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala)",
+        "affected_place": "revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala)",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50007,8 +50007,8 @@
       {
         "budget_change_id": "4/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Městská knihovna - oprava výtahu",
+        "affected_place": "Městská knihovna / oprava výtahu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50020,8 +50020,8 @@
       {
         "budget_change_id": "5/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Městská knihovna - nákup služeb",
+        "affected_place": "Městská knihovna / nákup služeb",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50033,8 +50033,8 @@
       {
         "budget_change_id": "6/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Oprava loviště Olomouckého rybníka",
+        "affected_place": "Oprava loviště Olomouckého rybníka",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50046,8 +50046,8 @@
       {
         "budget_change_id": "7/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Úpravy vodního toku Papírenská voda - zřízení služebnosti",
+        "affected_place": "Úpravy vodního toku Papírenská voda",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50059,8 +50059,8 @@
       {
         "budget_change_id": "8/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Radniční Morava - přeložka ČEZ",
+        "affected_place": "Radniční Morava / přeložka ČEZ",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50085,8 +50085,8 @@
       {
         "budget_change_id": "10/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "péče o týraní zvířata, odchyt holubů, deratizace",
+        "affected_place": "péče o týraní zvířata, odchyt holubů, deratizace",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50098,8 +50098,8 @@
       {
         "budget_change_id": "11/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "likvidace biologicky rozložitelného odpadu - povodně 2024",
+        "affected_place": "likvidace biologicky rozložitelného odpadu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50137,8 +50137,8 @@
       {
         "budget_change_id": "14/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "úhrada nákladů řízení",
+        "affected_place": "úhrada nákladů řízení",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50150,8 +50150,8 @@
       {
         "budget_change_id": "15/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "výměna vstupních dveří a oken kanceláře krizového řízení a přilehlých skladů ve dvoře budovy radnice",
+        "affected_place": "výměna vstupních dveří a oken kanceláře krizového řízení a přilehlých skladů ve dvoře budovy radnice",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50229,8 +50229,8 @@
       {
         "budget_change_id": "21/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Městská knihovna - Tři Dvory - povodně - opravy",
+        "affected_place": "Městská knihovna / Tři Dvory",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50255,8 +50255,8 @@
       {
         "budget_change_id": "23/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "nová sportovní hala - administrace žádosti",
+        "affected_place": "nová sportovní hala / administrace žádosti",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50333,8 +50333,8 @@
       {
         "budget_change_id": "29/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "Dne 23.1.2025 požádal vedoucí odboru MH a SI o navýšení rozpočtu na akce, které se přesunuly z roku 2024 do roku 2025",
-        "affected_place": "",
+        "plain_title": "KD Víska - povodeň - výměna parket",
+        "affected_place": "KD Víska / povodeň",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50346,8 +50346,8 @@
       {
         "budget_change_id": "30/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Nová ves - nový herní prvek - kolotoč",
+        "affected_place": "Nová ves / nový herní prvek",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50359,8 +50359,8 @@
       {
         "budget_change_id": "31/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Rozvadovice - likvidace nevyhovujícího a pořízení nového herního prvku",
+        "affected_place": "Rozvadovice",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50372,8 +50372,8 @@
       {
         "budget_change_id": "32/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Chudobín - likvidace nevyhovujícího a pořízení nového herního prvku",
+        "affected_place": "Chudobín",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50461,8 +50461,8 @@
       {
         "budget_change_id": "39/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Muzeum Litovel - protipovodňové zábrany",
+        "affected_place": "Muzeum Litovel / protipovodňové zábrany",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50474,8 +50474,8 @@
       {
         "budget_change_id": "40/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "Dne 27.1.2025 byla na finanční odbor doručená žádost od vedoucího muzea o navýšení rozpočtu na řešení povodňových škod",
-        "affected_place": "",
+        "plain_title": "Muzeum Litovel - povodně - pořízení nábytku do dílny",
+        "affected_place": "Muzeum Litovel / povodně",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50500,8 +50500,8 @@
       {
         "budget_change_id": "42/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Koordinátor integrovaného dopravního systému Olomuckého kraje - příspěvek na dopravní obslužnost",
+        "affected_place": "Koordinátor integrovaného dopravního systému Olomuckého kraje",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50539,8 +50539,8 @@
       {
         "budget_change_id": "45/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na bankovním účtu Sociálního fondu",
-        "affected_place": "změna stavu finančních prostředků na bankovním účtu Sociálního fondu",
+        "plain_title": "čerpání sociálního fondu",
+        "affected_place": "čerpání sociálního fondu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50552,8 +50552,8 @@
       {
         "budget_change_id": "46/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "převod do sociálního fondu",
+        "affected_place": "převod do sociálního fondu",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -50961,8 +50961,8 @@
       {
         "budget_change_id": "3/2025/ZM",
         "opatreni_id": "RO/3/2025",
-        "plain_title": "dlouhodobě přijaté půjčené prostředky",
-        "affected_place": "dlouhodobě přijaté půjčené prostředky",
+        "plain_title": "revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala)",
+        "affected_place": "revitalizace sportovního areálu Sokolovny v Litovli 2. etapa (nová sportovní hala)",
         "source": "text",
         "match": "direct",
         "section_types": [
@@ -54574,8 +54574,8 @@
       {
         "budget_change_id": "5/2026/ZM",
         "opatreni_id": "RO/3/2026",
-        "plain_title": "změna stavu krátkodobých prostředků na bankovních účtech ",
-        "affected_place": "změna stavu krátkodobých prostředků na bankovních účtech",
+        "plain_title": "jistina dle dražební vyhlášky - dům na ul. 1. máje",
+        "affected_place": "jistina dle dražební vyhlášky / dům na ul. 1. máje",
         "source": "text",
         "match": "direct",
         "section_types": [
@@ -54587,8 +54587,8 @@
       {
         "budget_change_id": "6/2026/ZM",
         "opatreni_id": "RO/3/2026",
-        "plain_title": "změna stavu krátkodobých prostředků na bankovních účtech ",
-        "affected_place": "změna stavu krátkodobých prostředků na bankovních účtech",
+        "plain_title": "dům na ul. 1. máje",
+        "affected_place": "dům na ul. 1. máje",
         "source": "text",
         "match": "direct",
         "section_types": [
@@ -55145,8 +55145,8 @@
       {
         "budget_change_id": "55/2025/ZM",
         "opatreni_id": "RO/6/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "Myslechovice - herní prvek dle požadavků OV",
+        "affected_place": "Myslechovice / herní prvek dle požadavků OV",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -55158,8 +55158,8 @@
       {
         "budget_change_id": "56/2025/ZM",
         "opatreni_id": "RO/6/2025",
-        "plain_title": "TECHNICKÉ SLUŽBY Litovel, příspěvková organizace zřízená městem Litovel dlouhodobě připravovaly rekonstrukci administrativní budovy, která se nachází v areálu TS",
-        "affected_place": "TECHNICKÉ SLUŽBY Litovel, příspěvková organizace zřízená městem Litovel dlouhodobě připravovaly rekonstrukci administrativní budovy, která se nachází v areálu TS",
+        "plain_title": "Technické služby Litovel - inv. transfery zřízeným přísp. org. - rekonstrukce AB",
+        "affected_place": "Technické služby Litovel",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -55203,8 +55203,8 @@
       {
         "budget_change_id": "57/2025/ZM",
         "opatreni_id": "RO/8/2025",
-        "plain_title": "změna stavu finančních prostředků na BÚ",
-        "affected_place": "",
+        "plain_title": "doplatek rozdílu mezi cenou směňovaných nemovitých věcí",
+        "affected_place": "doplatek rozdílu mezi cenou směňovaných nemovitých věcí",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -55837,8 +55837,8 @@
       {
         "budget_change_id": "32/2026/ZM",
         "opatreni_id": "RO/5/2026",
-        "plain_title": "Dne 4.2.2026 požádal odbor MH a SI o rozpočtovou změnu",
-        "affected_place": "",
+        "plain_title": "LITOVEL - AREÁL B. NĚMCOVÉ - BYTOVÝ A PARKOVACÍ DŮM - PD PRO ÚR + DEMOLICE (ÚVĚR)",
+        "affected_place": "AREÁL B. NĚMCOVÉ / BYTOVÝ A PARKOVACÍ DŮM",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -56176,8 +56176,8 @@
       {
         "budget_change_id": "58/2026/ZM",
         "opatreni_id": "RO/5/2026",
-        "plain_title": "RZ 58/2026/ZM až 60/2026/ZM reagují na situaci ve mzdové oblasti v závislosti na zvýšení zaručené mzdy od 1. 1. 2026 a na nové platové tabulky platné od 1. 4. 2026",
-        "affected_place": "RZ 58/2026/ZM až 60/2026/ZM reagují na situaci ve mzdové oblasti v závislosti na zvýšení zaručené mzdy od 1. 1. 2026 a na nové platové tabulky platné od 1. 4. 2026",
+        "plain_title": "platy zam-ců v pracovním poměru",
+        "affected_place": "platy zam-ců v pracovním poměru",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -57979,8 +57979,8 @@
       {
         "budget_change_id": "61/2025/ZM",
         "opatreni_id": "RO/8/2025",
-        "plain_title": "Tato rozpočtová změna řeší finanční spoluúčast města Litovel na realizaci vodovodních přípojek po hranici veřejného prostranství a kanalizačních přípojek",
-        "affected_place": "Tato rozpočtová změna řeší finanční spoluúčast města Litovel na realizaci vodovodních přípojek po hranici veřejného prostranství a kanalizačních přípojek",
+        "plain_title": "Savín - vodovod",
+        "affected_place": "Savín / vodovod",
         "source": "text",
         "match": "direct",
         "section_types": [
@@ -58590,8 +58590,8 @@
       {
         "budget_change_id": "67/2025/ZM",
         "opatreni_id": "RO/12/2025",
-        "plain_title": "změna stavu finančních prostředků na bankovních účtech",
-        "affected_place": "změna stavu finančních prostředků na bankovních účtech",
+        "plain_title": "transfery a dary dle rozhodnutí RM",
+        "affected_place": "transfery a dary dle rozhodnutí RM",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -58603,8 +58603,8 @@
       {
         "budget_change_id": "68/2025/ZM",
         "opatreni_id": "RO/12/2025",
-        "plain_title": "změna stavu finančních prostředků na bankovních účtech",
-        "affected_place": "změna stavu finančních prostředků na bankovních účtech",
+        "plain_title": "Římskokatolická farnost Litovel - dotace- na oprava - výměna střešní krytiny na budově fary",
+        "affected_place": "Římskokatolická farnost Litovel / na oprava",
         "source": "text",
         "match": "range",
         "section_types": [
@@ -58616,8 +58616,8 @@
       {
         "budget_change_id": "69/2025/ZM",
         "opatreni_id": "RO/12/2025",
-        "plain_title": "změna stavu finančních prostředků na bankovních účtech",
-        "affected_place": "změna stavu finančních prostředků na bankovních účtech",
+        "plain_title": "Strategický plán rozvoje města",
+        "affected_place": "Strategický plán rozvoje města",
         "source": "text",
         "match": "range",
         "section_types": [

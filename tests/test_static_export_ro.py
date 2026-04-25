@@ -599,6 +599,60 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
         self.assertNotIn('Do rozpočtu přišlo</span> <strong class="usn-amount usn-amount-positive">+39 900,00 Kč</strong>', text)
         self.assertNotIn('Snížení financování</span> <strong class="usn-amount usn-amount-negative">39 900,00 Kč</strong>', text)
 
+    def test_write_ro_page_explains_expense_funded_from_account_balance(self):
+        opatreni = {
+            "id": "RO/3/2026",
+            "approval_date": "2026-02-12",
+            "approved_by": "Zastupitelstvem města Litovel",
+            "meeting": {"number": 24, "type": "zasedání", "date": "2026-02-12"},
+            "budget_change_ids": ["5/2026/ZM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "financovani",
+                    "rows": [
+                        {
+                            "budget_change_id": "5/2026/ZM",
+                            "raw_codes": ["8115"],
+                            "amount": "300 000,00",
+                            "amount_value": 300000.0,
+                            "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 5/2026/ZM)",
+                        },
+                    ],
+                },
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "5/2026/ZM",
+                            "raw_codes": ["3613", "5189", "3 000 000"],
+                            "amount": "300 000,00",
+                            "amount_value": 300000.0,
+                            "description": "jistina dle dražební vyhlášky - dům na ul. 1. máje (RZ 5/2026/ZM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 5/2026/ZM",
+                    "text": "Jistina dle dražební vyhlášky.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-3-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn('<p class="usn-rz-title">jistina dle dražební vyhlášky - dům na ul. 1. máje</p>', text)
+        self.assertIn(
+            '<p class="usn-rz-explanation">Rozpočtově: do výdajů se zapojuje 300 000,00 Kč z peněz na účtech města. Účel: jistina dle dražební vyhlášky - dům na ul. 1. máje.</p>',
+            text,
+        )
+        self.assertNotIn('<p class="usn-rz-title">změna stavu krátkodobých prostředků', text)
+
     def test_write_ro_page_merges_same_rz_across_sections_and_keeps_amounts_visible(self):
         opatreni = {
             "id": "RO/9/2026",

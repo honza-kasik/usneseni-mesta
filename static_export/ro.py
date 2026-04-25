@@ -14,7 +14,11 @@ from .ro_summary import (
     clean_budget_row_description,
     description_title_candidate,
     format_amount_value,
+    is_expense_funded_from_financing_totals,
+    is_expense_transfer_totals,
     is_generic_budget_title,
+    positive_expense_title,
+    section_total_values,
     summarize_budget_change,
     summarize_affected_places,
     budget_change_titles_from_opatreni,
@@ -180,12 +184,6 @@ def transfer_row_phrase(rows: List[Dict], budget_change_id: str, positive: bool)
 
 
 def transfer_row_candidate(rows: List[Dict], budget_change_id: str, positive: bool) -> str:
-    candidates = transfer_row_candidates(rows, budget_change_id, positive)
-    return candidates[0] if candidates else ""
-
-
-def transfer_row_candidates(rows: List[Dict], budget_change_id: str, positive: bool) -> List[str]:
-    candidates: List[str] = []
     for row in rows:
         amount_value = row.get("amount_value")
         if not isinstance(amount_value, (int, float)):
@@ -197,13 +195,35 @@ def transfer_row_candidates(rows: List[Dict], budget_change_id: str, positive: b
         description = clean_budget_row_description(row.get("description") or "", budget_change_id)
         candidate = description_title_candidate(description).strip(" .")
         if candidate and not is_generic_budget_title(candidate):
-            candidates.append(candidate)
-    return candidates
+            return candidate
+    return ""
 
 
 def has_same_transfer_labels(rows: List[Dict], budget_change_id: str) -> bool:
-    sources = {candidate.casefold() for candidate in transfer_row_candidates(rows, budget_change_id, positive=False)}
-    targets = {candidate.casefold() for candidate in transfer_row_candidates(rows, budget_change_id, positive=True)}
+    sources = {
+        clean_budget_row_description(row.get("description") or "", budget_change_id)
+        for row in rows
+        if isinstance(row.get("amount_value"), (int, float))
+        and float(row.get("amount_value")) < 0
+    }
+    targets = {
+        clean_budget_row_description(row.get("description") or "", budget_change_id)
+        for row in rows
+        if isinstance(row.get("amount_value"), (int, float))
+        and float(row.get("amount_value")) > 0
+    }
+    sources = {
+        description_title_candidate(value).strip(" .").casefold()
+        for value in sources
+        if description_title_candidate(value).strip(" .")
+        and not is_generic_budget_title(description_title_candidate(value).strip(" ."))
+    }
+    targets = {
+        description_title_candidate(value).strip(" .").casefold()
+        for value in targets
+        if description_title_candidate(value).strip(" .")
+        and not is_generic_budget_title(description_title_candidate(value).strip(" ."))
+    }
     return bool(sources & targets)
 
 
@@ -282,16 +302,28 @@ def render_budget_change_explanation(
     rows: List[Dict],
     budget_change_id: str,
 ) -> str:
-    prijmy = totals.get("prijmy") or {}
-    vydaje = totals.get("vydaje") or {}
-    financovani = totals.get("financovani") or {}
+    """Return a short resident-facing helper sentence for common accounting patterns.
 
-    prijmy_positive = float(prijmy.get("positive", 0.0) or 0.0)
-    prijmy_negative = float(prijmy.get("negative", 0.0) or 0.0)
-    vydaje_positive = float(vydaje.get("positive", 0.0) or 0.0)
-    vydaje_negative = float(vydaje.get("negative", 0.0) or 0.0)
-    financovani_positive = float(financovani.get("positive", 0.0) or 0.0)
-    financovani_negative = float(financovani.get("negative", 0.0) or 0.0)
+    The RO page already shows the official note as the primary explanation. This
+    helper is intentionally secondary and only appears when the raw accounting
+    rows would otherwise be hard to interpret:
+
+    - income mirrored by expense: accepted money is immediately assigned to spending
+    - income mirrored by financing: accepted money affects account balances, not expenses
+    - expense funded from financing: money from city account balances is newly used for an expense
+    - expense transfer: money moves between two expense lines
+    - same-label expense transfer: accounting reclassification without changing total spending
+
+    When the pattern is already obvious from the official note and rows, the
+    function returns an empty string to avoid adding another competing summary.
+    """
+    values = section_total_values(totals)
+    prijmy_positive = values["prijmy_positive"]
+    prijmy_negative = values["prijmy_negative"]
+    vydaje_positive = values["vydaje_positive"]
+    vydaje_negative = values["vydaje_negative"]
+    financovani_positive = values["financovani_positive"]
+    financovani_negative = values["financovani_negative"]
 
     if (
         prijmy_positive >= 0.005
@@ -335,15 +367,17 @@ def render_budget_change_explanation(
             "</p>"
         )
 
-    if (
-        vydaje_positive >= 0.005
-        and vydaje_negative >= 0.005
-        and abs(vydaje_positive - vydaje_negative) < 0.005
-        and prijmy_positive < 0.005
-        and prijmy_negative < 0.005
-        and financovani_positive < 0.005
-        and financovani_negative < 0.005
-    ):
+    if is_expense_funded_from_financing_totals(totals):
+        amount = html.escape(format_amount_value(vydaje_positive).lstrip("+"))
+        target = positive_expense_title(rows, budget_change_id)
+        target_html = f" Účel: {html.escape(target)}." if target else ""
+        return (
+            '<p class="usn-rz-explanation">'
+            f'Rozpočtově: do výdajů se zapojuje {amount} z peněz na účtech města.{target_html}'
+            "</p>"
+        )
+
+    if is_expense_transfer_totals(totals):
         amount = html.escape(format_amount_value(vydaje_positive).lstrip("+"))
         if has_same_transfer_labels(rows, budget_change_id):
             return (

@@ -76,10 +76,10 @@ def is_generic_budget_title(candidate: str) -> bool:
     generic_patterns = (
         r"\brezerva\b",
         r"\btransfery dle rozhodn",
-        r"\bostatni zalezitosti\b",
-        r"\bzmena stavu\b",
-        r"\buroky z prijatych uveru\b",
-        r"\bpresun mezi polozkami\b",
+        r"\bostatn[ií] z[aá]le[zž]itosti\b",
+        r"\bzm[eě]na stavu\b",
+        r"\b[uú]roky z p[rř]ijat[yý]ch [uú]v[eě]r[uů]\b",
+        r"\bp[rř]esun mezi polo[zž]kami\b",
     )
     return any(re.search(pattern, candidate) for pattern in generic_patterns)
 
@@ -137,6 +137,19 @@ def is_expense_transfer_totals(totals: Dict[str, Dict[str, float]]) -> bool:
         and values["prijmy_positive"] < 0.005
         and values["prijmy_negative"] < 0.005
         and values["financovani_positive"] < 0.005
+        and values["financovani_negative"] < 0.005
+    )
+
+
+def is_expense_funded_from_financing_totals(totals: Dict[str, Dict[str, float]]) -> bool:
+    values = section_total_values(totals)
+    return (
+        values["vydaje_positive"] >= 0.005
+        and values["financovani_positive"] >= 0.005
+        and abs(values["vydaje_positive"] - values["financovani_positive"]) < 0.005
+        and values["prijmy_positive"] < 0.005
+        and values["prijmy_negative"] < 0.005
+        and values["vydaje_negative"] < 0.005
         and values["financovani_negative"] < 0.005
     )
 
@@ -211,7 +224,7 @@ def summarize_budget_change(rows: List[Dict], note: Optional[Dict], budget_chang
     else:
         title = row_title or note_title
 
-    if is_expense_transfer_totals(totals):
+    if is_expense_transfer_totals(totals) or is_expense_funded_from_financing_totals(totals):
         title = positive_expense_title(rows, budget_change_id) or title
 
     if title:

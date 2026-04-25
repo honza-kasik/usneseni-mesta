@@ -7,10 +7,17 @@ from phase5_static_export import (
     render_budget_links_section,
     ro_slug_from_id,
     rz_anchor,
+    write_ro_index,
     write_year_index,
     write_ro_page,
 )
 from parse_rozpoctova_opatreni import normalize_financing_sections
+from static_export.ro_summary import (
+    affected_place_service_from_title,
+    aggregate_top_categories,
+    summarize_affected_places,
+    summarize_opatreni_plain,
+)
 
 
 class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
@@ -27,6 +34,7 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
                 {
                     "budget_change_id": "53/2026/RM",
                     "opatreni_id": "RO/6/2026",
+                    "plain_title": "přijaté pojistné plnění",
                     "source": "text",
                     "match": "range",
                 },
@@ -35,7 +43,29 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
 
         self.assertIn('/rozpoctova-opatreni/RO-6-2026/', html)
         self.assertIn('/rozpoctova-opatreni/RO-6-2026/#rz-53-2026-rm', html)
-        self.assertIn('Odkazováno z rozpočtového opatření', html)
+        self.assertIn('<h3>Odkazováno z rozpočtového opatření</h3>', html)
+        self.assertIn('<h3>Zmiňuje rozpočtové změny</h3>', html)
+        self.assertIn('Rozpočtová změna 53/2026/RM: přijaté pojistné plnění', html)
+
+    def test_resolution_budget_links_include_affected_place_when_title_is_generic(self):
+        html = render_budget_links_section({
+            "budget_opatreni_approved": [],
+            "budget_change_links": [
+                {
+                    "budget_change_id": "80/2026/RM",
+                    "opatreni_id": "RO/7/2026",
+                    "plain_title": "renovace vnitřních prostor",
+                    "affected_place": "Unčovice / Sokolovna",
+                    "source": "text",
+                    "match": "direct",
+                },
+            ],
+        })
+
+        self.assertIn(
+            'Rozpočtová změna 80/2026/RM: renovace vnitřních prostor (Unčovice / Sokolovna)',
+            html,
+        )
 
     def test_write_ro_page_contains_rz_anchor_and_resolution_link(self):
         opatreni = {
@@ -98,15 +128,22 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
         self.assertIn('id="rz-53-2026-rm"', text)
         self.assertIn('/usneseni/2026/RM-2161-69-2026/', text)
         self.assertIn('organ: "Rada města Litovel"', text)
-        self.assertIn('<dt>Orgán</dt><dd>Rada města Litovel</dd>', text)
+        self.assertIn("rozpoctove_opatreni: true", text)
+        self.assertIn('<header class="usn-ro-hero">', text)
+        self.assertIn('<p class="usn-ro-kicker">Rozpočet města</p>', text)
+        self.assertIn('<p class="usn-ro-lead">Obsahuje 1 rozpočtová změna. Schváleno 12. 3. 2026.</p>', text)
+        self.assertIn('<span>Rada města Litovel</span>', text)
+        self.assertIn('<span>69. schůze</span>', text)
+        self.assertNotIn('<span>12. 3. 2026</span>', text)
         self.assertEqual(text.count('id="rz-53-2026-rm"'), 1)
         self.assertEqual(text.count('Rozpočtová změna 53/2026/RM'), 1)
         self.assertIn('class="usn-rz-note"', text)
         self.assertIn('<p class="usn-rz-title">přijaté pojistné plnění</p>', text)
         self.assertIn('<p>Důvod rozpočtové změny.</p>', text)
-        self.assertIn('Navýšení příjmů</span> <strong class="usn-amount usn-amount-positive">+3 645,00 Kč</strong>', text)
-        self.assertIn('Snížení příjmů</span> <strong class="usn-amount usn-amount-negative">-3 645,00 Kč</strong>', text)
-        self.assertIn('Přesun v rámci příjmů bez změny celku', text)
+        self.assertIn('<details class="usn-rz-details">', text)
+        self.assertIn('<summary>Účetní řádky a kódy (2)</summary>', text)
+        self.assertNotIn('Do rozpočtu přišlo</span>', text)
+        self.assertNotIn('Přesun v rámci příjmů bez změny celku', text)
         self.assertIn('přijaté pojistné plnění</p>', text)
         self.assertNotIn('přijaté pojistné plnění (RZ 53/2026/RM)</p>', text)
         self.assertIn('<summary>Kódy: POL 6320, ORG 2322</summary>', text)
@@ -142,7 +179,8 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             text = (output / "rozpoctova-opatreni" / "RO-1-2026" / "index.html").read_text(encoding="utf-8")
 
         self.assertIn('<p class="usn-rz-title">Unčovice - židle a stoly pro KD</p>', text)
-        self.assertIn('Navýšení výdajů</span> <strong class="usn-amount usn-amount-positive">+120 000,00 Kč</strong>', text)
+        self.assertIn('<summary>Účetní řádky a kódy (1)</summary>', text)
+        self.assertNotIn('Ve výdajích přibylo</span>', text)
 
     def test_write_ro_page_prefers_specific_row_title_over_reserve_line(self):
         opatreni = {
@@ -247,7 +285,7 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             text,
         )
         self.assertNotIn('<p class="usn-rz-title">MŠ Gemerská - ostatní přijaté vratky transferů a podobné příjmy</p>', text)
-        self.assertIn('Navýšení příjmů</span> <strong class="usn-amount usn-amount-positive">+409 262,82 Kč</strong>', text)
+        self.assertNotIn('Do rozpočtu přišlo</span>', text)
 
     def test_write_ro_page_renders_full_note_text(self):
         opatreni = {
@@ -342,9 +380,290 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             write_ro_page(opatreni, output)
             text = (output / "rozpoctova-opatreni" / "RO-2-2026" / "index.html").read_text(encoding="utf-8")
 
-        self.assertIn('Navýšení výdajů</span> <strong class="usn-amount usn-amount-positive">+300 000,00 Kč</strong>', text)
-        self.assertIn('Snížení výdajů</span> <strong class="usn-amount usn-amount-negative">-300 000,00 Kč</strong>', text)
-        self.assertIn('Přesun v rámci výdajů bez změny celku', text)
+        self.assertIn('<p class="usn-rz-explanation">Rozpočtově: přesun 300 000,00 Kč z položky Kulturní dům - opravy na služby pro Kulturní dům.</p>', text)
+        self.assertNotIn('Ve výdajích přibylo</span> <strong class="usn-amount usn-amount-positive">+300 000,00 Kč</strong>', text)
+        self.assertNotIn('Ve výdajích ubylo</span> <strong class="usn-amount usn-amount-negative">300 000,00 Kč</strong>', text)
+        self.assertNotIn('Přesun v rámci výdajů bez změny celku', text)
+
+    def test_write_ro_page_describes_reallocation_target_from_positive_row(self):
+        opatreni = {
+            "id": "RO/8/2026",
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 70, "type": "schůzi", "date": "2026-04-02"},
+            "budget_change_ids": ["82/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "82/2026/RM",
+                            "raw_codes": ["4359", "5222"],
+                            "amount": "5 000,00",
+                            "amount_value": 5000.0,
+                            "description": "Zet-My, z.s. - dar na podporu činnosti odlehčovací služby (RZ 82/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "82/2026/RM",
+                            "raw_codes": ["6409", "5901"],
+                            "amount": "-5 000,00",
+                            "amount_value": -5000.0,
+                            "description": "transfery dle rozhodnutí ZML a RML (RZ 82/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 82/2026/RM",
+                    "text": "Dar na základě žádosti.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-8-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn(
+            '<p class="usn-rz-explanation">Rozpočtově: přesun 5 000,00 Kč na dar na podporu činnosti odlehčovací služby pro Zet-My, z.s.</p>',
+            text,
+        )
+        self.assertNotIn('V rámci rozpočtu se přesouvá 5 000,00 Kč na jiný účel.', text)
+        self.assertNotIn('Ve výdajích přibylo</span> <strong class="usn-amount usn-amount-positive">+5 000,00 Kč</strong>', text)
+
+    def test_write_ro_page_explains_reallocation_source_and_target(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 70, "type": "schůzi", "date": "2026-04-02"},
+            "budget_change_ids": ["77/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "77/2026/RM",
+                            "raw_codes": ["3639", "5172", "7 000 000"],
+                            "amount": "-50 000,00",
+                            "amount_value": -50000.0,
+                            "description": "OŽP - zpracování PD k vynětí půdy (RZ 77/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "77/2026/RM",
+                            "raw_codes": ["3722", "5169", "7 000 000"],
+                            "amount": "50 000,00",
+                            "amount_value": 50000.0,
+                            "description": "svoz komunálního odpadu (RZ 77/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 77/2026/RM",
+                    "text": "Dne 24.3.2026 požádal vedoucí OŽP o rozpočtovou změnu.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-7-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn('<p class="usn-rz-title">svoz komunálního odpadu</p>', text)
+        self.assertIn(
+            '<p class="usn-rz-explanation">Rozpočtově: přesun 50 000,00 Kč z položky OŽP - zpracování PD k vynětí půdy na svoz komunálního odpadu.</p>',
+            text,
+        )
+        self.assertNotIn('<p class="usn-rz-title">OŽP - zpracování PD k vynětí půdy</p>', text)
+
+    def test_write_ro_page_explains_same_label_transfer_as_reclassification(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 70, "type": "schůzi", "date": "2026-04-02"},
+            "budget_change_ids": ["72/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "72/2026/RM",
+                            "raw_codes": ["3429", "5499", "4 000 000"],
+                            "amount": "-5 000,00",
+                            "amount_value": -5000.0,
+                            "description": 'R.Š. - dar na organizační zajištění kulturní akce s názvem "1. máj v Parku Míru 2026" (RZ 72/2026/RM)',
+                        },
+                        {
+                            "budget_change_id": "72/2026/RM",
+                            "raw_codes": ["3429", "5492", "4 000 000"],
+                            "amount": "5 000,00",
+                            "amount_value": 5000.0,
+                            "description": 'R.Š. - dar na organizační zajištění kulturní akce s názvem "1. máj v Parku Míru 2026" (RZ 72/2026/RM)',
+                        },
+                        {
+                            "budget_change_id": "72/2026/RM",
+                            "raw_codes": ["3429", "5499", "4 000 000"],
+                            "amount": "-2 500,00",
+                            "amount_value": -2500.0,
+                            "description": "K.H. - dar na organizační zajištění hudebních odpolední (RZ 72/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "72/2026/RM",
+                            "raw_codes": ["3429", "5492", "4 000 000"],
+                            "amount": "2 500,00",
+                            "amount_value": 2500.0,
+                            "description": "K.H. - dar na organizační zajištění hudebních odpolední (RZ 72/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 72/2026/RM",
+                    "text": "Dva příspěvky pro FO byly rozhodnutím RM schváleny ne jako dotace, ale jako dary.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-7-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn(
+            '<p class="usn-rz-explanation">Rozpočtově: mění se rozpočtové zařazení výdajů v celkové výši 7 500,00 Kč. Celková výše výdajů se nemění.</p>',
+            text,
+        )
+        self.assertNotIn("V rozpočtu se přesouvá 7 500,00 Kč", text)
+
+    def test_write_ro_page_explains_income_balanced_by_financing(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 70, "type": "schůzi", "date": "2026-04-02"},
+            "budget_change_ids": ["74/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "prijmy",
+                    "rows": [
+                        {
+                            "budget_change_id": "74/2026/RM",
+                            "raw_codes": ["4121"],
+                            "amount": "39 900,00",
+                            "amount_value": 39900.0,
+                            "description": "neinvestiční přijaté transfery od obcí (RZ 74/2026/RM)",
+                        },
+                    ],
+                },
+                {
+                    "type": "financovani",
+                    "rows": [
+                        {
+                            "budget_change_id": "74/2026/RM",
+                            "raw_codes": ["8115"],
+                            "amount": "-39 900,00",
+                            "amount_value": -39900.0,
+                            "description": "změna stavu krátkodobých prostředků (RZ 74/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 74/2026/RM",
+                    "text": "V měsících lednu a únoru přijalo město Litovel neinv. transfery od obcí.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-7-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn(
+            '<p class="usn-rz-explanation">Rozpočtově: město přijalo 39 900,00 Kč. Tato změna nezvyšuje výdaje; promítá se do peněz na účtech města.</p>',
+            text,
+        )
+        self.assertNotIn('Do rozpočtu přišlo</span> <strong class="usn-amount usn-amount-positive">+39 900,00 Kč</strong>', text)
+        self.assertNotIn('Snížení financování</span> <strong class="usn-amount usn-amount-negative">39 900,00 Kč</strong>', text)
+
+    def test_write_ro_page_merges_same_rz_across_sections_and_keeps_amounts_visible(self):
+        opatreni = {
+            "id": "RO/9/2026",
+            "approval_date": "2026-04-16",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 72, "type": "schůzi", "date": "2026-04-16"},
+            "budget_change_ids": ["91/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "prijmy",
+                    "rows": [
+                        {
+                            "budget_change_id": "91/2026/RM",
+                            "raw_codes": ["4116", "12345"],
+                            "amount": "200 000,00",
+                            "amount_value": 200000.0,
+                            "description": "dotace na opravu sokolovny (RZ 91/2026/RM)",
+                        },
+                    ],
+                },
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "91/2026/RM",
+                            "raw_codes": ["3392", "5171"],
+                            "amount": "150 000,00",
+                            "amount_value": 150000.0,
+                            "description": "Sokolovna - opravy (RZ 91/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "91/2026/RM",
+                            "raw_codes": ["3392", "6121"],
+                            "amount": "50 000,00",
+                            "amount_value": 50000.0,
+                            "description": "Sokolovna - technické zhodnocení (RZ 91/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 91/2026/RM",
+                    "text": "Město přijalo dotaci a použije ji na opravu a technické zhodnocení sokolovny.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-9-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertEqual(text.count('Rozpočtová změna 91/2026/RM'), 1)
+        self.assertIn('id="rz-91-2026-rm"', text)
+        self.assertIn('<p class="usn-rz-explanation">Rozpočtově: město přijalo 200 000,00 Kč a stejnou částku zařadilo do výdajů.</p>', text)
+        self.assertNotIn('Do rozpočtu přišlo</span>', text)
+        self.assertNotIn('Ve výdajích přibylo</span>', text)
+        self.assertIn('<strong class="usn-amount usn-amount-positive">200 000,00</strong>', text)
+        self.assertIn('<strong class="usn-amount usn-amount-positive">150 000,00</strong>', text)
+        self.assertIn('<strong class="usn-amount usn-amount-positive">50 000,00</strong>', text)
+        self.assertIn('<p class="usn-rz-row-section">Příjmy</p>', text)
+        self.assertIn('<p class="usn-rz-row-section">Výdaje</p>', text)
+        self.assertLess(text.index('<h2>Rozpočtové změny</h2>'), text.index('<summary>Co znamenají kódy rozpočtové skladby</summary>'))
 
     def test_financing_section_is_inferred_from_8xxx_codes(self):
         sections = normalize_financing_sections([
@@ -377,7 +696,7 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             output = Path(tmp)
             write_year_index(
                 "2026",
-                [("RM/1/1/2026", "/usneseni/2026/RM-1-1-2026/")],
+                [("RM/1/1/2026", "/usneseni/2026/RM-1-1-2026/", "2026-01-10")],
                 [("RM-1", "/usneseni/2026/RM-1/", "2026-01-10")],
                 output,
                 [
@@ -388,15 +707,280 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
                         "approval_date": "2026-01-29",
                         "organ": "RM",
                         "budget_change_ids": ["1/2026/RM", "2/2026/RM"],
+                        "sections": [
+                            {
+                                "type": "vydaje",
+                                "rows": [
+                                    {
+                                        "budget_change_id": "1/2026/RM",
+                                        "raw_codes": ["3113", "5169"],
+                                        "amount": "100 000,00",
+                                        "amount_value": 100000.0,
+                                        "description": "ZŠ Jungmannova - služby (RZ 1/2026/RM)",
+                                    },
+                                    {
+                                        "budget_change_id": "2/2026/RM",
+                                        "raw_codes": ["2321", "6121"],
+                                        "amount": "250 000,00",
+                                        "amount_value": 250000.0,
+                                        "description": "ČOV Litovel - technické úpravy (RZ 2/2026/RM)",
+                                    },
+                                ],
+                            },
+                        ],
+                        "notes": [
+                            {
+                                "title": "Rozpočtová změna č. 1/2026/RM",
+                                "text": "Dotace pro školu a související výdaje.",
+                            }
+                        ],
                     },
                 ],
             )
             text = (output / "usneseni" / "2026" / "index.html").read_text(encoding="utf-8")
 
-        self.assertIn('<a href="/rozpoctova-opatreni/RO-25-2025/">RO-25-2025 <span class="usn-date">(29. 1.)</span></a>', text)
+        self.assertIn('<div class="usn-year-ro-list">', text)
+        self.assertIn('<div class="usn-year-ro-card"><a href="/rozpoctova-opatreni/RO-25-2025/">RO-25-2025 <span class="usn-date">29. 1.</span></a>', text)
+        self.assertIn('<div class="usn-summary">2 změn: školy, ČOV / voda, dary a dotace</div>', text)
         self.assertIn('<a href="/rozpoctova-opatreni/">Všechna rozpočtová opatření</a>', text)
         self.assertLess(text.index("<h2>Schůze</h2>"), text.index("<h2>Rozpočtová opatření</h2>"))
-        self.assertLess(text.index("<h2>Rozpočtová opatření</h2>"), text.index("<h2>Poslední usnesení</h2>"))
+
+    def test_year_index_orders_meeting_groups_by_date(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_year_index(
+                "2026",
+                [
+                    ("RM/20/2/2026", "/usneseni/2026/RM-20-2-2026/", "2026-02-10"),
+                    ("RM/3/10/2026", "/usneseni/2026/RM-3-10-2026/", "2026-05-01"),
+                    ("ZM/1/9/2026", "/usneseni/2026/ZM-1-9-2026/", "2026-04-20"),
+                ],
+                [("RM-10", "/usneseni/2026/RM-10/", "2026-05-01")],
+                output,
+                [],
+            )
+            text = (output / "usneseni" / "2026" / "index.html").read_text(encoding="utf-8")
+
+        grouped_start = text.index("<h2>Schůze</h2>")
+        grouped_block = text[grouped_start:]
+
+        self.assertIn("Rada města · schůze 10", grouped_block)
+        self.assertIn("Zastupitelstvo · schůze 9", grouped_block)
+        self.assertLess(grouped_block.index("Rada města · schůze 10"), grouped_block.index("Zastupitelstvo · schůze 9"))
+        self.assertLess(grouped_block.index("Zastupitelstvo · schůze 9"), grouped_block.index("Rada města · schůze 2"))
+
+    def test_ro_index_contains_people_facing_summary(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "number": 7,
+            "year": 2026,
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "budget_change_ids": ["79/2026/RM", "80/2026/RM"],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "79/2026/RM",
+                            "raw_codes": ["3392", "5171"],
+                            "amount": "89 843,00",
+                            "amount_value": 89843.0,
+                            "description": "Unčovice - Sokolovna - renovace vnitřních prostor (RZ 79/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "80/2026/RM",
+                            "raw_codes": ["3113", "5336"],
+                            "amount": "576 810,80",
+                            "amount_value": 576810.8,
+                            "description": "ZŠ a MŠ Nasobůrky - dotace OP JAK (RZ 80/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 80/2026/RM",
+                    "text": "Město přijalo účelovou dotaci určenou pro školu.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_index([opatreni], output)
+            text = (output / "rozpoctova-opatreni" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn('<div class="usn-snippet">2 změn: místní části, školy, dary a dotace, kultura a sport</div>', text)
+        self.assertIn('<div class="usn-summary">Týká se: Unčovice / Sokolovna, ZŠ a MŠ Nasobůrky</div>', text)
+
+    def test_ro_summary_uses_top_categories_across_rz_not_full_union(self):
+        opatreni = {
+            "id": "RO/8/2026",
+            "number": 8,
+            "year": 2026,
+            "approval_date": "2026-05-01",
+            "approved_by": "Radou města Litovel",
+            "budget_change_ids": [
+                "1/2026/RM",
+                "2/2026/RM",
+                "3/2026/RM",
+                "4/2026/RM",
+                "5/2026/RM",
+                "6/2026/RM",
+            ],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "1/2026/RM",
+                            "raw_codes": ["3113", "5336"],
+                            "amount": "100 000,00",
+                            "amount_value": 100000.0,
+                            "description": "ZŠ Jungmannova - dotace na vybavení (RZ 1/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "2/2026/RM",
+                            "raw_codes": ["3111", "5336"],
+                            "amount": "90 000,00",
+                            "amount_value": 90000.0,
+                            "description": "MŠ Gemerská - dotace na provoz (RZ 2/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "3/2026/RM",
+                            "raw_codes": ["2321", "6121"],
+                            "amount": "250 000,00",
+                            "amount_value": 250000.0,
+                            "description": "ČOV Litovel - technické úpravy (RZ 3/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "4/2026/RM",
+                            "raw_codes": ["3392", "5171"],
+                            "amount": "80 000,00",
+                            "amount_value": 80000.0,
+                            "description": "Unčovice - Sokolovna - renovace sálu (RZ 4/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "5/2026/RM",
+                            "raw_codes": ["2219", "5171"],
+                            "amount": "70 000,00",
+                            "amount_value": 70000.0,
+                            "description": "Místní komunikace - oprava chodníku (RZ 5/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "6/2026/RM",
+                            "raw_codes": ["5512", "5137"],
+                            "amount": "60 000,00",
+                            "amount_value": 60000.0,
+                            "description": "JSDH - vybavení po povodni (RZ 6/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [],
+        }
+
+        self.assertEqual(
+            aggregate_top_categories(opatreni),
+            ["školy", "dary a dotace", "doprava", "ČOV / voda"],
+        )
+        self.assertEqual(
+            summarize_opatreni_plain(opatreni),
+            "6 změn: školy, dary a dotace, doprava, ČOV / voda",
+        )
+
+    def test_extracts_affected_place_service_from_title(self):
+        self.assertEqual(
+            affected_place_service_from_title("Unčovice - Sokolovna - renovace vnitřních prostor"),
+            "Unčovice / Sokolovna",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("ZŠ a MŠ Nasobůrky - dotace OP JAK"),
+            "ZŠ a MŠ Nasobůrky",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("přijaté pojistné plnění"),
+            "",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("NSA - účelová inv. dotace - Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa"),
+            "Revitalizace sportovního areálu Sokolovny v Litovli",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("volby do Poslanecké sněmovny Parlamentu ČR - dotace"),
+            "volby do Poslanecké sněmovny Parlamentu ČR",
+        )
+        self.assertEqual(
+            affected_place_service_from_title("J.P. - dotace na činnost družstva malé kopané"),
+            "malé kopané",
+        )
+
+    def test_summarize_affected_places_keeps_stable_order(self):
+        opatreni = {
+            "id": "RO/9/2026",
+            "budget_change_ids": ["79/2026/RM", "80/2026/RM", "81/2026/RM"],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "79/2026/RM",
+                            "description": "Unčovice - Sokolovna - renovace sálu (RZ 79/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "80/2026/RM",
+                            "description": "ZŠ a MŠ Nasobůrky - dotace OP JAK (RZ 80/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "81/2026/RM",
+                            "description": "ČOV Litovel - technické úpravy (RZ 81/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [],
+        }
+
+        self.assertEqual(
+            summarize_affected_places(opatreni),
+            "Unčovice / Sokolovna, ZŠ a MŠ Nasobůrky, ČOV Litovel",
+        )
+
+    def test_ro_14_2025_uses_broad_relatable_mentions(self):
+        opatreni = {
+            "id": "RO/14/2025",
+            "budget_change_ids": ["114/2025/RM", "117/2025/RM", "118/2025/RM", "126/2025/RM"],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "114/2025/RM",
+                            "description": "volby do Poslanecké sněmovny Parlamentu ČR - dotace (RZ 114/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "117/2025/RM",
+                            "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa - dotace (RZ 117/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "118/2025/RM",
+                            "description": "J.P. - dotace na činnost družstva malé kopané (RZ 118/2025/RM)",
+                        },
+                        {
+                            "budget_change_id": "126/2025/RM",
+                            "description": "T.R. - dotace na činnost družstva malé kopané + oslava 30. výročí založení mk v Unčovicích (RZ 126/2025/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [],
+        }
+
+        self.assertEqual(
+            summarize_affected_places(opatreni),
+            "volby do Poslanecké sněmovny Parlamentu ČR, Revitalizace sportovního areálu Sokolovny v Litovli, malé kopané, …",
+        )
 
 
 if __name__ == "__main__":

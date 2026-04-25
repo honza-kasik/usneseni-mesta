@@ -1,15 +1,16 @@
-# Readability plan for resolutions and budget measures
+# Plan for bringing resolutions and budget data closer to people
 
 ## Goal
 
-Make the public pages understandable to residents without weakening the audit trail.
+Make the public pages understandable and useful to residents without weakening the audit trail.
 
-The current export is technically useful: it preserves IDs, dates, links, RZ rows, amounts, codes, and notes. The next step is to add a human-readable layer that answers:
+The current export is technically useful: it preserves IDs, dates, links, RZ rows, amounts, codes, and notes. The next step is to add a people-facing layer that answers:
 
 - What changed?
 - Why did it change?
 - How much money moved?
 - Which public service, place, school, association, or project is affected?
+- What does this mean for the place where I live?
 - Where can I verify the official source?
 
 The official data must remain visible, but it should not be the first thing a non-specialist has to decode.
@@ -25,23 +26,33 @@ The official data must remain visible, but it should not be the first thing a no
 
 ## Current state
 
-Resolution pages can now link to budget measures in two ways:
+Resolution pages now link to budget measures in two ways:
 
 - `Odkazováno z rozpočtového opatření RO/...` when the RO PDF header lists the resolution.
 - `Rozpočtová změna ...` when the resolution text explicitly mentions an RZ identifier or range.
 
-RO detail pages are grouped by RZ. Each RZ has:
+RO detail pages are grouped by RZ. Each RZ now has:
 
 - a clickable heading and anchor,
+- a generated plain-language title when it can be derived safely,
 - an explanatory note when available,
+- totals for increases/decreases within the given section,
 - one or more accounting rows,
 - hidden technical codes in expandable details.
 
-Year pages such as `/usneseni/2026/` show RO links in the same compact chip style as RM/ZM meetings.
+Year pages such as `/usneseni/2026/` now show RO links with short generated summaries such as:
 
-This is a good base, but the pages still read as administrative records, not as citizen-facing explanations.
+```text
+2 změn: školy, ČOV / voda, dary a dotace
+```
+
+The RO index page now also shows the same compact people-facing summary under each RO card.
+
+This is a good base, but the export still reads mainly as an administrative archive. The next steps should move it closer to a public guide to what the city is doing and why.
 
 ## Phase 1: Better deterministic RZ summaries
+
+Status: implemented in export rendering.
 
 Add a generated `summary` object for each RZ during RO parsing or export preparation.
 
@@ -89,29 +100,25 @@ Fallbacks:
 - If title cannot be shortened safely, display the existing RZ heading only.
 - If amounts are ambiguous, omit totals rather than showing misleading totals.
 
-## Phase 2: Improve yearly pages for people
+## Phase 2: Improve yearly and index pages for people
 
-Keep RO chips on `/usneseni/YYYY/`, but add lightweight context.
+Status: first slice implemented in export rendering.
 
-Current:
+Keep RO links on `/usneseni/YYYY/`, but add lightweight context.
 
-```text
-RO-7-2026 (2. 4.)
-```
-
-Target:
+Implemented target:
 
 ```text
 RO-7-2026 (2. 4.)
 14 změn: školy, dotace, ČOV, dary, místní části
 ```
 
-Implementation:
+Current implementation:
 
-- Add an optional short `plain_summary` for each RO.
-- Generate it from top RZ titles/categories.
-- Render as small secondary text if it fits the existing layout.
-- If the chip layout becomes crowded, keep chips compact and show summary only on the `/rozpoctova-opatreni/` index.
+- Generate a short deterministic summary for each RO from RZ titles and note text.
+- Prefer category labels when they are stable enough to help scanning.
+- Render the summary under each RO link on `/usneseni/YYYY/`.
+- Render the same summary on `/rozpoctova-opatreni/`.
 
 Candidate category labels:
 
@@ -125,7 +132,14 @@ Candidate category labels:
 - kultura a sport
 - převody rezerv
 
-These categories should be derived by keyword rules first, not by manual annotation.
+These categories should continue to be derived by keyword rules first, not by manual annotation.
+
+Remaining work in this phase:
+
+- Tune category rules against real RO data so the labels are useful and not too broad.
+- Decide whether year pages should show only categories or allow mixed category/title summaries.
+- Add truncation rules if summaries become noisy on mobile.
+- Consider showing organ and number of RZs directly in the RO index card summary.
 
 ## Phase 3: Add manual readability overrides
 
@@ -184,6 +198,12 @@ RO index page:
 - Show date, organ, number of RZs, and `plain_summary`.
 - Group or filter by year if the list grows.
 
+Cross-cutting UX direction:
+
+- Prefer labels that name affected places and services over accounting mechanisms.
+- Help residents scan by theme first, document type second.
+- Keep every human-facing summary visibly backed by the official rows and source links.
+
 Search/year pages:
 
 - Keep RM/ZM/RO navigation compact.
@@ -214,18 +234,18 @@ Likely implementation locations:
 - Existing RO links from resolutions continue to work.
 - `/usneseni/YYYY/` keeps compact RM/ZM/RO navigation.
 
-## Suggested first implementation slice
+## Next implementation slice
 
-Start with Phase 1 only:
+Focus on making the data feel locally relevant, not only simplified:
 
-1. Add a helper that groups rows by RZ and computes totals per section.
-2. Add a helper that derives a plain title from note text or row descriptions.
-3. Render title, note/reason, and totals at the top of each RZ article.
-4. Keep all current rows and code details unchanged below.
+1. Improve category detection with emphasis on places, schools, local parts, infrastructure, grants, and services.
+2. Add a deterministic “affected place/service” field when it can be extracted safely from RZ titles.
+3. Surface that field in RO index cards and, where useful, in resolution pages that link to concrete RZs.
+4. Keep all current accounting rows, anchors, codes, and source links unchanged below.
 5. Add tests for:
-   - RZ with note and multiple rows,
-   - RZ without note,
-   - positive/negative movement,
-   - no misleading total when data is incomplete.
+   - RO summaries derived from categories,
+   - fallback to title-based summaries,
+   - mixed RZ bundles with multiple local themes,
+   - stable output when notes are missing.
 
-This gives the biggest readability improvement without introducing editorial workflow or manual data maintenance.
+This keeps the pipeline deterministic while moving the export from “readable records” toward “publicly understandable city data”.

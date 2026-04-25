@@ -407,7 +407,7 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             output = Path(tmp)
             write_year_index(
                 "2026",
-                [("RM/1/1/2026", "/usneseni/2026/RM-1-1-2026/")],
+                [("RM/1/1/2026", "/usneseni/2026/RM-1-1-2026/", "2026-01-10")],
                 [("RM-1", "/usneseni/2026/RM-1/", "2026-01-10")],
                 output,
                 [
@@ -450,11 +450,35 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
             )
             text = (output / "usneseni" / "2026" / "index.html").read_text(encoding="utf-8")
 
-        self.assertIn('<a href="/rozpoctova-opatreni/RO-25-2025/">RO-25-2025 <span class="usn-date">(29. 1.)</span></a>', text)
+        self.assertIn('<div class="usn-year-ro-list">', text)
+        self.assertIn('<div class="usn-year-ro-card"><a href="/rozpoctova-opatreni/RO-25-2025/">RO-25-2025 <span class="usn-date">29. 1.</span></a>', text)
         self.assertIn('<div class="usn-summary">2 změn: školy, ČOV / voda, dary a dotace</div>', text)
         self.assertIn('<a href="/rozpoctova-opatreni/">Všechna rozpočtová opatření</a>', text)
         self.assertLess(text.index("<h2>Schůze</h2>"), text.index("<h2>Rozpočtová opatření</h2>"))
-        self.assertLess(text.index("<h2>Rozpočtová opatření</h2>"), text.index("<h2>Poslední usnesení</h2>"))
+
+    def test_year_index_orders_meeting_groups_by_date(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_year_index(
+                "2026",
+                [
+                    ("RM/20/2/2026", "/usneseni/2026/RM-20-2-2026/", "2026-02-10"),
+                    ("RM/3/10/2026", "/usneseni/2026/RM-3-10-2026/", "2026-05-01"),
+                    ("ZM/1/9/2026", "/usneseni/2026/ZM-1-9-2026/", "2026-04-20"),
+                ],
+                [("RM-10", "/usneseni/2026/RM-10/", "2026-05-01")],
+                output,
+                [],
+            )
+            text = (output / "usneseni" / "2026" / "index.html").read_text(encoding="utf-8")
+
+        grouped_start = text.index("<h2>Schůze</h2>")
+        grouped_block = text[grouped_start:]
+
+        self.assertIn("Rada města · schůze 10", grouped_block)
+        self.assertIn("Zastupitelstvo · schůze 9", grouped_block)
+        self.assertLess(grouped_block.index("Rada města · schůze 10"), grouped_block.index("Zastupitelstvo · schůze 9"))
+        self.assertLess(grouped_block.index("Zastupitelstvo · schůze 9"), grouped_block.index("Rada města · schůze 2"))
 
     def test_ro_index_contains_people_facing_summary(self):
         opatreni = {

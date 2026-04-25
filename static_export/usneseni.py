@@ -10,6 +10,21 @@ from .paths import meeting_from_id, resolution_url, ro_url, rz_anchor, slug_from
 from .ro_summary import summarize_opatreni_plain
 
 
+def organ_label(code: str) -> str:
+    return {
+        "RM": "Rada města",
+        "ZM": "Zastupitelstvo",
+    }.get(code, code)
+
+
+def resolution_count_label(count: int) -> str:
+    if count == 1:
+        return "1 usnesení"
+    if 2 <= count <= 4:
+        return f"{count} usnesení"
+    return f"{count} usnesení"
+
+
 def render_back_link(
     default_href: str = "/usneseni/",
     default_label: str = "← Zpět na vyhledávání",
@@ -170,7 +185,7 @@ def write_resolution(
     output_root: Path,
     refs_out_map: Dict[str, List[str]],
     refs_in_map: Dict[str, List[str]],
-) -> Tuple[str, str, str]:
+) -> Tuple[str, str, str, str]:
     rid = resolution["id"]
     slug = slug_from_id(rid)
     year = resolution["datum"][:4]
@@ -207,12 +222,12 @@ def write_resolution(
     content += render_references_section("Je odkazováno z", refs_in_map.get(rid, []))
 
     (target_dir / "index.html").write_text(frontmatter + content, encoding="utf-8")
-    return year, rid, permalink
+    return year, rid, permalink, resolution.get("datum", "")
 
 
 def write_year_index(
     year: str,
-    entries: List[Tuple[str, str]],
+    entries: List[Tuple[str, str, str]],
     meetings: List[Tuple[str, str, str]],
     output_root: Path,
     opatreni_entries: Optional[List[Dict]] = None,
@@ -231,6 +246,20 @@ def write_year_index(
     def sort_meetings(items):
         return sorted(items, key=lambda item: int(item[0].split("-")[1]))
 
+    def sort_resolutions(items):
+        def key(item):
+            rid, _, date = item
+            org, number, meeting, rid_year = rid.split("/")
+            return (
+                date or "",
+                rid_year,
+                int(meeting),
+                org,
+                int(number),
+            )
+
+        return sorted(items, key=key, reverse=True)
+
     lines = [
         "---",
         "layout: usneseni_year",
@@ -241,21 +270,34 @@ def write_year_index(
         f"<h1>Usnesení {year}</h1>",
     ]
 
-    if meetings:
-        lines += ["", "<h2>Schůze</h2>"]
-        if rm:
-            lines += ["<h3>Rada města</h3>", '<div class="usn-meetings">']
-            for slug, url, date in sort_meetings(rm):
-                lines.append(f'<a href="{url}">{slug} <span class="usn-date">({format_date(date)})</span></a>')
-            lines.append("</div>")
-        if zm:
-            lines += ["<h3>Zastupitelstvo</h3>", '<div class="usn-meetings">']
-            for slug, url, date in sort_meetings(zm):
-                lines.append(f'<a href="{url}">{slug} <span class="usn-date">({format_date(date)})</span></a>')
-            lines.append("</div>")
+    sorted_entries = sort_resolutions(entries)
+    grouped_entries: Dict[Tuple[str, str], List[Tuple[str, str, str]]] = {}
+    for entry in sorted_entries:
+        rid, _, date = entry
+        org, meeting, _ = meeting_from_id(rid)
+        grouped_entries.setdefault((org, meeting), []).append(entry)
+
+    lines += ["", "<h2>Schůze</h2>", '<div class="usn-year-groups">']
+    for (org, meeting), meeting_entries in grouped_entries.items():
+        meeting_date = meeting_entries[0][2]
+        meeting_url = f"/usneseni/{year}/{org}-{meeting}/"
+        lines += [
+            '<details class="usn-year-group">',
+            "<summary>",
+            f'<span class="usn-year-group-title">{html.escape(organ_label(org))} · schůze {html.escape(meeting)}</span>',
+            f'<span class="usn-date">{html.escape(format_date(meeting_date))}</span>',
+            f'<span class="usn-year-group-count">{resolution_count_label(len(meeting_entries))}</span>',
+            "</summary>",
+            f'<p class="usn-more"><a href="{meeting_url}">Otevřít stránku schůze</a></p>',
+            "<ul>",
+        ]
+        for rid, permalink, _ in meeting_entries:
+            lines.append(f'<li><a href="{permalink}">{html.escape(rid)}</a></li>')
+        lines += ["</ul>", "</details>"]
+    lines.append("</div>")
 
     if opatreni_entries:
-        lines += ["", "<h2>Rozpočtová opatření</h2>", '<div class="usn-meetings">']
+        lines += ["", "<h2>Rozpočtová opatření</h2>", '<div class="usn-year-ro-list">']
         for opatreni in sorted(
             opatreni_entries,
             key=lambda item: (item.get("approval_date") or "", item.get("year", 0), item.get("number", 0)),
@@ -266,33 +308,16 @@ def write_year_index(
             plain_summary = summarize_opatreni_plain(opatreni)
             link = (
                 f'<a href="{ro_url(oid)}">{html.escape(oid.replace("/", "-"))} '
-                f'<span class="usn-date">({html.escape(format_date(approval_date))})</span></a>'
+                f'<span class="usn-date">{html.escape(format_date(approval_date))}</span></a>'
             )
             if plain_summary:
-                lines.append(f'<div class="usn-meeting-card">{link}<div class="usn-summary">{html.escape(plain_summary)}</div></div>')
+                lines.append(f'<div class="usn-year-ro-card">{link}<div class="usn-summary">{html.escape(plain_summary)}</div></div>')
             else:
-                lines.append(link)
+                lines.append(f'<div class="usn-year-ro-card">{link}</div>')
         lines += [
             "</div>",
             '<p class="usn-more"><a href="/rozpoctova-opatreni/">Všechna rozpočtová opatření</a></p>',
         ]
-
-    recent = sorted(entries)[-20:]
-    lines += ["", "<h2>Poslední usnesení</h2>", '<div class="usn-recent">']
-    for rid, permalink in recent:
-        lines.append(f'<a href="{permalink}">{html.escape(rid)}</a>')
-    lines.append("</div>")
-
-    lines += [
-        "",
-        "<h2>Všechna usnesení</h2>",
-        '<details class="usn-all">',
-        f"<summary>Zobrazit všechna usnesení ({len(entries)})</summary>",
-        "<ul>",
-    ]
-    for rid, permalink in sorted(entries):
-        lines.append(f'<li><a href="{permalink}">{html.escape(rid)}</a></li>')
-    lines += ["</ul>", "</details>"]
 
     (target_dir / "index.html").write_text("\n".join(lines), encoding="utf-8")
 

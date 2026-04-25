@@ -82,7 +82,7 @@ def main() -> None:
             refs_out_map[source].append(target)
             refs_in_map[target].append(source)
 
-    by_year: Dict[str, List[Tuple[str, str]]] = defaultdict(list)
+    by_year: Dict[str, List[Tuple[str, str, str]]] = defaultdict(list)
     by_meeting: Dict[str, List[Tuple[str, str, Optional[str], List[str]]]] = defaultdict(list)
     by_meeting_meta: Dict[str, Dict] = {}
     meetings_by_year: Dict[str, List[Tuple[str, str, str]]] = defaultdict(list)
@@ -93,8 +93,8 @@ def main() -> None:
         if not all(key in resolution for key in ("id", "datum", "organ")):
             continue
 
-        year, rid, permalink = write_resolution(resolution, args.output, refs_out_map, refs_in_map)
-        by_year[year].append((rid, permalink))
+        year, rid, permalink, datum = write_resolution(resolution, args.output, refs_out_map, refs_in_map)
+        by_year[year].append((rid, permalink, datum))
         sitemap_urls.append(permalink)
 
         org, meeting, year = meeting_from_id(rid)

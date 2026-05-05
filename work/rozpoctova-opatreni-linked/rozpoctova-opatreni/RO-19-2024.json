@@ -1,0 +1,982 @@
+{
+  "id": "RO/19/2024",
+  "number": 19,
+  "year": 2024,
+  "approval_date": "2024-10-24",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 42,
+    "type": "schůzi",
+    "date": "2024-10-24"
+  },
+  "source_resolutions": [
+    "RM/1268/42/2024",
+    "RM/1269/42/2024",
+    "RM/1272/42/2024",
+    "RM/1271/42/2024",
+    "RM/1279/42/2024",
+    "RM/1291/42/2024",
+    "RM/1295/42/2024"
+  ],
+  "budget_change_ids": [
+    "100/2024/RM",
+    "101/2024/RM",
+    "101/2027/RM",
+    "102/2024/RM",
+    "103/2024/RM",
+    "104/2024/RM",
+    "105/2024/RM",
+    "106/2024/RM",
+    "107/2024/RM",
+    "108/2024/RM",
+    "109/2024/RM",
+    "110/2024/RM",
+    "111/2024/RM",
+    "112/2024/RM",
+    "93/2024/RM",
+    "94/2024/RM",
+    "95/2024/RM",
+    "96/2024/RM",
+    "97/2024/RM",
+    "98/2024/RM",
+    "99/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "93/2024/RM",
+          "raw_codes": [
+            "4122",
+            "465"
+          ],
+          "amount": "48 870,00",
+          "amount_value": 48870.0,
+          "description": "účelová neinvestiční dotace od Ol. kraje - Doprovodná zeleň cyklostezky Litovel - Tři Dvory , II. etapa (RZ 93/2024/RM"
+        },
+        {
+          "budget_change_id": "94/2024/RM",
+          "raw_codes": [
+            "4122",
+            "465"
+          ],
+          "amount": "54 270,00",
+          "amount_value": 54270.0,
+          "description": "účelová neinvestiční dotace od Ol. kraje - výsadba stromořadí na ul. Uničovksá (RZ 94/2024/RM"
+        },
+        {
+          "budget_change_id": "102/2024/RM",
+          "raw_codes": [
+            "4121",
+            "28",
+            "888"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "obec Pernink - dar - povodně 2024 (RZ 102/2024/RM"
+        },
+        {
+          "budget_change_id": "106/2024/RM",
+          "raw_codes": [
+            "5269",
+            "2321",
+            "888"
+          ],
+          "amount": "56 200,00",
+          "amount_value": 56200.0,
+          "description": "obec Střeň - přijatý neinvestiční dar - povodně 2024 (RZ 106/2024/RM"
+        },
+        {
+          "budget_change_id": "107/2024/RM",
+          "raw_codes": [
+            "4121",
+            "28",
+            "888"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Dvůr Králové - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM"
+        },
+        {
+          "budget_change_id": "107/2024/RM",
+          "raw_codes": [
+            "4121",
+            "28",
+            "888"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Brno - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM"
+        },
+        {
+          "budget_change_id": "107/2024/RM",
+          "raw_codes": [
+            "4121",
+            "28",
+            "888"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Vyškov - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM"
+        },
+        {
+          "budget_change_id": "107/2024/RM",
+          "raw_codes": [
+            "4121",
+            "8883003"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Šternberk - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM"
+        },
+        {
+          "budget_change_id": "107/2024/RM",
+          "raw_codes": [
+            "5269",
+            "2321",
+            "888"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Audit team - přijaté neinvestiční dary - povodeň 2024 (RZ 107/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "93/2024/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "465",
+            "7 000 000"
+          ],
+          "amount": "48 870,00",
+          "amount_value": 48870.0,
+          "description": "výsadba zeleně - doprovodná zeleň cyklostezky Litovel - Tři Dvory (RZ 93/2024/RM"
+        },
+        {
+          "budget_change_id": "94/2024/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "465",
+            "7 000 000"
+          ],
+          "amount": "54 270,00",
+          "amount_value": 54270.0,
+          "description": "výsadba zeleně - výsadba stromořadí na ul. Uničovská (RZ 94/2024/RM"
+        },
+        {
+          "budget_change_id": "95/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-92 500,00",
+          "amount_value": -92500.0,
+          "description": "místní části - nerozdělená částka (RZ 95/2024/RM"
+        },
+        {
+          "budget_change_id": "96/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-24 780,50",
+          "amount_value": -24780.5,
+          "description": "místní části - nerozdělená částka (RZ 96/2024/RM"
+        },
+        {
+          "budget_change_id": "96/2024/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "302",
+            "2 033 470"
+          ],
+          "amount": "24 780,50",
+          "amount_value": 24780.5,
+          "description": "Chudobín - nový herní prvek (RZ 96/2024/RM"
+        },
+        {
+          "budget_change_id": "97/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-32 000,00",
+          "amount_value": -32000.0,
+          "description": "řešení následků povodňové situace (RZ 97/2024/RM"
+        },
+        {
+          "budget_change_id": "97/2024/RM",
+          "raw_codes": [
+            "3341",
+            "5137",
+            "308",
+            "16 900 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Tři Dvory - přepážkový mikrofon (RZ 97/2024/RM"
+        },
+        {
+          "budget_change_id": "97/2024/RM",
+          "raw_codes": [
+            "3341",
+            "5137",
+            "308",
+            "16 900 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Tři Dvory - rozhlasová ústředna (RZ 97/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-2 300 000,00",
+          "amount_value": -2300000.0,
+          "description": "řešení následků povodňové situace (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5019",
+            "15 900 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "refundace mezd (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5039",
+            "15 900 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "refundace pojistného (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5132",
+            "15 900 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "ochranné pomůcky (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "32 012,00",
+          "amount_value": 32012.0,
+          "description": "DDHM (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "15 900 000"
+          ],
+          "amount": "167 988,00",
+          "amount_value": 167988.0,
+          "description": "DDHM (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5171",
+            "307",
+            "15 900 000"
+          ],
+          "amount": "16 905,00",
+          "amount_value": 16905.0,
+          "description": "opravy a udržování (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5171",
+            "15 900 000"
+          ],
+          "amount": "1 447 176,00",
+          "amount_value": 1447176.0,
+          "description": "opravy a udržování (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "99/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-1 700 000,00",
+          "amount_value": -1700000.0,
+          "description": "řešení následků povodňové situace (RZ 99/2024/RM"
+        },
+        {
+          "budget_change_id": "99/2024/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 900 000"
+          ],
+          "amount": "1 700 000,00",
+          "amount_value": 1700000.0,
+          "description": "povodně 2024 - svoz a likvidace odpadů (RZ 99/2024/RM"
+        },
+        {
+          "budget_change_id": "100/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-254 920,00",
+          "amount_value": -254920.0,
+          "description": "řešení následků povodňové situace (RZ 100/2024/RM"
+        },
+        {
+          "budget_change_id": "100/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "306",
+            "3 900 000"
+          ],
+          "amount": "254 920,00",
+          "amount_value": 254920.0,
+          "description": "Víska - KD výměna parket po povodni (RZ 100/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-1 200 000,00",
+          "amount_value": -1200000.0,
+          "description": "řešení následků povodňové situace (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5171",
+            "48",
+            "4 900 000"
+          ],
+          "amount": "9 322,00",
+          "amount_value": 9322.0,
+          "description": "MŠ Kollárova - ohřívač (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5171",
+            "49",
+            "4 900 000"
+          ],
+          "amount": "3 451,00",
+          "amount_value": 3451.0,
+          "description": "MŠ Frištenského - topení (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5169",
+            "48",
+            "4 900 000"
+          ],
+          "amount": "3 140,00",
+          "amount_value": 3140.0,
+          "description": "MŠ Kollárova - výměna písku (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5169",
+            "49",
+            "4 900 000"
+          ],
+          "amount": "20 378,00",
+          "amount_value": 20378.0,
+          "description": "MŠ Frištenského - výměna písku (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5139",
+            "48",
+            "4 900 000"
+          ],
+          "amount": "2 260,00",
+          "amount_value": 2260.0,
+          "description": "MŠ Kollárova - písek (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5139",
+            "49",
+            "4 900 000"
+          ],
+          "amount": "4 520,00",
+          "amount_value": 4520.0,
+          "description": "MŠ Frištenského - písek (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3113",
+            "5171",
+            "45",
+            "4 900 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "ZŠ Vítězná (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4 900 405"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "budova zvláštní školy (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2027/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4 900 410"
+          ],
+          "amount": "178 660,00",
+          "amount_value": 178660.0,
+          "description": "budova GJO (RZ 101/2027/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4 900 410"
+          ],
+          "amount": "21 340,00",
+          "amount_value": 21340.0,
+          "description": "budova GJO - osekávání omítek (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "4 900 000"
+          ],
+          "amount": "317 835,33",
+          "amount_value": 317835.33,
+          "description": "Sokolovna, tenisové kurty (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "4 900 428"
+          ],
+          "amount": "62 690,20",
+          "amount_value": 62690.2,
+          "description": "Sokolovna - bourací práce (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "4 903 617"
+          ],
+          "amount": "2 197,36",
+          "amount_value": 2197.36,
+          "description": "Tenisové kurty - oprava jističů (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3412",
+            "5139",
+            "4 903 617"
+          ],
+          "amount": "17 277,11",
+          "amount_value": 17277.11,
+          "description": "Tenisové kurty - antuka (101/2024/RM"
+        },
+        {
+          "budget_change_id": "102/2024/RM",
+          "raw_codes": [
+            "3314",
+            "5171",
+            "308",
+            "18 900 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Městská knihovna - Tři Dvory - opravy, DDHM, .... (RZ 102/2024/RM"
+        },
+        {
+          "budget_change_id": "103/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-1 200 000,00",
+          "amount_value": -1200000.0,
+          "description": "řešení následků povodňové situace (RZ 103/2024/RM"
+        },
+        {
+          "budget_change_id": "103/2024/RM",
+          "raw_codes": [
+            "3612",
+            "5171",
+            "12 900 000"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "OBH - řešení povodňových škod (RZ 103/2024/RM"
+        },
+        {
+          "budget_change_id": "103/2024/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "12 900 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "OBH - řešení povodňových škod (RZ 103/2024/RM"
+        },
+        {
+          "budget_change_id": "104/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-650 000,00",
+          "amount_value": -650000.0,
+          "description": "řešení následků povodňové situace (RZ 104/2024/RM"
+        },
+        {
+          "budget_change_id": "104/2024/RM",
+          "raw_codes": [
+            "3315",
+            "5137",
+            "18 900 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Muzeum Litovel - 2 ks vysoušečů a náhrada za zatopený nábytek (RZ 104/2024/RM"
+        },
+        {
+          "budget_change_id": "104/2024/RM",
+          "raw_codes": [
+            "3315",
+            "5171",
+            "18 900 000"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Muzeum Litovel - opravy omítek v zatopených prostorech budovy muzea (RZ 104/2024/RM"
+        },
+        {
+          "budget_change_id": "105/2024/RM",
+          "raw_codes": [
+            "3613",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-32 705,00",
+          "amount_value": -32705.0,
+          "description": "OŠKS - nebytové prostory - rezerva (RZ 105/2024/RM"
+        },
+        {
+          "budget_change_id": "105/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5169",
+            "4 000 000"
+          ],
+          "amount": "32 705,00",
+          "amount_value": 32705.0,
+          "description": "OŠKS - úklid areálu bývalého skateparku (RZ 105/2024/RM"
+        },
+        {
+          "budget_change_id": "106/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5137",
+            "308",
+            "15 900 000"
+          ],
+          "amount": "56 200,00",
+          "amount_value": 56200.0,
+          "description": "Požární ochrana - dobrovolná část - JSDH Tři Dvory (RZ 106/2024/RM"
+        },
+        {
+          "budget_change_id": "107/2024/RM",
+          "raw_codes": [
+            "3315",
+            "5171",
+            "18 900 000"
+          ],
+          "amount": "630 000,00",
+          "amount_value": 630000.0,
+          "description": "Muzeum Litovel - řešení povodňových škod v muzeu (RZ 107/2024/RM"
+        },
+        {
+          "budget_change_id": "108/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 108/2024/RM"
+        },
+        {
+          "budget_change_id": "108/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "DSO Region Moravská cesta - dar na provozní náklady (RZ 108/2024/RM"
+        },
+        {
+          "budget_change_id": "109/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 109/2024/RM"
+        },
+        {
+          "budget_change_id": "109/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "V.V. - dar na organizační zajištění pietního aktu k založení ČSR (RZ 109/2024/RM"
+        },
+        {
+          "budget_change_id": "110/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 110/2024/RM"
+        },
+        {
+          "budget_change_id": "110/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "309",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "FC Nasa z.s. - dotace na činnost spolku (RZ 110/2024/RM"
+        },
+        {
+          "budget_change_id": "111/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 111/2024/RM"
+        },
+        {
+          "budget_change_id": "112/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 112/2024/RM"
+        },
+        {
+          "budget_change_id": "112/2024/RM",
+          "raw_codes": [
+            "3525",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Hospic na Sv. Kopečku - dar na podporu činnosti (RZ 112/2024/RM"
+        },
+        {
+          "budget_change_id": "96/2024/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "302",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "92 500,00",
+          "amount_value": 92500.0,
+          "description": "Chudobín - přístřešek na dříví u domku na sportovním hřišti (RZ95/2024/RM) 3639 5901 2 030 000 -24 780,50 místní části - nerozdělená částka (RZ 96/2024/RM"
+        },
+        {
+          "budget_change_id": "98/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5171",
+            "308",
+            "15",
+            "900",
+            "000"
+          ],
+          "amount": "35 919,00",
+          "amount_value": 35919.0,
+          "description": "opravy a udržování (RZ 98/2024/RM"
+        },
+        {
+          "budget_change_id": "101/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5171",
+            "4",
+            "900",
+            "000"
+          ],
+          "amount": "356 929,00",
+          "amount_value": 356929.0,
+          "description": "MŠ Kollárova, MŠ Čihadlo, MŠ Frištenského, MŠ Svatojánek (RZ101/2024/RM) 3111 5171 48 4 900 000 9 322,00 MŠ Kollárova - ohřívač (RZ 101/2024/RM"
+        },
+        {
+          "budget_change_id": "111/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "307",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "D.K. - dotace na činnost družstva malé kopané (RZ 111/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 93/2024/RM",
+      "text": "Dne 9. 10. 2024 byla na účet města připsána od Olomouckého kraje účelová neinvestiční dotace ve výši 48.870,00 Kč na Doprovodnou zeleň cyklostezky Litovel – Tři Dvory, II. etapa."
+    },
+    {
+      "title": "Rozpočtová změna č. 94/2024/RM",
+      "text": "Dne 9. 10. 2024 byla na účet města připsána od Olomouckého kraje účelová neinvestiční dotace ve výši 54.270,00 Kč na Výsadba stromořadí na ulici Uničovská v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 95/2024/RM",
+      "text": "Dne 14.10.2024 byla doručena od odboru MHaSI žádost na rozpočtovou změnu: OV Chudobín vznesl požadavek na pořízení přístřešku na dříví u domku na sportovním hřišti. K jeho pořízení je navržena rozpočtová změna výše."
+    },
+    {
+      "title": "Rozpočtová změna č. 96/2024/RM",
+      "text": "Dne 14.10.2024 byla doručena od odboru MHaSI žádost na rozpočtovou změnu: OV Chudobín již dříve vznesl požadavek na pořízení herního prvku včetně dopadové plochy. Pro dokončení a úhradu nákladů vyvolaných realizací je nutné provést požadovanou rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 97/2024/RM",
+      "text": "Dne 16.10.2024 doručena žádost od pracovníka krizového řízení na převod prostředků na řešení následků povodní: Žádám o převod následujících částek do rozpočtu KŘ na úhradu povodňových škod:"
+    },
+    {
+      "title": "Rozpočtová změna č. 98/2024/RM",
+      "text": "Dne 16.10.2024 doručena žádost od pracovníka krizového řízení na převod prostředků na řešení následků povodní: Žádám o převod následujících částek do rozpočtu Požární ochrana – dobrovolná část na úhradu povodňových škod."
+    },
+    {
+      "title": "Rozpočtová změna č. 99/2024/RM",
+      "text": "Dne 16.10. 2024 přijal FO žádost od vedoucího odboru životního prostřední na rozpočtovou změnu na sanaci a likvidaci odpadů povodňových odpadů."
+    },
+    {
+      "title": "Rozpočtová změna č. 100/2024/RM",
+      "text": "Dne 16. 10. byla od MH a SI doručena žádost na rozpočtovou změnu související s povodněmi. Tato rozpočtová změna se týká KD Víska a kompletní výměny parket zatopených při povodni."
+    },
+    {
+      "title": "Rozpočtová změna č. 101/2024/RM",
+      "text": "Dne 16. 10. byla od vedoucího OŠKS doručena žádost na rozpočtovou změnu související s povodněmi."
+    },
+    {
+      "title": "Rozpočtová změna č. 102/2024/RM",
+      "text": "Dne 16. 10. byla od vedoucího OŠKS doručena žádost na rozpočtovou změnu související s povodněmi a knihovnou ve Třech Dvorech. Zároveň město Litovel přijalo dne 7.10.2024 finanční dar ve výši 100 000 Kč od obce Pernink na povodně, který je určen pro místní část Tři Dvory."
+    },
+    {
+      "title": "Rozpočtová změna č. 103/2024/RM",
+      "text": "Dne 16. 10. byla od vedoucí OBH doručena precizně zpracovaná žádost o rozpočtovou změnu související s povodněmi: POVODNĚ 2024 Rozpočtové změny – OBH 1) Bytové hospodářství částka 800.000,- Kč - §3612, pol. 5171, org. 12900000 Odstranění škod po povodni – likvidace a odvoz poničených věcí, vysoušení, nové podlahy, osekání zdiva, nové omítky, oprava topné technologie v kotelně, výměna dveří (Chořelice 1238. 1. máje 800). 2) Nebytové hospodářství částka 400.000,- Kč - §3613, pol. 5171 org. 12900000 Odstranění škod po povodni – likvidace a odvoz poničených věcí, vysoušení, podlahy, osekání zdiva, nové omítky (Opletalova 341 – FITCENTRUM)."
+    },
+    {
+      "title": "Rozpočtová změna č. 104/2024/RM",
+      "text": "Dne 18.10.2024 byla FO doručena od vedoucího Muzea žádost na rozpočtovou změnu související s povodněmi. Vzhledem k řešení následků povodňové situace žádám o převod peněžních prostředků do rozpočtu muzea."
+    },
+    {
+      "title": "Rozpočtová změna č. 105/2024/RM",
+      "text": "Dne 18.10. 2024 byla FO doručená žádost na rozpočtovou změnu od OŠKS. Jedná se o přesun prostředků na úklid areálu bývalého skateparku."
+    },
+    {
+      "title": "Rozpočtová změna č. 106/2024/RM",
+      "text": "Dne 22. 10. 2024 byla na účet města připsána platba od obce Střeň ve výši 56.200,00 Kč. Jedná se o finanční prostředky vybrané občany obce Střeň pro naši místní část Tři Dvory, JSDH, v souvislostí s povodňovou situací v září 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 107/2024/RM",
+      "text": "V průběhu měsíce října byly na účet města připisovány finanční prostředky od ÚSC a právnických osob na řešení škod v souvislostí s povodňovou situací ze září 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 108/2024/RM",
+      "text": "Dar na provozní náklady DSO region Moravská cesta."
+    },
+    {
+      "title": "Rozpočtová změna č. 109/2024/RM",
+      "text": "Dar na organizační zajištění pietního aktu k založení ČSR."
+    },
+    {
+      "title": "Rozpočtová změna č. 110/2024/RM",
+      "text": "Dotace na činnost spolku."
+    },
+    {
+      "title": "Rozpočtová změna č. 111/2024/RM",
+      "text": "Dotace na činnost družstva malé kopané."
+    },
+    {
+      "title": "Rozpočtová změna č. 112/2024/RM",
+      "text": "Dar na odporu činnosti Hospice."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._19_2024_dne_24._rijna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 19/2024 schválené Radou města Litovel\ndne 24. října 2024\nRozpočtové opatření bylo schváleno na 42. schůzi Rady města Litovel dne 24. října 2024 na základě usnesení\nRM/1268/42/2024, RM/1269/42/2024, RM/1272/42/2024, RM/1271/42/2024, RM/1279/42/2024/, RM/1291/42/2024,\nRM/1295/42/2024.\nZměny v příjmech:\n§ POL ZJ UZ ORG Kč\núčelová neinvestiční dotace od Ol. kraje - Doprovodná zeleň cyklostezky\n4122 465 48 870,00\nLitovel - Tři Dvory , II. etapa (RZ 93/2024/RM)\núčelová neinvestiční dotace od Ol. kraje - výsadba stromořadí na ul. Uničovksá\n4122 465 54 270,00\n(RZ 94/2024/RM)\n4121 28 888 100 000,00 obec Pernink - dar - povodně 2024 (RZ 102/2024/RM)\n5269 2321 888 56 200,00 obec Střeň - přijatý neinvestiční dar - povodně 2024 (RZ 106/2024/RM)\nDvůr Králové - neinvestiční přijaté transfery - povodeň 2024 (RZ\n4121 28 888 100 000,00\n107/2024/RM)\n4121 28 888 100 000,00 Brno - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM)\n4121 28 888 300 000,00 Vyškov - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM)\n4121 8883003 100 000,00 Šternberk - neinvestiční přijaté transfery - povodeň 2024 (RZ 107/2024/RM)\n5269 2321 888 30 000,00 Audit team - přijaté neinvestiční dary - povodeň 2024 (RZ 107/2024/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\nvýsadba zeleně - doprovodná zeleň cyklostezky Litovel - Tři\n3745 5169 465 7 000 000 48 870,00\nDvory (RZ 93/2024/RM)\nvýsadba zeleně - výsadba stromořadí na ul. Uničovská (RZ\n3745 5169 465 7 000 000 54 270,00\n94/2024/RM)\n3639 5901 2 030 000 -92 500,00 místní části - nerozdělená částka (RZ 95/2024/RM)\nChudobín - přístřešek na dříví u domku na sportovním hřišti\n3412 6121 302 2 030 000 92 500,00\n(RZ95/2024/RM)\n3639 5901 2 030 000 -24 780,50 místní části - nerozdělená částka (RZ 96/2024/RM)\n3421 6122 302 2 033 470 24 780,50 Chudobín - nový herní prvek (RZ 96/2024/RM)\n5213 5903 16 900 000 -32 000,00 řešení následků povodňové situace (RZ 97/2024/RM)\n3341 5137 308 16 900 000 2 000,00 Tři Dvory - přepážkový mikrofon (RZ 97/2024/RM)\n3341 5137 308 16 900 000 30 000,00 Tři Dvory - rozhlasová ústředna (RZ 97/2024/RM)\n5213 5903 16 900 000 -2 300 000,00 řešení následků povodňové situace (RZ 98/2024/RM)\n5512 5019 15 900 000 400 000,00 refundace mezd (RZ 98/2024/RM)\n5512 5039 15 900 000 100 000,00 refundace pojistného (RZ 98/2024/RM)\n5512 5132 15 900 000 100 000,00 ochranné pomůcky (RZ 98/2024/RM)\n5512 5137 308 15 900 000 32 012,00 DDHM (RZ 98/2024/RM)\n5512 5137 15 900 000 167 988,00 DDHM (RZ 98/2024/RM)\n5512 5171 307 15 900 000 16 905,00 opravy a udržování (RZ 98/2024/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n5512 5171 308 15 900 000 35 919,00 opravy a udržování (RZ 98/2024/RM)\n5512 5171 15 900 000 1 447 176,00 opravy a udržování (RZ 98/2024/RM)\n5213 5903 16 900 000 -1 700 000,00 řešení následků povodňové situace (RZ 99/2024/RM)\n3722 5169 7 900 000 1 700 000,00 povodně 2024 - svoz a likvidace odpadů (RZ 99/2024/RM)\n5213 5903 16 900 000 -254 920,00 řešení následků povodňové situace (RZ 100/2024/RM)\n3392 5171 306 3 900 000 254 920,00 Víska - KD výměna parket po povodni (RZ 100/2024/RM)\n5213 5903 16 900 000 -1 200 000,00 řešení následků povodňové situace (RZ 101/2024/RM)\nMŠ Kollárova, MŠ Čihadlo, MŠ Frištenského, MŠ Svatojánek\n3111 5171 4 900 000 356 929,00\n(RZ101/2024/RM)\n3111 5171 48 4 900 000 9 322,00 MŠ Kollárova - ohřívač (RZ 101/2024/RM)\n3111 5171 49 4 900 000 3 451,00 MŠ Frištenského - topení (RZ 101/2024/RM)\n3111 5169 48 4 900 000 3 140,00 MŠ Kollárova - výměna písku (RZ 101/2024/RM)\n3111 5169 49 4 900 000 20 378,00 MŠ Frištenského - výměna písku (RZ 101/2024/RM)\n3111 5139 48 4 900 000 2 260,00 MŠ Kollárova - písek (RZ 101/2024/RM)\n3111 5139 49 4 900 000 4 520,00 MŠ Frištenského - písek (RZ 101/2024/RM)\n3113 5171 45 4 900 000 80 000,00 ZŠ Vítězná (RZ 101/2024/RM)\n3613 5171 4 900 405 120 000,00 budova zvláštní školy (RZ 101/2024/RM)\n3613 5171 4 900 410 178 660,00 budova GJO (RZ 101/2027/RM)\n3613 5171 4 900 410 21 340,00 budova GJO - osekávání omítek (RZ 101/2024/RM)\n3412 5171 4 900 000 317 835,33 Sokolovna, tenisové kurty (RZ 101/2024/RM)\n3412 5171 4 900 428 62 690,20 Sokolovna - bourací práce (RZ 101/2024/RM)\n3412 5171 4 903 617 2 197,36 Tenisové kurty - oprava jističů (RZ 101/2024/RM)\n3412 5139 4 903 617 17 277,11 Tenisové kurty - antuka (101/2024/RM)\nMěstská knihovna - Tři Dvory - opravy, DDHM, .... (RZ\n3314 5171 308 18 900 000 100 000,00\n102/2024/RM)\n5213 5903 16 900 000 -1 200 000,00 řešení následků povodňové situace (RZ 103/2024/RM)\n3612 5171 12 900 000 800 000,00 OBH - řešení povodňových škod (RZ 103/2024/RM)\n3613 5171 12 900 000 400 000,00 OBH - řešení povodňových škod (RZ 103/2024/RM)\n5213 5903 16 900 000 -650 000,00 řešení následků povodňové situace (RZ 104/2024/RM)\nMuzeum Litovel - 2 ks vysoušečů a náhrada za zatopený nábytek\n3315 5137 18 900 000 150 000,00\n(RZ 104/2024/RM)\nMuzeum Litovel - opravy omítek v zatopených prostorech budovy\n3315 5171 18 900 000 500 000,00\nmuzea (RZ 104/2024/RM)\n3613 5901 4 000 000 -32 705,00 OŠKS - nebytové prostory - rezerva (RZ 105/2024/RM)\n3639 5169 4 000 000 32 705,00 OŠKS - úklid areálu bývalého skateparku (RZ 105/2024/RM)\nPožární ochrana - dobrovolná část - JSDH Tři Dvory (RZ\n5512 5137 308 15 900 000 56 200,00\n106/2024/RM)\nMuzeum Litovel - řešení povodňových škod v muzeu (RZ\n3315 5171 18 900 000 630 000,00\n107/2024/RM)\n3429 5901 4 000 000 -3 000,00 transfery dle rozhodnutí RM (RZ 108/2024/RM)\nDSO Region Moravská cesta - dar na provozní náklady (RZ\n3900 5222 4 000 000 3 000,00\n108/2024/RM)\n3429 5901 4 000 000 -2 000,00 transfery dle rozhodnutí RM (RZ 109/2024/RM)\nV.V. - dar na organizační zajištění pietního aktu k založení ČSR\n3900 5492 307 4 000 000 2 000,00\n(RZ 109/2024/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 110/2024/RM)\n3419 5222 309 4 000 000 7 000,00 FC Nasa z.s. - dotace na činnost spolku (RZ 110/2024/RM)\n3429 5901 4 000 000 -7 000,00 transfery dle rozhodnutí RM (RZ 111/2024/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nD.K. - dotace na činnost družstva malé kopané (RZ\n3419 5499 307 4 000 000 7 000,00\n111/2024/RM)\n3429 5901 4 000 000 -5 000,00 transfery dle rozhodnutí RM (RZ 112/2024/RM)\nHospic na Sv. Kopečku - dar na podporu činnosti (RZ\n3525 5221 4 000 000 5 000,00\n112/2024/RM)\nRozpočtová změna č. 93/2024/RM\nDne 9. 10. 2024 byla na účet města připsána od Olomouckého kraje účelová neinvestiční dotace ve výši 48.870,00 Kč na\nDoprovodnou zeleň cyklostezky Litovel – Tři Dvory, II. etapa.\nRozpočtová změna č. 94/2024/RM\nDne 9. 10. 2024 byla na účet města připsána od Olomouckého kraje účelová neinvestiční dotace ve výši 54.270,00 Kč na Výsadba\nstromořadí na ulici Uničovská v Litovli.\nRozpočtová změna č. 95/2024/RM\nDne 14.10.2024 byla doručena od odboru MHaSI žádost na rozpočtovou změnu: OV Chudobín vznesl požadavek na pořízení\npřístřešku na dříví u domku na sportovním hřišti. K jeho pořízení je navržena rozpočtová změna výše.\nRozpočtová změna č. 96/2024/RM\nDne 14.10.2024 byla doručena od odboru MHaSI žádost na rozpočtovou změnu: OV Chudobín již dříve vznesl požadavek na\npořízení herního prvku včetně dopadové plochy. Pro dokončení a úhradu nákladů vyvolaných realizací je nutné provést\npožadovanou rozpočtovou změnu.\nRozpočtová změna č. 97/2024/RM\nDne 16.10.2024 doručena žádost od pracovníka krizového řízení na převod prostředků na řešení následků povodní: Žádám o\npřevod následujících částek do rozpočtu KŘ na úhradu povodňových škod:\nRozpočtová změna č. 98/2024/RM\nDne 16.10.2024 doručena žádost od pracovníka krizového řízení na převod prostředků na řešení následků povodní: Žádám o\npřevod následujících částek do rozpočtu Požární ochrana – dobrovolná část na úhradu povodňových škod.\nRozpočtová změna č. 99/2024/RM\nDne 16.10. 2024 přijal FO žádost od vedoucího odboru životního prostřední na rozpočtovou změnu na sanaci a likvidaci odpadů\npovodňových odpadů.\nRozpočtová změna č. 100/2024/RM\nDne 16. 10. byla od MH a SI doručena žádost na rozpočtovou změnu související s povodněmi. Tato rozpočtová změna se týká KD\nVíska a kompletní výměny parket zatopených při povodni.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 101/2024/RM\nDne 16. 10. byla od vedoucího OŠKS doručena žádost na rozpočtovou změnu související s povodněmi.\nRozpočtová změna č. 102/2024/RM\nDne 16. 10. byla od vedoucího OŠKS doručena žádost na rozpočtovou změnu související s povodněmi a knihovnou ve Třech\nDvorech. Zároveň město Litovel přijalo dne 7.10.2024 finanční dar ve výši 100 000 Kč od obce Pernink na povodně, který je určen\npro místní část Tři Dvory.\nRozpočtová změna č. 103/2024/RM\nDne 16. 10. byla od vedoucí OBH doručena precizně zpracovaná žádost o rozpočtovou změnu související s povodněmi:\nPOVODNĚ 2024 Rozpočtové změny – OBH\n1) Bytové hospodářství částka 800.000,- Kč - §3612, pol. 5171, org. 12900000\nOdstranění škod po povodni – likvidace a odvoz poničených věcí, vysoušení, nové podlahy, osekání zdiva, nové omítky,\noprava topné technologie v kotelně, výměna dveří (Chořelice 1238. 1. máje 800).\n2) Nebytové hospodářství částka 400.000,- Kč - §3613, pol. 5171 org. 12900000\nOdstranění škod po povodni – likvidace a odvoz poničených věcí, vysoušení, podlahy, osekání zdiva, nové omítky\n(Opletalova 341 – FITCENTRUM).\nRozpočtová změna č. 104/2024/RM\nDne 18.10.2024 byla FO doručena od vedoucího Muzea žádost na rozpočtovou změnu související s povodněmi. Vzhledem k řešení\nnásledků povodňové situace žádám o převod peněžních prostředků do rozpočtu muzea.\nRozpočtová změna č. 105/2024/RM\nDne 18.10. 2024 byla FO doručená žádost na rozpočtovou změnu od OŠKS. Jedná se o přesun prostředků na úklid areálu bývalého\nskateparku.\nRozpočtová změna č. 106/2024/RM\nDne 22. 10. 2024 byla na účet města připsána platba od obce Střeň ve výši 56.200,00 Kč. Jedná se o finanční prostředky vybrané\nobčany obce Střeň pro naši místní část Tři Dvory, JSDH, v souvislostí s povodňovou situací v září 2024.\nRozpočtová změna č. 107/2024/RM\nV průběhu měsíce října byly na účet města připisovány finanční prostředky od ÚSC a právnických osob na řešení škod v souvislostí\ns povodňovou situací ze září 2024.\nRozpočtová změna č. 108/2024/RM\nDar na provozní náklady DSO region Moravská cesta.\nRozpočtová změna č. 109/2024/RM\nDar na organizační zajištění pietního aktu k založení ČSR.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 110/2024/RM\nDotace na činnost spolku.\nRozpočtová změna č. 111/2024/RM\nDotace na činnost družstva malé kopané.\nRozpočtová změna č. 112/2024/RM\nDar na odporu činnosti Hospice.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 6.11.2024\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1268/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1269/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1272/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1271/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1279/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1291/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1295/42/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1279/42/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "93/2024/RM",
+        "94/2024/RM",
+        "95/2024/RM",
+        "96/2024/RM",
+        "97/2024/RM",
+        "98/2024/RM",
+        "99/2024/RM",
+        "100/2024/RM",
+        "101/2024/RM",
+        "102/2024/RM",
+        "103/2024/RM",
+        "104/2024/RM",
+        "105/2024/RM"
+      ]
+    },
+    {
+      "resolution_id": "RM/1295/42/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "106/2024/RM",
+        "107/2024/RM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "id": "RO/11/2024",
+  "number": 11,
+  "year": 2024,
+  "approval_date": "2024-06-19",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 12,
+    "type": "zasedání",
+    "date": "2024-06-19"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "53/2024/ZM",
+    "54/2024/ZM",
+    "55/2024/ZM",
+    "56/2024/ZM",
+    "57/2024/ZM",
+    "58/2024/ZM",
+    "59/2024/ZM",
+    "60/2024/ZM",
+    "61/2024/ZM",
+    "62/2024/ZM",
+    "63/2024/ZM",
+    "64/2024/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": []
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "53/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "2122"
+          ],
+          "amount": "208 064,00",
+          "amount_value": 208064.0,
+          "description": "Příjem z odvodů příspěvkových organizací (RZ 53/2024/ZM"
+        },
+        {
+          "budget_change_id": "55/2024/ZM",
+          "raw_codes": [
+            "1381"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Příjem daně z hazardních her (RZ 55/2024/ZM"
+        },
+        {
+          "budget_change_id": "56/2024/ZM",
+          "raw_codes": [
+            "1385"
+          ],
+          "amount": "2 248 500,00",
+          "amount_value": 2248500.0,
+          "description": "Příjem z dílčí daně z technických her (RZ 56/2024/ZM"
+        },
+        {
+          "budget_change_id": "57/2024/ZM",
+          "raw_codes": [
+            "1122"
+          ],
+          "amount": "1 748 250,00",
+          "amount_value": 1748250.0,
+          "description": "Příjem z daně z příjmů právnických osob v případech, kdy poplatníkem je obec (RZ 57/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "1356"
+          ],
+          "amount": "124 726,21",
+          "amount_value": 124726.21,
+          "description": "Příjmy z úhrad za dobývání nerostů (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "2449",
+            "7 000 000"
+          ],
+          "amount": "215 217,68",
+          "amount_value": 215217.68,
+          "description": "Vrácená návratná finanční výpomoc DSO Region Moravská cesta (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3072"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Slavětín (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3068"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Senice na Hané (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3063"
+          ],
+          "amount": "4 100,00",
+          "amount_value": 4100.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Pňovice (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3061"
+          ],
+          "amount": "2 700,00",
+          "amount_value": 2700.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Olbramice (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3058"
+          ],
+          "amount": "7 400,00",
+          "amount_value": 7400.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Náklo (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "03054"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Mladeč (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3048"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Luká (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3037"
+          ],
+          "amount": "4 400,00",
+          "amount_value": 4400.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Cholina (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3027"
+          ],
+          "amount": "4 700,00",
+          "amount_value": 4700.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Haňovice (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3025"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Dubčany (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3016"
+          ],
+          "amount": "10 400,00",
+          "amount_value": 10400.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Červenka (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3012"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Bouzov (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3008"
+          ],
+          "amount": "2 800,00",
+          "amount_value": 2800.0,
+          "description": "Neinvestiční přijaté transfery od obcí - obec Bílá Lhota (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "1070",
+            "2212",
+            "784"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Přijaté sankční platby - rybářství (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "802"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Přijaté sankční platby - živnostenský úřad (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "2111",
+            "3511"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "Parkovací karty (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "2399",
+            "2212",
+            "720"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "Přijaté sankční platby - vodní hospodářství (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3314",
+            "2324",
+            "17 000 000"
+          ],
+          "amount": "8 189,08",
+          "amount_value": 8189.08,
+          "description": "Činnosti knihovnické - vyúčtování elektr.energie (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3314",
+            "2324",
+            "302",
+            "17 000 000"
+          ],
+          "amount": "4 517,27",
+          "amount_value": 4517.27,
+          "description": "Činnosti knihovnické - vyúčtování elektr.energie (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "2324",
+            "301"
+          ],
+          "amount": "33 110,00",
+          "amount_value": 33110.0,
+          "description": "Zájmová činnost v kultuře - vyúčtování - SDH Myslechovice (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "2324",
+            "3 000 000"
+          ],
+          "amount": "21 315,12",
+          "amount_value": 21315.12,
+          "description": "Zájmová činnost v kultuře- vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "2324",
+            "310",
+            "3 003 465"
+          ],
+          "amount": "4 569,81",
+          "amount_value": 4569.81,
+          "description": "Zájmová činnost v kultuře- vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "2324",
+            "44"
+          ],
+          "amount": "2 598,00",
+          "amount_value": 2598.0,
+          "description": "Zájmová činnost v kultuře- vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3612",
+            "2324",
+            "12 000 000"
+          ],
+          "amount": "448,00",
+          "amount_value": 448.0,
+          "description": "Bytové hospodářství - vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3613",
+            "2324"
+          ],
+          "amount": "1 353,00",
+          "amount_value": 1353.0,
+          "description": "Nebytové hospodářství - vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3631",
+            "2324"
+          ],
+          "amount": "10 200,17",
+          "amount_value": 10200.17,
+          "description": "Veřejné osvětlení - vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3631",
+            "2324",
+            "3 000 000"
+          ],
+          "amount": "50 899,56",
+          "amount_value": 50899.56,
+          "description": "Veřejné osvětlení - vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3632",
+            "2324",
+            "560"
+          ],
+          "amount": "32 711,00",
+          "amount_value": 32711.0,
+          "description": "Pohřebnictví - přijaté náhrady (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2310"
+          ],
+          "amount": "14 100,00",
+          "amount_value": 14100.0,
+          "description": "Příjem z prodeje kovového odpadu (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2324"
+          ],
+          "amount": "7 246,43",
+          "amount_value": 7246.43,
+          "description": "Komunální služby - přijaté náhrady (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2324",
+            "3 000 000"
+          ],
+          "amount": "514,72",
+          "amount_value": 514.72,
+          "description": "Komunální služby - přijaté náhrady (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2324",
+            "376"
+          ],
+          "amount": "1 370,60",
+          "amount_value": 1370.6,
+          "description": "Komunální služby - přijaté náhrady (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "5511",
+            "2324",
+            "15 000 000"
+          ],
+          "amount": "8 257,41",
+          "amount_value": 8257.41,
+          "description": "HZS - vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "5512",
+            "2324",
+            "15 000 000"
+          ],
+          "amount": "1 503,91",
+          "amount_value": 1503.91,
+          "description": "JSDH - vyúčtování (RZ 58/2024/ZM"
+        },
+        {
+          "budget_change_id": "59/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Sběr a svoz komunálního odpadu (RZ 59/2024/ZM"
+        },
+        {
+          "budget_change_id": "60/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Sběr a svoz komunálního odpadu (RZ 60/2024/ZM"
+        },
+        {
+          "budget_change_id": "61/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Sběr a svoz komunálního odpadu (RZ 61/2024/ZM"
+        },
+        {
+          "budget_change_id": "58/2024/ZM",
+          "raw_codes": [
+            "3315",
+            "2324",
+            "18",
+            "000",
+            "000"
+          ],
+          "amount": "98,25",
+          "amount_value": 98.25,
+          "description": "Činnosti muzeí - vyúčtování plynu (RZ 58/2024/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "53/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "6121",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "208 064,00",
+          "amount_value": 208064.0,
+          "description": "ZŠ Vítězná - řídící systém vzduchotechniky a vytápění (RZ 53/2024/ZM"
+        },
+        {
+          "budget_change_id": "54/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "5331",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "9 880,71",
+          "amount_value": 9880.71,
+          "description": "TS Litovel - příspěvek na provoz (RZ 54/2024/ZM"
+        },
+        {
+          "budget_change_id": "55/2024/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Transfery,dary, příspěvky dle rozhodnutí ZM a RM (RZ 55/2024/ZM"
+        },
+        {
+          "budget_change_id": "56/2024/ZM",
+          "raw_codes": [
+            "3635",
+            "6119",
+            "11 000 000"
+          ],
+          "amount": "2 248 500,00",
+          "amount_value": 2248500.0,
+          "description": "Územní plán (RZ 56/2024/ZM"
+        },
+        {
+          "budget_change_id": "57/2024/ZM",
+          "raw_codes": [
+            "6399",
+            "5365",
+            "14 000 000"
+          ],
+          "amount": "1 748 250,00",
+          "amount_value": 1748250.0,
+          "description": "Platby daní krajům, obcím a státním fondům (RZ 57/2024/ZM"
+        },
+        {
+          "budget_change_id": "59/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "5137",
+            "7 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Nákup odpadkových košů na tříděný odpad na veřejná prostranství (RZ 59/2024/ZM"
+        },
+        {
+          "budget_change_id": "60/2024/ZM",
+          "raw_codes": [
+            "3726",
+            "6121",
+            "7 000 724"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Rozšíření kompostárny (RZ 60/2024/ZM"
+        },
+        {
+          "budget_change_id": "61/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Likvidace černých skládek (RZ 61/2024/ZM"
+        },
+        {
+          "budget_change_id": "62/2024/ZM",
+          "raw_codes": [
+            "3792",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Edukační materiály k ekologické výchově (RZ 62/2024/ZM"
+        },
+        {
+          "budget_change_id": "63/2024/ZM",
+          "raw_codes": [
+            "1014",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Deratizace, likvidace komárů (RZ 63/2024/ZM"
+        },
+        {
+          "budget_change_id": "64/2024/ZM",
+          "raw_codes": [
+            "2333",
+            "5164",
+            "7 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Revitalizace Papírenské vody (RZ 64/2024/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 53/2024/ZM řeší rekonstrukci objektových předávacích stanic, vzduchotechniky, měření a",
+      "text": "regulace v učebnách ZŠ Vítězná Litovel. V ZŠ Vítězná je od jejího otevření instalován a provozován systém vytápění, vzduchotechniky, měření a regulace. Celý tento systém dodala firma AVOS z Vyškova, která jej společně s MTS Litovel spravuje. Systém je za více než 20 let používání zastaralý, v mnoha ohledech nevyhovující požadavkům na ovládání a správu vytápění takto rozsáhlé budovy. RZ 54/2024/ZM Technické služby Litovel § 3639 Na základě požadavku z odboru MHaSI poskytlo město Litovel příspěvkové organizaci Technické služby Litovel příspěvek na spotřebu energií. V rámci účetní uzávěrky za rok 2023 vypracovaly Technické služby vyhodnocení závazných ukazatelů pro RM za rok 2023. Ve spotřebě energií došlo za rok 2023 k překročení závazného ukazatele. RZ 55/2024/ZM Transfery, dary, příspěvky dle rozhodnutí ZM a RM § 3429"
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2024/ZM řeší navýšení částky na podporu činnosti jednotlivcům, spolkům a",
+      "text": "organizacím působícím v neziskovém sektoru. Každoročně se finanční objem žádostí navyšuje a to zejména vzhledem k rostoucím cenám energií. RZ 56/2024/ZM ÚZEMNÍ PLÁN LITOVEL § 3635 Město Litovel navýšilo na základě požadavku z odboru výstavby rozpočtovanou částku ve schváleném rozpočtu na rok 2024 na územní plán z důvodu, že při sestavování rozpočtu nebylo známo, zda se bude provádět nový územní plán nebo jen změna územního plánu. Nebylo také provedeno výběrové řízení. Ve vztahu ke změně legislativy bylo nutné řešit nový územní plán nikoli změnu územního plánu. Byla podepsaná smlouva o dílo se zpracovatelem územního plánu Knesl Kynčl architekti s.r.o. Brno. RZ 57/2024/ZM Daň z příjmů právnických osob za obce § 6399 Rozpočtová změna 57/2024/ZM řeší úpravu rozpočtu v příjmech i výdajích dle skutečnosti. RZ 58/2024/ZM Nerozpočtované příjmy inkasované v průběhu prvního pololetí Jedná se o příjmy doposud nezahrnuté v rozpočtu. Jsou to především přijaté sankční platby (položka 2212), vyúčtování energií z předchozích období (položka 2324), popřípadě platby vzešlé od jiných subjektů. RZ 59/2024/ZM Nákup odpadkových košů na tříděný odpad na veřejná prostranství § 3722 Město Litovel, stejně jako ostatní města chce podpořit třídění odpadů přímo na veřejných prostranstvích (ulice, parky apod.). Budou zakoupeny odpadkové koše na tříděný odpad. Pro financování této rozpočtové změny je navrženo použití příjmů z poskytování služeb v oblasti sběru a svozu komunálních odpadů. RZ 60/2024/ZM Rozšíření a modernizace kompostárny – projektová příprava záměru § 3726"
+    },
+    {
+      "title": "Rozpočtová změna č. 60/2024/ZM řeší náklady na projektovou přípravu záměru „Rozšíření a modernizace",
+      "text": "kompostárny“. Město Litovel připravuje žádost o dotaci v rámci Operačního programu Životní prostředí. Pro financování této rozpočtové změny je navrženo použití příjmů z poskytování služeb v oblasti sběru a svozu komunálních odpadů. RZ 61/2024/ZM Likvidace černých skládek § 3722"
+    },
+    {
+      "title": "Rozpočtová změna č. 61/2024/ZM řeší navýšení finančních prostředků na náklady černých skládek.",
+      "text": "Podstatnou část finančních prostředků již město Litovel vynaložilo během roku 2024 na sanaci těchto černých skládek. Pro financování této rozpočtové změny je navrženo použití příjmů z poskytování služeb v oblasti sběru a svozu komunálních odpadů. RZ 62/2024/ZM Ekologická výchova § 3792 Město Litovel poskytlo na žádost odboru Životního prostředí finanční prostředky na edukační materiály - letáky a plakáty, které se týkají týrání zvířat (na téma toulavá zvířata, kastrace koček apod.). RZ 63/2024/ZM Likvidace komárů, deratizace § 1014 Město Litovel na žádost odboru Životního prostředí navýšilo finanční prostředky na sanaci nákladů spojených s deratizací, tj. likvidací hlodavců a komárů. RZ 64/2024/ZM Revitalizace Papírenské vody § 2333"
+    },
+    {
+      "title": "Rozpočtová změna č. 64/2024/ZM dle požadavku odboru Životního prostředí řeší poskytnutí finančních prostředků",
+      "text": "na zpracování geometrického plánu na nájmy pozemků, které jsou ve vlastnictví Povodí Moravy a byly využity v rámci stavby „Revitalizace Papírenské vody, k.ú. Litovel“."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.11_2024_schvalene_zm_litovel_dne_19._cervna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 11/2024 schválené Zastupitelstvem města Litovel\ndne 19. června 2024.\nRozpočtové opatření bylo schváleno na 12. zasedání Zastupitelstva města Litovel dne 19. června 2024 na základě\nusnesení ZM /4/12/2024.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\n8115 9 880,71 Změna stavu finančních prostředků na BÚ\n(RZ 54/2024//ZM)\n8115 -610 046,22 Změna stavu finančních prostředků na BÚ\n(RZ 58/2024//ZM)\n8115 20 000,00 Změna stavu finančních prostředků na BÚ\n(RZ 62/2024//ZM)\n8115 50 000,00 Změna stavu finančních prostředků na BÚ\n(RZ 63/2024//ZM)\n8115 20 000,00 Změna stavu finančních prostředků na BÚ\n(RZ 64/2024//ZM)\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPříjem z odvodů příspěvkových organizací\n3113 2122 208 064,00\n(RZ 53/2024/ZM)\n1381 400 000,00 Příjem daně z hazardních her (RZ 55/2024/ZM)\n1385 2 248 500,00 Příjem z dílčí daně z technických her (RZ 56/2024/ZM)\nPříjem z daně z příjmů právnických osob v případech, kdy\n1122 1 748 250,00\npoplatníkem je obec (RZ 57/2024/ZM)\n1356 124 726,21 Příjmy z úhrad za dobývání nerostů (RZ 58/2024/ZM)\nVrácená návratná finanční výpomoc DSO Region\n2449 7 000 000 215 217,68\nMoravská cesta (RZ 58/2024/ZM\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nNeinvestiční přijaté transfery od obcí - obec Vilémov\n4121 3089 6 100,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Slavětín\n4121 3072 700,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Senice na\n4121 3068 700,00\nHané (RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Pňovice\n4121 3063 4 100,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Olbramice\n4121 3061 2 700,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Náklo\n4121 3058 7 400,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Mladeč\n4121 03054 700,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Luká\n4121 3048 2 000,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Cholina\n4121 3037 4 400,00\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Haňovice\n4121 3027 4 700,00\n(RZ 58/2024/ZM)\n4121 3025 500,00\nNeinvestiční přijaté transfery od obcí - obec Dubčany\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Červenka\n4121 3016 10 400,00\n(RZ 58/2024/ZM)\n4121 3012 1 400,00\nNeinvestiční přijaté transfery od obcí - obec Bouzov\n(RZ 58/2024/ZM)\nNeinvestiční přijaté transfery od obcí - obec Bílá Lhota\n4121 3008 2 800,00\n(RZ 58/2024/ZM)\n1070 2212 784 10 000,00 Přijaté sankční platby - rybářství (RZ 58/2024/ZM)\nPřijaté sankční platby - živnostenský úřad\n2169 2212 802 1 000,00\n(RZ 58/2024/ZM)\n2219 2111 3511 6 000,00 Parkovací karty (RZ 58/2024/ZM)\nPřijaté sankční platby - vodní hospodářství\n2399 2212 720 1 500,00\n(RZ 58/2024/ZM)\nČinnosti knihovnické - vyúčtování elektr.energie\n3314 2324 17 000 000 8 189,08\n(RZ 58/2024/ZM)\nČinnosti knihovnické - vyúčtování elektr.energie\n3314 2324 302 17 000 000 4 517,27\n(RZ 58/2024/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3315 2324 18 000 000 98,25 Činnosti muzeí - vyúčtování plynu (RZ 58/2024/ZM\nZájmová činnost v kultuře - vyúčtování - SDH\n3392 2324 301 33 110,00\nMyslechovice (RZ 58/2024/ZM)\n3392 2324 3 000 000 21 315,12 Zájmová činnost v kultuře- vyúčtování (RZ 58/2024/ZM)\n3392 2324 310 3 003 465 4 569,81 Zájmová činnost v kultuře- vyúčtování (RZ 58/2024/ZM)\n3392 2324 44 2 598,00 Zájmová činnost v kultuře- vyúčtování (RZ 58/2024/ZM)\n3612 2324 12 000 000 448,00 Bytové hospodářství - vyúčtování (RZ 58/2024/ZM)\n3613 2324 1 353,00 Nebytové hospodářství - vyúčtování (RZ 58/2024/ZM)\n3631 2324 10 200,17 Veřejné osvětlení - vyúčtování (RZ 58/2024/ZM)\n3631 2324 3 000 000 50 899,56 Veřejné osvětlení - vyúčtování (RZ 58/2024/ZM)\n3632 2324 560 32 711,00 Pohřebnictví - přijaté náhrady (RZ 58/2024/ZM)\n3639 2310 14 100,00 Příjem z prodeje kovového odpadu (RZ 58/2024/ZM)\n3639 2324 7 246,43 Komunální služby - přijaté náhrady (RZ 58/2024/ZM)\n3639 2324 3 000 000 514,72 Komunální služby - přijaté náhrady (RZ 58/2024/ZM)\n3639 2324 376 1 370,60 Komunální služby - přijaté náhrady (RZ 58/2024/ZM)\n5511 2324 15 000 000 8 257,41 HZS - vyúčtování (RZ 58/2024/ZM)\n5512 2324 15 000 000 1 503,91 JSDH - vyúčtování (RZ 58/2024/ZM)\n3722 2111 150 000,00 Sběr a svoz komunálního odpadu (RZ 59/2024/ZM)\n3722 2111 100 000,00 Sběr a svoz komunálního odpadu (RZ 60/2024/ZM)\n3722 2111 50 000,00 Sběr a svoz komunálního odpadu (RZ 61/2024/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nZŠ Vítězná - řídící systém vzduchotechniky a vytápění\n3113 6121 45 4 000 000 208 064,00\n(RZ 53/2024/ZM)\n3639 5331 41 3 000 000 9 880,71 TS Litovel - příspěvek na provoz (RZ 54/2024/ZM)\nTransfery,dary, příspěvky dle rozhodnutí ZM a RM\n3429 5901 4 000 000 400 000,00\n(RZ 55/2024/ZM)\n3635 6119 11 000 000 2 248 500,00 Územní plán (RZ 56/2024/ZM)\nPlatby daní krajům, obcím a státním fondům\n6399 5365 14 000 000 1 748 250,00\n(RZ 57/2024/ZM)\nNákup odpadkových košů na tříděný odpad na veřejná\n3722 5137 7 000 000 150 000,00\nprostranství (RZ 59/2024/ZM)\n3726 6121 7 000 724 100 000,00 Rozšíření kompostárny (RZ 60/2024/ZM)\n3722 5169 7 000 000 50 000,00 Likvidace černých skládek (RZ 61/2024/ZM)\nEdukační materiály k ekologické výchově\n3792 5169 7 000 000 20 000,00\n(RZ 62/2024/ZM)\n1014 5169 7 000 000 50 000,00 Deratizace, likvidace komárů (RZ 63/2024/ZM)\n2333 5164 7 000 000 20 000,00 Revitalizace Papírenské vody (RZ 64/2024/ZM)\nRZ 53/2024/ZM ZŠ Vítězná - řídící systém vzduchotechniky a vytápění § 3113\nRozpočtová změna č. 53/2024/ZM řeší rekonstrukci objektových předávacích stanic, vzduchotechniky, měření a\nregulace v učebnách ZŠ Vítězná Litovel. V ZŠ Vítězná je od jejího otevření instalován a provozován systém\nvytápění, vzduchotechniky, měření a regulace. Celý tento systém dodala firma AVOS z Vyškova, která jej\nspolečně s MTS Litovel spravuje. Systém je za více než 20 let používání zastaralý, v mnoha ohledech\nnevyhovující požadavkům na ovládání a správu vytápění takto rozsáhlé budovy.\nRZ 54/2024/ZM Technické služby Litovel § 3639\nNa základě požadavku z odboru MHaSI poskytlo město Litovel příspěvkové organizaci Technické služby\nLitovel příspěvek na spotřebu energií. V rámci účetní uzávěrky za rok 2023 vypracovaly Technické služby\nvyhodnocení závazných ukazatelů pro RM za rok 2023. Ve spotřebě energií došlo za rok 2023 k překročení\nzávazného ukazatele.\nRZ 55/2024/ZM Transfery, dary, příspěvky dle rozhodnutí ZM a RM § 3429\nRozpočtová změna č. 55/2024/ZM řeší navýšení částky na podporu činnosti jednotlivcům, spolkům a\norganizacím působícím v neziskovém sektoru. Každoročně se finanční objem žádostí navyšuje a to zejména\nvzhledem k rostoucím cenám energií.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 56/2024/ZM ÚZEMNÍ PLÁN LITOVEL § 3635\nMěsto Litovel navýšilo na základě požadavku z odboru výstavby rozpočtovanou částku ve schváleném rozpočtu\nna rok 2024 na územní plán z důvodu, že při sestavování rozpočtu nebylo známo, zda se bude provádět nový územní\nplán nebo jen změna územního plánu. Nebylo také provedeno výběrové řízení. Ve vztahu ke změně legislativy bylo\nnutné řešit nový územní plán nikoli změnu územního plánu. Byla podepsaná smlouva o dílo se zpracovatelem územního\nplánu Knesl Kynčl architekti s.r.o. Brno.\nRZ 57/2024/ZM Daň z příjmů právnických osob za obce § 6399\nRozpočtová změna 57/2024/ZM řeší úpravu rozpočtu v příjmech i výdajích dle skutečnosti.\nRZ 58/2024/ZM Nerozpočtované příjmy inkasované v průběhu prvního pololetí\nJedná se o příjmy doposud nezahrnuté v rozpočtu. Jsou to především přijaté sankční platby (položka 2212),\nvyúčtování energií z předchozích období (položka 2324), popřípadě platby vzešlé od jiných subjektů.\nRZ 59/2024/ZM Nákup odpadkových košů na tříděný odpad na veřejná prostranství § 3722\nMěsto Litovel, stejně jako ostatní města chce podpořit třídění odpadů přímo na veřejných prostranstvích\n(ulice, parky apod.). Budou zakoupeny odpadkové koše na tříděný odpad. Pro financování této rozpočtové\nzměny je navrženo použití příjmů z poskytování služeb v oblasti sběru a svozu komunálních odpadů.\nRZ 60/2024/ZM Rozšíření a modernizace kompostárny – projektová příprava záměru § 3726\nRozpočtová změna č. 60/2024/ZM řeší náklady na projektovou přípravu záměru „Rozšíření a modernizace\nkompostárny“. Město Litovel připravuje žádost o dotaci v rámci Operačního programu Životní prostředí.\nPro financování této rozpočtové změny je navrženo použití příjmů z poskytování služeb v oblasti sběru\na svozu komunálních odpadů.\nRZ 61/2024/ZM Likvidace černých skládek § 3722\nRozpočtová změna č. 61/2024/ZM řeší navýšení finančních prostředků na náklady černých skládek.\nPodstatnou část finančních prostředků již město Litovel vynaložilo během roku 2024 na sanaci těchto\nčerných skládek. Pro financování této rozpočtové změny je navrženo použití příjmů z poskytování služeb v oblasti\nsběru a svozu komunálních odpadů.\nRZ 62/2024/ZM Ekologická výchova § 3792\nMěsto Litovel poskytlo na žádost odboru Životního prostředí finanční prostředky na edukační materiály -\nletáky a plakáty, které se týkají týrání zvířat (na téma toulavá zvířata, kastrace koček apod.).\nRZ 63/2024/ZM Likvidace komárů, deratizace § 1014\nMěsto Litovel na žádost odboru Životního prostředí navýšilo finanční prostředky na sanaci nákladů\nspojených s deratizací, tj. likvidací hlodavců a komárů.\nRZ 64/2024/ZM Revitalizace Papírenské vody § 2333\nRozpočtová změna č. 64/2024/ZM dle požadavku odboru Životního prostředí řeší poskytnutí finančních prostředků\nna zpracování geometrického plánu na nájmy pozemků, které jsou ve vlastnictví Povodí Moravy a byly využity v\nrámci stavby „Revitalizace Papírenské vody, k.ú. Litovel“.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 3. 7. 2024\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

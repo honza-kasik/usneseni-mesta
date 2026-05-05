@@ -1,0 +1,220 @@
+{
+  "id": "RO/5/2024",
+  "number": 5,
+  "year": 2024,
+  "approval_date": "2024-03-14",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "18/2024/RM",
+    "19/2024/RM",
+    "20/2024/RM",
+    "21/2024/RM",
+    "22/2024/RM",
+    "22/2027/RM",
+    "23/2024/RM",
+    "24/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "19/2024/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "1 105,00",
+          "amount_value": 1105.0,
+          "description": "Přijaté pojistné plnění (RZ 19/2024/RM"
+        },
+        {
+          "budget_change_id": "18/2024/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 000 376"
+          ],
+          "amount": "-110 000,00",
+          "amount_value": -110000.0,
+          "description": "Revitalizace sídlišť VI. Etapa (RZ 18/2024/RM"
+        },
+        {
+          "budget_change_id": "18/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "309",
+            "3 000 000"
+          ],
+          "amount": "110 000,00",
+          "amount_value": 110000.0,
+          "description": "KD Nasobůrky - oprava světlovodů (RZ 18/2024/RM"
+        },
+        {
+          "budget_change_id": "19/2024/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "1 105,00",
+          "amount_value": 1105.0,
+          "description": "Pojistné události – komunikace (RZ 19/2024/RM"
+        },
+        {
+          "budget_change_id": "20/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 20/2024/RM"
+        },
+        {
+          "budget_change_id": "20/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "E.K. - dar na organizační zajištění dětského dne Nová Ves (RZ 20/2024/RM"
+        },
+        {
+          "budget_change_id": "21/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 21/2024/RM"
+        },
+        {
+          "budget_change_id": "21/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "Spolek Novoveské Šťabajzny, z.s.- dar na org. zajištění oslav MDŽ (RZ 21/2024/RM"
+        },
+        {
+          "budget_change_id": "22/2027/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-8 000,00",
+          "amount_value": -8000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 22/2027/RM"
+        },
+        {
+          "budget_change_id": "22/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "8 000,00",
+          "amount_value": 8000.0,
+          "description": "M.H. - dotace na činnost družstva malé kopané SK Profit Nová Ves (RZ 22/2024/RM"
+        },
+        {
+          "budget_change_id": "23/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-15 000,00",
+          "amount_value": -15000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 23/2024/RM"
+        },
+        {
+          "budget_change_id": "23/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Rodičovský spolek při ZŠ Vítězná Litovel- dotace na org.zajištění koncertu pěv.souboru Mládí (RZ 23/2024/RM"
+        },
+        {
+          "budget_change_id": "24/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-8 000,00",
+          "amount_value": -8000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 24/2024/RM"
+        },
+        {
+          "budget_change_id": "24/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "305",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "8 000,00",
+          "amount_value": 8000.0,
+          "description": "J.K. - malá kopaná Březové-činnost družstva v roce 2024 (RZ 24/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 18/2024/RM",
+      "text": "Dne 8.2.2024 schválilo ZM Litovel finanční prostředky na řešení havarijního stavu v KD Nasobůrky, kde zatékalo okolo světlíků. Rozpočtová změna č. 18/2024/RM řeší na žádost odboru MHaSI navýšení finančních prostředků na opravu světlovodů a to z důvodu, že v době přípravy rozpočtové změny pro ZM neměli ještě cenové nabídky a jednalo se o optimistický odhad nákladů opravy."
+    },
+    {
+      "title": "Rozpočtová změna č. 19/2024/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Direct pojišťovny. Jedná se o pojistné plnění z pojistné události, která vznikla 29.1.2024 -poškozené dopravní značení v ulici Loštická."
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2024/RM",
+      "text": "Město Litovel poskytlo dar paní E.K. na organizační zajištění velikonočního programu pro děti a ženy v Nové Vsi."
+    },
+    {
+      "title": "Rozpočtová změna č. 21/2024/RM",
+      "text": "Město Litovel poskytlo spolku Novoveské Šťabajzny, z.s. dar na organizační zajištění oslav MDŽ v Nové Vsi."
+    },
+    {
+      "title": "Rozpočtová změna č. 22/2024/RM",
+      "text": "Město Litovel poskytlo družstvu malé kopané SK Profit Nová Ves dotaci na činnost družstva v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 23/2024/RM",
+      "text": "Město Litovel poskytlo Rodičovskému spolku při ZŠ Vítězná Litovel dotaci na úhradu nákladů spojených s organizačním zajištěním výročního koncertu pěveckého souboru Mládí, který se uskuteční 20.4.2024 v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 24/2024/RM",
+      "text": "Město Litovel poskytlo družstvu malé kopané v Březové dotaci na činnost družstva v roce 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._5_2024_schvalene_radou_mesta_litovel_dne_14._brezna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 5/2024 schválené Radou města Litovel\ndne 14. března 2024.\nRozpočtové opatření bylo schváleno na 31.schůzi Rady města Litovel dne 14. března 2024 na základě usnesení\n867/31/2024, 868/31/2024, 869/31/2024, 870/31/2024, 871/31/2024 a 888/314/2024.\nZ měny v příjmech:\n§ POL UZ ORJ ORG Kč\n6320 2322 1 105,00 Přijaté pojistné plnění (RZ 19/2024/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nRevitalizace sídlišť VI. Etapa\n3639 6121 3 000 376 -110 000,00\n(RZ 18/2024/RM)\nKD Nasobůrky - oprava světlovodů\n3392 5171 309 3 000 000 110 000,00\n(RZ 18/2024/RM)\nPojistné události – komunikace\n2212 5171 3 003 559 1 105,00\n(RZ 19/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 000,00\n(RZ 20/2024/RM)\nE.K. - dar na organizační zajištění\n3900 5492 303 4 000 000 2 000,00\ndětského dne Nová Ves (RZ 20/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 500,00\n(RZ 21/2024/RM)\nSpolek Novoveské Šťabajzny, z.s.- dar na\n3900 5222 303 4 000 000 2 500,00 org. zajištění oslav MDŽ (RZ\n21/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -8 000,00\n(RZ 22/2027/RM)\nM.H. - dotace na činnost družstva malé\n3419 5499 303 4 000 000 8 000,00 kopané SK Profit Nová Ves\n(RZ 22/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -15 000,00\n(RZ 23/2024/RM)\nRodičovský spolek při ZŠ Vítězná Litovel-\n3429 5222 4 000 000 15 000,00 dotace na org.zajištění koncertu\npěv.souboru Mládí (RZ 23/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -8 000,00\n(RZ 24/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nJ.K. - malá kopaná Březové-činnost\n3429 5222 305 4 000 000 8 000,00\ndružstva v roce 2024 (RZ 24/2024/RM)\nRZ 18/2024/RM\nDne 8.2.2024 schválilo ZM Litovel finanční prostředky na řešení havarijního stavu v KD Nasobůrky, kde\nzatékalo okolo světlíků. Rozpočtová změna č. 18/2024/RM řeší na žádost odboru MHaSI navýšení\nfinančních prostředků na opravu světlovodů a to z důvodu, že v době přípravy rozpočtové změny pro ZM\nneměli ještě cenové nabídky a jednalo se o optimistický odhad nákladů opravy.\nRZ 19/2024/RM\nNa účet města Litovel byla připsaná platba od Direct pojišťovny. Jedná se o pojistné plnění z pojistné\nudálosti, která vznikla 29.1.2024 -poškozené dopravní značení v ulici Loštická.\nRZ 20/2024/RM\nMěsto Litovel poskytlo dar paní E.K. na organizační zajištění velikonočního programu pro děti a ženy v\nNové Vsi.\nRZ 21/2024/RM\nMěsto Litovel poskytlo spolku Novoveské Šťabajzny, z.s. dar na organizační zajištění oslav MDŽ v Nové Vsi.\nRZ 22/2024/RM\nMěsto Litovel poskytlo družstvu malé kopané SK Profit Nová Ves dotaci na činnost družstva v roce 2024.\nRZ 23/2024/RM\nMěsto Litovel poskytlo Rodičovskému spolku při ZŠ Vítězná Litovel dotaci na úhradu nákladů spojených\ns organizačním zajištěním výročního koncertu pěveckého souboru Mládí, který se uskuteční 20.4.2024\nv Litovli.\nRZ 24/2024/RM\nMěsto Litovel poskytlo družstvu malé kopané v Březové dotaci na činnost družstva v roce 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 10. 4. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

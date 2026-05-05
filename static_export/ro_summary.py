@@ -11,6 +11,14 @@ import re
 from collections import Counter
 from typing import Dict, List, Optional
 
+CITY_CHROME_RE = re.compile(
+    r"(?:Město Litovel\s+)?IČO:?\s*\d[\d\s]*\s+ID datové schránky:\s*\S+\s+(?:e-?mail|email):\s*\S+"
+    r"|(?:Město Litovel\s+)?ID datové schránky:\s*\S+\s+(?:e-?mail|email):\s*\S+\s+IČO:?\s*\d[\d\s]*"
+    r"|č\.\s*účtu:\s*\S+\s+Tel\.:\s*\+?\d[\d\s]+\s+www\.\S+"
+    r"|Tel\.:\s*\+?\d[\d\s]+\s+www\.\S+\s+č\.\s*účtu:\s*\S+",
+    re.IGNORECASE,
+)
+
 
 def normalize_whitespace(value: str) -> str:
     return re.sub(r"\s+", " ", value or "").strip()
@@ -34,8 +42,13 @@ def first_sentence(text: str) -> str:
     return text
 
 
+def strip_city_chrome(value: str) -> str:
+    """Remove municipal PDF footer fragments that occasionally leak into row labels."""
+    return normalize_whitespace(CITY_CHROME_RE.sub(" ", value or ""))
+
+
 def description_title_candidate(description: str) -> str:
-    description = normalize_whitespace(description)
+    description = strip_city_chrome(description)
     if not description:
         return ""
     description = re.sub(r"^\)\s*", "", description)

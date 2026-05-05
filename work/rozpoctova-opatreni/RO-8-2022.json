@@ -1,0 +1,259 @@
+{
+  "id": "RO/8/2022",
+  "number": 8,
+  "year": 2022,
+  "approval_date": "2022-04-28",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "67/2022/ZM",
+    "68/2022/ZM",
+    "69/2022/ZM",
+    "70/2022/ZM",
+    "71/2022/ZM",
+    "72/2022/ZM",
+    "73/2022/ZM",
+    "74/2022/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "67/2022/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Krátkodobé úvěry (RZ 67/2022/ZM"
+        },
+        {
+          "budget_change_id": "68/2022/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Krátkodobé úvěry (RZ 68/2022/ZM"
+        },
+        {
+          "budget_change_id": "69/2022/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Krátkodobé úvěry (RZ 69/2022/ZM"
+        },
+        {
+          "budget_change_id": "70/2022/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Krátkodobé úvěry (RZ 70/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-177 838,80",
+          "amount_value": -177838.8,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 73/2022/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "71/2022/ZM",
+          "raw_codes": [
+            "1122"
+          ],
+          "amount": "-904 950,00",
+          "amount_value": -904950.0,
+          "description": "Daň z příjmů právnických osob za obce (RZ 71/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "1335"
+          ],
+          "amount": "702,00",
+          "amount_value": 702.0,
+          "description": "Příjmy z poplatku za odnětí pozemku dle lesního zákona (RZ 73/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "4112"
+          ],
+          "amount": "-112 900,00",
+          "amount_value": -112900.0,
+          "description": "Příspěvek na výkon státní správy (RZ 73/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "4121",
+            "xxxx"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Neinvestiční přijaté transfery od obcí (RZ 73/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "188 287,30",
+          "amount_value": 188287.3,
+          "description": "Poskytování služeb – mzdové agendy (RZ 73/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "45"
+          ],
+          "amount": "11 397,62",
+          "amount_value": 11397.62,
+          "description": "Vratka financí od ZŠ Vítězná (RZ 73/2022/ZM"
+        },
+        {
+          "budget_change_id": "73/2022/ZM",
+          "raw_codes": [
+            "3141",
+            "2229",
+            "50"
+          ],
+          "amount": "55 351,88",
+          "amount_value": 55351.88,
+          "description": "Vratka financí od ŠJ Studentů (RZ 73/2022/ZM"
+        },
+        {
+          "budget_change_id": "74/2022/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Příjmy z podílu na zisku – FCC Litovel (RZ 74/2022/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "67/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 582"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Ulice Novosady, rekonstrukce uličního prostoru včetně VO a MR (RZ 67/2022/ZM"
+        },
+        {
+          "budget_change_id": "69/2022/ZM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "3 003 583"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Rekonstrukce komunikace a nové chodníky ul. Pavlínka, projekční příprava (RZ 69/2022/ZM"
+        },
+        {
+          "budget_change_id": "70/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 000 376"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Revitalizace sídliště Uničovské předměstí VI. Etapa, projekční příprava (RZ 70/2022/ZM"
+        },
+        {
+          "budget_change_id": "71/2022/ZM",
+          "raw_codes": [
+            "6399",
+            "5365",
+            "14 000 000"
+          ],
+          "amount": "-904 950,00",
+          "amount_value": -904950.0,
+          "description": "Platby daní a poplatků (RZ 71/2022/ZM"
+        },
+        {
+          "budget_change_id": "72/2022/ZM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "-300 000,00",
+          "amount_value": -300000.0,
+          "description": "Svoz komunálního odpadu (RZ 72/2022/ZM"
+        },
+        {
+          "budget_change_id": "72/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "5331",
+            "41",
+            "3 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "TS Litovel - příspěvek na provoz (RZ 72/2022/ZM"
+        },
+        {
+          "budget_change_id": "74/2022/ZM",
+          "raw_codes": [
+            "372x",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Nákup nádob na třídění odpadů (RZ 74/2022/ZM"
+        },
+        {
+          "budget_change_id": "68/2022/ZM",
+          "raw_codes": [
+            "6171",
+            "6111",
+            "13",
+            "000",
+            "xxx"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Software – Evidence investic (RZ 68/2022/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.8_2022_schvalene_zm_litovel_dne_28._dubna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 8/2022 schválené Zastupitelstvem města Litovel\ndne 28.dubna 2022.\nRozpočtové opatření bylo schváleno na 32. zasedání Zastupitelstva města Litovel dne 28.dubna 2022 na\nzákladě usnesení ZM/6/32/2022.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\n8113 3 000 000,00 Krátkodobé úvěry (RZ 67/2022/ZM)\n8113 200 000,00 Krátkodobé úvěry (RZ 68/2022/ZM)\n8113 300 000,00 Krátkodobé úvěry (RZ 69/2022/ZM)\n8113 350 000,00 Krátkodobé úvěry (RZ 70/2022/ZM)\nZměna stavu finančních prostředků na\n8115 -177 838,80\nbankovních účtech (RZ 73/2022/ZM)\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nDaň z příjmů právnických osob za\n1122 -904 950,00\nobce (RZ 71/2022/ZM)\nPříjmy z poplatku za odnětí pozemku\n1335 702,00\ndle lesního zákona (RZ 73/2022/ZM)\nPříspěvek na výkon státní správy\n4112 -112 900,00\n(RZ 73/2022/ZM)\nNeinvestiční přijaté transfery od obcí\n4121 xxxx 35 000,00\n(RZ 73/2022/ZM)\nPoskytování služeb – mzdové agendy\n3113 2111 403 188 287,30\n(RZ 73/2022/ZM)\nVratka financí od ZŠ Vítězná\n3113 2229 45 11 397,62\n(RZ 73/2022/ZM)\nVratka financí od ŠJ Studentů\n3141 2229 50 55 351,88\n(RZ 73/2022/ZM)\nPříjmy z podílu na zisku – FCC\n3722 2142 120 000,00\nLitovel (RZ 74/2022/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nUlice Novosady, rekonstrukce\n2219 6121 3 003 582 3 000 000,00 uličního prostoru včetně VO a MR\n(RZ 67/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSoftware – Evidence investic\n6171 6111 13 000 xxx 200 000,00\n(RZ 68/2022/ZM)\nRekonstrukce komunikace a nové\n2212 6121 3 003 583 300 000,00 chodníky ul. Pavlínka, projekční\npříprava (RZ 69/2022/ZM)\nRevitalizace sídliště Uničovské\n3639 6121 3 000 376 350 000,00 předměstí VI. Etapa, projekční\npříprava (RZ 70/2022/ZM)\nPlatby daní a poplatků\n6399 5365 14 000 000 -904 950,00\n(RZ 71/2022/ZM)\nSvoz komunálního odpadu\n3722 5169 7 000 000 -300 000,00\n(RZ 72/2022/ZM)\nTS Litovel - příspěvek na provoz\n3639 5331 41 3 000 000 300 000,00\n(RZ 72/2022/ZM)\nNákup nádob na třídění odpadů\n372x 5139 7 000 000 120 000,00\n(RZ 74/2022/ZM)\nRZ 67/2022/ZM–Litovel–Ulice Novosady-rekonstrukce uličního prostoru, vč. VO a MR § 2219 – MHaSI\nRozpočtová změna na základě podkladů odboru MHaSI navazuje na rozpočtovou změnu č. 47/2022/ZM ze dne 17.2.2022,\nkterou byla tato akce zařazena do rozpočtu roku 2022. Dne 1.4.2022 byly otevřeny nabídky uchazečů o výše uvedenou\nstavební zakázku dle zákona č. 134/2016 Sb., o zadávání veřejných zakázek v platném znění. S ohledem na nárůst cen je\npotřeba navýšit rozpočet o částku uvedenou v RZ 67/2022/ZM. Financování rozpočtové změny je navrženo krátkodobými\núvěry.\nRZ 68/2022/ZM – Software – Evidence investic § 6171 – MST\nRZ 68/2022/ZM je v souladu s usnesením z Rady města č. 2420/71 ze dne 10.3.2022, kdy RM uložila oddělení IT připravit\nevidenci investic nejen pro potřeby místních částí, ale i pro celou organizaci města Litovel.\nRZ 69/2022/ZM–Rekonstrukce komunikace a nové chodníky ul. Pavlínka-projekční příprava § 2212–\nMHaSI\nDle odboru MHaSI se jedná o projekční přípravu na doplnění chodníků a budoucí rekonstrukce komunikace v ul. Pavlínka\nve vymezeném rozsahu mezi křižovatkami směr lesní závod a ulicí Pošmýlskou u odbočky směr k ulici U stadionu.\nS ohledem na zvýšený provoz a pokračující zástavbu lokality Pavlínka je nutné tuto akci projekčně připravit. Na 71.schůzi\nRML bylo odsouhlaseno, že projektová dokumentace bude vyhotovena firmou PRINTES-ATELIER s.r.o.\nRZ 70/2022/ZM – Revitalizace sídliště Uničovské předměstí VI. Etapa - projekční příprava § 3639 – MHaSI\nNa 71.schůzi RML byla schválena nabídka od PRINTES-ATELIER s.r.o. na zpracování projektové dokumentace – VI.etapa\nrevitalizace sídliště Uničovské předměstí v Litovli. Jedná o poslední etapu rekonstrukce Uničovského předměstí, která\nzahrnuje plochy mezi ulicí K.Sedláka a ulicí Gemerskou, jejímž obsahem jsou chodníky, zeleň, VO a MR. Součástí je i\ndemolice staré výměníkové stanice, kde budou vybudovaná další parkovací místa.\nRZ 71/2022/ZM – Daň z příjmů právnických osob za obce (FO)\nRozpočtová změna 71/2022/ZM řeší úpravu rozpočtu v příjmech a výdajích dle skutečnosti.\nRZ 72/2022/ZM – Svoz biologického odpadu – provozní příspěvek pro TS Litovel (OŽP)\nDle návrhu odboru životního prostředí se náklady na svoz biologického odpadu přesouvají do rozpočtu TS Litovel. Od\n1.4.2022 má být svoz biologického odpadu finančně zajištěn a organizován TS Litovel nikoliv přes město Litovel. Má to\nřadu výhod mimo jiné, že část tohoto odpadu může být využívána na městské kompostárně.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 73/2022/ZM – Úprava příjmové části rozpočtu (FO)\nRozpočtová změna 73/2022/ZM se týká úpravy rozpočtu v příjmové části kde jsou zapojeny nové, doposud nerozpočtované\npříjmy, které město obdrželo během 1.čtvrtletí roku 2022. Snížení příjmů na položce 4112 je v úpravě rozpočtu zařazeno\nv návaznosti na informaci z 31.3.2022 o výši příspěvku na výkon státní správy v roce 2022, která vychází ze schváleného\nstátního rozpočtu ČR z 10.3.2022.\nRZ 74/2022/ZM – Nákup sběrných nádob na třídění odpadů (OŽP)\nMěsto Litovel poskytlo na žádost odboru životního prostředí finanční prostředky z části příjmu z podílu na zisku od\nspolečnosti FCC Litovel na nákup sběrných nádob na třídění plastů.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nV Litovli, 16.5.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

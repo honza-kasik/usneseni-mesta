@@ -1,0 +1,172 @@
+{
+  "id": "RO/17/2023",
+  "number": 17,
+  "year": 2023,
+  "approval_date": "2023-09-21",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 21,
+    "type": "schůzi",
+    "date": "2023-09-21"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "89/2023/RM",
+    "90/2023/RM",
+    "91/2023/RM",
+    "92/2023/RM",
+    "93/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "89/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-3 630,00",
+          "amount_value": -3630.0,
+          "description": "Březové - drobná vydání OV - materiál (RZ 89/2023/RM"
+        },
+        {
+          "budget_change_id": "89/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "3 630,00",
+          "amount_value": 3630.0,
+          "description": "Březové - drobná vydání OV - služby (RZ 89/2023/RM"
+        },
+        {
+          "budget_change_id": "90/2023/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "308",
+            "2 033 457"
+          ],
+          "amount": "-300 000,00",
+          "amount_value": -300000.0,
+          "description": "Tři Dvory - rekonstrukce místní komunikace (RZ 90/2023/RM"
+        },
+        {
+          "budget_change_id": "90/2023/RM",
+          "raw_codes": [
+            "3429",
+            "6121",
+            "302",
+            "2 030 302"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Chudobín - střecha obecního domu (RZ 90/2023/RM"
+        },
+        {
+          "budget_change_id": "91/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 91/2023/RM"
+        },
+        {
+          "budget_change_id": "91/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5339",
+            "4 000 440"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "CMŠ Svatojánek - dar na uspořádání drakiády (RZ 91/2023/RM"
+        },
+        {
+          "budget_change_id": "92/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 92/2023/RM"
+        },
+        {
+          "budget_change_id": "92/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "E.K. - organizační zajištění dnů pro děti (RZ 92/2023/RM"
+        },
+        {
+          "budget_change_id": "93/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 93/2023/RM"
+        },
+        {
+          "budget_change_id": "93/2023/RM",
+          "raw_codes": [
+            "4359",
+            "6359",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Charita Konice - příspěvek na rekonstrukci kotelny (RZ 93/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 89/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 89/2023/RM řeší na základě požadavku z odboru MHaSI přesun finančních prostředků",
+      "text": "OV Březové z položky nákup materiálu na položku nákup ostatních služeb."
+    },
+    {
+      "title": "Rozpočtová změna č. 90/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky na opravu střechy obecního domku v místní části Chudobín."
+    },
+    {
+      "title": "Rozpočtová změna č. 91/2023/RM",
+      "text": "Město Litovel poskytlo Církevní mateřské škole Svatojánek v Litovli dar na organizační zajištění drakiády, která proběhne 12.října 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 92/2023/RM",
+      "text": "Město Litovel poskytlo OV Nová Ves dar na organizační zajištění čtyř dětských dnů , které se uskuteční v říjnu 2023 v Nové Vsi."
+    },
+    {
+      "title": "Rozpočtová změna č. 93/2023/RM",
+      "text": "Na žádost Charity Konice poskytlo město Litovel finanční příspěvek na rekonstrukci kotelny v Domě pokojného stáří v Bohuslavicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._17_2023_schvalene_radou_mesta_litovel_dne_21._zari_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 17/2023 schválené Radou města Litovel\ndne 21. září 2023.\nRozpočtové opatření bylo schváleno na 21. schůzi Rady města Litovel dne 21. září 2023 na základě\nusnesení 592/21/2023, 593/21/2023, 599/21/2023 a 608/21/2023.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nBřezové - drobná vydání OV - materiál\n3392 5139 305 2 030 000 -3 630,00\n(RZ 89/2023/RM)\nBřezové - drobná vydání OV - služby\n3429 5169 305 2 030 000 3 630,00\n(RZ 89/2023/RM)\nTři Dvory - rekonstrukce místní\n2212 6121 308 2 033 457 -300 000,00\nkomunikace (RZ 90/2023/RM)\nChudobín - střecha obecního domu\n3429 6121 302 2 030 302 300 000,00\n(RZ 90/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 91/2023/RM)\nCMŠ Svatojánek - dar na uspořádání\n3111 5339 4 000 440 5 000,00\ndrakiády (RZ 91/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 92/2023/RM)\n3900 5492 303 4 000 000 5 000,00 E.K. - organizační zajištění dnů pro děti\n(RZ 92/2023/RM)\n3429 5901 4 000 000 -20 000,00 Transfery dle rozhodnutí RM\n(RZ 93/2023/RM)\n4359 6359 4 000 000 20 000,00 Charita Konice - příspěvek na\nrekonstrukci kotelny (RZ 93/2023/RM)\nRZ 89/2023/RM\nRozpočtová změna č. 89/2023/RM řeší na základě požadavku z odboru MHaSI přesun finančních prostředků\nOV Březové z položky nákup materiálu na položku nákup ostatních služeb.\nRZ 90/2023/RM\nMěsto Litovel poskytlo finanční prostředky na opravu střechy obecního domku v místní části\nChudobín.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 91/2023/RM\nMěsto Litovel poskytlo Církevní mateřské škole Svatojánek v Litovli dar na organizační zajištění drakiády,\nkterá proběhne 12.října 2023.\nRZ 92/2023/RM\nMěsto Litovel poskytlo OV Nová Ves dar na organizační zajištění čtyř dětských dnů , které se uskuteční\nv říjnu 2023 v Nové Vsi.\nRZ 93/2023/RM\nNa žádost Charity Konice poskytlo město Litovel finanční příspěvek na rekonstrukci kotelny v\nDomě pokojného stáří v Bohuslavicích.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 3. 10. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

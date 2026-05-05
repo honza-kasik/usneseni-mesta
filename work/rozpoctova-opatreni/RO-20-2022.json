@@ -1,0 +1,374 @@
+{
+  "id": "RO/20/2022",
+  "number": 20,
+  "year": 2022,
+  "approval_date": "2022-12-08",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "147/2022/RM",
+    "148/2022/RM",
+    "149/2022/RM",
+    "150/2022/RM",
+    "151/2022/RM",
+    "152/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "147/2022/RM",
+          "raw_codes": [
+            "4111",
+            "98008"
+          ],
+          "amount": "174 800,00",
+          "amount_value": 174800.0,
+          "description": "Účelová neinvestiční dotace (RZ 147/2022/RM"
+        },
+        {
+          "budget_change_id": "148/2022/RM",
+          "raw_codes": [
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-4 740,78",
+          "amount_value": -4740.78,
+          "description": "Nová Ves - doplnění mobiliáře kolem zatopeného lomu (RZ 148/2022/RM"
+        },
+        {
+          "budget_change_id": "148/2022/RM",
+          "raw_codes": [
+            "6122",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-6 259,22",
+          "amount_value": -6259.22,
+          "description": "Nová Ves - doplnění mobiliáře kolem zatopeného lomu (RZ 148/2022/RM"
+        },
+        {
+          "budget_change_id": "148/2022/RM",
+          "raw_codes": [
+            "5169",
+            "303",
+            "2 033 470"
+          ],
+          "amount": "11 000,00",
+          "amount_value": 11000.0,
+          "description": "Nová Ves - dětské hřiště, nový hrací prvek, vstupní revize (RZ 148/2022/RM"
+        },
+        {
+          "budget_change_id": "149/2022/RM",
+          "raw_codes": [
+            "5169",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Víska – nákup služeb (RZ 149/2022/RM"
+        },
+        {
+          "budget_change_id": "149/2022/RM",
+          "raw_codes": [
+            "5021",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Víska – dohody o provedení práce (RZ 149/2022/RM"
+        },
+        {
+          "budget_change_id": "150/2022/RM",
+          "raw_codes": [
+            "5171",
+            "4 000 408"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "SOŠ Litovel – oprava podlahy (RZ 150/2022/RM"
+        },
+        {
+          "budget_change_id": "150/2022/RM",
+          "raw_codes": [
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Ostatní záležitosti odboru školství (opravy hřišť a budov, posudky, audity, projekty a ostatní výdaje) (RZ 150/2022/RM"
+        },
+        {
+          "budget_change_id": "150/2022/RM",
+          "raw_codes": [
+            "5169",
+            "46",
+            "4 000 445"
+          ],
+          "amount": "102 000,00",
+          "amount_value": 102000.0,
+          "description": "Rekonstrukce školních družin a doplnění ICT – ZŠ Jungmannova (RZ 150/2022/RM"
+        },
+        {
+          "budget_change_id": "151/2022/RM",
+          "raw_codes": [
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Podpora místních spolků (RZ 151/2022/RM"
+        },
+        {
+          "budget_change_id": "151/2022/RM",
+          "raw_codes": [
+            "5492",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Akce pro děti (RZ 151/2022/RM"
+        },
+        {
+          "budget_change_id": "152/2022/RM",
+          "raw_codes": [
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Podpora místních spolků (RZ 152/2022/RM"
+        },
+        {
+          "budget_change_id": "152/2022/RM",
+          "raw_codes": [
+            "5492",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Akce pro děti (RZ 152/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "148/2022/RM",
+          "raw_codes": [
+            "6118",
+            "5xxx",
+            "98008",
+            "10",
+            "000",
+            "000"
+          ],
+          "amount": "174 800,00",
+          "amount_value": 174800.0,
+          "description": "Volby prezidenta České republiky v roce 2023 (RZ 147/20202/RM) Nová Ves - doplnění mobiliáře kolem 3429 5169 303 2 030 000 -4 740,78 zatopeného lomu (RZ 148/2022/RM"
+        },
+        {
+          "budget_change_id": "148/2022/RM",
+          "raw_codes": [
+            "3429",
+            "6122",
+            "303",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "-6 259,22",
+          "amount_value": -6259.22,
+          "description": "Nová Ves - doplnění mobiliáře kolem zatopeného lomu (RZ 148/2022/RM"
+        },
+        {
+          "budget_change_id": "148/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5169",
+            "303",
+            "2",
+            "033",
+            "470"
+          ],
+          "amount": "11 000,00",
+          "amount_value": 11000.0,
+          "description": "Nová Ves - dětské hřiště, nový hrací prvek, vstupní revize (RZ 148/2022/RM"
+        },
+        {
+          "budget_change_id": "149/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "306",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Víska – nákup služeb (RZ 149/2022/RM"
+        },
+        {
+          "budget_change_id": "149/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "306",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Víska – dohody o provedení práce (RZ 149/2022/RM"
+        },
+        {
+          "budget_change_id": "150/2022/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4",
+            "000",
+            "408"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "SOŠ Litovel – oprava podlahy (RZ 150/2022/RM"
+        },
+        {
+          "budget_change_id": "150/2022/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Ostatní záležitosti odboru školství (opravy hřišť a budov, posudky, audity, projekty a ostatní výdaje) (RZ 150/2022/RM"
+        },
+        {
+          "budget_change_id": "150/2022/RM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "46",
+            "4",
+            "000",
+            "445"
+          ],
+          "amount": "102 000,00",
+          "amount_value": 102000.0,
+          "description": "Rekonstrukce školních družin a doplnění ICT – ZŠ Jungmannova (RZ 150/2022/RM"
+        },
+        {
+          "budget_change_id": "151/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Podpora místních spolků (RZ 151/2022/RM"
+        },
+        {
+          "budget_change_id": "151/2022/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "310",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Akce pro děti (RZ 151/2022/RM"
+        },
+        {
+          "budget_change_id": "152/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Podpora místních spolků (RZ 152/2022/RM"
+        },
+        {
+          "budget_change_id": "152/2022/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "310",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Akce pro děti (RZ 152/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 147/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci od Ministerstva financí. Finanční prostředky jsou určeny na úhradu výdajů vzniklých v roce 2022 v souvislosti s přípravami volby prezidenta ČR v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 148/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 148/2022/RM řeší na základě podkladů MHaSI přesun finančních prostředků",
+      "text": "určených k doplnění mobiliáře kolem zatopeného lomu na zajištění vstupní revize dle ČSN EN 1176 k novému hracímu prvku v Nové Vsi."
+    },
+    {
+      "title": "Rozpočtová změna č. 149/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 149/2022/RM řeší na základě podkladů z odboru MHaSI přesun finančních",
+      "text": "prostředků na pokrytí nákladů na dohody o provedení práce v místní části Víska."
+    },
+    {
+      "title": "Rozpočtová změna č. 150/2022/RM",
+      "text": "Město Litovel poskytlo na žádost odboru ŠKS finanční prostředky na úhradu podkladů k podání žádosti o dotaci na rekonstrukci školní družiny a doplnění ICT na ZŠ Jungmannova."
+    },
+    {
+      "title": "Rozpočtová změna č. 151/2022/RM",
+      "text": "Město Litovel poskytlo na žádost pana V.Š. dar na organizační zajištění drakiády a následného programu pro děti, která se konala v Unčovicích dne 16.10.2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 152/2022/RM",
+      "text": "Město Litovel poskytlo na žádost pana V.Š. dar na organizační zajištění lampionového průvodu a následného programu pro děti, který se konal v Unčovicích dne 12.11.2022."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoc_tove_opatr_eni_c_._20_2022_schva_lene_radou_me_sta_litovel_dne_8.prosince_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 20/2022 schválené Radou města Litovel dne 8.prosince 2022.\nRozpočtové opatření bylo schváleno na 4.schůzi Rady města Litovel dne 8.prosince 2022 na základě usnesení\n65/4/2022, 66/4/2022 a 83/4/2022.\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace\n4111 98008 174 800,00\n(RZ 147/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVolby prezidenta České republiky\n6118 5xxx 98008 10 000 000 174 800,00\nv roce 2023 (RZ 147/20202/RM)\nNová Ves - doplnění mobiliáře kolem\n3429 5169 303 2 030 000 -4 740,78\nzatopeného lomu (RZ 148/2022/RM)\nNová Ves - doplnění mobiliáře kolem\n3429 6122 303 2 030 000 -6 259,22\nzatopeného lomu (RZ 148/2022/RM)\nNová Ves - dětské hřiště, nový hrací\n3421 5169 303 2 033 470 11 000,00 prvek, vstupní revize\n(RZ 148/2022/RM)\nVíska – nákup služeb\n3392 5169 306 2 030 000 -10 000,00\n(RZ 149/2022/RM)\nVíska – dohody o provedení práce\n3429 5021 306 2 030 000 10 000,00\n(RZ 149/2022/RM)\nSOŠ Litovel – oprava podlahy\n3613 5171 4 000 408 -2 000,00\n(RZ 150/2022/RM)\nOstatní záležitosti odboru školství\n(opravy hřišť a budov, posudky,\n3319 5901 4 000 000 -100 000,00\naudity, projekty a ostatní výdaje)\n(RZ 150/2022/RM)\nRekonstrukce školních družin a\n3113 5169 46 4 000 445 102 000,00 doplnění ICT – ZŠ Jungmannova\n(RZ 150/2022/RM)\nPodpora místních spolků\n3429 5901 310 2 040 000 -5 000,00\n(RZ 151/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3900 5492 310 2 040 000 5 000,00 Akce pro děti (RZ 151/2022/RM)\nPodpora místních spolků\n3429 5901 310 2 040 000 -5 000,00\n(RZ 152/2022/RM)\n3900 5492 310 2 040 000 5 000,00 Akce pro děti (RZ 152/2022/RM)\nRozpočtová změna č. 147/2022/RM\nNa účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční\ndotaci od Ministerstva financí. Finanční prostředky jsou určeny na úhradu výdajů vzniklých v roce 2022\nv souvislosti s přípravami volby prezidenta ČR v roce 2023.\nRozpočtová změna č. 148/2022/RM\nRozpočtová změna č. 148/2022/RM řeší na základě podkladů MHaSI přesun finančních prostředků\nurčených k doplnění mobiliáře kolem zatopeného lomu na zajištění vstupní revize dle ČSN EN 1176\nk novému hracímu prvku v Nové Vsi.\nRozpočtová změna č. 149/2022/RM\nRozpočtová změna č. 149/2022/RM řeší na základě podkladů z odboru MHaSI přesun finančních\nprostředků na pokrytí nákladů na dohody o provedení práce v místní části Víska.\nRozpočtová změna č. 150/2022/RM\nMěsto Litovel poskytlo na žádost odboru ŠKS finanční prostředky na úhradu podkladů k podání žádosti\no dotaci na rekonstrukci školní družiny a doplnění ICT na ZŠ Jungmannova.\nRozpočtová změna č. 151/2022/RM\nMěsto Litovel poskytlo na žádost pana V.Š. dar na organizační zajištění drakiády a následného programu\npro děti, která se konala v Unčovicích dne 16.10.2022.\nRozpočtová změna č. 152/2022/RM\nMěsto Litovel poskytlo na žádost pana V.Š. dar na organizační zajištění lampionového průvodu a\nnásledného programu pro děti, který se konal v Unčovicích dne 12.11.2022.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 2.1.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

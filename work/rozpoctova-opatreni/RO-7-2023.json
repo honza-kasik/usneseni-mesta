@@ -1,0 +1,1456 @@
+{
+  "id": "RO/7/2023",
+  "number": 7,
+  "year": 2023,
+  "approval_date": "2023-04-20",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 4,
+    "type": "zasedání",
+    "date": "2023-04-20"
+  },
+  "source_resolutions": [
+    "ZM/4/4/2023"
+  ],
+  "budget_change_ids": [
+    "66/2023/ZM",
+    "67/2023/ZM",
+    "68/2023/ZM",
+    "69/2023/ZM",
+    "70/2023/ZM",
+    "71/2023/ZM",
+    "72/2023/ZM",
+    "73/2023/ZM",
+    "74/2023/ZM",
+    "75/2023/ZM",
+    "76/2023/ZM",
+    "77/2023/ZM",
+    "78/2023/ZM",
+    "79/2023/ZM",
+    "80/2023/ZM",
+    "81/2023/ZM",
+    "82/2023/ZM",
+    "83/2023/ZM",
+    "84/2023/ZM",
+    "85/2023/ZM",
+    "86/2023/ZM",
+    "87/2023/ZM",
+    "88/2023/ZM",
+    "89/2023/ZM",
+    "90/2023/ZM",
+    "91/2023/ZM",
+    "92/2023/ZM",
+    "93/2023/ZM",
+    "94/2023/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "70/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "162 623,42",
+          "amount_value": 162623.42,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 70/2023/ZM"
+        },
+        {
+          "budget_change_id": "72/2023/ZM",
+          "raw_codes": [
+            "6330",
+            "4134"
+          ],
+          "amount": "20 817,47",
+          "amount_value": 20817.47,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 72/2023/ZM"
+        },
+        {
+          "budget_change_id": "70/2023/ZM",
+          "raw_codes": [
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "162 623,42",
+          "amount_value": 162623.42,
+          "description": "Čerpání Sociálního fondu (RZ 70/2023/ZM"
+        },
+        {
+          "budget_change_id": "72/2023/ZM",
+          "raw_codes": [
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "20 817,47",
+          "amount_value": 20817.47,
+          "description": "Čerpání Sociálního fondu (RZ 72/2023/ZM"
+        },
+        {
+          "budget_change_id": "66/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "6 400 000,00",
+          "amount_value": 6400000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 66/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-2 675 426,84",
+          "amount_value": -2675426.84,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "69/2023/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 545 615,27",
+          "amount_value": 5545615.27,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 69/2023/ZM"
+        },
+        {
+          "budget_change_id": "73/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-2 045 309,00",
+          "amount_value": -2045309.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 73/2023/ZM"
+        },
+        {
+          "budget_change_id": "74/2023/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "15 000 000,00",
+          "amount_value": 15000000.0,
+          "description": "Krátkodobé přijaté půjčené prostředky (RZ 74/2023/ZM"
+        },
+        {
+          "budget_change_id": "76/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "1 010 000,00",
+          "amount_value": 1010000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 76/2023/ZM"
+        },
+        {
+          "budget_change_id": "77/2023/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 350 000,00",
+          "amount_value": 5350000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 77/2023/ZM"
+        },
+        {
+          "budget_change_id": "90/2023/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 200 000,00",
+          "amount_value": 5200000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 90/2023/ZM"
+        },
+        {
+          "budget_change_id": "91/2023/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 120 000,00",
+          "amount_value": 5120000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 91/2023/ZM"
+        },
+        {
+          "budget_change_id": "92/2023/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 120 000,00",
+          "amount_value": 5120000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 92/2023/ZM"
+        },
+        {
+          "budget_change_id": "94/2023/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Krátkodobé přijaté půjčené prostředky (RZ 94/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "66/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "6 400 000,00",
+          "amount_value": 6400000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 66/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-2 675 426,84",
+          "amount_value": -2675426.84,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "69/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "545 615,27",
+          "amount_value": 545615.27,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 69/2023/ZM"
+        },
+        {
+          "budget_change_id": "71/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "20 817,47",
+          "amount_value": 20817.47,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 71/2023/ZM"
+        },
+        {
+          "budget_change_id": "74/2023/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "15 000 000,00",
+          "amount_value": 15000000.0,
+          "description": "Krátkodobé přijaté půjčené prostředky (RZ 74/2023/ZM"
+        },
+        {
+          "budget_change_id": "75/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "11 741,25",
+          "amount_value": 11741.25,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 75/2023/ZM"
+        },
+        {
+          "budget_change_id": "76/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "1 010 000,00",
+          "amount_value": 1010000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 76/2023/ZM"
+        },
+        {
+          "budget_change_id": "77/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 77/2023/ZM"
+        },
+        {
+          "budget_change_id": "78/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "90 000,00",
+          "amount_value": 90000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 78/2023/ZM"
+        },
+        {
+          "budget_change_id": "79/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 79/2023/ZM"
+        },
+        {
+          "budget_change_id": "80/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 80/2023/ZM"
+        },
+        {
+          "budget_change_id": "89/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 89/2023/ZM"
+        },
+        {
+          "budget_change_id": "90/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 90/2023/ZM"
+        },
+        {
+          "budget_change_id": "91/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 91/2023/ZM"
+        },
+        {
+          "budget_change_id": "92/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 92/2023/ZM"
+        },
+        {
+          "budget_change_id": "93/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 93/2023/ZM"
+        },
+        {
+          "budget_change_id": "94/2023/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Krátkodobé přijaté půjčené prostředky (RZ 94/2023/ZM"
+        },
+        {
+          "budget_change_id": "67/2023/ZM",
+          "raw_codes": [
+            "1122"
+          ],
+          "amount": "-836 740,00",
+          "amount_value": -836740.0,
+          "description": "Daň z příjmů právnických osob v případech, kdy poplatníkem je obec (RZ 67/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "305"
+          ],
+          "amount": "4 229 091,00",
+          "amount_value": 4229091.0,
+          "description": "OÚ Mladeč -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "110 424,60",
+          "amount_value": 110424.6,
+          "description": "Mzdové agendy (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "45"
+          ],
+          "amount": "592 061,17",
+          "amount_value": 592061.17,
+          "description": "Přijaté vratky transferů - ZŠ Vítězná (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3314",
+            "2324",
+            "304",
+            "17",
+            "000",
+            "000"
+          ],
+          "amount": "2 744,40",
+          "amount_value": 2744.4,
+          "description": "Přijaté neinvestiční náhrady - Městská knihovna (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "2229",
+            "44"
+          ],
+          "amount": "152 234,50",
+          "amount_value": 152234.5,
+          "description": "Přijaté vratky transferů - MK Litovel (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3633",
+            "213"
+          ],
+          "amount": "3 240 204,36",
+          "amount_value": 3240204.36,
+          "description": "Příjmy z pronájmu movitých věcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "211"
+          ],
+          "amount": "1 152 436,00",
+          "amount_value": 1152436.0,
+          "description": "Příjmy z poskytování služeb (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "211"
+          ],
+          "amount": "9 337 953,00",
+          "amount_value": 9337953.0,
+          "description": "Ostatní příjmy z vlastní činnosti (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "211"
+          ],
+          "amount": "1 160 524,01",
+          "amount_value": 1160524.01,
+          "description": "Příjmy z poskytování služeb - sběr a svoz odpadů (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "73/2023/ZM",
+          "raw_codes": [
+            "4216",
+            "22504",
+            "3",
+            "003",
+            "631"
+          ],
+          "amount": "2 045 309,00",
+          "amount_value": 2045309.0,
+          "description": "Dotace z Ministerstva průmyslu a obchodu (RZ 73/2023/ZM"
+        },
+        {
+          "budget_change_id": "74/2023/ZM",
+          "raw_codes": [
+            "4216",
+            "15501",
+            "3",
+            "000",
+            "781",
+            "76"
+          ],
+          "amount": "677 968,49",
+          "amount_value": 677968.49,
+          "description": "Přijatá dotace na výstavbu solární sušárny (RZ 74/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "67/2023/ZM",
+          "raw_codes": [
+            "1122"
+          ],
+          "amount": "-836 740,00",
+          "amount_value": -836740.0,
+          "description": "Daň z příjmů právnických osob v případech, kdy poplatníkem je obec (RZ 67/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "1335"
+          ],
+          "amount": "752,40",
+          "amount_value": 752.4,
+          "description": "Poplatky za odnětní pozemku dle lesního zákona (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3008"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Bílá Lhota -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3009"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "OÚ Bílsko -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3016"
+          ],
+          "amount": "13 000,00",
+          "amount_value": 13000.0,
+          "description": "OÚ Červenka - neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3025"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Dubčany -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3027"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Haňovice -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3037"
+          ],
+          "amount": "3 500,00",
+          "amount_value": 3500.0,
+          "description": "OÚ Cholina -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3048"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Luká - neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3053"
+          ],
+          "amount": "15 639,00",
+          "amount_value": 15639.0,
+          "description": "OÚ Měrotín - neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3054"
+          ],
+          "amount": "229 091,00",
+          "amount_value": 229091.0,
+          "description": "OÚ Mladeč -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3058"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Náklo -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3061"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Olbramice -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3063"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "OÚ Pňovice -investiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3068"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "OÚ Senice na Hané -neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3072"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "OÚ Slavětín - neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4121",
+            "3077"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "OÚ Střeň - neinvestiční přijaté transfery od obcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "1069",
+            "2212"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Převod pokut za porušení OZP (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "1103"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Pokuta - stavební úřad (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "2111",
+            "3511"
+          ],
+          "amount": "4 500,00",
+          "amount_value": 4500.0,
+          "description": "Parkovací karty (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3111",
+            "2229",
+            "49"
+          ],
+          "amount": "36 000,00",
+          "amount_value": 36000.0,
+          "description": "Přijaté vratky transferů - MŠ Frištenského (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3111",
+            "2229",
+            "48"
+          ],
+          "amount": "52 500,00",
+          "amount_value": 52500.0,
+          "description": "Přijaté vratky transferů - MŠ Gemerská (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "110 424,60",
+          "amount_value": 110424.6,
+          "description": "Mzdové agendy (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "47"
+          ],
+          "amount": "29 743,35",
+          "amount_value": 29743.35,
+          "description": "Přijaté vratky transferů - ZŠ Nasobůrky (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "45"
+          ],
+          "amount": "592 061,17",
+          "amount_value": 592061.17,
+          "description": "Přijaté vratky transferů - ZŠ Vítězná (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "46"
+          ],
+          "amount": "76 666,74",
+          "amount_value": 76666.74,
+          "description": "Přijaté vratky transferů - ZŠ Jungmannova (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3141",
+            "2229",
+            "50"
+          ],
+          "amount": "41 484,56",
+          "amount_value": 41484.56,
+          "description": "Přijaté vratky transferů - ŠJ Studentů (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3314",
+            "2324",
+            "304",
+            "17 000 000"
+          ],
+          "amount": "2 744,40",
+          "amount_value": 2744.4,
+          "description": "Přijaté neinvestiční náhrady - Městská knihovna (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3319",
+            "2111",
+            "435"
+          ],
+          "amount": "2 800,00",
+          "amount_value": 2800.0,
+          "description": "Velké dějiny Litovle (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "2229",
+            "44"
+          ],
+          "amount": "152 234,50",
+          "amount_value": 152234.5,
+          "description": "Přijaté vratky transferů - MK Litovel (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "2324",
+            "44"
+          ],
+          "amount": "4 560,00",
+          "amount_value": 4560.0,
+          "description": "Přijaté neinvestiční náhrady- MK Litovel (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3412",
+            "2229"
+          ],
+          "amount": "750,00",
+          "amount_value": 750.0,
+          "description": "Přijaté vratky transferů - TJ Sokol Litovel (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3612",
+            "2324"
+          ],
+          "amount": "448,00",
+          "amount_value": 448.0,
+          "description": "Přijaté neinvestiční náhrady - OBH (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3632",
+            "2324"
+          ],
+          "amount": "31 280,00",
+          "amount_value": 31280.0,
+          "description": "Přijaté neinvestiční náhrady - Pohřebnictví (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3633",
+            "2133"
+          ],
+          "amount": "240 204,36",
+          "amount_value": 240204.36,
+          "description": "Příjmy z pronájmu movitých věcí (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "2111"
+          ],
+          "amount": "152 436,00",
+          "amount_value": 152436.0,
+          "description": "Příjmy z poskytování služeb (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "2119"
+          ],
+          "amount": "337 953,00",
+          "amount_value": 337953.0,
+          "description": "Ostatní příjmy z vlastní činnosti (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "2229",
+            "41"
+          ],
+          "amount": "97 959,29",
+          "amount_value": 97959.29,
+          "description": "Přijaté vratky transferů - TS Litovel (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "160 524,01",
+          "amount_value": 160524.01,
+          "description": "Příjmy z poskytování služeb - sběr a svoz odpadů (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3723",
+            "2324"
+          ],
+          "amount": "10 890,00",
+          "amount_value": 10890.0,
+          "description": "Přijaté neinvestiční náhrady - TextilEco, a.s. (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3724",
+            "2324"
+          ],
+          "amount": "79 462,74",
+          "amount_value": 79462.74,
+          "description": "Přijaté neinvestiční náhrady - ELEKTROWIN, a.s. (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "3729",
+            "2212",
+            "784"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "Přijaté sankční platby - ostatní nakládání s odpady (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "4171",
+            "2229"
+          ],
+          "amount": "1,54",
+          "amount_value": 1.54,
+          "description": "Ostatní přijaté vratky transferů (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "68/2023/ZM",
+          "raw_codes": [
+            "6171",
+            "2324"
+          ],
+          "amount": "74 581,18",
+          "amount_value": 74581.18,
+          "description": "Přijaté neinvestiční náhrady (RZ 68/2023/ZM"
+        },
+        {
+          "budget_change_id": "73/2023/ZM",
+          "raw_codes": [
+            "4216",
+            "22504",
+            "3 003 631"
+          ],
+          "amount": "2 045 309,00",
+          "amount_value": 2045309.0,
+          "description": "Dotace z Ministerstva průmyslu a obchodu (RZ 73/2023/ZM"
+        },
+        {
+          "budget_change_id": "74/2023/ZM",
+          "raw_codes": [
+            "4216",
+            "15501",
+            "3 000 781"
+          ],
+          "amount": "76 677 968,49",
+          "amount_value": 76677968.49,
+          "description": "Přijatá dotace na výstavbu solární sušárny (RZ 74/2023/ZM"
+        },
+        {
+          "budget_change_id": "66/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5362",
+            "3 003 454"
+          ],
+          "amount": "6 400 000,00",
+          "amount_value": 6400000.0,
+          "description": "Trvalé vynětí z půdního fondu části pozemku č. 479/2 v katastrálním území Litovel (RZ 66/2023/ZM"
+        },
+        {
+          "budget_change_id": "67/2023/ZM",
+          "raw_codes": [
+            "6399",
+            "5365",
+            "14 000 000"
+          ],
+          "amount": "-836 740,00",
+          "amount_value": -836740.0,
+          "description": "Daň z příjmů právnických osob v případech, kdy poplatníkem je obec (RZ 67/2023/ZM"
+        },
+        {
+          "budget_change_id": "69/2023/ZM",
+          "raw_codes": [
+            "6409",
+            "5909",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "545 615,27",
+          "amount_value": 545615.27,
+          "description": "Vratky státního příspěvku na výkon pěstounské péče(RZ 69/2023/ZM"
+        },
+        {
+          "budget_change_id": "71/2023/ZM",
+          "raw_codes": [
+            "6330",
+            "5342",
+            "1 000 000"
+          ],
+          "amount": "20 817,47",
+          "amount_value": 20817.47,
+          "description": "Vyúčtování přídělu finančních prostředků do SF(2022) (RZ 71/2023/ZM"
+        },
+        {
+          "budget_change_id": "74/2023/ZM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "15501",
+            "3 000 781"
+          ],
+          "amount": "76 677 968,49",
+          "amount_value": 76677968.49,
+          "description": "Solární sušárna kalů pro ČOV, realizace akce (RZ 74/2023/ZM"
+        },
+        {
+          "budget_change_id": "74/2023/ZM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "3 000 781"
+          ],
+          "amount": "15 000 000,00",
+          "amount_value": 15000000.0,
+          "description": "Solární sušárna kalů pro ČOV, realizace akce (RZ 74/2023/ZM"
+        },
+        {
+          "budget_change_id": "75/2023/ZM",
+          "raw_codes": [
+            "3631",
+            "6342",
+            "3 000 000"
+          ],
+          "amount": "11 741,25",
+          "amount_value": 11741.25,
+          "description": "Olomoucký kraj - příspěvek na přeložku VO, ulice Dukelská (RZ 75/2023/ZM"
+        },
+        {
+          "budget_change_id": "76/2023/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "12 000 000"
+          ],
+          "amount": "560 000,00",
+          "amount_value": 560000.0,
+          "description": "Vybudování dvou denních místností pro personál Polikliniky v Litovli (RZ 76/2023/ZM"
+        },
+        {
+          "budget_change_id": "76/2023/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "12 000 000"
+          ],
+          "amount": "450 000,00",
+          "amount_value": 450000.0,
+          "description": "Zřízení prostoru pro ukládání nebezpečného odpadu z ordinace (RZ 76/2023/ZM"
+        },
+        {
+          "budget_change_id": "77/2023/ZM",
+          "raw_codes": [
+            "6171",
+            "6122",
+            "13 000 233"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Zavedení nástrojů kybernetické bezpečnosti MěÚ (RZ 77/2023/ZM"
+        },
+        {
+          "budget_change_id": "78/2023/ZM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "7 000 781"
+          ],
+          "amount": "90 000,00",
+          "amount_value": 90000.0,
+          "description": "Solární sušárna kalů pro ČOV, záchranný transfer chráněných druhů rostlin a živočichů (RZ 78/2023/ZM"
+        },
+        {
+          "budget_change_id": "79/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "5137",
+            "7 000 000"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Nákup sběrných nádob a kontejnerů (RZ 79/2023/ZM"
+        },
+        {
+          "budget_change_id": "80/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Odpadové hospodářství- pořízení nových vík u sběr.nádob,polepy,..(RZ 80/2023/ZM"
+        },
+        {
+          "budget_change_id": "81/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "307",
+            "2 033 633"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Chořelice - odstavné plochy na návsi - realizace (RZ 81/2023/ZM"
+        },
+        {
+          "budget_change_id": "81/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "301",
+            "2 033 646"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "KD Myslechovice - PD na elektroinstalaci v KD, navýšení (RZ 81/2023/ZM"
+        },
+        {
+          "budget_change_id": "82/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-1 000 000,00",
+          "amount_value": -1000000.0,
+          "description": "Unčovice - územní rozvoj a rezerva (RZ 82/2023/ZM"
+        },
+        {
+          "budget_change_id": "82/2023/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 030 305"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Březové - veřejné WC na hřišti, realizace (RZ 82/2023/ZM"
+        },
+        {
+          "budget_change_id": "83/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "307",
+            "2 033 633"
+          ],
+          "amount": "-300 000,00",
+          "amount_value": -300000.0,
+          "description": "Chořelice- odstavné plochy na návsi - realizace (RZ 83/2023/ZM"
+        },
+        {
+          "budget_change_id": "83/2023/ZM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "304",
+            "2 033 647"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Rozvadovice - komunikace u novostaveb, vypracování PD (RZ 83/2023/ZM"
+        },
+        {
+          "budget_change_id": "84/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "-500 000,00",
+          "amount_value": -500000.0,
+          "description": "Rozvadovice - územní rozvoj a rezerva (RZ 84/2023/ZM"
+        },
+        {
+          "budget_change_id": "84/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Unčovice - vybavenost Sokolovny (RZ 84/2023/ZM"
+        },
+        {
+          "budget_change_id": "85/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-350 000,00",
+          "amount_value": -350000.0,
+          "description": "Nová Ves - územní rozvoj a rezerva (RZ 85/2023/ZM"
+        },
+        {
+          "budget_change_id": "85/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "303",
+            "2 033 408"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Nová Ves - autobusový záliv vč. čekárny a chodníku, vypracování PD (RZ 85/2023/ZM"
+        },
+        {
+          "budget_change_id": "86/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "307",
+            "2 033 633"
+          ],
+          "amount": "-150 000,00",
+          "amount_value": -150000.0,
+          "description": "Chořelice - odstavné plochy na návsi - realizace (RZ 86/2023/ZM"
+        },
+        {
+          "budget_change_id": "86/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "-74 200,00",
+          "amount_value": -74200.0,
+          "description": "Rozvadovice - územní rozvoj a rezerva (RZ 86/2023/ZM"
+        },
+        {
+          "budget_change_id": "86/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-217 000,00",
+          "amount_value": -217000.0,
+          "description": "Březové - územní rozvoj a rezerva (RZ 86/2023/ZM"
+        },
+        {
+          "budget_change_id": "86/2023/ZM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "311",
+            "2 033 470"
+          ],
+          "amount": "441 200,00",
+          "amount_value": 441200.0,
+          "description": "Savín - dětské hřiště (RZ 86/2023/ZM"
+        },
+        {
+          "budget_change_id": "87/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-83 195,00",
+          "amount_value": -83195.0,
+          "description": "Unčovice - územní rozvoj a rezerva (RZ 87/2023/ZM"
+        },
+        {
+          "budget_change_id": "87/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-166 805,00",
+          "amount_value": -166805.0,
+          "description": "Březové - územní rozvoj a rezerva (RZ 87/2023/ZM"
+        },
+        {
+          "budget_change_id": "87/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "306",
+            "2 030 306"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Víska - parkovací místa podél silnice vč. prostoru před KD - PD (RZ 87/2023/ZM"
+        },
+        {
+          "budget_change_id": "88/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-110 000,00",
+          "amount_value": -110000.0,
+          "description": "Unčovice - územní rozvoj a rezerva (RZ 88/2023/ZM"
+        },
+        {
+          "budget_change_id": "88/2023/ZM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Víska - oprava kapličky (RZ 88/2023/ZM"
+        },
+        {
+          "budget_change_id": "89/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "5137",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Nasobůrky - nákup lednice do KD (RZ 89/2023/ZM"
+        },
+        {
+          "budget_change_id": "90/2023/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Nasobůrky- hry na chodník (RZ 90/2023/ZM"
+        },
+        {
+          "budget_change_id": "91/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Nasobůrky - oprava parketu u KD (RZ 91/2023/ZM"
+        },
+        {
+          "budget_change_id": "92/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Savín - KD, odpady,topení a podlaha (RZ 92/2023/ZM"
+        },
+        {
+          "budget_change_id": "93/2023/ZM",
+          "raw_codes": [
+            "3392",
+            "5137",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Březové - nová skříň do KD (RZ 93/2023/ZM"
+        },
+        {
+          "budget_change_id": "94/2023/ZM",
+          "raw_codes": [
+            "3141",
+            "6121",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Výtah v budově školní jídelny v Litovli (RZ 94/2023/ZM"
+        },
+        {
+          "budget_change_id": "88/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "303",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "-90 000,00",
+          "amount_value": -90000.0,
+          "description": "Nová Ves - územní rozvoj a rezerva (RZ 88/2023/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 67/2023/ZM řeší úpravu příjmové a výdajové strany rozpočtu dle skutečného stavu.",
+      "text": "RZ 68/2023/ZM Příjmy inkasované do rozpočtu v období leden až únor 2023"
+    },
+    {
+      "title": "Rozpočtová změna č. 68/2023/ZM řeší příjmy inkasované v průběhu ledna – února 2023, které buď nebyly zahrnuty v",
+      "text": "rozpočtu nebo se plní lépe, než bylo rozpočtováno. Jejich zapojením do rozpočtu je možno vykrývat nové potřebné výdaje, které vyvstanou v průběhu roku 2023. RZ 69/2023/ZM Vratky státního příspěvku na výkon pěstounské péče §6409 Dle podkladů Odboru sociálního a správního se jedná o vratky nevyčerpaného státního příspěvku na výkon pěstounské péče za období 2017 – 2022. RZ 70/2023/ZM Zapojení zůstatku na bankovním účtu SF k 31.12.2022 do rozpočtu Sociálního fondu na rok 2023 Ke dni 31.12.2022 vznikl na účtu Sociálního fondu zůstatek, který je potřeba zapojit do rozpočtu Sociálního fondu za rok 2023. RZ 71/2023/ZM Vyúčtování přídělu finančních prostředků za rok 2022 do Sociálního fondu V souladu se statutem Sociálního fondu, článek 5 (k datu 31.12. příslušného roku je provedeno vyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM dlouhodobě uvolněných a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, ze kterého vyplynul rozdíl a ten bude odveden ve prospěch Sociálního fondu. RZ 72/2023/ZM Příjem finančních prostředků do rozpočtu Sociálního fondu na rok 2023 dle vyúčtování za rok 2022"
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2023/ZM řeší příjem finančních prostředků na účet Sociálního fondu dle",
+      "text": "vyúčtování za rok 2022(RZ 71/2023/ZM) a jejich čerpání. RZ 73/2023/ZM Dotace na realizaci projektů ke zvýšení energetické účinnosti systémů veřejného osvětlení Město Litovel obdrželo finanční prostředky na základě rozhodnutí Ministerstva průmyslu a obchodu. Jedná se o dotaci na realizaci projektů ke zvýšení energetické účinnosti systémů veřejného osvětlení. Jelikož tyto finanční prostředky byly v minulosti městem předfinancovány, jsou nyní finanční prostředky k dispozici pro další práci s rozpočtem. RZ 74/2023/ZM Solární sušárna kalů pro ČOV, realizace akce. § 2329 Město Litovel obdrželo z Ministerstva životního prostředí Rozhodnutí o poskytnutí dotace na realizaci projektu „ČOV Litovel – Solární sušení surového kalu“, Stavba je situovaná SV a bude přiléhat k areálu ČOV. Navrhovaná stavba nemá nároky na vynětí pozemků ze ZPF. Stavba je členěna na čtyři stavební objekty a na dva provozní soubory: Příprava území, Ocelové haly sušárny, Oplocení, Technologické vystrojení sušárny, Provozní rozvody silnoproudu, MaR a SŘTP. Vysušený kal bude odvážen k zemědělskému nebo energetickému využití. RZ 75/2023/ZM – Olomoucký kraj - příspěvek na přeložku VO, ulice Dukelská § 3631 Dle smlouvy mezi Olomouckým krajem a městem Litovel na realizaci investiční akce: „II/449 MÚK Unčovice – Litovel, úsek A1,A2 A3,C, okružní křižovatka II/449 a III/4498 Litovel byly vyčísleny předpokládané náklady. Na základě skutečné výše nákladů se je potřeba navýšit rozpočet na tuto akci. RZ 76/2023/ZM Poliklinika Litovel § 3613 Město Litovel je majitelem objektu Polikliniky v Litovli. Na základě kontroly Krajské hygienické stanice na Poliklinice v Litovli je třeba vytvořit denní místnost pro personál a prostory pro ukládání nebezpečného odpadu. Poliklinika takovým zázemím nedisponuje, město Litovel jakožto vlastník objektu po osobní schůzce a konzultaci s KHSOC přistoupilo k vytvoření těchto dvou místností. RZ 77/2023/ZM Zavedení nástrojů kybernetické bezpečnosti MěÚ Litovel § 6171 V loňském roce zažádalo Město Litovel o dotaci na zavedení nástrojů kybernetické bezpečnosti MěÚ Litovel. Vzhledem k obrovskému zájmu o tento dotační titul město Litovel obdrželo informaci, že Litovel není mezi hodnocenými projekty a proto se dotaci nepodaří zrealizovat. Mezitím se objevily informace o možném rozšíření směrnice NIS2, která přináší mnoho změn o kybernetické bezpečnosti. Vzhledem k velkému počtu kroků, které tato směrnice na organizace přinese a také vzhledem k neustále se zhoršující situaci ve veřejném prostoru by bylo rozumné postupně zapracovávat bezpečnostní opatření zvyšující kybernetickou bezpečnost úřadu. Finance ze spoluúčasti na dotační akci se převedou na přestavbu komunikační sítě úřadu, která je jedním z požadavků na splnění NIS2, ale také základním stavebním kamenem pro zvýšení kybernetické bezpečnosti MěÚ Litovel. RZ 78/2023/ZM Solární sušárna kalů pro ČOV, záchranný transfer chráněných druhů rostlin a živočichů. § 2329 Město Litovel připravuje stavbu solární sušírny kalů, která bude vybudovaná v těsné blízkosti stávající ČOV Litovel v místě, kde byl lužní les. Dle rozhodnutí CHKO je potřeba po skácení lesa provést tzv. záchranný transfer chráněných druhů rostlin a živočichů. V případě města Litovel se jedná o sněženky. RZ 79/2023/ZM Nákup sběrných nádob a kontejnerů § 3722"
+    },
+    {
+      "title": "Rozpočtová změna č. 79/2023/ZM řeší finanční prostředky na průběžný nákup sběrných nádob a kontejnerů",
+      "text": "na tříděný odpad a na směsný komunální odpad. RZ 80/2023/ZM Odpadové hospodářství § 3722"
+    },
+    {
+      "title": "Rozpočtová změna č. 80/2023/ZM řeší finanční prostředky na opravy kontejnerů, pořízení nových vík u",
+      "text": "sběrných nádob, polepů apod. RZ 81/2023/ZM Participativní rozpočet místních částí – KD Myslechovice § 3392 Pro rok 2023 je naplánováno financování z rozpočtu na akci: „Vypracování PD pro výměnu elektroinstalace v KD Myslechovice. Odbor MHaSI obdržel cenovou nabídku na tuto akci, která je vyšší než plánované finanční krytí, proto je potřeba navýšit finanční prostředky v rozpočtu. RZ 82/2023/ZM Participativní rozpočet místních částí – Březové – veřejné WC na hřišti § 3412 V místní části Březové bude v roce 2023 dokončena PD na akci: „Vybudování veřejného WC na hřišti v Březové“. Tato akce je již ve fázi před vydáním stavebního povolení. Rozpočtová změna č. 82/2023/ZM řeší navýšení finančních prostředků v rozpočtu. RZ 83/2023/ZM Participativní rozpočet místních částí – Rozvadovice– komunikace u novostaveb, PD § 3412 V Rozvadovicích byly v minulých letech postaveny nové rodinné domy. Dle požadavku OV Rozvadovice chybí v lokalitě vybudovat řádnou zpevněnou komunikaci, která je nyní nezpevněná, štěrková. Na tuto akci je nutné zpracovat PD. RZ 84/2023/ZM Participativní rozpočet místních částí – Unčovice – vybavenost Sokolovny, § 3392"
+    },
+    {
+      "title": "Rozpočtová změna č. 84/2023/ZM řeší po dohodě s OV Unčovice přesun finančních prostředků na úpravy a opravy",
+      "text": "sokolovny a jejího okolního areálu v Unčovicích. RZ 85/2023/ZM Participativní rozpočet místních částí – Nová Ves – autobusový záliv, PD, § 3392 Rozpočtová změna 85/2023/ZM řeší přesun finančních prostředků po dohodě s OV Nová Ves na PD = vybudování autobusového zálivu včetně chodníku a čekárny. RZ 86/2023/ZM Participativní rozpočet místních částí – Savín – dětské hřiště, PD, § 3421 Město Litovel poskytlo na žádost OV Savín finanční prostředky na výstavbu nového dětského hřiště v místní části Savín. Původní hřiště již dosloužilo a prvky byly z důvodu bezpečnosti demontovány. RZ 87/2023/ZM Participativní rozpočet místních částí – Víska – parkovací místa, PD, § 2219 Pro Vísku je zpracovaná studie využitelnosti veřejných prostranství. OV Víska požaduje dle této studie pořešit podélná parkovací místa po pravé straně při vjezdu do Vísky po předprostor u KD. Město Litovel poskytlo finanční prostředky na vypracování PD. RZ 88/2023/ZM Participativní rozpočet místních částí – Víska – oprava kapličky § 3326 Kaplička na návsi ve Vísce vykazuje závady týkající se krytiny a krovu na střeše včetně věžičky. Město Litovel poskytlo finanční prostředky na opravu kapličky. Osadní výbor usiluje o zapsání kapličky do seznamu nemovitých kulturních památek. RZ 89/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani z participativního rozpočtu Vzhledem k naplánovaným pronájmům KD Nasobůrky na akce jako jsou oslavy, svatby, …pro rok 2023 poskytlo Město Litovel finanční prostředky na koupi nové lednice do KD. RZ 90/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani z participativního rozpočtu V roce 2022 byla v rozpočtu OV Nasobůrky naplánovaná akce – Hry na chodník v MČ Nasobůrky, která nebyla v roce 2022 realizovaná. Zájem o tyto hry na chodník přetrvává a proto pro rok 2023 byl na zrealizování akce navýšen rozpočet. RZ 91/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani z participativního rozpočtu Město Litovel navýšilo rozpočet na KD v Nasobůrkách z důvodu, že je potřeba opravit parket před KD, který je v nevyhovujícím stavu. RZ 92/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani z participativního rozpočtu Město Litovel navýšilo rozpočet na KD v Savíně z důvodu vybudování rozvodů vody a odpadů v KD a jejich napojení na ústřední topení dvou místností. Z rozpočtu bude financována i výměna podlahy v KD Savín. RZ 93/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani z participativního rozpočtu Město Litovel navýšilo rozpočet na KD v Březové z důvodu zakoupení skříně na ukládání nádobí, skleniček a příborů. RZ 94/2023/ZM Výtah v budově školní jídelny v Litovli § 3141 Město Litovel poskytlo finanční prostředky ŠJ Litovel. V budově jsou nainstalovány 2 nákladní výtahy pro dopravu polotovarů a surovin z přízemí do 1.patra, kde se nachází kuchyně a zpětně na dopravu uvařených jídel určených pro rozvoz do škol. Oba výtahy jsou za hranicí životnosti. Během prázdnin bude vyměněn 1 výtah za nový."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.7_2023_schvalene_zm_litovel_dne_20.dubna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 7/2023 schválené Zastupitelstvem města Litovel\ndne 20. dubna 2023.\nRozpočtové opatření bylo schváleno na 4. zasedání Zastupitelstva města Litovel dne 20. dubna 2023 na základě\nusnesení ZM/4/4/2023.\nZměna ve financování Sociálního fondu (SÚ 236):\n§ Položka UZ ORJ ORG Částka Popis\nZměna stavu finančních prostředků na\n8115 162 623,42\nbankovních účtech (RZ 70/2023/ZM)\nZměna v příjmech Sociálního fondu (SÚ 236):\n§ Položka UZ ORJ ORG Částka Popis\nZměna stavu finančních prostředků na\n6330 4134 20 817,47\nbankovních účtech (RZ 72/2023/ZM)\nZměna ve výdajích Sociálního fondu (SÚ 236):\n§ Položka UZ ORJ ORG Částka Popis\n6171 5901 1 000 000 162 623,42 Čerpání Sociálního fondu (RZ 70/2023/ZM)\n6171 5901 1 000 000 20 817,47 Čerpání Sociálního fondu (RZ 72/2023/ZM)\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\n8115 6 400 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 66/2023/ZM)\n8115 -2 675 426,84 Změna stavu finančních prostředků na bankovních\núčtech (RZ 68/2023/ZM)\n8115 545 615,27 Změna stavu finančních prostředků na bankovních\núčtech (RZ 69/2023/ZM)\n8115 20 817,47 Změna stavu finančních prostředků na bankovních\núčtech (RZ 71/2023/ZM)\n8115 -2 045 309,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 73/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nKrátkodobé přijaté půjčené prostředky\n8113 15 000 000,00\n(RZ 74/2023/ZM)\n8115 11 741,25 Změna stavu finančních prostředků na bankovních\núčtech (RZ 75/2023/ZM)\n8115 1 010 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 76/2023/ZM)\n8115 350 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 77/2023/ZM)\n8115 90 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 78/2023/ZM)\n8115 75 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 79/2023/ZM)\n8115 50 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 80/2023/ZM)\n8115 20 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 89/2023/ZM)\n8115 200 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 90/2023/ZM)\n8115 120 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 91/2023/ZM)\n8115 120 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 92/2023/ZM)\n8115 10 000,00 Změna stavu finančních prostředků na bankovních\núčtech (RZ 93/2023/ZM)\nKrátkodobé přijaté půjčené prostředky\n8113 1 000 000,00\n(RZ 94/2023/ZM)\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\n1122 -836 740,00 Daň z příjmů právnických osob v případech, kdy\npoplatníkem je obec (RZ 67/2023/ZM)\n1335 752,40 Poplatky za odnětní pozemku dle lesního zákona\n(RZ 68/2023/ZM)\n4121 3008 500,00 OÚ Bílá Lhota -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3009 1 500,00 OÚ Bílsko -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n4121 3012 4 000,00 OÚ Bouzov - neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3016 13 000,00 OÚ Červenka - neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3025 500,00 OÚ Dubčany -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3027 500,00 OÚ Haňovice -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3037 3 500,00 OÚ Cholina -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3048 500,00 OÚ Luká - neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3053 15 639,00 OÚ Měrotín - neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3054 229 091,00 OÚ Mladeč -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3058 500,00 OÚ Náklo -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3061 500,00 OÚ Olbramice -neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3063 3 000,00 OÚ Pňovice -investiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3068 1 000,00 OÚ Senice na Hané -neinvestiční přijaté transfery od\nobcí (RZ 68/2023/ZM)\n4121 3072 1 000,00 OÚ Slavětín - neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n4121 3077 2 000,00 OÚ Střeň - neinvestiční přijaté transfery od obcí\n(RZ 68/2023/ZM)\n1069 2212 10 000,00 Převod pokut za porušení OZP (RZ 68/2023/ZM)\n2169 2212 1103 15 000,00 Pokuta - stavební úřad (RZ 68/2023/ZM)\n2219 2111 3511 4 500,00 Parkovací karty (RZ 68/2023/ZM)\n3111 2229 49 36 000,00 Přijaté vratky transferů - MŠ Frištenského\n(RZ 68/2023/ZM)\nPřijaté vratky transferů - MŠ Gemerská\n3111 2229 48 52 500,00\n(RZ 68/2023/ZM)\n3113 2111 403 110 424,60 Mzdové agendy (RZ 68/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3113 2122 45 73 191,00 Odvody PO - ZŠ Vítězná (RZ 68/2023/ZM)\nPřijaté vratky transferů - ZŠ Nasobůrky\n3113 2229 47 29 743,35\n(RZ 68/2023/ZM)\n3113 2229 45 592 061,17 Přijaté vratky transferů - ZŠ Vítězná (RZ 68/2023/ZM)\n3113 2229 46 76 666,74 Přijaté vratky transferů - ZŠ Jungmannova\n(RZ 68/2023/ZM)\nPřijaté vratky transferů - ŠJ Studentů\n3141 2229 50 41 484,56\n(RZ 68/2023/ZM)\n3314 2324 304 17 000 000 2 744,40 Přijaté neinvestiční náhrady - Městská knihovna\n(RZ 68/2023/ZM)\n3319 2111 435 2 800,00 Velké dějiny Litovle (RZ 68/2023/ZM)\nPřijaté vratky transferů - MK Litovel\n3392 2229 44 152 234,50\n(RZ 68/2023/ZM)\n3392 2324 44 4 560,00 Přijaté neinvestiční náhrady- MK Litovel\n(RZ 68/2023/ZM)\n3412 2229 750,00 Přijaté vratky transferů - TJ Sokol Litovel\n(RZ 68/2023/ZM)\n3612 2324 448,00 Přijaté neinvestiční náhrady - OBH (RZ 68/2023/ZM)\n3632 2324 31 280,00 Přijaté neinvestiční náhrady - Pohřebnictví\n(RZ 68/2023/ZM)\n3633 2133 240 204,36 Příjmy z pronájmu movitých věcí (RZ 68/2023/ZM)\n3639 2111 152 436,00 Příjmy z poskytování služeb (RZ 68/2023/ZM)\n3639 2119 337 953,00 Ostatní příjmy z vlastní činnosti (RZ 68/2023/ZM)\n3639 2229 41 97 959,29 Přijaté vratky transferů - TS Litovel (RZ 68/2023/ZM)\n3722 2111 160 524,01 Příjmy z poskytování služeb - sběr a svoz odpadů\n(RZ 68/2023/ZM)\n3723 2324 10 890,00 Přijaté neinvestiční náhrady - TextilEco, a.s.\n(RZ 68/2023/ZM)\n3724 2324 79 462,74 Přijaté neinvestiční náhrady - ELEKTROWIN, a.s.\n(RZ 68/2023/ZM)\n3729 2212 784 6 000,00 Přijaté sankční platby - ostatní nakládání s odpady\n(RZ 68/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3900 2324 1 544,00 Přijaté neinvestiční náhrady (RZ 68/2023/ZM)\n4171 2229 1,54 Ostatní přijaté vratky transferů (RZ 68/2023/ZM)\n6171 2324 74 581,18 Přijaté neinvestiční náhrady (RZ 68/2023/ZM)\n4216 22504 3 003 631 2 045 309,00 Dotace z Ministerstva průmyslu a obchodu\n(RZ 73/2023/ZM)\n4216 15501 3 000 781 76 677 968,49 Přijatá dotace na výstavbu solární sušárny\n(RZ 74/2023/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3639 5362 3 003 454 6 400 000,00 Trvalé vynětí z půdního fondu části pozemku č. 479/2\nv katastrálním území Litovel (RZ 66/2023/ZM)\n6399 5365 14 000 000 -836 740,00 Daň z příjmů právnických osob v případech, kdy\npoplatníkem je obec (RZ 67/2023/ZM)\n6409 5909 13010 5 000 000 545 615,27 Vratky státního příspěvku na výkon pěstounské\npéče(RZ 69/2023/ZM)\n6330 5342 1 000 000 20 817,47 Vyúčtování přídělu finančních prostředků do SF(2022)\n(RZ 71/2023/ZM)\n2329 6121 15501 3 000 781 76 677 968,49 Solární sušárna kalů pro ČOV, realizace akce\n(RZ 74/2023/ZM)\n2329 6121 3 000 781 15 000 000,00 Solární sušárna kalů pro ČOV, realizace akce\n(RZ 74/2023/ZM)\n3631 6342 3 000 000 11 741,25 Olomoucký kraj - příspěvek na přeložku VO, ulice\nDukelská (RZ 75/2023/ZM)\n3613 6121 12 000 000 560 000,00 Vybudování dvou denních místností pro personál\nPolikliniky v Litovli (RZ 76/2023/ZM)\n3613 6121 12 000 000 450 000,00 Zřízení prostoru pro ukládání nebezpečného odpadu z\nordinace (RZ 76/2023/ZM)\n6171 6122 13 000 233 350 000,00 Zavedení nástrojů kybernetické bezpečnosti MěÚ\n(RZ 77/2023/ZM)\nSolární sušárna kalů pro ČOV, záchranný transfer\n2329 6121 7 000 781 90 000,00 chráněných druhů rostlin a živočichů\n(RZ 78/2023/ZM)\n3722 5137 7 000 000 75 000,00 Nákup sběrných nádob a kontejnerů (RZ 79/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3722 5171 7 000 000 25 000,00 Odpadové hospodářství -opravy kontejnerů\n(RZ 80/2023/ZM)\n3722 5139 7 000 000 25 000,00 Odpadové hospodářství- pořízení nových vík u\nsběr.nádob,polepy,..(RZ 80/2023/ZM)\n2219 6121 307 2 033 633 -50 000,00 Chořelice - odstavné plochy na návsi - realizace\n(RZ 81/2023/ZM)\n3392 6121 301 2 033 646 50 000,00 KD Myslechovice - PD na elektroinstalaci v KD,\nnavýšení (RZ 81/2023/ZM)\n3639 5901 310 2 030 000 -1 000 000,00 Unčovice - územní rozvoj a rezerva (RZ 82/2023/ZM)\nBřezové - veřejné WC na hřišti, realizace\n3412 6121 305 2 030 305 1 000 000,00\n(RZ 82/2023/ZM)\n2219 6121 307 2 033 633 -300 000,00 Chořelice- odstavné plochy na návsi - realizace\n(RZ 83/2023/ZM)\n2212 6121 304 2 033 647 300 000,00 Rozvadovice - komunikace u novostaveb, vypracování\nPD (RZ 83/2023/ZM)\nRozvadovice - územní rozvoj a rezerva\n3639 5901 304 2 030 000 -500 000,00\n(RZ 84/2023/ZM)\n3392 5171 310 2 033 465 500 000,00 Unčovice - vybavenost Sokolovny (RZ 84/2023/ZM)\n3639 5901 303 2 030 000 -350 000,00 Nová Ves - územní rozvoj a rezerva (RZ 85/2023/ZM)\n2219 6121 303 2 033 408 350 000,00 Nová Ves - autobusový záliv vč. čekárny a chodníku,\nvypracování PD (RZ 85/2023/ZM)\n2219 6121 307 2 033 633 -150 000,00 Chořelice - odstavné plochy na návsi - realizace\n(RZ 86/2023/ZM)\nRozvadovice - územní rozvoj a rezerva\n3639 5901 304 2 030 000 -74 200,00\n(RZ 86/2023/ZM)\n3639 5901 305 2 030 000 -217 000,00 Březové - územní rozvoj a rezerva (RZ 86/2023/ZM)\n3421 6122 311 2 033 470 441 200,00 Savín - dětské hřiště (RZ 86/2023/ZM)\n3639 5901 310 2 030 000 -83 195,00 Unčovice - územní rozvoj a rezerva (RZ 87/2023/ZM)\n3639 5901 305 2 030 000 -166 805,00 Březové - územní rozvoj a rezerva (RZ 87/2023/ZM)\n2219 6121 306 2 030 306 250 000,00 Víska - parkovací místa podél silnice vč. prostoru před\nKD - PD (RZ 87/2023/ZM)\n3639 5901 310 2 030 000 -110 000,00 Unčovice - územní rozvoj a rezerva (RZ 88/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3639 5901 303 2 030 000 -90 000,00 Nová Ves - územní rozvoj a rezerva (RZ 88/2023/ZM)\n3326 5171 306 2 030 000 200 000,00 Víska - oprava kapličky (RZ 88/2023/ZM)\n3392 5137 309 2 030 000 20 000,00 Nasobůrky - nákup lednice do KD (RZ 89/2023/ZM)\n3429 5137 309 2 030 000 200 000,00 Nasobůrky- hry na chodník (RZ 90/2023/ZM)\n3392 5171 309 2 030 000 120 000,00 Nasobůrky - oprava parketu u KD (RZ 91/2023/ZM)\nSavín - KD, odpady,topení a podlaha\n3392 6121 311 2 030 000 120 000,00\n(RZ 92/2023/ZM)\n3392 5137 305 2 030 000 10 000,00 Březové - nová skříň do KD (RZ 93/2023/ZM)\nVýtah v budově školní jídelny v Litovli\n3141 6121 50 4 000 000 1 000 000,00\n(RZ 94/2023/ZM)\nRZ 66/2023/ZM – Trvalé vynětí z půdního fondu části pozemku č. 479/2 v katastrálním území Litovel §\n3639\nMěsto Litovel je vlastníkem pozemku parc. 479/2, orná půda v k.ú. Litovel, který územní plán zahrnuje mezi pozemky\nurčené pro volnočasové aktivity, tedy způsob využití je určen pro sportovní a rekreační účely. Pozemek se nachází\nv lokalitě, která je zejména v letních měsících hojně navštěvovaná jak místními obyvateli, tak velkým množstvím turistů. Z\ndůvodu, že je pozemek veden v kategorii „orná půda“ je potřeba tuto užívanou plochu řešit formou trvalého vynětí ze ZPF.\nNa základě rozhodnutí o trvalém vynětí ze ZPF se bude jednat o pozemek deklarovaný jako „ostatní plocha“, na kterém se\npak může realizovat jakákoliv investiční činnost (výstavba nových zařízení a vybavení k volnočasovým aktivitám), kterou\nlze zabezpečovat i pomocí dotačních titulů.\nRZ 67/2023/ZM – Daň z příjmů právnických osob v případech, kdy poplatníkem je obec\nRozpočtová změna č. 67/2023/ZM řeší úpravu příjmové a výdajové strany rozpočtu dle skutečného stavu.\nRZ 68/2023/ZM Příjmy inkasované do rozpočtu v období leden až únor 2023\nRozpočtová změna č. 68/2023/ZM řeší příjmy inkasované v průběhu ledna – února 2023, které buď nebyly zahrnuty v\nrozpočtu nebo se plní lépe, než bylo rozpočtováno. Jejich zapojením do rozpočtu je možno vykrývat nové potřebné výdaje,\nkteré vyvstanou v průběhu roku 2023.\nRZ 69/2023/ZM Vratky státního příspěvku na výkon pěstounské péče §6409\nDle podkladů Odboru sociálního a správního se jedná o vratky nevyčerpaného státního příspěvku\nna výkon pěstounské péče za období 2017 – 2022.\nRZ 70/2023/ZM Zapojení zůstatku na bankovním účtu SF k 31.12.2022 do rozpočtu Sociálního\nfondu na rok 2023\nKe dni 31.12.2022 vznikl na účtu Sociálního fondu zůstatek, který je potřeba zapojit do rozpočtu Sociálního\nfondu za rok 2023.\nRZ 71/2023/ZM Vyúčtování přídělu finančních prostředků za rok 2022 do Sociálního fondu\nV souladu se statutem Sociálního fondu, článek 5 (k datu 31.12. příslušného roku je provedeno vyúčtování\nskutečné výše přídělu podle skutečně vyplacených odměn členů ZM dlouhodobě uvolněných a skutečně\nvyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, ze kterého vyplynul\nrozdíl a ten bude odveden ve prospěch Sociálního fondu.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 72/2023/ZM Příjem finančních prostředků do rozpočtu Sociálního fondu na rok 2023 dle\nvyúčtování za rok 2022\nRozpočtová změna č. 72/2023/ZM řeší příjem finančních prostředků na účet Sociálního fondu dle\nvyúčtování za rok 2022(RZ 71/2023/ZM) a jejich čerpání.\nRZ 73/2023/ZM Dotace na realizaci projektů ke zvýšení energetické účinnosti systémů veřejného\nosvětlení\nMěsto Litovel obdrželo finanční prostředky na základě rozhodnutí Ministerstva průmyslu a obchodu.\nJedná se o dotaci na realizaci projektů ke zvýšení energetické účinnosti systémů veřejného osvětlení.\nJelikož tyto finanční prostředky byly v minulosti městem předfinancovány, jsou nyní finanční prostředky\nk dispozici pro další práci s rozpočtem.\nRZ 74/2023/ZM Solární sušárna kalů pro ČOV, realizace akce. § 2329\nMěsto Litovel obdrželo z Ministerstva životního prostředí Rozhodnutí o poskytnutí dotace na realizaci\nprojektu „ČOV Litovel – Solární sušení surového kalu“, Stavba je situovaná SV a bude přiléhat k areálu\nČOV. Navrhovaná stavba nemá nároky na vynětí pozemků ze ZPF. Stavba je členěna na čtyři stavební\nobjekty a na dva provozní soubory: Příprava území, Ocelové haly sušárny, Oplocení, Technologické\nvystrojení sušárny, Provozní rozvody silnoproudu, MaR a SŘTP.\nVysušený kal bude odvážen k zemědělskému nebo energetickému využití.\nRZ 75/2023/ZM – Olomoucký kraj - příspěvek na přeložku VO, ulice Dukelská § 3631\nDle smlouvy mezi Olomouckým krajem a městem Litovel na realizaci investiční akce: „II/449 MÚK\nUnčovice – Litovel, úsek A1,A2 A3,C, okružní křižovatka II/449 a III/4498 Litovel byly vyčísleny\npředpokládané náklady. Na základě skutečné výše nákladů se je potřeba navýšit rozpočet na tuto akci.\nRZ 76/2023/ZM Poliklinika Litovel § 3613\nMěsto Litovel je majitelem objektu Polikliniky v Litovli. Na základě kontroly Krajské hygienické stanice\nna Poliklinice v Litovli je třeba vytvořit denní místnost pro personál a prostory pro ukládání nebezpečného\nodpadu. Poliklinika takovým zázemím nedisponuje, město Litovel jakožto vlastník objektu po osobní\nschůzce a konzultaci s KHSOC přistoupilo k vytvoření těchto dvou místností.\nRZ 77/2023/ZM Zavedení nástrojů kybernetické bezpečnosti MěÚ Litovel § 6171\nV loňském roce zažádalo Město Litovel o dotaci na zavedení nástrojů kybernetické bezpečnosti\nMěÚ Litovel. Vzhledem k obrovskému zájmu o tento dotační titul město Litovel obdrželo informaci, že\nLitovel není mezi hodnocenými projekty a proto se dotaci nepodaří zrealizovat. Mezitím se objevily\ninformace o možném rozšíření směrnice NIS2, která přináší mnoho změn o kybernetické bezpečnosti.\nVzhledem k velkému počtu kroků, které tato směrnice na organizace přinese a také vzhledem k neustále\nse zhoršující situaci ve veřejném prostoru by bylo rozumné postupně zapracovávat bezpečnostní opatření\nzvyšující kybernetickou bezpečnost úřadu. Finance ze spoluúčasti na dotační akci se převedou na přestavbu\nkomunikační sítě úřadu, která je jedním z požadavků na splnění NIS2, ale také základním stavebním\nkamenem pro zvýšení kybernetické bezpečnosti MěÚ Litovel.\nRZ 78/2023/ZM Solární sušárna kalů pro ČOV, záchranný transfer chráněných druhů rostlin\na živočichů. § 2329\nMěsto Litovel připravuje stavbu solární sušírny kalů, která bude vybudovaná v těsné blízkosti stávající ČOV\nLitovel v místě, kde byl lužní les. Dle rozhodnutí CHKO je potřeba po skácení lesa provést tzv. záchranný\ntransfer chráněných druhů rostlin a živočichů. V případě města Litovel se jedná o sněženky.\nRZ 79/2023/ZM Nákup sběrných nádob a kontejnerů § 3722\nRozpočtová změna č. 79/2023/ZM řeší finanční prostředky na průběžný nákup sběrných nádob a kontejnerů\nna tříděný odpad a na směsný komunální odpad.\nRZ 80/2023/ZM Odpadové hospodářství § 3722\nRozpočtová změna č. 80/2023/ZM řeší finanční prostředky na opravy kontejnerů, pořízení nových vík u\nsběrných nádob, polepů apod.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 81/2023/ZM Participativní rozpočet místních částí – KD Myslechovice § 3392\nPro rok 2023 je naplánováno financování z rozpočtu na akci: „Vypracování PD pro výměnu elektroinstalace\nv KD Myslechovice. Odbor MHaSI obdržel cenovou nabídku na tuto akci, která je vyšší než plánované\nfinanční krytí, proto je potřeba navýšit finanční prostředky v rozpočtu.\nRZ 82/2023/ZM Participativní rozpočet místních částí – Březové – veřejné WC na hřišti § 3412\nV místní části Březové bude v roce 2023 dokončena PD na akci: „Vybudování veřejného WC na hřišti v Březové“.\nTato akce je již ve fázi před vydáním stavebního povolení. Rozpočtová změna č. 82/2023/ZM řeší navýšení\nfinančních prostředků v rozpočtu.\nRZ 83/2023/ZM Participativní rozpočet místních částí – Rozvadovice– komunikace u novostaveb,\nPD § 3412\nV Rozvadovicích byly v minulých letech postaveny nové rodinné domy. Dle požadavku OV Rozvadovice\nchybí v lokalitě vybudovat řádnou zpevněnou komunikaci, která je nyní nezpevněná, štěrková. Na tuto\nakci je nutné zpracovat PD.\nRZ 84/2023/ZM Participativní rozpočet místních částí – Unčovice – vybavenost Sokolovny, § 3392\nRozpočtová změna č. 84/2023/ZM řeší po dohodě s OV Unčovice přesun finančních prostředků na úpravy a opravy\nsokolovny a jejího okolního areálu v Unčovicích.\nRZ 85/2023/ZM Participativní rozpočet místních částí – Nová Ves – autobusový záliv, PD, § 3392\nRozpočtová změna 85/2023/ZM řeší přesun finančních prostředků po dohodě s OV Nová Ves na PD\n= vybudování autobusového zálivu včetně chodníku a čekárny.\nRZ 86/2023/ZM Participativní rozpočet místních částí – Savín – dětské hřiště, PD, § 3421\nMěsto Litovel poskytlo na žádost OV Savín finanční prostředky na výstavbu nového dětského hřiště\nv místní části Savín. Původní hřiště již dosloužilo a prvky byly z důvodu bezpečnosti demontovány.\nRZ 87/2023/ZM Participativní rozpočet místních částí – Víska – parkovací místa, PD, § 2219\nPro Vísku je zpracovaná studie využitelnosti veřejných prostranství. OV Víska požaduje dle této studie\npořešit podélná parkovací místa po pravé straně při vjezdu do Vísky po předprostor u KD. Město Litovel\nposkytlo finanční prostředky na vypracování PD.\nRZ 88/2023/ZM Participativní rozpočet místních částí – Víska – oprava kapličky § 3326\nKaplička na návsi ve Vísce vykazuje závady týkající se krytiny a krovu na střeše včetně věžičky. Město Litovel\nposkytlo finanční prostředky na opravu kapličky. Osadní výbor usiluje o zapsání kapličky do seznamu nemovitých\nkulturních památek.\nRZ 89/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani\nz participativního rozpočtu\nVzhledem k naplánovaným pronájmům KD Nasobůrky na akce jako jsou oslavy, svatby, …pro rok 2023 poskytlo\nMěsto Litovel finanční prostředky na koupi nové lednice do KD.\nRZ 90/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani z participativního\nrozpočtu\nV roce 2022 byla v rozpočtu OV Nasobůrky naplánovaná akce – Hry na chodník v MČ Nasobůrky, která\nnebyla v roce 2022 realizovaná. Zájem o tyto hry na chodník přetrvává a proto pro rok 2023 byl na zrealizování\nakce navýšen rozpočet.\nRZ 91/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani\nz participativního rozpočtu\nMěsto Litovel navýšilo rozpočet na KD v Nasobůrkách z důvodu, že je potřeba opravit parket před KD,\nkterý je v nevyhovujícím stavu.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 92/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani\nz participativního rozpočtu\nMěsto Litovel navýšilo rozpočet na KD v Savíně z důvodu vybudování rozvodů vody a odpadů v KD a\njejich napojení na ústřední topení dvou místností. Z rozpočtu bude financována i výměna podlahy v KD Savín.\nRZ 93/2023/ZM Požadavky na navýšení rozpočtu - nelze hradit dle nově vydané směrnice ani\nz participativního rozpočtu\nMěsto Litovel navýšilo rozpočet na KD v Březové z důvodu zakoupení skříně na ukládání nádobí, skleniček\na příborů.\nRZ 94/2023/ZM Výtah v budově školní jídelny v Litovli § 3141\nMěsto Litovel poskytlo finanční prostředky ŠJ Litovel. V budově jsou nainstalovány 2 nákladní výtahy pro\ndopravu polotovarů a surovin z přízemí do 1.patra, kde se nachází kuchyně a zpětně na dopravu uvařených jídel\nurčených pro rozvoz do škol. Oba výtahy jsou za hranicí životnosti. Během prázdnin bude vyměněn 1 výtah za\nnový.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 10.5.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

@@ -1,0 +1,750 @@
+{
+  "id": "RO/23/2024",
+  "number": 23,
+  "year": 2024,
+  "approval_date": "2024-12-12",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 16,
+    "type": "zasedání",
+    "date": "2024-12-12"
+  },
+  "source_resolutions": [
+    "ZM/4/16/2024"
+  ],
+  "budget_change_ids": [
+    "79/2024/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1113"
+          ],
+          "amount": "1 154 294,59",
+          "amount_value": 1154294.59,
+          "description": "příjem z DPFO vybírané srážkou (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1334"
+          ],
+          "amount": "1 482 075,62",
+          "amount_value": 1482075.62,
+          "description": "příjem z odvodů za odnětí půdy ze ZPF (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1335"
+          ],
+          "amount": "441,60",
+          "amount_value": 441.6,
+          "description": "příjem z poplatků za odnětí pozemků dle lesního zákona (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1341"
+          ],
+          "amount": "5 600,00",
+          "amount_value": 5600.0,
+          "description": "příjem z poplatku ze psů (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1343"
+          ],
+          "amount": "152 346,80",
+          "amount_value": 152346.8,
+          "description": "příjem z poplatků za užívání veřejného prostranství (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1345"
+          ],
+          "amount": "771 175,53",
+          "amount_value": 771175.53,
+          "description": "příjem z poplatků za obecní systém odpadového jospodářství (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1346"
+          ],
+          "amount": "50 680,00",
+          "amount_value": 50680.0,
+          "description": "příjmy z poplatků za povolení k vjezdu (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1353"
+          ],
+          "amount": "16 300,00",
+          "amount_value": 16300.0,
+          "description": "příjmy za zkoušky odborné způsobilosti (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1356"
+          ],
+          "amount": "89 640,75",
+          "amount_value": 89640.75,
+          "description": "příjmy z úhrad za dobývání nerostů (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "114"
+          ],
+          "amount": "100,00",
+          "amount_value": 100.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "116"
+          ],
+          "amount": "210,00",
+          "amount_value": 210.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "222"
+          ],
+          "amount": "44 402,00",
+          "amount_value": 44402.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "235"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "252"
+          ],
+          "amount": "271 400,00",
+          "amount_value": 271400.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "253"
+          ],
+          "amount": "7 200,00",
+          "amount_value": 7200.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "255"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "256"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "257"
+          ],
+          "amount": "15 800,00",
+          "amount_value": 15800.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "258"
+          ],
+          "amount": "27 800,00",
+          "amount_value": 27800.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "263"
+          ],
+          "amount": "1 650,00",
+          "amount_value": 1650.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "264"
+          ],
+          "amount": "3 200,00",
+          "amount_value": 3200.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "265"
+          ],
+          "amount": "300,00",
+          "amount_value": 300.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "268"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "272"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "275"
+          ],
+          "amount": "8 000,00",
+          "amount_value": 8000.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "281"
+          ],
+          "amount": "19 000,00",
+          "amount_value": 19000.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "490"
+          ],
+          "amount": "300,00",
+          "amount_value": 300.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "516"
+          ],
+          "amount": "800,00",
+          "amount_value": 800.0,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "602"
+          ],
+          "amount": "15 995,08",
+          "amount_value": 15995.08,
+          "description": "příjem ze správních poplatků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1386"
+          ],
+          "amount": "317 867,48",
+          "amount_value": 317867.48,
+          "description": "příjem z daně z hazardních her (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "1070",
+            "2212",
+            "784"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "přijaté sankční paltby - rybářství (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "2111",
+            "3511"
+          ],
+          "amount": "6 500,00",
+          "amount_value": 6500.0,
+          "description": "parkovací karty (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "2212"
+          ],
+          "amount": "460 000,00",
+          "amount_value": 460000.0,
+          "description": "přijaté saknční platby - pozemní komunikace(RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "2299",
+            "2212",
+            "604"
+          ],
+          "amount": "103 099,56",
+          "amount_value": 103099.56,
+          "description": "přijaté sanční platby - ostatní záležitosti v dopravě (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "2321",
+            "2132"
+          ],
+          "amount": "-913 833,29",
+          "amount_value": -913833.29,
+          "description": "příjem z pronájmu nemovitých věcí (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "671 259,60",
+          "amount_value": 671259.6,
+          "description": "příjem z poskytování služeb - mzdová agenda (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3315",
+            "2111"
+          ],
+          "amount": "4 780,00",
+          "amount_value": 4780.0,
+          "description": "Muzeum - příjmy ze vstupného (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3315",
+            "2112"
+          ],
+          "amount": "1 093,00",
+          "amount_value": 1093.0,
+          "description": "Muzeum - příjmy z prodeje zboží (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3319",
+            "2111"
+          ],
+          "amount": "13 000,00",
+          "amount_value": 13000.0,
+          "description": "příjmy z poskytování služeb - ostatbí zál. kultury (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3319",
+            "2111",
+            "435"
+          ],
+          "amount": "7 190,00",
+          "amount_value": 7190.0,
+          "description": "příjmy z poskytování služeb - ostatbí zál. kultury (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3326",
+            "2324",
+            "3 000 000"
+          ],
+          "amount": "2 349,43",
+          "amount_value": 2349.43,
+          "description": "přijaté neinv. náhrady (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3412",
+            "2111",
+            "334"
+          ],
+          "amount": "428 486,48",
+          "amount_value": 428486.48,
+          "description": "Koupaliště - příjmy ze vstupného (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3412",
+            "2310"
+          ],
+          "amount": "855,00",
+          "amount_value": 855.0,
+          "description": "příjmy z prodeje (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3612",
+            "2132"
+          ],
+          "amount": "1 678 240,37",
+          "amount_value": 1678240.37,
+          "description": "bytové hospodářství - příjmy z pronájmu (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3612",
+            "2133"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "bytové hospodářství - příjmy z pronájmu movitých věcí (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3613",
+            "2132"
+          ],
+          "amount": "1 383 746,91",
+          "amount_value": 1383746.91,
+          "description": "nebytové hospodářství - příjmy z pronájmu (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3631",
+            "2324",
+            "3 000 000"
+          ],
+          "amount": "3 201,20",
+          "amount_value": 3201.2,
+          "description": "VO - vyúčtování spotřeby (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3632",
+            "2111"
+          ],
+          "amount": "35 855,38",
+          "amount_value": 35855.38,
+          "description": "pohřebnictví (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3633",
+            "2133"
+          ],
+          "amount": "240 206,57",
+          "amount_value": 240206.57,
+          "description": "příjmy z pronájmu (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2119"
+          ],
+          "amount": "103 244,52",
+          "amount_value": 103244.52,
+          "description": "ostatní příjmy z vlastní činnosti (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2131"
+          ],
+          "amount": "338 307,90",
+          "amount_value": 338307.9,
+          "description": "příjmy z pronájmu pozemků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2133"
+          ],
+          "amount": "200,00",
+          "amount_value": 200.0,
+          "description": "příjmy z pronájmu movitých věcí (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2212"
+          ],
+          "amount": "465,25",
+          "amount_value": 465.25,
+          "description": "příjem sančkních plateb (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2310"
+          ],
+          "amount": "3 217,50",
+          "amount_value": 3217.5,
+          "description": "příjem z pordeje kovového odpadu (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "2324",
+            "301",
+            "3630"
+          ],
+          "amount": "19 203,40",
+          "amount_value": 19203.4,
+          "description": "komunální služby - přijaté náhrady (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "3111"
+          ],
+          "amount": "-9 131 739,30",
+          "amount_value": -9131739.3,
+          "description": "příjem z prodeje pozemků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "161 616,65",
+          "amount_value": 161616.65,
+          "description": "příjem z poskytování služeb (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3723",
+            "2324"
+          ],
+          "amount": "10 890,00",
+          "amount_value": 10890.0,
+          "description": "přijaté neinvestiční náhrady (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3724",
+            "2324"
+          ],
+          "amount": "166 709,79",
+          "amount_value": 166709.79,
+          "description": "přijaté neinvestiční náhrady (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3725",
+            "2324"
+          ],
+          "amount": "802 518,88",
+          "amount_value": 802518.88,
+          "description": "příjaté neinvestiční náhrady (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3727",
+            "2329"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "ostatní nedaňové příjmy (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3729",
+            "2212"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "přijaté sankční platby (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3749",
+            "2212"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "přijaté sanční platby (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "4171",
+            "2229"
+          ],
+          "amount": "3,76",
+          "amount_value": 3.76,
+          "description": "ostatní přijaté vratky transferů (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "4359",
+            "2329"
+          ],
+          "amount": "7 263,10",
+          "amount_value": 7263.1,
+          "description": "ostatí nedaňové příjmy (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "5311",
+            "2112"
+          ],
+          "amount": "150,00",
+          "amount_value": 150.0,
+          "description": "příjmy z prodeje zboží (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "5311",
+            "2212"
+          ],
+          "amount": "39 282,02",
+          "amount_value": 39282.02,
+          "description": "přijaté sankční platby - MP (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "459 265,72",
+          "amount_value": 459265.72,
+          "description": "příjem z úroků (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "43 587,00",
+          "amount_value": 43587.0,
+          "description": "příjem z pojistných plnění (RZ 79/2024/ZM"
+        },
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "211"
+          ],
+          "amount": "1 148 304,15",
+          "amount_value": 1148304.15,
+          "description": "příjmy z poskytování služeb 3639 2119 103 244,52 ostatní příjmy z vlastní činnosti (RZ 79/2024/ZM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "79/2024/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-1 800 000,00",
+          "amount_value": -1800000.0,
+          "description": "změna stavu finančních prostředků na BÚ (RZ 79/2024/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 79/2024/ZM",
+      "text": "Tato rozpočtová změna řeší příjmy rozpočtu města a jejich plnění."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._23_2024_dne_12._prosince_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 23/2024 schválené Zastupitelstvem města Litovel\ndne 12. prosince 2024\nRozpočtové opatření bylo schváleno na 16. zasedání Zastupitelstva města Litovel dne 12. prosince 2024 na základě\nusnesení ZM/4/16/2024.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\n1113 1 154 294,59 příjem z DPFO vybírané srážkou (RZ 79/2024/ZM)\n1334 1 482 075,62 příjem z odvodů za odnětí půdy ze ZPF (RZ 79/2024/ZM)\npříjem z poplatků za odnětí pozemků dle lesního zákona (RZ\n1335 441,60\n79/2024/ZM)\n1341 5 600,00 příjem z poplatku ze psů (RZ 79/2024/ZM)\npříjem z poplatků za užívání veřejného prostranství (RZ\n1343 152 346,80\n79/2024/ZM)\npříjem z poplatků za obecní systém odpadového jospodářství\n1345 771 175,53\n(RZ 79/2024/ZM)\n1346 50 680,00 příjmy z poplatků za povolení k vjezdu (RZ 79/2024/ZM)\n1353 16 300,00 příjmy za zkoušky odborné způsobilosti (RZ 79/2024/ZM)\n1356 89 640,75 příjmy z úhrad za dobývání nerostů (RZ 79/2024/ZM)\n1361 114 100,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 116 210,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 222 44 402,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 235 1 400,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 252 271 400,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 253 7 200,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 255 3 000,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 256 2 000,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 257 15 800,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 258 27 800,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 263 1 650,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 264 3 200,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 265 300,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 268 1 500,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 272 2 000,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 275 8 000,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 281 19 000,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 490 300,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 516 800,00 příjem ze správních poplatků (RZ 79/2024/ZM)\n1361 602 15 995,08 příjem ze správních poplatků (RZ 79/2024/ZM)\n1386 317 867,48 příjem z daně z hazardních her (RZ 79/2024/ZM)\n1070 2212 784 5 000,00 přijaté sankční paltby - rybářství (RZ 79/2024/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n2169 2212 802 8 000,00 přijaté sančkní platby - živnostenský úřad (RZ 79/2024/ZM)\n2219 2111 3511 6 500,00 parkovací karty (RZ 79/2024/ZM)\n2219 2212 460 000,00 přijaté saknční platby - pozemní komunikace(RZ 79/2024/ZM)\npřijaté sanční platby - ostatní záležitosti v dopravě (RZ\n2299 2212 604 103 099,56\n79/2024/ZM)\n2321 2132 -913 833,29 příjem z pronájmu nemovitých věcí (RZ 79/2024/ZM)\npříjem z poskytování služeb - mzdová agenda (RZ\n3113 2111 403 671 259,60\n79/2024/ZM)\n3315 2111 4 780,00 Muzeum - příjmy ze vstupného (RZ 79/2024/ZM)\n3315 2112 1 093,00 Muzeum - příjmy z prodeje zboží (RZ 79/2024/ZM)\npříjmy z poskytování služeb - ostatbí zál. kultury (RZ\n3319 2111 13 000,00\n79/2024/ZM)\npříjmy z poskytování služeb - ostatbí zál. kultury (RZ\n3319 2111 435 7 190,00\n79/2024/ZM)\n3326 2324 3 000 000 2 349,43 přijaté neinv. náhrady (RZ 79/2024/ZM)\n3412 2111 334 428 486,48 Koupaliště - příjmy ze vstupného (RZ 79/2024/ZM)\n3412 2310 855,00 příjmy z prodeje (RZ 79/2024/ZM)\n3612 2132 1 678 240,37 bytové hospodářství - příjmy z pronájmu (RZ 79/2024/ZM)\nbytové hospodářství - příjmy z pronájmu movitých věcí (RZ\n3612 2133 15 000,00\n79/2024/ZM)\n3613 2132 1 383 746,91 nebytové hospodářství - příjmy z pronájmu (RZ 79/2024/ZM)\n3631 2324 3 000 000 3 201,20 VO - vyúčtování spotřeby (RZ 79/2024/ZM)\n3632 2111 35 855,38 pohřebnictví (RZ 79/2024/ZM)\n3633 2133 240 206,57 příjmy z pronájmu (RZ 79/2024/ZM)\n3639 2111 148 304,15 příjmy z poskytování služeb\n3639 2119 103 244,52 ostatní příjmy z vlastní činnosti (RZ 79/2024/ZM)\n3639 2131 338 307,90 příjmy z pronájmu pozemků (RZ 79/2024/ZM)\n3639 2133 200,00 příjmy z pronájmu movitých věcí (RZ 79/2024/ZM)\n3639 2212 465,25 příjem sančkních plateb (RZ 79/2024/ZM)\n3639 2310 3 217,50 příjem z pordeje kovového odpadu (RZ 79/2024/ZM)\n3639 2324 301 3630 19 203,40 komunální služby - přijaté náhrady (RZ 79/2024/ZM)\n3639 3111 -9 131 739,30 příjem z prodeje pozemků (RZ 79/2024/ZM)\n3722 2111 161 616,65 příjem z poskytování služeb (RZ 79/2024/ZM)\n3723 2324 10 890,00 přijaté neinvestiční náhrady (RZ 79/2024/ZM)\n3724 2324 166 709,79 přijaté neinvestiční náhrady (RZ 79/2024/ZM)\n3725 2324 802 518,88 příjaté neinvestiční náhrady (RZ 79/2024/ZM)\n3727 2329 3 000,00 ostatní nedaňové příjmy (RZ 79/2024/ZM)\n3729 2212 1 000,00 přijaté sankční platby (RZ 79/2024/ZM)\n3749 2212 3 000,00 přijaté sanční platby (RZ 79/2024/ZM)\n4171 2229 3,76 ostatní přijaté vratky transferů (RZ 79/2024/ZM)\n4359 2329 7 263,10 ostatí nedaňové příjmy (RZ 79/2024/ZM)\n5311 2112 150,00 příjmy z prodeje zboží (RZ 79/2024/ZM)\n5311 2212 39 282,02 přijaté sankční platby - MP (RZ 79/2024/ZM)\n6310 2141 459 265,72 příjem z úroků (RZ 79/2024/ZM)\n6320 2322 43 587,00 příjem z pojistných plnění (RZ 79/2024/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve financování:\nODPA POL UZ ORJ ORG Kč\nzměna stavu finančních prostředků na BÚ (RZ\n8115 -1 800 000,00\n79/2024/ZM)\nRozpočtová změna č. 79/2024/ZM\nTato rozpočtová změna řeší příjmy rozpočtu města a jejich plnění.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 23.12.2024\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

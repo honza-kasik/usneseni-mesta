@@ -1,9 +1,9 @@
 {
-  "total_resolutions": 2583,
-  "total_opatreni": 33,
-  "budget_change_ids": 445,
-  "approval_links": 65,
-  "budget_change_links": 386,
+  "total_resolutions": 2629,
+  "total_opatreni": 102,
+  "budget_change_ids": 1213,
+  "approval_links": 87,
+  "budget_change_links": 990,
   "corrected_source_resolutions": [
     {
       "raw": "RM/2139/69/2016",
@@ -20,8 +20,20 @@
     {
       "opatreni_id": "RO/1/2025",
       "resolution_id": "RM/1405/45/2025"
+    },
+    {
+      "opatreni_id": "RO/16/2022",
+      "resolution_id": "ZM/4/34/2022"
+    },
+    {
+      "opatreni_id": "RO/16/2022",
+      "resolution_id": "ZM/16/34/2022"
+    },
+    {
+      "opatreni_id": "RO/16/2022",
+      "resolution_id": "ZM/17/34/2022"
     }
   ],
-  "resolutions_with_budget_change_links": 39,
-  "opatreni_with_resolution_links": 32
+  "resolutions_with_budget_change_links": 107,
+  "opatreni_with_resolution_links": 83
 }

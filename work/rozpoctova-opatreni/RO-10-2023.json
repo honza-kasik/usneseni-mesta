@@ -1,0 +1,268 @@
+{
+  "id": "RO/10/2023",
+  "number": 10,
+  "year": 2023,
+  "approval_date": "2023-06-19",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 14,
+    "type": "schůzi",
+    "date": "2023-06-19"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "47/2023/RM",
+    "48/2023/RM",
+    "49/2023/RM",
+    "50/2023/RM",
+    "51/2023/RM",
+    "52/2023/RM",
+    "53/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "49/2023/RM",
+          "raw_codes": [
+            "4222",
+            "415"
+          ],
+          "amount": "24 000,00",
+          "amount_value": 24000.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 49/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "47/2023/RM",
+          "raw_codes": [
+            "2119",
+            "6121",
+            "306",
+            "2 030 306"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Víska -parkovací místa podél silnice včetně prostoru před KD (RZ 47/2023/RM"
+        },
+        {
+          "budget_change_id": "47/2023/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "306",
+            "2 030 306"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Víska - parkovací místa podél silnice včetně prostoru před KD (RZ 47/2023/RM"
+        },
+        {
+          "budget_change_id": "48/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 48/2023/RM"
+        },
+        {
+          "budget_change_id": "48/2023/RM",
+          "raw_codes": [
+            "3613",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "L.Z.-příspěvek na el. energii pro prodejnu v Savíně (RZ 48/2023/RM"
+        },
+        {
+          "budget_change_id": "49/2023/RM",
+          "raw_codes": [
+            "5512",
+            "6122",
+            "415",
+            "308",
+            "15 001 571"
+          ],
+          "amount": "24 000,00",
+          "amount_value": 24000.0,
+          "description": "Zajištění akceschopnosti JSDH (RZ 49/2023/RM"
+        },
+        {
+          "budget_change_id": "50/2023/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "311",
+            "2 033 470"
+          ],
+          "amount": "-150 200,00",
+          "amount_value": -150200.0,
+          "description": "Savín - dětské hřiště (RZ 50/2023/RM"
+        },
+        {
+          "budget_change_id": "50/2023/RM",
+          "raw_codes": [
+            "3412",
+            "6122",
+            "311",
+            "2 033 470"
+          ],
+          "amount": "150 200,00",
+          "amount_value": 150200.0,
+          "description": "Savín - dětské hřiště + sportoviště (RZ 50/2023/RM"
+        },
+        {
+          "budget_change_id": "51/2023/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "301",
+            "2 033 646"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Myslechovice - rekonstrukce elektroinstalace v KD, PD (RZ 51/2023/RM"
+        },
+        {
+          "budget_change_id": "51/2023/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "306",
+            "2 030 306"
+          ],
+          "amount": "-55 000,00",
+          "amount_value": -55000.0,
+          "description": "Víska - parkovací místa podél silnice včetně prostoru před KD, PD (RZ 51/2023/RM"
+        },
+        {
+          "budget_change_id": "51/2023/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 030 305"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Březové - veřejné WC na hřišti, dokončení PD + realizace (RZ 51/2023/RM"
+        },
+        {
+          "budget_change_id": "52/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5166",
+            "1 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Konzultační, poradenské a právní služby (RZ 52/2023/RM"
+        },
+        {
+          "budget_change_id": "52/2023/RM",
+          "raw_codes": [
+            "2219",
+            "5137",
+            "1 003 512"
+          ],
+          "amount": "7 707,33",
+          "amount_value": 7707.33,
+          "description": "Parkovací automaty (RZ 52/2023/RM"
+        },
+        {
+          "budget_change_id": "52/2023/RM",
+          "raw_codes": [
+            "2219",
+            "5169",
+            "1 003 512"
+          ],
+          "amount": "42 292,67",
+          "amount_value": 42292.67,
+          "description": "Parkovací automaty (RZ 52/2023/RM"
+        },
+        {
+          "budget_change_id": "53/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "4 000 000"
+          ],
+          "amount": "30 250,00",
+          "amount_value": 30250.0,
+          "description": "Pódium na akci ZUŠ 30.5.2023 v Litovli (RZ 53/2023/RM"
+        },
+        {
+          "budget_change_id": "53/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-30 250,00",
+          "amount_value": -30250.0,
+          "description": "Transfery,dary, příspěvky dle rozhodnutí RM (RZ 53/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 47/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2023/RM řeší na základě požadavku odboru MHaSI zatřídění vypracované PD na úpravu",
+      "text": "předprostoru u KD rozšířené o podélná parkovací místa po pravé straně při vjezdu do Vísky na správný §."
+    },
+    {
+      "title": "Rozpočtová změna č. 48/2023/RM",
+      "text": "Město Litovel poskytlo na základě požadavku odboru OŠKS finanční příspěvek na elektrickou energii pro prodejnu v Savíně v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 49/2023/RM",
+      "text": "Město Litovel obdrželo od Olomouckého kraje účelovou investiční dotaci na zajištění akceschopnosti JSDH."
+    },
+    {
+      "title": "Rozpočtová změna č. 50/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 50/2023/RM řeší z důvodu potřeby správného zaúčtování úprav na dětském a sportovním",
+      "text": "hřišti v Savíně přesun finančních prostředků na odpovídající §."
+    },
+    {
+      "title": "Rozpočtová změna č. 51/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky na realizaci veřejného WC na hřišti v místní části Březové."
+    },
+    {
+      "title": "Rozpočtová změna č. 52/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 52/2023/RM řeší navýšení finančních prostředků na provoz parkovacích automatů.",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 53/2023/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek na pokrytí nákladů spojených se zapůjčením pódia na akci ZUŠ dne 30.5.2023 v Litovli."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._10_2023_schvalene_radou_mesta_litovel_dne_19._cervna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č.10/2023 schválené Radou města Litovel dne 19. června 2023.\nRozpočtové opatření bylo schváleno na 14. schůzi Rady města Litovel dne 19. června 2023 na základě usnesení\n442/14/2023 a 443/14/2023.\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\n4222 415 24 000,00 Přijatá účelová neinvestiční dotace\n(RZ 49/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVíska -parkovací místa podél silnice\n2119 6121 306 2 030 306 -100 000,00 včetně prostoru před KD\n(RZ 47/2023/RM)\nVíska - parkovací místa podél silnice\n2219 6121 306 2 030 306 100 000,00\nvčetně prostoru před KD\n(RZ 47/2023/RM)\n3429 5901 4 000 000 -10 000,00 Transfery dle rozhodnutí RM\n(RZ 48/2023/RM)\n3613 5222 311 4 000 000 10 000,00 L.Z.-příspěvek na el. energii pro\nprodejnu v Savíně (RZ 48/2023/RM)\n5512 6122 415 308 15 001 571 24 000,00 Zajištění akceschopnosti JSDH\n(RZ 49/2023/RM)\n3421 6122 311 2 033 470 -150 200,00 Savín - dětské hřiště (RZ 50/2023/RM)\n3412 6122 311 2 033 470 150 200,00 Savín - dětské hřiště + sportoviště\n(RZ 50/2023/RM)\nMyslechovice - rekonstrukce\n3392 6121 301 2 033 646 -20 000,00\nelektroinstalace v KD, PD\n(RZ 51/2023/RM)\nVíska - parkovací místa podél silnice\n2219 6121 306 2 030 306 -55 000,00 včetně prostoru před KD, PD\n(RZ 51/2023/RM)\nBřezové - veřejné WC na hřišti,\n3412 6121 305 2 030 305 75 000,00 dokončení PD + realizace\n(RZ 51/2023/RM)\n6409 5166 1 000 000 -50 000,00 Konzultační, poradenské a právní služby\n(RZ 52/2023/RM)\n2219 5137 1 003 512 7 707,33 Parkovací automaty (RZ 52/2023/RM)\n2219 5169 1 003 512 42 292,67 Parkovací automaty (RZ 52/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTransfery,dary, příspěvky dle rozhodnutí\n3429 5901 4 000 000 -30 250,00\nRM (RZ 53/2023/RM)\nPódium na akci ZUŠ 30.5.2023 v Litovli\n3429 5169 4 000 000 30 250,00\n(RZ 53/2023/RM)\nRZ 47/2023/RM\nRozpočtová změna č. 47/2023/RM řeší na základě požadavku odboru MHaSI zatřídění vypracované PD na úpravu\npředprostoru u KD rozšířené o podélná parkovací místa po pravé straně při vjezdu do Vísky na správný §.\nRZ 48/2023/RM\nMěsto Litovel poskytlo na základě požadavku odboru OŠKS finanční příspěvek na elektrickou energii pro prodejnu\nv Savíně v roce 2023.\nRZ 49/2023/RM\nMěsto Litovel obdrželo od Olomouckého kraje účelovou investiční dotaci na zajištění akceschopnosti JSDH.\nRZ 50/2023/RM\nRozpočtová změna č. 50/2023/RM řeší z důvodu potřeby správného zaúčtování úprav na dětském a sportovním\nhřišti v Savíně přesun finančních prostředků na odpovídající §.\nRZ 51/2023/RM\nMěsto Litovel poskytlo finanční prostředky na realizaci veřejného WC na hřišti v místní části Březové.\nRZ 52/2023/RM\nRozpočtová změna č. 52/2023/RM řeší navýšení finančních prostředků na provoz parkovacích automatů.\nRZ 53/2023/RM\nMěsto Litovel poskytlo finanční příspěvek na pokrytí nákladů spojených se zapůjčením pódia na akci ZUŠ\ndne 30.5.2023 v Litovli.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 27. 6. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

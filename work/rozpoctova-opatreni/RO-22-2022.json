@@ -1,0 +1,898 @@
+{
+  "id": "RO/22/2022",
+  "number": 22,
+  "year": 2022,
+  "approval_date": "2023-01-26",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 7,
+    "type": "schůzi",
+    "date": "2023-01-26"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "153/2022/RM",
+    "154/2022/RM",
+    "155/2022/RM",
+    "156/2022/RM",
+    "157/2022/RM",
+    "158/2022/RM",
+    "159/2022/RM",
+    "160/2022/RM",
+    "161/2022/RM",
+    "162/2022/RM",
+    "163/2022/RM",
+    "164/2022/RM",
+    "165/2022/RM",
+    "166/2022/RM",
+    "167/2022/RM",
+    "168/2022/RM",
+    "58/2022/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "153/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-400 000,00",
+          "amount_value": -400000.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 153/2022/RM"
+        },
+        {
+          "budget_change_id": "153/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-84 836,00",
+          "amount_value": -84836.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 153/2022/RM"
+        },
+        {
+          "budget_change_id": "154/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-60 481,40",
+          "amount_value": -60481.4,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 154/2022/RM"
+        },
+        {
+          "budget_change_id": "154/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-9 518,60",
+          "amount_value": -9518.6,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 154/2022/RM"
+        },
+        {
+          "budget_change_id": "155/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-13 379,68",
+          "amount_value": -13379.68,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 155/2022/RM"
+        },
+        {
+          "budget_change_id": "155/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-10 220,32",
+          "amount_value": -10220.32,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 155/2022/RM"
+        },
+        {
+          "budget_change_id": "156/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-102 000,00",
+          "amount_value": -102000.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 156/2022/RM"
+        },
+        {
+          "budget_change_id": "157/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-103 216,00",
+          "amount_value": -103216.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 157/2022/RM"
+        },
+        {
+          "budget_change_id": "158/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-109 336,25",
+          "amount_value": -109336.25,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 158/2022/RM"
+        },
+        {
+          "budget_change_id": "158/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-63,75",
+          "amount_value": -63.75,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 158/2022/RM"
+        },
+        {
+          "budget_change_id": "159/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-84 685,00",
+          "amount_value": -84685.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 159/2022/RM"
+        },
+        {
+          "budget_change_id": "159/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-100,00",
+          "amount_value": -100.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 159/2022/RM"
+        },
+        {
+          "budget_change_id": "161/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-47 311,00",
+          "amount_value": -47311.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 161/2022/RM"
+        },
+        {
+          "budget_change_id": "161/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-22 689,00",
+          "amount_value": -22689.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 161/2022/RM"
+        },
+        {
+          "budget_change_id": "163/2022/RM",
+          "raw_codes": [
+            "8123",
+            "90992",
+            "1",
+            "7000782"
+          ],
+          "amount": "-748 682,00",
+          "amount_value": -748682.0,
+          "description": "Dlouhodobě přijaté půjčené prostředky (RZ 163/2022/RM"
+        },
+        {
+          "budget_change_id": "163/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "3 743 409,00",
+          "amount_value": 3743409.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 163/2022/RM"
+        },
+        {
+          "budget_change_id": "165/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-759,00",
+          "amount_value": -759.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 165/2022/RM"
+        },
+        {
+          "budget_change_id": "166/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 166/2022/RM"
+        },
+        {
+          "budget_change_id": "164/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-714,56",
+          "amount_value": -714.56,
+          "description": "Změna stavu finančních prostředků na BÚ (RZ 164/2022/RM"
+        },
+        {
+          "budget_change_id": "153/2022/RM",
+          "raw_codes": [
+            "2451",
+            "49"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Z měny v příjmech: Splátky půjčených prostředků od PO (RZ 153/2022/RM"
+        },
+        {
+          "budget_change_id": "155/2022/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "49",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "13 379,68",
+          "amount_value": 13379.68,
+          "description": "Odvody z odpisů od PO (RZ 155/2022/RM"
+        },
+        {
+          "budget_change_id": "156/2022/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "102 000,00",
+          "amount_value": 102000.0,
+          "description": "Odvody z investičního fondu PO (RZ 156/2022/RM"
+        },
+        {
+          "budget_change_id": "157/2022/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "103 216,00",
+          "amount_value": 103216.0,
+          "description": "Odvody z odpisů PO (RZ 157/2022/RM"
+        },
+        {
+          "budget_change_id": "158/2022/RM",
+          "raw_codes": [
+            "3141",
+            "2122",
+            "50",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "109 336,25",
+          "amount_value": 109336.25,
+          "description": "Odvody z odpisů od PO (RZ 158/2022/RM"
+        },
+        {
+          "budget_change_id": "160/2022/RM",
+          "raw_codes": [
+            "4122",
+            "401",
+            "7",
+            "000",
+            "000"
+          ],
+          "amount": "183 600,00",
+          "amount_value": 183600.0,
+          "description": "Účelová neinvestiční dotace (RZ 160/2022/RM"
+        },
+        {
+          "budget_change_id": "161/2022/RM",
+          "raw_codes": [
+            "4116",
+            "106515011",
+            "7",
+            "000",
+            "783"
+          ],
+          "amount": "47 311,00",
+          "amount_value": 47311.0,
+          "description": "Neinvestiční transfer ze státního rozpočtu (RZ 161/2022/RM"
+        },
+        {
+          "budget_change_id": "162/2022/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "-31 500,00",
+          "amount_value": -31500.0,
+          "description": "Příspěvek na výkon pěstounské péče (RZ 162/2022/RM"
+        },
+        {
+          "budget_change_id": "163/2022/RM",
+          "raw_codes": [
+            "4213",
+            "90992",
+            "7",
+            "000",
+            "782"
+          ],
+          "amount": "-2 994 727,00",
+          "amount_value": -2994727.0,
+          "description": "Investiční transfer ze státního fondu (RZ 163/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "153/2022/RM",
+          "raw_codes": [
+            "2451",
+            "49"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Splátky půjčených prostředků od PO (RZ 153/2022/RM"
+        },
+        {
+          "budget_change_id": "154/2022/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "48"
+          ],
+          "amount": "60 481,40",
+          "amount_value": 60481.4,
+          "description": "Odvody z odpisů od PO (RZ 154/2022/RM"
+        },
+        {
+          "budget_change_id": "155/2022/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "13 379,68",
+          "amount_value": 13379.68,
+          "description": "Odvody z odpisů od PO (RZ 155/2022/RM"
+        },
+        {
+          "budget_change_id": "156/2022/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "102 000,00",
+          "amount_value": 102000.0,
+          "description": "Odvody z investičního fondu PO (RZ 156/2022/RM"
+        },
+        {
+          "budget_change_id": "157/2022/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "103 216,00",
+          "amount_value": 103216.0,
+          "description": "Odvody z odpisů PO (RZ 157/2022/RM"
+        },
+        {
+          "budget_change_id": "158/2022/RM",
+          "raw_codes": [
+            "3141",
+            "2122",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "109 336,25",
+          "amount_value": 109336.25,
+          "description": "Odvody z odpisů od PO (RZ 158/2022/RM"
+        },
+        {
+          "budget_change_id": "159/2022/RM",
+          "raw_codes": [
+            "3392",
+            "2122",
+            "44"
+          ],
+          "amount": "84 685,00",
+          "amount_value": 84685.0,
+          "description": "Odvody z odpisů PO (RZ 159/2022/RM"
+        },
+        {
+          "budget_change_id": "160/2022/RM",
+          "raw_codes": [
+            "4122",
+            "401",
+            "7 000 000"
+          ],
+          "amount": "183 600,00",
+          "amount_value": 183600.0,
+          "description": "Účelová neinvestiční dotace (RZ 160/2022/RM"
+        },
+        {
+          "budget_change_id": "161/2022/RM",
+          "raw_codes": [
+            "4116",
+            "106515011",
+            "7 000 783"
+          ],
+          "amount": "47 311,00",
+          "amount_value": 47311.0,
+          "description": "Neinvestiční transfer ze státního rozpočtu (RZ 161/2022/RM"
+        },
+        {
+          "budget_change_id": "162/2022/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "-31 500,00",
+          "amount_value": -31500.0,
+          "description": "Příspěvek na výkon pěstounské péče (RZ 162/2022/RM"
+        },
+        {
+          "budget_change_id": "163/2022/RM",
+          "raw_codes": [
+            "4213",
+            "90992",
+            "7 000 782"
+          ],
+          "amount": "-2 994 727,00",
+          "amount_value": -2994727.0,
+          "description": "Investiční transfer ze státního fondu (RZ 163/2022/RM"
+        },
+        {
+          "budget_change_id": "153/2022/RM",
+          "raw_codes": [
+            "3111",
+            "6351",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "-84 836,00",
+          "amount_value": -84836.0,
+          "description": "Investiční transfery PO (RZ 153/2022/RM"
+        },
+        {
+          "budget_change_id": "154/2022/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "-9 518,60",
+          "amount_value": -9518.6,
+          "description": "Neinvestiční transfery PO (RZ 154/2022/RM"
+        },
+        {
+          "budget_change_id": "158/2022/RM",
+          "raw_codes": [
+            "3141",
+            "5331",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "-63,75",
+          "amount_value": -63.75,
+          "description": "Neinvestiční transfery PO (RZ 158/2022/RM"
+        },
+        {
+          "budget_change_id": "159/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5331",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "-100,00",
+          "amount_value": -100.0,
+          "description": "Neinvestiční transfery PO (RZ 159/2022/RM"
+        },
+        {
+          "budget_change_id": "160/2022/RM",
+          "raw_codes": [
+            "1014",
+            "5332",
+            "401",
+            "7 000 000"
+          ],
+          "amount": "183 600,00",
+          "amount_value": 183600.0,
+          "description": "Neinvestiční transfer UP Olomouc (RZ 160/2022/RM"
+        },
+        {
+          "budget_change_id": "161/2022/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "106515011",
+            "7 000 783"
+          ],
+          "amount": "-22 689,00",
+          "amount_value": -22689.0,
+          "description": "Revitalizace Novozámecké aleje (RZ 161/2022/RM"
+        },
+        {
+          "budget_change_id": "162/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 562"
+          ],
+          "amount": "-31 500,00",
+          "amount_value": -31500.0,
+          "description": "Výkon pěstounské péče (RZ 162/2022/RM"
+        },
+        {
+          "budget_change_id": "164/2022/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "-714,56",
+          "amount_value": -714.56,
+          "description": "Neinvestiční transfery PO (RZ 164/2022/RM"
+        },
+        {
+          "budget_change_id": "165/2022/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-759,00",
+          "amount_value": -759.0,
+          "description": "Neinvestiční transfery PO (RZ 165/2022/RM"
+        },
+        {
+          "budget_change_id": "166/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Neinvestiční transfery spolkům (RZ 166/2022/RM"
+        },
+        {
+          "budget_change_id": "58/2022/ZM",
+          "raw_codes": [
+            "4349",
+            "5032",
+            "13010",
+            "310",
+            "5 000 000"
+          ],
+          "amount": "-63 504,17",
+          "amount_value": -63504.17,
+          "description": "Výkon pěstounské péče - zdravotní pojištění (opr.RZ 58/2022/ZM) (RZ 167/2022/RM"
+        },
+        {
+          "budget_change_id": "58/2022/ZM",
+          "raw_codes": [
+            "4349",
+            "5031",
+            "13010",
+            "310",
+            "5 000 000"
+          ],
+          "amount": "-150 000,00",
+          "amount_value": -150000.0,
+          "description": "Výkon pěstounské péče - sociální pojištění (opr.RZ 58/2022/ZM) (RZ 167/2022/RM"
+        },
+        {
+          "budget_change_id": "58/2022/ZM",
+          "raw_codes": [
+            "4349",
+            "5011",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "-200 000,00",
+          "amount_value": -200000.0,
+          "description": "Výkon pěstounské péče - platy zaměstnanců (opr.RZ 58/2022/ZM)(RZ 167/2022/RM"
+        },
+        {
+          "budget_change_id": "167/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5032",
+            "13010",
+            "310",
+            "5 000 000"
+          ],
+          "amount": "63 504,17",
+          "amount_value": 63504.17,
+          "description": "Výkon pěstounské péče -zdravotní pojištění (RZ 167/2022/RM"
+        },
+        {
+          "budget_change_id": "167/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5031",
+            "13010",
+            "310",
+            "5 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Výkon pěstounské péče -sociální pojištění (RZ 167/2022/RM"
+        },
+        {
+          "budget_change_id": "167/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5011",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Výkon pěstounské péče -platy zaměstnanců (RZ 167/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3314",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "48 528,00",
+          "amount_value": 48528.0,
+          "description": "Knihovna - platy zaměstnanců (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3314",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "12 403,00",
+          "amount_value": 12403.0,
+          "description": "Knihovna - povinné sociální pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3315",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "14 051,00",
+          "amount_value": 14051.0,
+          "description": "Muzeum - povinné sociální pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3315",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "5 325,00",
+          "amount_value": 5325.0,
+          "description": "Muzeum - povinné zdravotní pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3349",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "8 312,00",
+          "amount_value": 8312.0,
+          "description": "Litovelské noviny-platy zaměstnanců (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3349",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "2 261,00",
+          "amount_value": 2261.0,
+          "description": "Litovelské noviny-povinné sociální pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3349",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "752,00",
+          "amount_value": 752.0,
+          "description": "Litovelské noviny - povinné zdravotní pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3612",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "9 380,00",
+          "amount_value": 9380.0,
+          "description": "OBH - ostatní osobní výdaje (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "5311",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "131 020,00",
+          "amount_value": 131020.0,
+          "description": "Městská policie - platy zaměstnanců (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "5311",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "33 032,00",
+          "amount_value": 33032.0,
+          "description": "Městská policie - povinné sociální pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "5311",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "11 987,00",
+          "amount_value": 11987.0,
+          "description": "Městská policie - povinné zdravotní pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "-272 534,00",
+          "amount_value": -272534.0,
+          "description": "Činnost místní správy - platy zaměstnanců (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-9 380,00",
+          "amount_value": -9380.0,
+          "description": "Činnost místní správy - ostatní osobní výdaje (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "-61 747,00",
+          "amount_value": -61747.0,
+          "description": "Činnost místní správy - povinné sociální pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "-22 622,00",
+          "amount_value": -22622.0,
+          "description": "Činnost místní správy - povinné zdravotní pojištění (RZ 168/2022/RM"
+        },
+        {
+          "budget_change_id": "155/2022/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "49",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-10 220,32",
+          "amount_value": -10220.32,
+          "description": "Neinvestiční transfery PO (RZ 155/2022/RM"
+        },
+        {
+          "budget_change_id": "168/2022/RM",
+          "raw_codes": [
+            "3314",
+            "5032",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "4 558,00",
+          "amount_value": 4558.0,
+          "description": "Knihovna -povinné zdravotní pojištění (RZ168/2022/RM) Muzeum - platy zaměstnanců 3315 5011 1 000 000 84 674,00 (RZ 168/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 154/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace MŠ Gemerská. Jedná se částečně o odvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 155/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace MŠ Frištenského. Jedná se částečně o odvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 156/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Jungmannova. Jedná se pravděpodobně o odvod z investičního fondu do rozpočtu města dle usnesení RM/89/4/2022 z 8.12.2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 157/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Jungmannova. Jedná se o odvod odpisů do rozpočtu města. RZ 158//2022/RM Na účet města Litovel byla připsaná platba od příspěvkové organizace ŠJ Studentů. Jedná se částečně o odvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 159/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace Městský klub Litovel. Jedná se částečně o odvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 160/2022/RM",
+      "text": "V prosinci 2022 byla na účet města Litovel připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na akci „MOSPREMA – Predikce a management kalamitních stavů komárů pro zachování biodiverzity v lužních lesích“."
+    },
+    {
+      "title": "Rozpočtová změna č. 161/2022/RM",
+      "text": "V prosinci 2022 byla na účet města Litovel připsaná platba od Ministerstva životního prostředí. Jedná se o neinvestiční transfer ze státního rozpočtu na akci „Revitalizace Novozámecké aleje“. Výdaje na tuto akci byly zahrnuty ve schváleném rozpočtu na rok 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 162/2022/RM",
+      "text": "Na základě rozhodnutí Úřadu práce v Olomouci dne 19.12.2022 došlo ke snížení příspěvku na výkon pěstounské péče pro město Litovel. Finanční prostředky město Litovel vrátilo poskytovateli 21.12.2022 v souladu s obdrženým rozhodnutím."
+    },
+    {
+      "title": "Rozpočtová změna č. 163/2022/RM",
+      "text": "V rozpočtu roku 2022 byly plánovány přijaté prostředky od SFŽP (dotace + půjčka) na realizaci akce „Haňovice – dobývací prostor“. Touto rozpočtovou změnou se provádí úprava rozpočtu podle reálného stavu obdržených prostředků k 31.12.2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 164/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Nasobůrky. Jedná se o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 165/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Vítězná. Jedná se o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 166/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od TJ Sokol Litovel. Jedná se o vrácení nevyčerpaných prostředků."
+    },
+    {
+      "title": "Rozpočtová změna č. 167/2022/RM",
+      "text": "Rozpočtová změna 167/2022/RM řeší zatřídění výdajů na správný § dle vyhlášky MF ČR o rozpočtové skladbě."
+    },
+    {
+      "title": "Rozpočtová změna č. 168/2022/RM",
+      "text": "V rámci schváleného rozpočtu roku 2022 na platy zaměstnanců za město Litovel bylo potřeba provést přesun finančních prostředků dle skutečného čerpání."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._22_2022_schvalene_radou_mesta_litovel_dne_26._ledna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 22/2022 schválené Radou města Litovel dne 26.ledna 2023.\nRozpočtové opatření bylo schváleno na 7. schůzi Rady města Litovel dne 26.ledna 2023 na základě usnesení\n176/7/2023.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\nZměna stavu finančních prostředků na\n8115 -400 000,00\nBÚ (RZ 153/2022/RM)\nZměna stavu finančních prostředků na\n8115 -84 836,00\nBÚ (RZ 153/2022/RM)\nZměna stavu finančních prostředků na\n8115 -60 481,40\nBÚ (RZ 154/2022/RM)\nZměna stavu finančních prostředků na\n8115 -9 518,60\nBÚ (RZ 154/2022/RM)\nZměna stavu finančních prostředků na\n8115 -13 379,68\nBÚ (RZ 155/2022/RM)\nZměna stavu finančních prostředků na\n8115 -10 220,32\nBÚ (RZ 155/2022/RM)\nZměna stavu finančních prostředků na\n8115 -102 000,00\nBÚ (RZ 156/2022/RM)\nZměna stavu finančních prostředků na\n8115 -103 216,00\nBÚ (RZ 157/2022/RM)\nZměna stavu finančních prostředků na\n8115 -109 336,25\nBÚ (RZ 158/2022/RM)\nZměna stavu finančních prostředků na\n8115 -63,75\nBÚ (RZ 158/2022/RM)\nZměna stavu finančních prostředků na\n8115 -84 685,00\nBÚ (RZ 159/2022/RM)\nZměna stavu finančních prostředků na\n8115 -100,00\nBÚ (RZ 159/2022/RM)\nZměna stavu finančních prostředků na\n8115 -47 311,00\nBÚ (RZ 161/2022/RM)\nZměna stavu finančních prostředků na\n8115 -22 689,00\nBÚ (RZ 161/2022/RM)\nDlouhodobě přijaté půjčené\n8123 90992 1 7000782 -748 682,00\nprostředky (RZ 163/2022/RM)\nZměna stavu finančních prostředků na\n8115 3 743 409,00\nBÚ (RZ 163/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměna stavu finančních prostředků na\n8115 -714,56\nBÚ (RZ 164/2022/RM)\nZměna stavu finančních prostředků na\n8115 -759,00\nBÚ (RZ 165/2022/RM)\nZměna stavu finančních prostředků na\n8115 -20 000,00\nBÚ (RZ 166/2022/RM)\nZ měny v příjmech:\nPOL UZ ORJ ORG Kč\nSplátky půjčených prostředků od PO\n2451 49 400 000,00\n(RZ 153/2022/RM)\nOdvody z odpisů od PO\n3111 2122 48 60 481,40\n(RZ 154/2022/RM)\nOdvody z odpisů od PO\n3111 2122 49 4 000 000 13 379,68\n(RZ 155/2022/RM)\nOdvody z investičního fondu PO\n3113 2122 46 102 000,00\n(RZ 156/2022/RM)\nOdvody z odpisů PO\n3113 2122 46 103 216,00\n(RZ 157/2022/RM)\nOdvody z odpisů od PO\n3141 2122 50 4 000 000 109 336,25\n(RZ 158/2022/RM)\nOdvody z odpisů PO\n3392 2122 44 84 685,00\n(RZ 159/2022/RM)\nÚčelová neinvestiční dotace\n4122 401 7 000 000 183 600,00\n(RZ 160/2022/RM)\nNeinvestiční transfer ze státního\n4116 106515011 7 000 783 47 311,00\nrozpočtu (RZ 161/2022/RM)\nPříspěvek na výkon pěstounské péče\n4116 13010 -31 500,00\n(RZ 162/2022/RM)\nInvestiční transfer ze státního fondu\n4213 90992 7 000 782 -2 994 727,00\n(RZ 163/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nInvestiční transfery PO\n3111 6351 49 4 000 000 -84 836,00\n(RZ 153/2022/RM)\nNeinvestiční transfery PO\n3111 5331 48 4 000 000 -9 518,60\n(RZ 154/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nNeinvestiční transfery PO\n3111 5331 49 4 000 000 -10 220,32\n(RZ 155/2022/RM)\nNeinvestiční transfery PO\n3141 5331 50 4 000 000 -63,75\n(RZ 158/2022/RM)\nNeinvestiční transfery PO\n3392 5331 44 4 000 000 -100,00\n(RZ 159/2022/RM)\nNeinvestiční transfer UP Olomouc\n1014 5332 401 7 000 000 183 600,00\n(RZ 160/2022/RM)\nRevitalizace Novozámecké aleje\n3745 5169 106515011 7 000 783 -22 689,00\n(RZ 161/2022/RM)\nVýkon pěstounské péče\n4339 5169 13010 5 000 562 -31 500,00\n(RZ 162/2022/RM)\nNeinvestiční transfery PO\n3113 5331 47 4 000 000 -714,56\n(RZ 164/2022/RM)\nNeinvestiční transfery PO\n3113 5331 45 4 000 000 -759,00\n(RZ 165/2022/RM)\nNeinvestiční transfery spolkům\n3419 5222 4 000 000 -20 000,00\n(RZ 166/2022/RM)\nVýkon pěstounské péče - zdravotní\n4349 5032 13010 310 5 000 000 -63 504,17 pojištění (opr.RZ 58/2022/ZM)\n(RZ 167/2022/RM)\nVýkon pěstounské péče - sociální\n4349 5031 13010 310 5 000 000 -150 000,00 pojištění (opr.RZ 58/2022/ZM)\n(RZ 167/2022/RM)\nVýkon pěstounské péče - platy\n4349 5011 13010 5 000 000 -200 000,00 zaměstnanců (opr.RZ\n58/2022/ZM)(RZ 167/2022/RM)\nVýkon pěstounské péče -zdravotní\n4339 5032 13010 310 5 000 000 63 504,17\npojištění (RZ 167/2022/RM)\nVýkon pěstounské péče -sociální\n4339 5031 13010 310 5 000 000 150 000,00\npojištění (RZ 167/2022/RM)\nVýkon pěstounské péče -platy\n4339 5011 13010 5 000 000 200 000,00\nzaměstnanců (RZ 167/2022/RM)\nKnihovna - platy zaměstnanců\n3314 5011 1 000 000 48 528,00\n(RZ 168/2022/RM)\nKnihovna - povinné sociální pojištění\n3314 5031 1 000 000 12 403,00\n(RZ 168/2022/RM)\nKnihovna -povinné zdravotní pojištění\n3314 5032 1 000 000 4 558,00\n(RZ168/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMuzeum - platy zaměstnanců\n3315 5011 1 000 000 84 674,00\n(RZ 168/2022/RM)\nMuzeum - povinné sociální pojištění\n3315 5031 1 000 000 14 051,00\n(RZ 168/2022/RM)\nMuzeum - povinné zdravotní pojištění\n3315 5032 1 000 000 5 325,00\n(RZ 168/2022/RM)\nLitovelské noviny-platy zaměstnanců\n3349 5011 1 000 000 8 312,00\n(RZ 168/2022/RM)\nLitovelské noviny-povinné sociální\n3349 5031 1 000 000 2 261,00\npojištění (RZ 168/2022/RM)\nLitovelské noviny - povinné zdravotní\n3349 5032 1 000 000 752,00\npojištění (RZ 168/2022/RM)\nOBH - ostatní osobní výdaje\n3612 5021 1 000 000 9 380,00\n(RZ 168/2022/RM)\nMěstská policie - platy zaměstnanců\n5311 5011 1 000 000 131 020,00\n(RZ 168/2022/RM)\nMěstská policie - povinné sociální\n5311 5031 1 000 000 33 032,00\npojištění (RZ 168/2022/RM)\nMěstská policie - povinné zdravotní\n5311 5032 1 000 000 11 987,00\npojištění (RZ 168/2022/RM)\nČinnost místní správy - platy\n6171 5011 1 000 000 -272 534,00\nzaměstnanců (RZ 168/2022/RM)\nČinnost místní správy - ostatní osobní\n6171 5021 1 000 000 -9 380,00\nvýdaje (RZ 168/2022/RM)\nČinnost místní správy - povinné\n6171 5031 1 000 000 -61 747,00\nsociální pojištění (RZ 168/2022/RM)\nČinnost místní správy - povinné\n6171 5032 1 000 000 -22 622,00\nzdravotní pojištění (RZ 168/2022/RM)\nRZ 153//2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace MŠ Frištenského. Jedná se částečně o\nvrácení půjčených prostředků, které byly příspěvkové organizaci poskytnuty na předfinancování dotační akce a\nčástečně o vrácení nevyčerpaného investičního příspěvku.\nRZ 154/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace MŠ Gemerská. Jedná se částečně o odvod\nz odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 155/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace MŠ Frištenského. Jedná se částečně o\nodvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku.\nRZ 156/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Jungmannova. Jedná se pravděpodobně\no odvod z investičního fondu do rozpočtu města dle usnesení RM/89/4/2022 z 8.12.2022.\nRZ 157/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Jungmannova. Jedná se o odvod odpisů\ndo rozpočtu města.\nRZ 158//2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace ŠJ Studentů. Jedná se částečně o odvod\nz odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku.\nRZ 159/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace Městský klub Litovel. Jedná se částečně o\nodvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku.\nRZ 160/2022/RM\nV prosinci 2022 byla na účet města Litovel připsaná platba od Olomouckého kraje. Jedná se o účelovou\nneinvestiční dotaci na akci „MOSPREMA – Predikce a management kalamitních stavů komárů pro zachování\nbiodiverzity v lužních lesích“.\nRZ 161/2022/RM\nV prosinci 2022 byla na účet města Litovel připsaná platba od Ministerstva životního prostředí. Jedná se o\nneinvestiční transfer ze státního rozpočtu na akci „Revitalizace Novozámecké aleje“. Výdaje na tuto akci byly\nzahrnuty ve schváleném rozpočtu na rok 2022.\nRZ 162/2022/RM\nNa základě rozhodnutí Úřadu práce v Olomouci dne 19.12.2022 došlo ke snížení příspěvku na výkon pěstounské\npéče pro město Litovel. Finanční prostředky město Litovel vrátilo poskytovateli 21.12.2022 v souladu\ns obdrženým rozhodnutím.\nRZ 163/2022/RM\nV rozpočtu roku 2022 byly plánovány přijaté prostředky od SFŽP (dotace + půjčka) na realizaci akce „Haňovice\n– dobývací prostor“. Touto rozpočtovou změnou se provádí úprava rozpočtu podle reálného stavu obdržených\nprostředků k 31.12.2022.\nRZ 164/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Nasobůrky. Jedná se o vrácení\nnevyčerpaného neinvestičního příspěvku.\nRZ 165/2022/RM\nNa účet města Litovel byla připsaná platba od příspěvkové organizace ZŠ Vítězná. Jedná se o vrácení\nnevyčerpaného neinvestičního příspěvku.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 166/2022/RM\nNa účet města Litovel byla připsaná platba od TJ Sokol Litovel. Jedná se o vrácení nevyčerpaných prostředků.\nRZ 167/2022/RM\nRozpočtová změna 167/2022/RM řeší zatřídění výdajů na správný § dle vyhlášky MF ČR o rozpočtové skladbě.\nRZ 168/2022/RM\nV rámci schváleného rozpočtu roku 2022 na platy zaměstnanců za město Litovel bylo potřeba provést přesun\nfinančních prostředků dle skutečného čerpání.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 13.2.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "RO/2/2024",
+  "number": 2,
+  "year": 2024,
+  "approval_date": "2024-02-01",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "5/2024/RM",
+    "6/2024/RM",
+    "7/2024/RM",
+    "8/2024/RM",
+    "9/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "5/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-8 000,00",
+          "amount_value": -8000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 5/2024/RM"
+        },
+        {
+          "budget_change_id": "5/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "8 000,00",
+          "amount_value": 8000.0,
+          "description": "T.R. - malá kopaná Buldog Unčovice (RZ 5/2024/RM"
+        },
+        {
+          "budget_change_id": "6/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 6/2024/RM"
+        },
+        {
+          "budget_change_id": "6/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "SRP při ZŠ Jungmannova - organizační zajištění dětského dne \"Minitoulky\" (RZ 6/2024/RM"
+        },
+        {
+          "budget_change_id": "7/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 7/2024/RM"
+        },
+        {
+          "budget_change_id": "7/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5321",
+            "4 003 037"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "obec Cholina - dar na provoz pošty (RZ 7/2024/RM"
+        },
+        {
+          "budget_change_id": "8/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 8/2024/RM"
+        },
+        {
+          "budget_change_id": "8/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "305",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "J.K. - činnost místního sdružení ČČK v Březovém (RZ 8/2024/RM"
+        },
+        {
+          "budget_change_id": "9/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 9/2024/RM"
+        },
+        {
+          "budget_change_id": "9/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Klub litovelského pétanque - činnost klubu v roce 2024 (RZ 9/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 5/2024/RM",
+      "text": "Město Litovel poskytlo dotaci družstvu malé kopané Buldog Unčovice na činnost v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 6/2024/RM",
+      "text": "Město Litovel poskytlo dotaci Spolku rodičů a přátel při ZŠ Jungmannova na organizační zajištění dětského dne „Minitoulky“, který se uskuteční dne 1.června 2024 a souhlasí s použitím znaku města na diplomech, které budou udělovány účastníkům akce a na pamětních listech, které budou předávány absolventům 9. tříd ZŠ Jungmannova."
+    },
+    {
+      "title": "Rozpočtová změna č. 7/2024/RM",
+      "text": "Město Litovel poskytlo dar na provoz Pošty Partner v Cholině v roce 2024. RZ 8/2024//RM Město Litovel poskytlo dotaci na činnost místního sdružení Českého červeného kříže v obci Březové pro rok 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 9/2024/RM",
+      "text": "RM Litovel revokovala své usnesení č. 763/27 o poskytnutí daru Klubu litovelského pétanque a schválila dotaci Klubu litovelského pétanque na činnost klubu v roce 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._2_2024_schvalene_radou_mesta_litovel_dne_1._unora_2024..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 2/2024 schválené Radou města Litovel\ndne 1. února 2024.\nRozpočtové opatření bylo schváleno na 29.schůzi Rady města Litovel dne 1.února 2024 na základě usnesení\n792/29/2024, 793/29/2024, 794/29/2024, 795/29/2024 a 825/29/2024.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3429 5901 4 000 000 -8 000,00 Transfery dle rozhodnutí RM\n(RZ 5/2024/RM)\n3419 5499 310 4 000 000 8 000,00 T.R. - malá kopaná Buldog Unčovice\n(RZ 5/2024/RM)\n3429 5901 4 000 000 -10 000,00 Transfery dle rozhodnutí RM\n(RZ 6/2024/RM)\nSRP při ZŠ Jungmannova - organizační\n3429 5222 4 000 000 10 000,00\nzajištění dětského dne \"Minitoulky\"\n(RZ 6/2024/RM)\n3429 5901 4 000 000 -10 000,00 Transfery dle rozhodnutí RM\n(RZ 7/2024/RM)\n3900 5321 4 003 037 10 000,00\nobec Cholina - dar na provoz pošty\n(RZ 7/2024/RM)\n3429 5901 4 000 000 -20 000,00 Transfery dle rozhodnutí RM\n(RZ 8/2024/RM)\n3900 5492 305 4 000 000 20 000,00\nJ.K. - činnost místního sdružení ČČK v\nBřezovém (RZ 8/2024/RM)\n3429 5901 4 000 000 -4 000,00 Transfery dle rozhodnutí RM\n(RZ 9/2024/RM)\n3429 5222 4 000 000 4 000,00 Klub litovelského pétanque - činnost klubu\nv roce 2024 (RZ 9/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 5/2024/RM\nMěsto Litovel poskytlo dotaci družstvu malé kopané Buldog Unčovice na činnost v roce 2024.\nRZ 6/2024/RM\nMěsto Litovel poskytlo dotaci Spolku rodičů a přátel při ZŠ Jungmannova na organizační zajištění dětského\ndne „Minitoulky“, který se uskuteční dne 1.června 2024 a souhlasí s použitím znaku města na diplomech,\nkteré budou udělovány účastníkům akce a na pamětních listech, které budou předávány absolventům 9. tříd\nZŠ Jungmannova.\nRZ 7/2024/RM\nMěsto Litovel poskytlo dar na provoz Pošty Partner v Cholině v roce 2024.\nRZ 8/2024//RM\nMěsto Litovel poskytlo dotaci na činnost místního sdružení Českého červeného kříže v obci Březové pro\nrok 2024.\nRZ 9/2024/RM\nRM Litovel revokovala své usnesení č. 763/27 o poskytnutí daru Klubu litovelského pétanque a schválila\ndotaci Klubu litovelského pétanque na činnost klubu v roce 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 14 . 2. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

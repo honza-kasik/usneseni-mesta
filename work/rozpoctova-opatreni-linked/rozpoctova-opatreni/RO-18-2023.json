@@ -1,0 +1,354 @@
+{
+  "id": "RO/18/2023",
+  "number": 18,
+  "year": 2023,
+  "approval_date": "2023-10-12",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 22,
+    "type": "schůzi",
+    "date": "2023-10-12"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "100/2023/RM",
+    "101/2023/RM",
+    "102/2023/RM",
+    "103/2023/RM",
+    "94/2023/RM",
+    "95/2023/RM",
+    "96/2023/RM",
+    "97/2023/RM",
+    "98/2023/RM",
+    "99/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "94/2023/RM",
+          "raw_codes": [
+            "4116",
+            "170515017",
+            "7 000 789"
+          ],
+          "amount": "162 450,00",
+          "amount_value": 162450.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 94/2023/RM"
+        },
+        {
+          "budget_change_id": "94/2023/RM",
+          "raw_codes": [
+            "4116",
+            "170115017",
+            "7 000 789"
+          ],
+          "amount": "34 114,00",
+          "amount_value": 34114.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 94/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "94/2023/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "310",
+            "7 000 790"
+          ],
+          "amount": "196 564,00",
+          "amount_value": 196564.0,
+          "description": "Výsadba dřevin (RZ 94/2023/RM"
+        },
+        {
+          "budget_change_id": "95/2023/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 410,00",
+          "amount_value": -25410.0,
+          "description": "ŠKS - Ostatní záležitosti odboru školství (opravy hřišť a budov, posudky,audity, projekty a ostatní výdaje) (RZ 95/2023/RM"
+        },
+        {
+          "budget_change_id": "95/2023/RM",
+          "raw_codes": [
+            "3111",
+            "6121",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "25 410,00",
+          "amount_value": 25410.0,
+          "description": "ŠKS - MŠ Gemerská - projektová dokumentace akumulační nádrž (RZ 95/2023/RM"
+        },
+        {
+          "budget_change_id": "96/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-55 980,00",
+          "amount_value": -55980.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 96/2023/RM"
+        },
+        {
+          "budget_change_id": "96/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "27 990,00",
+          "amount_value": 27990.0,
+          "description": "ŠKS - ZŠ Vítězná - projekt Příběhy našich sousedů (RZ 96/2023/RM"
+        },
+        {
+          "budget_change_id": "96/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "27 990,00",
+          "amount_value": 27990.0,
+          "description": "ŠKS - ZŠ Jungmannova - projekt Příběhy našich sousedů (RZ 96/2023/RM"
+        },
+        {
+          "budget_change_id": "97/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 97/2023/RM"
+        },
+        {
+          "budget_change_id": "97/2023/RM",
+          "raw_codes": [
+            "3525",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Hospic na Svatém kopečku - činnost hospice v roce 2023 (RZ 97/2023/RM"
+        },
+        {
+          "budget_change_id": "98/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "307"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "SDH Chořelice - zakoupení drobných předmětů pro děti v rámci lampionového průvodu (RZ 98/2023/RM"
+        },
+        {
+          "budget_change_id": "99/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 99/2023/RM"
+        },
+        {
+          "budget_change_id": "99/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "TAJV z.s. Sportovní den mládeže (RZ 99/2023/RM"
+        },
+        {
+          "budget_change_id": "100/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 100/2023/RM"
+        },
+        {
+          "budget_change_id": "100/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "R.C. - dotace na činnost družstva malé kopané Koník Litovel (RZ 100/2023/RM"
+        },
+        {
+          "budget_change_id": "101/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 101/2023/RM"
+        },
+        {
+          "budget_change_id": "101/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "D.K. - dotace pro družstvo malé kopané FC Chořelice na činnost (RZ 101/2023/RM"
+        },
+        {
+          "budget_change_id": "102/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 102/2023/RM"
+        },
+        {
+          "budget_change_id": "102/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "309",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "FC NASA,z.s. - činnost spolku (RZ 102/2023/RM"
+        },
+        {
+          "budget_change_id": "103/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 103/2023/RM"
+        },
+        {
+          "budget_change_id": "103/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "V.V. - pietní akt ke vzniku republiky (RZ 103/2023/RM"
+        },
+        {
+          "budget_change_id": "98/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 98/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 94/2023/RM",
+      "text": "Na účet města Litovel byla připsaná částka od Krajského úřadu Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci od Agentury ochrany přírody a krajiny ČR na realizaci projektu Liniové výsadby dřevin u Litovle (k.ú. Unčovice) v rámci Národního plánu obnovy."
+    },
+    {
+      "title": "Rozpočtová změna č. 95/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 95/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků",
+      "text": "z položky ostatních záležitostí odboru školství na PD akumulační nádrže v MŠ Gemerská."
+    },
+    {
+      "title": "Rozpočtová změna č. 96/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 96/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků",
+      "text": "z položky obecných rezerv na smlouvy o spolupráci při zajištění kulturně – vzdělávacího projektu Příběhy našich sousedů mezi městem Litovel a Post Bellum, z.ú. a to pro ZŠ Vítězná a ZŠ Jungmannova."
+    },
+    {
+      "title": "Rozpočtová změna č. 97/2023/RM",
+      "text": "Město Litovel poskytlo dar Hospici na Svatém Kopečku na činnost v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 98/2023/RM",
+      "text": "Město Litovel poskytlo dar SDH Chořelice na zakoupení drobných předmětů pro děti v rámci lampionového průvodu, který se konal dne 27.9.2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 99/2023/RM",
+      "text": "Město Litovel poskytlo dar spolku TAJV, z.s. na organizační zajištění Sportovního dne mládeže, který se uskuteční 24.10.2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 100/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana R.C. dotaci na činnost družstva malé kopané Koník Litovel v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 101/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana D.K. dotaci družstvu malé kopané FC Chořelice na činnost v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 102/2023/RM",
+      "text": "Město Litovel poskytlo dotaci spolku FC NASA na činnost v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 103/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana V.V. dar na organizační zajištění pietního aktu k založení ČR, který se uskuteční 27. října 2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._18_2023_schvalene_radou_mesta_litovel_dne_12._rijna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 18/2023 schválené Radou města Litovel\ndne 12. října 2023.\nRozpočtové opatření bylo schváleno na 22. schůzi Rady města Litovel dne 12. října 2023 na základě usnesení\n613/22/2023,614/22/2023,615/22/2023,616/22/2023,617/22/2023,618/22/2023,627/22/2023 a 646/22/2023.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijatá účelová neinvestiční dotace (RZ\n4116 170515017 7 000 789 162 450,00\n94/2023/RM)\nPřijatá účelová neinvestiční dotace (RZ\n4116 170115017 7 000 789 34 114,00\n94/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3745 5169 310 7 000 790 196 564,00 Výsadba dřevin (RZ 94/2023/RM)\nŠKS - Ostatní záležitosti odboru\n3319 5901 4 000 000 -25 410,00 školství (opravy hřišť a budov,\nposudky,audity, projekty a ostatní\nvýdaje) (RZ 95/2023/RM)\nŠKS - MŠ Gemerská - projektová\n3111 6121 48 4 000 000 25 410,00 dokumentace akumulační nádrž\n(RZ 95/2023/RM)\n3429 5901 4 000 000 -55 980,00 Transfery dle rozhodnutí RM (RZ\n96/2023/RM)\n3113 5169 45 4 000 000 27 990,00 ŠKS - ZŠ Vítězná - projekt Příběhy\nnašich sousedů (RZ 96/2023/RM)\nŠKS - ZŠ Jungmannova - projekt\n3113 5169 46 4 000 000 27 990,00 Příběhy našich sousedů (RZ\n96/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM (RZ\n97/2023/RM)\nHospic na Svatém kopečku -\n3525 5221 4 000 000 5 000,00 činnost hospice v roce 2023 (RZ\n97/2023/RM)\n3429 5901 4 000 000 -2 500,00 Transfery dle rozhodnutí RM (RZ\n98/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSDH Chořelice - zakoupení\n3429 5222 307 4 000 000 2 500,00 drobných předmětů pro děti v rámci\nlampionového průvodu (RZ\n98/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM (RZ\n99/2023/RM)\n3419 5222 4 000 000 5 000,00 TAJV z.s. Sportovní den mládeže\n(RZ 99/2023/RM)\n3429 5901 4 000 000 -7 000,00 Transfery dle rozhodnutí RM (RZ\n100/2023/RM)\nR.C. - dotace na činnost družstva\n3419 5499 4 000 000 7 000,00 malé kopané Koník Litovel (RZ\n100/2023/RM)\n3429 5901 4 000 000 -7 000,00 Transfery dle rozhodnutí RM (RZ\n101/2023/RM)\nD.K. - dotace pro družstvo malé\n3419 5499 307 4 000 000 7 000,00 kopané FC Chořelice na činnost\n(RZ 101/2023/RM)\n3429 5901 4 000 000 -7 000,00 Transfery dle rozhodnutí RM (RZ\n102/2023/RM)\nFC NASA,z.s. - činnost spolku (RZ\n3419 5222 309 4 000 000 7 000,00\n102/2023/RM)\n3429 5901 4 000 000 -2 500,00 Transfery dle rozhodnutí RM (RZ\n103/2023/RM)\n3900 5492 307 4 000 000 2 500,00 V.V. - pietní akt ke vzniku\nrepubliky (RZ 103/2023/RM)\nRZ 94/2023/RM\nNa účet města Litovel byla připsaná částka od Krajského úřadu Olomouckého kraje. Jedná se o účelovou\nneinvestiční dotaci od Agentury ochrany přírody a krajiny ČR na realizaci projektu Liniové výsadby dřevin\nu Litovle (k.ú. Unčovice) v rámci Národního plánu obnovy.\nRZ 95/2023/RM\nRozpočtová změna č. 95/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků\nz položky ostatních záležitostí odboru školství na PD akumulační nádrže v MŠ Gemerská.\nRZ 96/2023/RM\nRozpočtová změna č. 96/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků\nz položky obecných rezerv na smlouvy o spolupráci při zajištění kulturně – vzdělávacího projektu Příběhy\nnašich sousedů mezi městem Litovel a Post Bellum, z.ú. a to pro ZŠ Vítězná a ZŠ Jungmannova.\nRZ 97/2023/RM\nMěsto Litovel poskytlo dar Hospici na Svatém Kopečku na činnost v roce 2023.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 98/2023/RM\nMěsto Litovel poskytlo dar SDH Chořelice na zakoupení drobných předmětů pro děti v rámci lampionového\nprůvodu, který se konal dne 27.9.2023.\nRZ 99/2023/RM\nMěsto Litovel poskytlo dar spolku TAJV, z.s. na organizační zajištění Sportovního dne mládeže, který se\nuskuteční 24.10.2023.\nRZ 100/2023/RM\nMěsto Litovel poskytlo na žádost pana R.C. dotaci na činnost družstva malé kopané Koník Litovel\nv roce 2023.\nRZ 101/2023/RM\nMěsto Litovel poskytlo na žádost pana D.K. dotaci družstvu malé kopané FC Chořelice na činnost\nv roce 2023.\nRZ 102/2023/RM\nMěsto Litovel poskytlo dotaci spolku FC NASA na činnost v roce 2023.\nRZ 103/2023/RM\nMěsto Litovel poskytlo na žádost pana V.V. dar na organizační zajištění pietního aktu k založení ČR,\nkterý se uskuteční 27. října 2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\np řijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 01. 11. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/627/22/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "94/2023/RM",
+        "95/2023/RM",
+        "96/2023/RM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "id": "RO/4/2022",
+  "number": 4,
+  "year": 2022,
+  "approval_date": "2022-03-10",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 71,
+    "type": "schůzi",
+    "date": "2022-03-10"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "29/2022/RM",
+    "30/2022/RM",
+    "31/2022/RM",
+    "32/2022/RM",
+    "33/2022/RM",
+    "34/2022/RM",
+    "35/2022/RM",
+    "36/2022/RM",
+    "37/2022/RM",
+    "38/2022/RM",
+    "39/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": []
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "301",
+            "3 000 301"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Myslechovice (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "302",
+            "3 000 302"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Chudobín (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "303",
+            "3 000 303"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Nová Ves (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "304",
+            "3 000 304"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Rozvadovice (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "305",
+            "3 000 305"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Březové (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "306",
+            "3 000 306"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Víska (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "307",
+            "3 000 307"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Chořelice (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "309",
+            "3 000 309"
+          ],
+          "amount": "575,00",
+          "amount_value": 575.0,
+          "description": "Sběr a svoz komunálního odpadu OV Nasobůrky (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "310",
+            "3 000 310"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Unčovice (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "311",
+            "3 000 311"
+          ],
+          "amount": "345,00",
+          "amount_value": 345.0,
+          "description": "Sběr a svoz komunálního odpadu OV Savín (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "35/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 35/2022/RM"
+        },
+        {
+          "budget_change_id": "35/2022/RM",
+          "raw_codes": [
+            "3599",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Společnost Zdravotní klaun- podporu činnosti (RZ 35/2022/RM"
+        },
+        {
+          "budget_change_id": "36/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "305",
+            "2 040 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Rezerva na požadavky OV (RZ 36/2022/RM"
+        },
+        {
+          "budget_change_id": "36/2022/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "305",
+            "2 040 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "ČČK Březové - podpora činnosti v roce 2022 (RZ 36/2022/RM"
+        },
+        {
+          "budget_change_id": "37/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 37/2022/RM"
+        },
+        {
+          "budget_change_id": "37/2022/RM",
+          "raw_codes": [
+            "4371",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Spolek Jdeme Autistům Naproti- podpora činnosti v roce 2022 (RZ 37/2022/RM"
+        },
+        {
+          "budget_change_id": "38/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-30 000,00",
+          "amount_value": -30000.0,
+          "description": "Unčovice - podpora místních spolků (RZ 38/2022/RM"
+        },
+        {
+          "budget_change_id": "38/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "TJ Sokol Unčovice-dotace na opravu a údržbu sport.areálu a činnost (RZ 38/2022/RM"
+        },
+        {
+          "budget_change_id": "39/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 39/2022/RM"
+        },
+        {
+          "budget_change_id": "39/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "Tatran Litovel-rozvoj hráče stolního tenisu (RZ 39/2022/RM"
+        },
+        {
+          "budget_change_id": "29/2022/RM",
+          "raw_codes": [],
+          "amount": "2 711,00",
+          "amount_value": 2711.0,
+          "description": "Převod nevyužitých prostředků na 6402 5364 48 4 000 000 2.711,00 kraj (RZ 29/2022/R Z ORJ ORG Kč Převod nevyužitých prostředků na 6402 5364 48 4 000 000 2.711,00 kraj (RZ 29/2022/RM"
+        },
+        {
+          "budget_change_id": "30/2022/RM",
+          "raw_codes": [],
+          "amount": "66 000,00",
+          "amount_value": 66000.0,
+          "description": "Výkon agendy SPOD 4339 5169 13010 5 000 568 66.000,00 (RZ 30/2022/R agendy SPOD 4339 5169 13010 5 000 568 66.000,00 (RZ 30/2022/RM"
+        },
+        {
+          "budget_change_id": "31/2022/RM",
+          "raw_codes": [],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Transfer dle rozhodnutí RM 3429 5901 4 000 000 -5.000,00 (RZ 31/2022/R fer dle rozhodnutí RM 3429 5901 4 000 000 -5.000,00 (RZ 31/2022/RM"
+        },
+        {
+          "budget_change_id": "32/2022/RM",
+          "raw_codes": [],
+          "amount": "3 680,00",
+          "amount_value": 3680.0,
+          "description": "Místnosti OV – ostatní služby, 3429 5169 302 3 000 000 -3.680,00 revize (RZ 32/2022/R osti OV – ostatní služby, 3429 5169 302 3 000 000 -3.680,00 revize (RZ 32/2022/RM"
+        },
+        {
+          "budget_change_id": "33/2022/RM",
+          "raw_codes": [],
+          "amount": "55 000,00",
+          "amount_value": 55000.0,
+          "description": "Chořelice – doplnění prvků 3412 6122 307 2 033 470 -55.000,00 dětského hřiště u bytovky (RZ 33/2022/R Litovel Chořelice – doplnění prvků 3412 6122 307 2 033 470 -55.000,00 dětského hřiště u bytovky (RZ 33/2022/RM"
+        },
+        {
+          "budget_change_id": "34/2022/RM",
+          "raw_codes": [],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Rezerva na krizová opatření 5213 5903 16 000 000 -300.000,00 (RZ 34/2022/R na krizová opatření 5213 5903 16 000 000 -300.000,00 (RZ 34/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 29/2022/RM",
+      "text": "Na účet města byla připsaná částka od MŠ Gemerská. Jedná se o vratku nevyužitých finanční prostředků na základě závěrečné zprávy k 31.12.2021. Město Litovel obdržené prostředky odeslalo na účet Olomouckého kraje."
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2022/RM",
+      "text": "Město Litovel obdrželo na základě rozhodnutí Úřadu práce ČR – Krajská pobočka v Olomouci státní příspěvek na výkon pěstounské péče za účelem pokrytí nákladů na zajišťování pomoci osobám pečujícím, osobám v evidenci a svěřeným dětem, jakož i provádění dohledu nad výkonem pěstounské péče."
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2022/RM",
+      "text": "Město Litovel poskytlo Klubu litovelského petanque dotaci na činnost v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 32/2022/RM",
+      "text": "Rozpočtová změna 32/2022/RM na základě odboru MHaSI řeší přesun finančních prostředků na pokrytí navýšení nákladů na svoz komunálního odpadu z objektů v jednotlivých místních částech."
+    },
+    {
+      "title": "Rozpočtová změna č. 33/2022/RM",
+      "text": "Na základě požadavku MHaSI se jedná o přesun finančních prostředků na odpovídající § k dané akci dle platné vyhlášky o rozpočtové skladbě."
+    },
+    {
+      "title": "Rozpočtová změna č. 34/2022/RM",
+      "text": "V souvislostí s aktuální situací plynoucí z dění na Ukrajině bude pravděpodobně i město Litovel mít výdaje spojené s příchodem Ukrajinských občanů, kteří byli nucení opustit svoji vlast a přišli do České republiky. Finanční prostředky z rozpočtové změny 34/2022/RM budou čerpány na řešení vzniklé situace."
+    },
+    {
+      "title": "Rozpočtová změna č. 35/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek společnosti Zdravotní klaun na podporu činnosti v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 36/2022/RM",
+      "text": "Město Litovel poskytlo místnímu sdružení ČČK v Březovém finanční příspěvek na podporu činnosti v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 37/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek spolku Jdeme Autistům Naproti na podporu činnosti v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 38/2022/RM",
+      "text": "Město Litovel poskytlo TJ Sokol Unčovice dotaci na opravu a údržbu sportovního areálu a na sportovní činnost. Předseda OV s navrženou částkou souhlasí."
+    },
+    {
+      "title": "Rozpočtová změna č. 39/2022/RM",
+      "text": "Město Litovel poskytlo na žádost pana Š. finanční příspěvek na sportovní rozvoj svého syna, hráče stolního tenisu Tatranu Litovel."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._4_2022_schvalene_radou_mesta_litovel_dne_10.brezna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 4/2022 schválené Radou města Litovel dne 10.března 2022.\nRozpočtové opatření bylo schváleno na 71. schůzi Rady města Litovel dne 10.března 2022 na základě usnesení\n2382/71, 2383/71, 2384/71, 2385/71, 2405/71, 2436/71 a 2438/71.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijatá vratka finančních\n3111 2229 48 2.711,00 prostředků, MŠ Gemerská\n(RZ 29/2022/RM)\nFinanční příspěvek na výkon\n4116 13010 66.000,00\nagendy SPOD (RZ 30/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPřevod nevyužitých prostředků na\n6402 5364 48 4 000 000 2.711,00\nkraj (RZ 29/2022/RM)\nVýkon agendy SPOD\n4339 5169 13010 5 000 568 66.000,00\n(RZ 30/2022/RM)\nTransfer dle rozhodnutí RM\n3429 5901 4 000 000 -5.000,00\n(RZ 31/2022/RM)\nKlub litovelského petaque - činnost\n3429 5222 4 000 000 5.000,00\nv roce 2022 (RZ 31/2022/RM)\nMístnosti OV – ostatní služby,\n3429 5169 302 3 000 000 -3.680,00\nrevize (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 301 3 000 301 345,00 OV Myslechovice (RZ\n32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 302 3 000 302 345,00\nOV Chudobín (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 303 3 000 303 345,00\nOV Nová Ves (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 304 3 000 304 345,00 OV Rozvadovice (RZ\n32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 305 3 000 305 345,00\nOV Březové (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 306 3 000 306 345,00\nOV Víska (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 307 3 000 307 345,00\nOV Chořelice (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 309 3 000 309 575,00\nOV Nasobůrky (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 310 3 000 310 345,00\nOV Unčovice (RZ 32/2022/RM)\nSběr a svoz komunálního odpadu\n3722 5169 311 3 000 311 345,00\nOV Savín (RZ 32/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nChořelice – doplnění prvků\n3412 6122 307 2 033 470 -55.000,00 dětského hřiště u bytovky\n(RZ 33/2022/RM)\nChořelice – doplnění prvků\n3421 6122 307 2 033 470 55.000,00 dětského hřiště u bytovky\n(RZ 33/2022/RM)\nRezerva na krizová opatření\n5213 5903 16 000 000 -300.000,00\n(RZ 34/2022/RM)\nHumanitární zahraniční pomoc\n6221 5xxx 16 000 000 300.000,00\npřímá (RZ 34/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 35/2022/RM)\nSpolečnost Zdravotní klaun-\n3599 5222 4 000 000 3 000,00 podporu činnosti\n(RZ 35/2022/RM)\nRezerva na požadavky OV\n3429 5901 305 2 040 000 -10 000,00\n(RZ 36/2022/RM)\nČČK Březové - podpora činnosti v\n3900 5492 305 2 040 000 10 000,00\nroce 2022 (RZ 36/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -25 000,00\n(RZ 37/2022/RM)\nSpolek Jdeme Autistům Naproti-\n4371 5222 4 000 000 25 000,00 podpora činnosti v roce 2022\n(RZ 37/2022/RM)\nUnčovice - podpora místních\n3429 5901 310 2 040 000 -30 000,00\nspolků (RZ 38/2022/RM)\nTJ Sokol Unčovice-dotace na\nopravu a údržbu sport.areálu a\n3419 5222 310 2 040 000 30 000,00\nčinnost\n(RZ 38/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -7 000,00\n(RZ 39/2022/RM)\nTatran Litovel-rozvoj hráče\n3419 5499 4 000 000 7 000,00\nstolního tenisu (RZ 39/2022/RM)\nRZ 29/2022/RM\nNa účet města byla připsaná částka od MŠ Gemerská. Jedná se o vratku nevyužitých finanční prostředků na základě závěrečné\nzprávy k 31.12.2021. Město Litovel obdržené prostředky odeslalo na účet Olomouckého kraje.\nRZ 30/2022/RM\nMěsto Litovel obdrželo na základě rozhodnutí Úřadu práce ČR – Krajská pobočka v Olomouci státní příspěvek na výkon\npěstounské péče za účelem pokrytí nákladů na zajišťování pomoci osobám pečujícím, osobám v evidenci a svěřeným dětem,\njakož i provádění dohledu nad výkonem pěstounské péče.\nRZ 31/2022/RM\nMěsto Litovel poskytlo Klubu litovelského petanque dotaci na činnost v roce 2022.\nRZ 32/2022/RM\nRozpočtová změna 32/2022/RM na základě odboru MHaSI řeší přesun finančních prostředků na pokrytí navýšení nákladů\nna svoz komunálního odpadu z objektů v jednotlivých místních částech.\nRZ 33/2022/RM\nNa základě požadavku MHaSI se jedná o přesun finančních prostředků na odpovídající § k dané akci dle platné vyhlášky o\nrozpočtové skladbě.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 34/2022/RM\nV souvislostí s aktuální situací plynoucí z dění na Ukrajině bude pravděpodobně i město Litovel mít výdaje spojené\ns příchodem Ukrajinských občanů, kteří byli nucení opustit svoji vlast a přišli do České republiky. Finanční prostředky z\nrozpočtové změny 34/2022/RM budou čerpány na řešení vzniklé situace.\nRZ 35/2022/RM\nMěsto Litovel poskytlo finanční příspěvek společnosti Zdravotní klaun na podporu činnosti v roce 2022.\nRZ 36/2022/RM\nMěsto Litovel poskytlo místnímu sdružení ČČK v Březovém finanční příspěvek na podporu činnosti v roce 2022.\nRZ 37/2022/RM\nMěsto Litovel poskytlo finanční příspěvek spolku Jdeme Autistům Naproti na podporu činnosti v roce 2022.\nRZ 38/2022/RM\nMěsto Litovel poskytlo TJ Sokol Unčovice dotaci na opravu a údržbu sportovního areálu a na sportovní činnost.\nPředseda OV s navrženou částkou souhlasí.\nRZ 39/2022/RM\nMěsto Litovel poskytlo na žádost pana Š. finanční příspěvek na sportovní rozvoj svého syna, hráče stolního tenisu Tatranu\nLitovel.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 30.3.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": []
+}

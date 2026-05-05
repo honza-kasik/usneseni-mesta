@@ -1,0 +1,211 @@
+{
+  "id": "RO/14/2022",
+  "number": 14,
+  "year": 2022,
+  "approval_date": "2022-08-18",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 81,
+    "type": "schůzi",
+    "date": "2022-08-18"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "100/2022/RM",
+    "88/2022/RM",
+    "89/2022/RM",
+    "90/2022/RM",
+    "91/2022/RM",
+    "92/2022/RM",
+    "93/2022/RM",
+    "94/2022/RM",
+    "95/2022/RM",
+    "96/2022/RM",
+    "97/2022/RM",
+    "98/2022/RM",
+    "99/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "89/2022/RM",
+          "raw_codes": [],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Účelová neinvestiční dotace z Olomouckého kraje – 4122 555 50.000,00 Litovelské slavnosti (RZ 89/2022/R ORJ ORG Kč Účelová neinvestiční dotace z Olomouckého kraje – 4122 555 50.000,00 Litovelské slavnosti (RZ 89/2022/RM"
+        },
+        {
+          "budget_change_id": "90/2022/RM",
+          "raw_codes": [],
+          "amount": "21 000,00",
+          "amount_value": 21000.0,
+          "description": "Účelová investiční dotace z Olomouckého kraje – JSDH 4222 415 21.000,00 Litovel Tři Dvory (RZ 90/2022/R á investiční dotace z Olomouckého kraje – JSDH 4222 415 21.000,00 Litovel Tři Dvory (RZ 90/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "88/2022/RM",
+          "raw_codes": [],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Unčovice – drobný dlouhodobý 3429 5137 310 2 030 000 -5.000,00 hmotný majetek (RZ 88/2022/R Z ORJ ORG Kč Unčovice – drobný dlouhodobý 3429 5137 310 2 030 000 -5.000,00 hmotný majetek (RZ 88/2022/RM"
+        },
+        {
+          "budget_change_id": "88/2022/RM",
+          "raw_codes": [],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Unčovice – výměna podlahových 3392 5171 310 2 033 465 20.000,00 krytin v Sokolovně (RZ 88/2022/R ce – výměna podlahových 3392 5171 310 2 033 465 20.000,00 krytin v Sokolovně (RZ 88/2022/RM"
+        },
+        {
+          "budget_change_id": "89/2022/RM",
+          "raw_codes": [],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Litovelské slavnosti – dotační 3319 5xxx 555 4 000 436 50.000,00 prostředky (RZ 89/2022/R lské slavnosti – dotační 3319 5xxx 555 4 000 436 50.000,00 prostředky (RZ 89/2022/RM"
+        },
+        {
+          "budget_change_id": "90/2022/RM",
+          "raw_codes": [],
+          "amount": "21 000,00",
+          "amount_value": 21000.0,
+          "description": "JSDH Litovel Tři Dvory – 5512 6xxx 415 15 000 000 21.000,00 dotační prostředky (RZ 90/2022/R itovel Tři Dvory – 5512 6xxx 415 15 000 000 21.000,00 dotační prostředky (RZ 90/2022/RM"
+        },
+        {
+          "budget_change_id": "91/2022/RM",
+          "raw_codes": [],
+          "amount": "65 000,00",
+          "amount_value": 65000.0,
+          "description": "Muzeum Litovel – dotační 3315 5xxx 34031 18 000 000 65.000,00 prostředky (RZ 91/2022/R Litovel – dotační 3315 5xxx 34031 18 000 000 65.000,00 prostředky (RZ 91/2022/RM"
+        },
+        {
+          "budget_change_id": "92/2022/RM",
+          "raw_codes": [],
+          "amount": "4 300,00",
+          "amount_value": 4300.0,
+          "description": "Březové – opravy 3429 5171 305 2 030 000 -4.300,00 (RZ 92/2022/R Litovel Březové – opravy 3429 5171 305 2 030 000 -4.300,00 (RZ 92/2022/RM"
+        },
+        {
+          "budget_change_id": "93/2022/RM",
+          "raw_codes": [],
+          "amount": "27 600,00",
+          "amount_value": 27600.0,
+          "description": "Chořelice – příprava sjezdu 3900 5169 307 2 030 000 -27.600,00 rodáků (RZ 93/2022/R ice – příprava sjezdu 3900 5169 307 2 030 000 -27.600,00 rodáků (RZ 93/2022/RM"
+        },
+        {
+          "budget_change_id": "94/2022/RM",
+          "raw_codes": [],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Savín – herní prvky na dětské 3421 6122 311 2 030 000 -60.000,00 hřiště pod KD (RZ 94/2022/R – herní prvky na dětské 3421 6122 311 2 030 000 -60.000,00 hřiště pod KD (RZ 94/2022/RM"
+        },
+        {
+          "budget_change_id": "95/2022/RM",
+          "raw_codes": [],
+          "amount": "27 900,00",
+          "amount_value": 27900.0,
+          "description": "Chořelice – příprava sjezdu 3900 5169 307 2 030 000 -27.900,00 rodáků (RZ 95/2022/R ice – příprava sjezdu 3900 5169 307 2 030 000 -27.900,00 rodáků (RZ 95/2022/RM"
+        },
+        {
+          "budget_change_id": "96/2022/RM",
+          "raw_codes": [],
+          "amount": "4 500,00",
+          "amount_value": 4500.0,
+          "description": "Chořelice – příprava sjezdu 3900 5169 307 2 030 000 -4.500,00 rodáků (RZ 96/2022/R lice – příprava sjezdu 3900 5169 307 2 030 000 -4.500,00 rodáků (RZ 96/2022/RM"
+        },
+        {
+          "budget_change_id": "97/2022/RM",
+          "raw_codes": [],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Transfery dle rozhodnutí RM 3429 5901 4 000 000 -20.000,00 (RZ 97/2022/R ery dle rozhodnutí RM 3429 5901 4 000 000 -20.000,00 (RZ 97/2022/RM"
+        },
+        {
+          "budget_change_id": "98/2022/RM",
+          "raw_codes": [],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Transfery dle rozhodnutí RM 3429 5901 4 000 000 -20.000,00 (RZ 98/2022/R ery dle rozhodnutí RM 3429 5901 4 000 000 -20.000,00 (RZ 98/2022/RM"
+        },
+        {
+          "budget_change_id": "99/2022/RM",
+          "raw_codes": [],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Transfery dle rozhodnutí RM 3429 5901 4 000 000 -5.000,00 (RZ 99/2022/R fery dle rozhodnutí RM 3429 5901 4 000 000 -5.000,00 (RZ 99/2022/RM"
+        },
+        {
+          "budget_change_id": "100/2022/RM",
+          "raw_codes": [],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Transfery dle rozhodnutí RM 3429 5901 306 2 040 000 -5.000,00 (RZ 100/2022/R fery dle rozhodnutí RM 3429 5901 306 2 040 000 -5.000,00 (RZ 100/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 88/2022/RM",
+      "text": "Na základě podkladů z odboru MHaSI dle požadavku OV Unčovice byly přesunuty finanční prostředky z běžných výdajů určených k nákupu materiálu a služeb na výměnu podlahových krytin v Sokolovně v Unčovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 89/2022/RM",
+      "text": "Na účet města Litovel byla připsaná od KÚ Olomouckého kraje účelová neinvestiční dotace na částečnou úhradu výdajů na akci „Litovelské slavnosti v rámci Dnů evropského dědictví a výročí 770 let města Litovel „."
+    },
+    {
+      "title": "Rozpočtová změna č. 90/2022/RM",
+      "text": "Na účet města Litovel byla připsaná od KÚ Olomouckého kraje účelová neinvestiční dotace na částečnou úhradu výdajů na pořízení, technické zhodnocení a opravu požární techniky, na nákup věcného vybavení a zajištění akceschopnosti JSDH Litovel Tři Dvory."
+    },
+    {
+      "title": "Rozpočtová změna č. 91/2022/RM",
+      "text": "Na účet města Litovel byla připsaná od Ministerstva kultury ČR účelová neinvestiční dotace na realizaci projektu poskytnutého v rámci programu Integrovaný systém ochrany movitého kulturního dědictví II v části D – Preventivní ochrana před nepříznivými vlivy prostředí."
+    },
+    {
+      "title": "Rozpočtová změna č. 92/2022/RM",
+      "text": "Město Litovel poskytlo na základě podkladů z odboru MHaSI dle požadavku OV Březové finanční prostředky na pořízení pergoly k unimobuňce na hřišti v Březové."
+    },
+    {
+      "title": "Rozpočtová změna č. 93/2022/RM",
+      "text": "Město Litovel poskytlo na základě podkladů z odboru MHaSI dle požadavku OV Chořelice finanční prostředky na pořízení drobného hmotného majetku."
+    },
+    {
+      "title": "Rozpočtová změna č. 94/2022/RM",
+      "text": "Město Litovel poskytlo na základě podkladů MHaSI dle požadavku OV Savín finanční prostředky na opravu fasády KD ve dvorní části."
+    },
+    {
+      "title": "Rozpočtová změna č. 95/2022/RM",
+      "text": "Město Litovel poskytlo na základě podkladů MHaSI dle požadavku OV Chořelice finanční prostředky na zakoupení světelné tabule na fotbal v ulici Chořelice."
+    },
+    {
+      "title": "Rozpočtová změna č. 96/2022/RM",
+      "text": "Město Litovel poskytlo na základě podkladů MHaSI dle požadavku OV Chořelice finanční prostředky na vybudování hydrantového přívodu vody ze studny pro hasičskou dráhu."
+    },
+    {
+      "title": "Rozpočtová změna č. 97/2022/RM",
+      "text": "Z důvodu zdražení cen pohonných hmot poskytlo město Litovel na žádost pana S. dotaci spolku Akselit, který zajišťuje přepravu litovelských seniorů."
+    },
+    {
+      "title": "Rozpočtová změna č. 98/2022/RM",
+      "text": "Město Litovel poskytlo mažoretkám Linetbells Litovel finanční podporu na účast v ME v Chorvatsku v září 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 99/2022/RM",
+      "text": "Na žádost pana C. poskytlo město Litovel finanční příspěvek na pořízení dresů pro šipkařský klub „ Moravans Litovel“."
+    },
+    {
+      "title": "Rozpočtová změna č. 100/2022/RM",
+      "text": "Město Litovel poskytlo na žádost velitele SDH Víska finanční dar na organizační zajištění hasičské soutěže veteránů „ O pravyho kohóta z Viske“, který se konal 5.7.2022 ve Vísce."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._14_2022_schvalene_radou_mesta_litovel_dne_18.srpna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 14/2022 schválené Radou města Litovel dne 18.srpna 2022.\nRozpočtové opatření bylo schváleno na 81. schůzi Rady města Litovel dne 18.srpna 2022 na základě usnesení\n2702/81,2703/81,2704/81,2705/81 a 2736/81.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace\nz Olomouckého kraje –\n4122 555 50.000,00\nLitovelské slavnosti\n(RZ 89/2022/RM)\nÚčelová investiční dotace\nz Olomouckého kraje – JSDH\n4222 415 21.000,00\nLitovel Tři Dvory\n(RZ 90/2022/RM)\nÚčelová neinvestiční dotace\n4116 34031 65.000,00\nz MK ČR (RZ 91/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nUnčovice – drobný dlouhodobý\n3429 5137 310 2 030 000 -5.000,00 hmotný majetek\n(RZ 88/2022/RM)\nUnčovice – zpracování dat\n3429 5168 310 2 030 000 -5.000,00\n(RZ 88/2022/RM)\nUnčovice – nákup ostatních\n3429 5169 310 2 030 000 -5.000,00\nslužeb (RZ 88/2022/RM)\nUnčovice – opravy a udržování\n3429 5171 310 2 030 000 -5.000,00\n(RZ 88/2022/RM)\nUnčovice – výměna podlahových\n3392 5171 310 2 033 465 20.000,00 krytin v Sokolovně\n(RZ 88/2022/RM)\nLitovelské slavnosti – dotační\n3319 5xxx 555 4 000 436 50.000,00\nprostředky (RZ 89/2022/RM)\nJSDH Litovel Tři Dvory –\n5512 6xxx 415 15 000 000 21.000,00 dotační prostředky\n(RZ 90/2022/RM)\nMuzeum Litovel – dotační\n3315 5xxx 34031 18 000 000 65.000,00\nprostředky (RZ 91/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nBřezové – opravy\n3429 5171 305 2 030 000 -4.300,00\n(RZ 92/2022/RM)\nBřezové – pergola k unimobuňce\n3412 5137 305 2 030 000 4.300,00\nna hřišti (RZ 92/2022/RM)\nChořelice – příprava sjezdu\n3900 5169 307 2 030 000 -27.600,00\nrodáků (RZ 93/2022/RM)\nChořelice – drobný hmotný\n3429 5137 307 2 030 000 27.600,00\nmajetek (RZ 93/2022/RM)\nSavín – herní prvky na dětské\n3421 6122 311 2 030 000 -60.000,00\nhřiště pod KD (RZ 94/2022/RM)\nSavín – fasáda KD ve dvorní\n3392 6121 311 2 030 000 60.000,00\nčásti (RZ 94/2022/RM)\nChořelice – příprava sjezdu\n3900 5169 307 2 030 000 -27.900,00\nrodáků (RZ 95/2022/RM)\nChořelice – drobný hmotný\n3412 5137 307 2 030 000 27.900,00\nmajetek (RZ 95/2022/RM)\nChořelice – příprava sjezdu\n3900 5169 307 2 030 000 -4.500,00\nrodáků (RZ 96/2022/RM)\nChořelice – hydrantový přívod\n5512 6121 307 2 030 000 4.500,00\nvody (RZ 96/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -20.000,00\n(RZ 97/2022/RM)\nSlužby pro obyvatelstvo\n3900 5222 4 000 000 20.000,00\n(RZ 97/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -20.000,00\n(RZ 98/2022/RM)\nMažoretky Linetbells Litovel\n3421 5222 4 000 000 20.000,00\n(RZ 98/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5.000,00\n(RZ 99/2022/RM)\nostatní neinvestiční transfery\n3419 5499 4 000 000 5.000,00\nobyvatelstvu (RZ 99/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 306 2 040 000 -5.000,00\n(RZ 100/2022/RM)\nSDH Víska - příspěvek na\n3929 5222 306 2 040 000 5.000,00 hasičské závody\n(RZ 100/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 88/2022/RM\nNa základě podkladů z odboru MHaSI dle požadavku OV Unčovice byly přesunuty finanční prostředky z běžných\nvýdajů určených k nákupu materiálu a služeb na výměnu podlahových krytin v Sokolovně v Unčovicích.\nRZ 89/2022/RM\nNa účet města Litovel byla připsaná od KÚ Olomouckého kraje účelová neinvestiční dotace na částečnou úhradu\nvýdajů na akci „Litovelské slavnosti v rámci Dnů evropského dědictví a výročí 770 let města Litovel „.\nRZ 90/2022/RM\nNa účet města Litovel byla připsaná od KÚ Olomouckého kraje účelová neinvestiční dotace na částečnou úhradu\nvýdajů na pořízení, technické zhodnocení a opravu požární techniky, na nákup věcného vybavení a zajištění\nakceschopnosti JSDH Litovel Tři Dvory.\nRZ 91/2022/RM\nNa účet města Litovel byla připsaná od Ministerstva kultury ČR účelová neinvestiční dotace na realizaci projektu\nposkytnutého v rámci programu Integrovaný systém ochrany movitého kulturního dědictví II v části D –\nPreventivní ochrana před nepříznivými vlivy prostředí.\nRZ 92/2022/RM\nMěsto Litovel poskytlo na základě podkladů z odboru MHaSI dle požadavku OV Březové finanční prostředky na\npořízení pergoly k unimobuňce na hřišti v Březové.\nRZ 93/2022/RM\nMěsto Litovel poskytlo na základě podkladů z odboru MHaSI dle požadavku OV Chořelice finanční prostředky\nna pořízení drobného hmotného majetku.\nRZ 94/2022/RM\nMěsto Litovel poskytlo na základě podkladů MHaSI dle požadavku OV Savín finanční prostředky na opravu\nfasády KD ve dvorní části.\nRZ 95/2022/RM\nMěsto Litovel poskytlo na základě podkladů MHaSI dle požadavku OV Chořelice finanční prostředky na\nzakoupení světelné tabule na fotbal v ulici Chořelice.\nRZ 96/2022/RM\nMěsto Litovel poskytlo na základě podkladů MHaSI dle požadavku OV Chořelice finanční prostředky na\nvybudování hydrantového přívodu vody ze studny pro hasičskou dráhu.\nRZ 97/2022/RM\nZ důvodu zdražení cen pohonných hmot poskytlo město Litovel na žádost pana S. dotaci spolku Akselit, který\nzajišťuje přepravu litovelských seniorů.\nRZ 98/2022/RM\nMěsto Litovel poskytlo mažoretkám Linetbells Litovel finanční podporu na účast v ME v Chorvatsku v září 2022.\nRZ 99/2022/RM\nNa žádost pana C. poskytlo město Litovel finanční příspěvek na pořízení dresů pro šipkařský klub „ Moravans\nLitovel“.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 100/2022/RM\nMěsto Litovel poskytlo na žádost velitele SDH Víska finanční dar na organizační zajištění hasičské soutěže\nveteránů „ O pravyho kohóta z Viske“, který se konal 5.7.2022 ve Vísce.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 6.9.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

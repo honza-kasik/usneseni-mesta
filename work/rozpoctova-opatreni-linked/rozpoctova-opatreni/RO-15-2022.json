@@ -1,0 +1,124 @@
+{
+  "id": "RO/15/2022",
+  "number": 15,
+  "year": 2022,
+  "approval_date": "2022-09-06",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 82,
+    "type": "schůzi",
+    "date": "2022-09-06"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "101/2022/RM",
+    "102/2022/RM",
+    "103/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "101/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "311",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Savín - podpora místních spolků (RZ 101/2022/RM"
+        },
+        {
+          "budget_change_id": "101/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Savín - dar na organizační zajištění dne pro děti (RZ 101/2022/RM"
+        },
+        {
+          "budget_change_id": "102/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 102/2022/RM"
+        },
+        {
+          "budget_change_id": "102/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Ostatní neinv.transfery obyvatelstvu-činnost šipkařského klubu (RZ 102/2022/RM"
+        },
+        {
+          "budget_change_id": "103/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 103/2022/RM"
+        },
+        {
+          "budget_change_id": "103/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Dotace na činnost družstva malé kopané Koník Litovel (RZ 103/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 101/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek SDH Savín na organizační zajištění dne pro děti, který se konal 3.září 2022 v Savíně . OV Savín s příspěvkem souhlasí."
+    },
+    {
+      "title": "Rozpočtová změna č. 102/2022/RM",
+      "text": "Město Litovel poskytlo na žádost pana H. příspěvek na podporu činnosti šipkařského klubu „Klikaři Litovel“."
+    },
+    {
+      "title": "Rozpočtová změna č. 103/2022/RM",
+      "text": "Na žádost pana P.N. poskytlo město Litovel finanční příspěvek na činnost družstva malé kopané Koník Litovel, který bude použit na činnost družstva v novém ročníku soutěže."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._15_2022_schvalene_radou_mesta_litovel_dne_6.zari_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 15/2022 schválené Radou města Litovel dne 6.září 2022.\nRozpočtové opatření bylo schváleno na 82. schůzi Rady města Litovel dne 6.září 2022 na základě usnesení\n2738/82,2739/82 a 2740/2022.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nSavín - podpora místních spolků\n3429 5901 311 2 040 000 -5 000,00\n(RZ 101/2022/RM)\nSDH Savín - dar na organizační\n3429 5222 311 2 040 000 5 000,00 zajištění dne pro děti\n(RZ 101/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 102/2022/RM)\nOstatní neinv.transfery\nobyvatelstvu-činnost\n3419 5499 4 000 000 5 000,00\nšipkařského klubu\n(RZ 102/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -10 000,00\n(RZ 103/2022/RM)\nDotace na činnost družstva malé\n3419 5499 4 000 000 10 000,00 kopané Koník Litovel\n(RZ 103/2022/RM)\nRZ 101/2022/RM\nMěsto Litovel poskytlo finanční příspěvek SDH Savín na organizační zajištění dne pro děti, který se\nkonal 3.září 2022 v Savíně . OV Savín s příspěvkem souhlasí.\nRZ 102/2022/RM\nMěsto Litovel poskytlo na žádost pana H. příspěvek na podporu činnosti šipkařského klubu „Klikaři\nLitovel“.\nRZ 103/2022/RM\nNa žádost pana P.N. poskytlo město Litovel finanční příspěvek na činnost družstva malé kopané Koník\nLitovel, který bude použit na činnost družstva v novém ročníku soutěže.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 19.9.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": []
+}

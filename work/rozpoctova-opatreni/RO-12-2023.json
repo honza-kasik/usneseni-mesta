@@ -1,0 +1,249 @@
+{
+  "id": "RO/12/2023",
+  "number": 12,
+  "year": 2023,
+  "approval_date": "2023-06-22",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 15,
+    "type": "schůzi",
+    "date": "2023-06-22"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "54/2023/RM",
+    "55/2023/RM",
+    "56/2023/RM",
+    "57/2023/RM",
+    "58/2023/RM",
+    "59/2023/RM",
+    "60/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "54/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Myslechovice - nákup služeb (RZ 54/2023/RM"
+        },
+        {
+          "budget_change_id": "54/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-5 964,00",
+          "amount_value": -5964.0,
+          "description": "Myslechovice – materiál (RZ 54/2023/RM"
+        },
+        {
+          "budget_change_id": "54/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-14 893,00",
+          "amount_value": -14893.0,
+          "description": "Myslechovice - nákup služeb (RZ 54/2023/RM"
+        },
+        {
+          "budget_change_id": "54/2023/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "301",
+            "2 033 470"
+          ],
+          "amount": "30 857,00",
+          "amount_value": 30857.0,
+          "description": "Myslechovice - doplatek na herní prvek (RZ 54/2023/RM"
+        },
+        {
+          "budget_change_id": "55/2023/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 621"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Litovel Sušilova ulice - parkoviště (RZ 55/2023/RM"
+        },
+        {
+          "budget_change_id": "55/2023/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 000 334"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Koupaliště Litovel - dokončení brouzdaliště (RZ 55/2023/RM"
+        },
+        {
+          "budget_change_id": "56/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 56/2023/RM"
+        },
+        {
+          "budget_change_id": "56/2023/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "SDH Savín - organizační zajištění hasičské soutěže veteránů (RZ 56/2023/RM"
+        },
+        {
+          "budget_change_id": "57/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 57/2023/RM"
+        },
+        {
+          "budget_change_id": "57/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "T.R. dar na organizační zajištění turnaje v nohejbale (RZ 57/2023/RM"
+        },
+        {
+          "budget_change_id": "58/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-6 900,00",
+          "amount_value": -6900.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 58/2023/RM"
+        },
+        {
+          "budget_change_id": "58/2023/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "6 900,00",
+          "amount_value": 6900.0,
+          "description": "Mažoretky Linetbells Litovel - příspěvek na účast na MS v Chorvatsku (RZ 58/2023/RM"
+        },
+        {
+          "budget_change_id": "59/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-9 000,00",
+          "amount_value": -9000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 59/2023/RM"
+        },
+        {
+          "budget_change_id": "59/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "9 000,00",
+          "amount_value": 9000.0,
+          "description": "V.J. -výstava studentských projektů (RZ 59/2023/RM"
+        },
+        {
+          "budget_change_id": "60/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 60/2023/RM"
+        },
+        {
+          "budget_change_id": "60/2023/RM",
+          "raw_codes": [],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "TJ Sokol Unčovice - dotace na opravu a údržbu sportovního areálu a činnost (RZ 60/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 54/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2023/RM řeší přesun finančních prostředků pro OV Myslechovice na doplatek",
+      "text": "herního prvku na dětském hřišti v Myslechovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2023/RM řeší dle požadavku odboru MHaSI přesun finančních prostředků na",
+      "text": "dokončení brouzdaliště na koupališti v Litovli a zařazení na odpovídající § a ORG."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2023/RM",
+      "text": "Město Litovel poskytlo SDH Savín finanční příspěvek na organizační zajištění hasičské soutěže veteránů, která se konala 24.června 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 57/2023/RM",
+      "text": "Město Litovel poskytlo na základě požadavku pana T.R. finanční příspěvek na organizační zajištění turnaje v nohejbale dne 1.7.2023 v Unčovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 58/2023/RM",
+      "text": "Město Litovel poskytlo dotaci spolku Mažoretky Linetbells Litovel na částečnou úhradu nákladů spojených s účastí týmu mažoretek na Mistrovství světa WAMT, které se konalo v červnu 2023 v Chorvatsku."
+    },
+    {
+      "title": "Rozpočtová změna č. 59/2023/RM",
+      "text": "Město Litovel poskytlo na žádost MgA.Ing arch. V.J. Olomouc dotaci na úhradu nákladů spojených s organizačním zajištěním výstavy studentských projektů možného využití bývalých skladových prostor v ul. B.Němcové v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 60/2023/RM",
+      "text": "Město Litovel poskytlo TJ Sokol Unčovice dotaci na opravu a údržbu sportovního areálu a činnost tělovýchovné jednoty v roce 2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._12_2023_schvalene_radou_mesta_litovel_dne_22._cervna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 12/2023 schválené Radou města Litovel dne 22. června 2023.\nRozpočtové opatření bylo schváleno na 15. schůzi Rady města Litovel dne 22. června 2023 na základě usnesení\n448/15/2023, 449/15/2023, 450/15/2023, 451/15/2023, 452/15/2023 a 460/15/2023.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nMyslechovice - nákup služeb\n3429 5169 301 2 030 000 -10 000,00\n(RZ 54/2023/RM)\nMyslechovice – materiál\n3429 5139 301 2 030 000 -5 964,00\n(RZ 54/2023/RM)\nMyslechovice - nákup služeb\n3392 5169 301 2 030 000 -14 893,00\n(RZ 54/2023/RM)\nMyslechovice - doplatek na herní\n3421 6122 301 2 033 470 30 857,00\nprvek (RZ 54/2023/RM)\nLitovel Sušilova ulice - parkoviště\n2219 6121 3 003 621 -100 000,00\n(RZ 55/2023/RM)\nKoupaliště Litovel - dokončení\n3412 6121 3 000 334 100 000,00\nbrouzdaliště (RZ 55/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 500,00\n(RZ 56/2023/RM)\nSDH Savín - organizační zajištění\n5512 5222 311 4 000 000 2 500,00 hasičské soutěže veteránů\n(RZ 56/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 500,00\n(RZ 57/2023/RM)\nT.R. dar na organizační zajištění\n3419 5492 310 4 000 000 2 500,00 turnaje v nohejbale\n(RZ 57/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -6 900,00\n(RZ 58/2023/RM)\nMažoretky Linetbells Litovel -\n3421 5222 4 000 000 6 900,00 příspěvek na účast na MS v\nChorvatsku (RZ 58/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -9 000,00\n(RZ 59/2023/RM)\nV.J. -výstava studentských projektů\n3900 5492 4 000 000 9 000,00\n(RZ 59/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -25 000,00\n(RZ 60/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTJ Sokol Unčovice - dotace na\n3419 5222 310 4 000 000 25 000,00 opravu a údržbu sportovního areálu a\nčinnost (RZ 60/2023/RM)\nRZ 54/2023/RM\nRozpočtová změna č. 54/2023/RM řeší přesun finančních prostředků pro OV Myslechovice na doplatek\nherního prvku na dětském hřišti v Myslechovicích.\nRZ 55/2023/RM\nRozpočtová změna č. 55/2023/RM řeší dle požadavku odboru MHaSI přesun finančních prostředků na\ndokončení brouzdaliště na koupališti v Litovli a zařazení na odpovídající § a ORG.\nRZ 56/2023/RM\nMěsto Litovel poskytlo SDH Savín finanční příspěvek na organizační zajištění hasičské soutěže veteránů,\nkterá se konala 24.června 2023.\nRZ 57/2023/RM\nMěsto Litovel poskytlo na základě požadavku pana T.R. finanční příspěvek na organizační zajištění turnaje\nv nohejbale dne 1.7.2023 v Unčovicích.\nRZ 58/2023/RM\nMěsto Litovel poskytlo dotaci spolku Mažoretky Linetbells Litovel na částečnou úhradu nákladů spojených\ns účastí týmu mažoretek na Mistrovství světa WAMT, které se konalo v červnu 2023 v Chorvatsku.\nRZ 59/2023/RM\nMěsto Litovel poskytlo na žádost MgA.Ing arch. V.J. Olomouc dotaci na úhradu nákladů spojených\ns organizačním zajištěním výstavy studentských projektů možného využití bývalých skladových prostor v\nul. B.Němcové v Litovli.\nRZ 60/2023/RM\nMěsto Litovel poskytlo TJ Sokol Unčovice dotaci na opravu a údržbu sportovního areálu a činnost\ntělovýchovné jednoty v roce 2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 11. 7. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

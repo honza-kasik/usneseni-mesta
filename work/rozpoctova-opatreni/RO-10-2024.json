@@ -1,0 +1,438 @@
+{
+  "id": "RO/10/2024",
+  "number": 10,
+  "year": 2024,
+  "approval_date": "2024-06-06",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "43/2024/RM",
+    "44/2024/RM",
+    "45/2024/RM",
+    "46/2024/RM",
+    "47/2024/RM",
+    "48/2024/RM",
+    "49/2024/RM",
+    "50/2024/RM",
+    "51/2024/RM",
+    "52/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "4111",
+            "98348"
+          ],
+          "amount": "564 000,00",
+          "amount_value": 564000.0,
+          "description": "Účelová neinvestiční dotace (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "45/2024/RM",
+          "raw_codes": [
+            "4216",
+            "17526"
+          ],
+          "amount": "605 000,00",
+          "amount_value": 605000.0,
+          "description": "Přijatá účelová investiční dotace (RZ 45/2024/RM"
+        },
+        {
+          "budget_change_id": "46/2024/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "7 494,00",
+          "amount_value": 7494.0,
+          "description": "Přijaté pojistné plnění (RZ 46/2024/RM"
+        },
+        {
+          "budget_change_id": "47/2024/RM",
+          "raw_codes": [
+            "4122",
+            "555"
+          ],
+          "amount": "118 000,00",
+          "amount_value": 118000.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 47/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5011",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Výdaje na volby do Evropského parlamentu-platy zaměstnanců (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5019",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Výdaje na volby do Evropského parlamentu - ostatní platy (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5021",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "343 000,00",
+          "amount_value": 343000.0,
+          "description": "Výdaje na volby do Evropského parlamentu - ost.osobní výdaje (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5029",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Výdaje na volby do Evropského parlamentu - ost. platby za prov.práci (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5031",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "Výdaje na volby do Evropského parlamentu-sociální pojištění (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5032",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Výdaje na volby do Evropského parlamentu - zdravotní pojištěn í(RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5039",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Výdaje na volby do Evropského parlamentu- ostatní povinné pojistné (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5139",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Výdaje na volby do Evropského parlamentu- m,ateriál (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5155",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Výdaje na volby do Evropského parlamentu- pevná paliva (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5156",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "Výdaje na volby do Evropského parlamentu- PHM (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5164",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "85 000,00",
+          "amount_value": 85000.0,
+          "description": "Výdaje na volby do Evropského parlamentu - nájemné (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "43/2024/RM",
+          "raw_codes": [
+            "6117",
+            "5169",
+            "98348",
+            "10 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Výdaje na volby do Evropského parlamentu - nákup ost. služeb (RZ 43/2024/RM"
+        },
+        {
+          "budget_change_id": "44/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-67 000,00",
+          "amount_value": -67000.0,
+          "description": "Místní části - nerozdělená částka ( RZ 44/2024/RM"
+        },
+        {
+          "budget_change_id": "44/2024/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "67 000,00",
+          "amount_value": 67000.0,
+          "description": "KD Nasobůrky - výměna svítidel (RZ 44/2024/RM"
+        },
+        {
+          "budget_change_id": "45/2024/RM",
+          "raw_codes": [
+            "6171",
+            "6125",
+            "17526",
+            "13 000 000"
+          ],
+          "amount": "605 000,00",
+          "amount_value": 605000.0,
+          "description": "IT vybavení pro zaměstnance stavebního úřadu (RZ 45/2024/RM"
+        },
+        {
+          "budget_change_id": "46/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5171",
+            "12 000 000"
+          ],
+          "amount": "7 494,00",
+          "amount_value": 7494.0,
+          "description": "Oprava střechy pohostinství ve Třech Dvorech (RZ 46/2024/RM"
+        },
+        {
+          "budget_change_id": "47/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "555",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "118 000,00",
+          "amount_value": 118000.0,
+          "description": "Převod účelové dotace Městskému klubu (RZ 47/2024/RM"
+        },
+        {
+          "budget_change_id": "48/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 48/2024/RM"
+        },
+        {
+          "budget_change_id": "48/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "T.R. - dar na organizační zajištění turnaje v nohejbale (RZ 48/2024/RM"
+        },
+        {
+          "budget_change_id": "49/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 49/2024/RM"
+        },
+        {
+          "budget_change_id": "50/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-6 000,00",
+          "amount_value": -6000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 50/2024/RM"
+        },
+        {
+          "budget_change_id": "50/2024/RM",
+          "raw_codes": [
+            "4350",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "ALZHEIMER HOME z.ú. - činnost soc.domova (RZ 50/2024/RM"
+        },
+        {
+          "budget_change_id": "51/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 51/2024/RM"
+        },
+        {
+          "budget_change_id": "51/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "TriBike Olomouc z.s. - organizační zajištění závodu (RZ 51/2024/RM"
+        },
+        {
+          "budget_change_id": "52/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-11 000,00",
+          "amount_value": -11000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 52/2024/RM"
+        },
+        {
+          "budget_change_id": "52/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5494",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "11 000,00",
+          "amount_value": 11000.0,
+          "description": "Unčovice - závody malých motocyků (RZ 52/2024/RM"
+        },
+        {
+          "budget_change_id": "50/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "311",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "SDH Savín - organizační zajištění hasičské soutěže veteránů a dětí (RZ 49/202/RM) Transfery dle rozhodnutí RM 3429 5901 4 000 000 -6 000,00 (RZ 50/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 43/2024/RM",
+      "text": "Na účet města Litovel v ČNB byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci, která je určena na úhradu výdajů vzniklých v souvislosti s konáním voleb do Evropského parlamentu ve dnech 7. a 8. června 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 44/2024/RM",
+      "text": "Rozpočtová změna na základě požadavku z odboru MHaSI řeší pokrytí nákladů na výměnu svítidel v kulturním domě v místní části Nasobůrky."
+    },
+    {
+      "title": "Rozpočtová změna č. 45/2024/RM",
+      "text": "Město Litovel obdrželo dle rozhodnutí Ministerstva pro místní rozvoj dotaci na IT vybavení pro zaměstnance stavebních úřadů. Dotace je poskytnuta ve výši 100%."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2024/RM",
+      "text": "Na účet města Litovel byla připsaná částka za pojistné plnění v důsledku škodní události na střeše pohostinství v místní části Tři Dvory."
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2024/RM",
+      "text": "Město Litovel obdrželo od Olomouckého kraje účelovou neinvestiční dotaci pro příspěvkovou organizaci města Městský klub Litovel na konání akce Hanácké Benátky 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 48/2024/RM",
+      "text": "Město Litovel poskytlo na žádost pana T.R. dar na organizační zajištění turnaje v nohejbale v Unčovicích, který se uskuteční 29.června 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 49/2024/RM",
+      "text": "Město Litovel poskytlo Sboru dobrovolných hasičů Savín dar na organizační zajištění hasičské soutěže veteránů a dětí, která se uskuteční 29.června 2024 v Savíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 50/2024/RM",
+      "text": "Město Litovel poskytlo dotaci společnosti ALZHEIMER HOME z.ú. na činnost domova v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 51/2024/RM",
+      "text": "Město Litovel poskytlo spolku TriBike Olomouc z.s. dotaci na organizační zajištění závodu a na celoroční provoz cyklistického týmu."
+    },
+    {
+      "title": "Rozpočtová změna č. 52/2024/RM",
+      "text": "Město Litovel poskytlo na žádost pana J.H. dotaci na zajištění závodů malých motocyklů, které se konaly 25. května 2024 v Unčovicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._10_2024_schvalene_radou_mesta_litovel_dne_6._cervna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 10/2024 schválené Radou města Litovel\ndne 6. června 2024.\nRozpočtové opatření bylo schváleno na 36.schůzi Rady města Litovel dne 6. června 2024 na základě usnesení\n1050/36/2024, 1051/36/2024, 1052/36/2024, 1053/36/2024, 1054/36/2024, 1072/36/2024 a 1088/36/2024.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\n4111 98348 564 000,00 Účelová neinvestiční dotace\n(RZ 43/2024/RM)\n4216 17526 605 000,00 Přijatá účelová investiční dotace\n(RZ 45/2024/RM)\nPřijaté pojistné plnění\n6320 2322 7 494,00\n(RZ 46/2024/RM)\nPřijatá účelová neinvestiční dotace\n4122 555 118 000,00\n(RZ 47/2024/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVýdaje na volby do Evropského\n6117 5011 98348 10 000 000 30 000,00 parlamentu-platy zaměstnanců\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5019 98348 10 000 000 10 000,00 parlamentu - ostatní platy\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5021 98348 10 000 000 343 000,00 parlamentu - ost.osobní výdaje\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5029 98348 10 000 000 2 000,00 parlamentu - ost. platby za prov.práci\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5031 98348 10 000 000 7 000,00 parlamentu-sociální pojištění\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5032 98348 10 000 000 4 000,00 parlamentu - zdravotní pojištěn\ní(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5039 98348 10 000 000 5 000,00 parlamentu- ostatní povinné pojistné\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5139 98348 10 000 000 25 000,00\nparlamentu- m,ateriál (RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5155 98348 10 000 000 10 000,00 parlamentu- pevná paliva\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5156 98348 10 000 000 6 000,00\nparlamentu- PHM (RZ 43/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVýdaje na volby do Evropského\n6117 5161 98348 10 000 000 2 000,00 parlamentu- poštovní služby\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5164 98348 10 000 000 85 000,00 parlamentu - nájemné\n(RZ 43/2024/RM)\nVýdaje na volby do Evropského\n6117 5169 98348 10 000 000 35 000,00 parlamentu - nákup ost. služeb\n(RZ 43/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -67 000,00\n( RZ 44/2024/RM)\nKD Nasobůrky - výměna svítidel\n3392 6121 309 2 030 000 67 000,00\n(RZ 44/2024/RM)\nIT vybavení pro zaměstnance\n6171 6125 17526 13 000 000 605 000,00\nstavebního úřadu (RZ 45/2024/RM)\nOprava střechy pohostinství ve Třech\n3639 5171 12 000 000 7 494,00\nDvorech (RZ 46/2024/RM)\nPřevod účelové dotace Městskému\n3392 5336 555 44 4 000 000 118 000,00\nklubu (RZ 47/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 48/2024/RM)\nT.R. - dar na organizační zajištění\n3419 5492 310 4 000 000 3 000,00\nturnaje v nohejbale (RZ 48/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 49/2024/RM)\nSDH Savín - organizační zajištění\n5512 5222 311 4 000 000 3 000,00 hasičské soutěže veteránů a dětí\n(RZ 49/202/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -6 000,00\n(RZ 50/2024/RM)\nALZHEIMER HOME z.ú. - činnost\n4350 5221 4 000 000 6 000,00\nsoc.domova (RZ 50/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -10 000,00\n(RZ 51/2024/RM)\nTriBike Olomouc z.s. - organizační\n3419 5222 4 000 000 10 000,00\nzajištění závodu (RZ 51/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -11 000,00\n(RZ 52/2024/RM)\nUnčovice - závody malých motocyků\n3419 5494 310 4 000 000 11 000,00\n(RZ 52/2024/RM)\nRZ 43/2024/RM\nNa účet města Litovel v ČNB byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční\ndotaci, která je určena na úhradu výdajů vzniklých v souvislosti s konáním voleb do Evropského parlamentu ve\ndnech 7. a 8. června 2024.\nRZ 44/2024/RM\nRozpočtová změna na základě požadavku z odboru MHaSI řeší pokrytí nákladů na výměnu svítidel v kulturním\ndomě v místní části Nasobůrky.\nRZ 45/2024/RM\nMěsto Litovel obdrželo dle rozhodnutí Ministerstva pro místní rozvoj dotaci na IT vybavení pro zaměstnance\nstavebních úřadů. Dotace je poskytnuta ve výši 100%.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 46/2024/RM\nNa účet města Litovel byla připsaná částka za pojistné plnění v důsledku škodní události na střeše pohostinství\nv místní části Tři Dvory.\nRZ 47/2024/RM\nMěsto Litovel obdrželo od Olomouckého kraje účelovou neinvestiční dotaci pro příspěvkovou organizaci\nměsta Městský klub Litovel na konání akce Hanácké Benátky 2024.\nRZ 48/2024/RM\nMěsto Litovel poskytlo na žádost pana T.R. dar na organizační zajištění turnaje v nohejbale v Unčovicích,\nkterý se uskuteční 29.června 2024.\nRZ 49/2024/RM\nMěsto Litovel poskytlo Sboru dobrovolných hasičů Savín dar na organizační zajištění hasičské soutěže\nveteránů a dětí, která se uskuteční 29.června 2024 v Savíně.\nRZ 50/2024/RM\nMěsto Litovel poskytlo dotaci společnosti ALZHEIMER HOME z.ú. na činnost domova v roce 2024.\nRZ 51/2024/RM\nMěsto Litovel poskytlo spolku TriBike Olomouc z.s. dotaci na organizační zajištění závodu a na celoroční\nprovoz cyklistického týmu.\nRZ 52/2024/RM\nMěsto Litovel poskytlo na žádost pana J.H. dotaci na zajištění závodů malých motocyklů, které se konaly\n25. května 2024 v Unčovicích.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 17. 6. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

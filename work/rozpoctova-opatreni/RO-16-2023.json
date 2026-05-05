@@ -1,0 +1,123 @@
+{
+  "id": "RO/16/2023",
+  "number": 16,
+  "year": 2023,
+  "approval_date": "2023-09-14",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 6,
+    "type": "zasedání",
+    "date": "2023-09-14"
+  },
+  "source_resolutions": [
+    "ZM/4/6/2023"
+  ],
+  "budget_change_ids": [
+    "108/2023/ZM",
+    "109/2023/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "108/2023/ZM",
+          "raw_codes": [
+            "1014",
+            "2329"
+          ],
+          "amount": "40 825,00",
+          "amount_value": 40825.0,
+          "description": "Ostatní nedaňové příjmy j.n. (RZ 108/2023/ZM"
+        },
+        {
+          "budget_change_id": "109/2023/ZM",
+          "raw_codes": [
+            "1014",
+            "2329"
+          ],
+          "amount": "360 000,00",
+          "amount_value": 360000.0,
+          "description": "Ostatní nedaňové příjmy j.n. (RZ 109/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "108/2023/ZM",
+          "raw_codes": [
+            "6409",
+            "5179",
+            "1 000 000"
+          ],
+          "amount": "40 825,00",
+          "amount_value": 40825.0,
+          "description": "Členský příspěvek MAS Moravská cesta (RZ 108/2023/ZM"
+        },
+        {
+          "budget_change_id": "109/2023/ZM",
+          "raw_codes": [
+            "3727",
+            "5649",
+            "7 000 000"
+          ],
+          "amount": "128 972,20",
+          "amount_value": 128972.2,
+          "description": "Prevence vzniku odpadů - MAS Moravská cesta - předfinancování projektu (RZ 109/2023/ZM"
+        },
+        {
+          "budget_change_id": "109/2023/ZM",
+          "raw_codes": [
+            "3727",
+            "6449",
+            "7 000 000"
+          ],
+          "amount": "86 245,48",
+          "amount_value": 86245.48,
+          "description": "Prevence vzniku odpadů - MAS Moravská cesta - předfinancování projektu (RZ 109/2023/ZM"
+        },
+        {
+          "budget_change_id": "109/2023/ZM",
+          "raw_codes": [
+            "3727",
+            "6349",
+            "7 003115"
+          ],
+          "amount": "15 219,79",
+          "amount_value": 15219.79,
+          "description": "Prevence vzniku odpadů - MAS Moravská cesta - předfinancování projektu (RZ 109/2023/ZM"
+        },
+        {
+          "budget_change_id": "109/2023/ZM",
+          "raw_codes": [
+            "3727",
+            "5329",
+            "7 003115"
+          ],
+          "amount": "22 759,80",
+          "amount_value": 22759.8,
+          "description": "Prevence vzniku odpadů - MAS Moravská cesta - předfinancování projektu (RZ 109/2023/ZM"
+        },
+        {
+          "budget_change_id": "109/2023/ZM",
+          "raw_codes": [
+            "3727",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "106 802,73",
+          "amount_value": 106802.73,
+          "description": "Prevence vzniku odpadů - MAS Moravská cesta - předfinancování projektu (RZ 109/2023/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.16_2023_schvalene_zm_litovel_dne_14.zari_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 16/2023 schválené Zastupitelstvem města Litovel\ndne 14.září 2023.\nRozpočtové opatření bylo schváleno na 6. zasedání Zastupitelstva města Litovel dne 14. září 2023 na základě\nusnesení ZM/4/6/2023.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nOstatní nedaňové příjmy j.n.\n1014 2329 40 825,00\n(RZ 108/2023/ZM)\nOstatní nedaňové příjmy j.n.\n1014 2329 360 000,00\n(RZ 109/2023/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n6409 5179 1 000 000 40 825,00 Členský příspěvek MAS Moravská cesta\n(RZ 108/2023/ZM)\nPrevence vzniku odpadů - MAS Moravská\n3727 5649 7 000 000 128 972,20 cesta - předfinancování projektu\n(RZ 109/2023/ZM)\nPrevence vzniku odpadů - MAS Moravská\n3727 6449 7 000 000 86 245,48 cesta - předfinancování projektu\n(RZ 109/2023/ZM)\nPrevence vzniku odpadů - MAS Moravská\n3727 6349 7 003115 15 219,79 cesta - předfinancování projektu\n(RZ 109/2023/ZM)\nPrevence vzniku odpadů - MAS Moravská\n3727 5329 7 003115 22 759,80 cesta - předfinancování projektu\n(RZ 109/2023/ZM)\nPrevence vzniku odpadů - MAS Moravská\n3727 5169 7 000 000 106 802,73 cesta - předfinancování projektu\n(RZ 109/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 108/2023/ZM – MAS Moravská cesta – členský příspěvek § 6409\nMěsto Litovel je členem MAS Moravská cesta, z.s .Rozpočtová změna č. 108/2023/ZM řeší úhradu členského\npříspěvku z.s. MAS Moravská cesta.\nRZ 109/2023/ZM – MAS Moravská cesta – členský příspěvek § 3727\nMěsto Litovel se spolupodílí s dalšími obcemi na projektu: Předcházení vzniku odpadů v obcích DSO Moravská\ncesta. Díky této dotaci město obdrží mimo jiné 5000 ks kelímků a dvě myčky. Tento projekt, stejně jako ostatní\nobce mikroregionu musí město předfinancovat.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 3. 10. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

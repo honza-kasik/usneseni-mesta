@@ -1,0 +1,395 @@
+{
+  "id": "RO/21/2024",
+  "number": 21,
+  "year": 2024,
+  "approval_date": "2024-11-14",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "113/2024/RM",
+    "114/2024/RM",
+    "115/2024/RM",
+    "116/2024/RM",
+    "117/2024/RM",
+    "118/2024/RM",
+    "119/2024/RM",
+    "120/2024/RM",
+    "121/2024/RM",
+    "122/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "114/2024/RM",
+          "raw_codes": [
+            "4122",
+            "114"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Účelová neinvestiční dotace od Ol. kraje pro ZŠ Vítězná – Talent olomouckého kraje 2024 /RZ 114/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "113/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-484 000,00",
+          "amount_value": -484000.0,
+          "description": "řešení následků povodňové situace (RZ 113/2024/RM"
+        },
+        {
+          "budget_change_id": "113/2024/RM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "308",
+            "3 900 000"
+          ],
+          "amount": "484 000,00",
+          "amount_value": 484000.0,
+          "description": "čistění toku v místní části Tři Dvory (RZ 113/2024/RM"
+        },
+        {
+          "budget_change_id": "114/2024/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "114",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "převod dotace pro ZŠ Vítězná - Talent Olomouckého kraje (RZ 114/2024/RM"
+        },
+        {
+          "budget_change_id": "115/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-300 000,00",
+          "amount_value": -300000.0,
+          "description": "řešení následků povodňové situace (RZ 115/2024/RM"
+        },
+        {
+          "budget_change_id": "115/2024/RM",
+          "raw_codes": [
+            "3314",
+            "5171",
+            "308",
+            "17 900 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Městská knihona - knihovna v mč Tři Dvory - opravy, DDHM, ... (RZ 115/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-31 838,27",
+          "amount_value": -31838.27,
+          "description": "řešení následků povodňové situace (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5169",
+            "3 900 000"
+          ],
+          "amount": "6 127,72",
+          "amount_value": 6127.72,
+          "description": "Litovel - výměna písku na dětských hřištích (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5139",
+            "3 900 000"
+          ],
+          "amount": "1 558,00",
+          "amount_value": 1558.0,
+          "description": "Litovel - výměna písku na dětských hřištích (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5169",
+            "304",
+            "3 900 000"
+          ],
+          "amount": "12 633,17",
+          "amount_value": 12633.17,
+          "description": "Rozvadovice - výměna písku na dětských hřištích (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5139",
+            "304",
+            "3 900 000"
+          ],
+          "amount": "4 441,67",
+          "amount_value": 4441.67,
+          "description": "Rozvadovice - výměna písku na dětských hřištích (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5169",
+            "307",
+            "3 900 000"
+          ],
+          "amount": "3 660,86",
+          "amount_value": 3660.86,
+          "description": "Chořelice - výměna písku na dětských hřištích (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "116/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5139",
+            "307",
+            "3 900 000"
+          ],
+          "amount": "3 416,85",
+          "amount_value": 3416.85,
+          "description": "Chořelice - výměna písku na dětských hřištích (RZ 116/2024/RM"
+        },
+        {
+          "budget_change_id": "117/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-44 286,00",
+          "amount_value": -44286.0,
+          "description": "místní části - nerozdělená částka (RZ 117/2024/RM"
+        },
+        {
+          "budget_change_id": "117/2024/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "302",
+            "2 033 651"
+          ],
+          "amount": "5 808,00",
+          "amount_value": 5808.0,
+          "description": "Chudobín - chodník podél mk k zámku - PD (RZ 117/2024/RM"
+        },
+        {
+          "budget_change_id": "117/2024/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "38 478,00",
+          "amount_value": 38478.0,
+          "description": "Rozvadovice - chodník do obce k návsi - PD (RZ 117/2024/RM"
+        },
+        {
+          "budget_change_id": "118/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-27 941,00",
+          "amount_value": -27941.0,
+          "description": "místní části - nerozdělená částka (RZ 118/2024/RM"
+        },
+        {
+          "budget_change_id": "118/2024/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "302",
+            "2 033 470"
+          ],
+          "amount": "27 941,00",
+          "amount_value": 27941.0,
+          "description": "Chudobín - nový herní prvek (RZ 118/2024/RM"
+        },
+        {
+          "budget_change_id": "119/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-32 670,00",
+          "amount_value": -32670.0,
+          "description": "řešení následků povodňové situace (RZ 119/2024/RM"
+        },
+        {
+          "budget_change_id": "119/2024/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "307",
+            "3 903 470"
+          ],
+          "amount": "32 670,00",
+          "amount_value": 32670.0,
+          "description": "Chořelice - oprava nosných sloupů u sportovního hřiště po povodni (RZ 119/2024/RM"
+        },
+        {
+          "budget_change_id": "120/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-69 696,00",
+          "amount_value": -69696.0,
+          "description": "místní části - nerozdělená částka (RZ 120/2024/RM"
+        },
+        {
+          "budget_change_id": "120/2024/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "69 696,00",
+          "amount_value": 69696.0,
+          "description": "Unčovice - bezpečnostní venkovní rolety (RZ 120/2024/RM"
+        },
+        {
+          "budget_change_id": "121/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-400 000,00",
+          "amount_value": -400000.0,
+          "description": "řešení následků povodňové situace (RZ 121/2024/RM"
+        },
+        {
+          "budget_change_id": "121/2024/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4 900 410"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "budova GJO - oprava kotelny po povodni (RZ 121/2024/RM"
+        },
+        {
+          "budget_change_id": "122/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 122/2024/RM"
+        },
+        {
+          "budget_change_id": "122/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "304",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "J.P. - dotace na činnost družstva malé kopané FK Rozvadovice a organizační zajištění kulturního života v obci v roce 2024 (RZ 122/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 113/2024/RM",
+      "text": "Dne 4. 11. byla od MH a SI doručena žádost na rozpočtovou změnu související s povodněmi. Tato rozpočtová změna se týká čištění potoku ve vlastnictví města (parc. č. 266) v místní části Tři Dvory."
+    },
+    {
+      "title": "Rozpočtová změna č. 114/2024/RM",
+      "text": "Dne 29. 10. 2024 byla na účet města připsána od Olomouckého kraje účelová neinvestiční dotace ve výši 15.000,00 Kč pro Základní školu Litovel, Vítězná 1250, jako ocenění školám v rámci programu Talent Olomouckého kraje 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 115/2024/RM",
+      "text": "Dne 25. 10. byla od vedoucí Městské knihovny doručena na FO žádost na rozpočtovou změnu související s povodněmi a knihovnou ve Třech Dvorech."
+    },
+    {
+      "title": "Rozpočtová změna č. 116/2024/RM",
+      "text": "Dne 4. 11. byla od MH a SI doručena žádost na rozpočtovou změnu související s povodněmi. Tato rozpočtová změna se týká výměny písku na dětských hřištích."
+    },
+    {
+      "title": "Rozpočtová změna č. 117/2024/RM",
+      "text": "Dne 5.11.2024 byla od MH a SI doručena žádost na rozpočtovou změnu: Pro pokrytí nákladů na zpracování výkazů výměr a soupisů prací a doprojektování přeložek sloupu VO a přípojky plynu v rámci připravované PD chodníku k návsi v místní části Rozvadovice a PD chodníku k zámku v Chudobíně je navržen přesun finančních prostředků."
+    },
+    {
+      "title": "Rozpočtová změna č. 118/2024/RM",
+      "text": "Dne 31.10.2024 byla od MH a SI doručena žádost na rozpočtovou změnu: OV Chudobín již dříve vznesl požadavek na pořízení herního prvku včetně dopadové plochy. Pro rozšíření dopadové plochy je nutné provést požadovanou rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 119/2024/RM",
+      "text": "Dne 5. 11. byla doručena z odboru MHaSI na FO žádost o rozpočtovou změnu související s povodněmi a opravou nosných sloupů u sportovního hřiště v Chořelicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 120/2024/RM",
+      "text": "Dne 6.11.2024 byla od odboru MHa SI doručena žádost na rozpočtovou změnu: Osadní výbor vznesl požadavek na pořízení a montáž venkovní bezpečnostní rolety na kiosek u KD Unčovice. Pro jeho úhradu je požadována rozpočtová změna"
+    },
+    {
+      "title": "Rozpočtová změna č. 121/2024/RM",
+      "text": "Dne 6.11.2024 byla od OŠKS doručena žádost o rozpočtovou změnu v souvislosti s opravou kotelny budově GJO po povodni v září 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 122/2024/RM",
+      "text": "Žádost o dotaci na činnost družstva malé kopané a zajištění kulturního života v Rozvadovicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._21_2024_dne_14._listopadu_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 21/2024 schválené Radou města Litovel\ndne 14. listopadu 2024\nRozpočtové opatření bylo schváleno na 43. schůzi města Litovel dne 14. listopadu 2024 na základě usnesení\nRM/1306/43/2024 a RM/1319/RM/2024.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace od Ol. kraje pro ZŠ Vítězná – Talent\n4122 114 15 000,00\nolomouckého kraje 2024 /RZ 114/2024/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\n5213 5903 16 900 000 -484 000,00 řešení následků povodňové situace (RZ 113/2024/RM)\n2333 5169 308 3 900 000 484 000,00 čistění toku v místní části Tři Dvory (RZ 113/2024/RM)\npřevod dotace pro ZŠ Vítězná - Talent Olomouckého kraje (RZ\n3113 5336 114 4 000 000 15 000,00\n114/2024/RM)\n5213 5903 16 900 000 -300 000,00 řešení následků povodňové situace (RZ 115/2024/RM)\nMěstská knihona - knihovna v mč Tři Dvory - opravy, DDHM, ...\n3314 5171 308 17 900 000 300 000,00\n(RZ 115/2024/RM)\n5213 5903 16 900 000 -31 838,27 řešení následků povodňové situace (RZ 116/2024/RM)\n3421 5169 3 900 000 6 127,72 Litovel - výměna písku na dětských hřištích (RZ 116/2024/RM)\n3421 5139 3 900 000 1 558,00 Litovel - výměna písku na dětských hřištích (RZ 116/2024/RM)\nRozvadovice - výměna písku na dětských hřištích (RZ\n3421 5169 304 3 900 000 12 633,17\n116/2024/RM)\nRozvadovice - výměna písku na dětských hřištích (RZ\n3421 5139 304 3 900 000 4 441,67\n116/2024/RM)\n3421 5169 307 3 900 000 3 660,86 Chořelice - výměna písku na dětských hřištích (RZ 116/2024/RM)\n3421 5139 307 3 900 000 3 416,85 Chořelice - výměna písku na dětských hřištích (RZ 116/2024/RM)\n3639 5901 2 030 000 -44 286,00 místní části - nerozdělená částka (RZ 117/2024/RM)\n2219 6121 302 2 033 651 5 808,00 Chudobín - chodník podél mk k zámku - PD (RZ 117/2024/RM)\n2219 6121 304 2 030 000 38 478,00 Rozvadovice - chodník do obce k návsi - PD (RZ 117/2024/RM)\n3639 5901 2 030 000 -27 941,00 místní části - nerozdělená částka (RZ 118/2024/RM)\n3421 6122 302 2 033 470 27 941,00 Chudobín - nový herní prvek (RZ 118/2024/RM)\n5213 5903 16 900 000 -32 670,00 řešení následků povodňové situace (RZ 119/2024/RM)\nChořelice - oprava nosných sloupů u sportovního hřiště po povodni\n3412 5171 307 3 903 470 32 670,00\n(RZ 119/2024/RM)\n3639 5901 2 030 000 -69 696,00 místní části - nerozdělená částka (RZ 120/2024/RM)\n3392 6121 310 2 033 465 69 696,00 Unčovice - bezpečnostní venkovní rolety (RZ 120/2024/RM)\n5213 5903 16 900 000 -400 000,00 řešení následků povodňové situace (RZ 121/2024/RM)\n3613 5171 4 900 410 400 000,00 budova GJO - oprava kotelny po povodni (RZ 121/2024/RM)\n3429 5901 4 000 000 -10 000,00 transfery dle rozhodnutí RM (RZ 122/2024/RM)\nJ.P. - dotace na činnost družstva malé kopané FK Rozvadovice a\n3419 5499 304 4 000 000 10 000,00 organizační zajištění kulturního života v obci v roce 2024 (RZ\n122/2024/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 113/2024/RM\nDne 4. 11. byla od MH a SI doručena žádost na rozpočtovou změnu související s povodněmi. Tato rozpočtová změna\nse týká čištění potoku ve vlastnictví města (parc. č. 266) v místní části Tři Dvory.\nRozpočtová změna č. 114/2024/RM\nDne 29. 10. 2024 byla na účet města připsána od Olomouckého kraje účelová neinvestiční dotace ve výši 15.000,00 Kč\npro Základní školu Litovel, Vítězná 1250, jako ocenění školám v rámci programu Talent Olomouckého kraje 2024.\nRozpočtová změna č. 115/2024/RM\nDne 25. 10. byla od vedoucí Městské knihovny doručena na FO žádost na rozpočtovou změnu související s povodněmi\na knihovnou ve Třech Dvorech.\nRozpočtová změna č. 116/2024/RM\nDne 4. 11. byla od MH a SI doručena žádost na rozpočtovou změnu související s povodněmi. Tato rozpočtová změna\nse týká výměny písku na dětských hřištích.\nRozpočtová změna č. 117/2024/RM\nDne 5.11.2024 byla od MH a SI doručena žádost na rozpočtovou změnu: Pro pokrytí nákladů na zpracování výkazů\nvýměr a soupisů prací a doprojektování přeložek sloupu VO a přípojky plynu v rámci připravované PD chodníku k\nnávsi v místní části Rozvadovice a PD chodníku k zámku v Chudobíně je navržen přesun finančních prostředků.\nRozpočtová změna č. 118/2024/RM\nDne 31.10.2024 byla od MH a SI doručena žádost na rozpočtovou změnu: OV Chudobín již dříve vznesl požadavek na\npořízení herního prvku včetně dopadové plochy. Pro rozšíření dopadové plochy je nutné provést požadovanou\nrozpočtovou změnu.\nRozpočtová změna č. 119/2024/RM\nDne 5. 11. byla doručena z odboru MHaSI na FO žádost o rozpočtovou změnu související s povodněmi a opravou\nnosných sloupů u sportovního hřiště v Chořelicích.\nRozpočtová změna č. 120/2024/RM\nDne 6.11.2024 byla od odboru MHa SI doručena žádost na rozpočtovou změnu: Osadní výbor vznesl požadavek na\npořízení a montáž venkovní bezpečnostní rolety na kiosek u KD Unčovice. Pro jeho úhradu je požadována rozpočtová\nzměna\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 121/2024/RM\nDne 6.11.2024 byla od OŠKS doručena žádost o rozpočtovou změnu v souvislosti s opravou kotelny budově GJO po\npovodni v září 2024.\nRozpočtová změna č. 122/2024/RM\nŽádost o dotaci na činnost družstva malé kopané a zajištění kulturního života v Rozvadovicích.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 25.11.2024\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1319/43/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "113/2024/RM",
+        "114/2024/RM",
+        "115/2024/RM",
+        "116/2024/RM",
+        "117/2024/RM",
+        "118/2024/RM",
+        "119/2024/RM",
+        "120/2024/RM",
+        "121/2024/RM"
+      ]
+    }
+  ]
+}

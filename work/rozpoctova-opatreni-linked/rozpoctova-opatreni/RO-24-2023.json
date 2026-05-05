@@ -1,0 +1,1072 @@
+{
+  "id": "RO/24/2023",
+  "number": 24,
+  "year": 2023,
+  "approval_date": "2024-02-01",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "123/2023/RM",
+    "124/2023/RM",
+    "125/2023/RM",
+    "126/2023/RM",
+    "127/2023/RM",
+    "128/2023/RM",
+    "129/2023/RM",
+    "130/2023/RM",
+    "131/2023/RM",
+    "132/2023/RM",
+    "133/2023/RM",
+    "134/2023/RM",
+    "135/2023/RM",
+    "136/2023/RM",
+    "137/2023/RM",
+    "138/2023/RM",
+    "139/2023/RM",
+    "140/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "124/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-47 310,96",
+          "amount_value": -47310.96,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 124/2023/RM"
+        },
+        {
+          "budget_change_id": "124/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-22 689,04",
+          "amount_value": -22689.04,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 124/2023/RM"
+        },
+        {
+          "budget_change_id": "125/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-151 698,00",
+          "amount_value": -151698.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 125/2023/RM"
+        },
+        {
+          "budget_change_id": "125/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-387,00",
+          "amount_value": -387.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 125/2023/RM"
+        },
+        {
+          "budget_change_id": "126/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-103 216,00",
+          "amount_value": -103216.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 126/2023/RM"
+        },
+        {
+          "budget_change_id": "127/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-64 160,00",
+          "amount_value": -64160.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 127/2023/RM"
+        },
+        {
+          "budget_change_id": "128/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "7 523 241,08",
+          "amount_value": 7523241.08,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 128/2023/RM"
+        },
+        {
+          "budget_change_id": "130/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-57 000,00",
+          "amount_value": -57000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 130/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-268 470,50",
+          "amount_value": -268470.5,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "132/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-20 868,48",
+          "amount_value": -20868.48,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 132/2023/RM"
+        },
+        {
+          "budget_change_id": "133/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-63 468,60",
+          "amount_value": -63468.6,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 133/2023/RM"
+        },
+        {
+          "budget_change_id": "134/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-66 000,00",
+          "amount_value": -66000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 134/2023/RM"
+        },
+        {
+          "budget_change_id": "135/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-112 839,00",
+          "amount_value": -112839.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 135/2023/RM"
+        },
+        {
+          "budget_change_id": "137/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-11 999,52",
+          "amount_value": -11999.52,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 137/2023/RM"
+        },
+        {
+          "budget_change_id": "138/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-10 531,40",
+          "amount_value": -10531.4,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 138/2023/RM"
+        },
+        {
+          "budget_change_id": "140/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-17 500,00",
+          "amount_value": -17500.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 140/2023/RM"
+        },
+        {
+          "budget_change_id": "123/2023/RM",
+          "raw_codes": [
+            "4116",
+            "170529031"
+          ],
+          "amount": "1 272 040,00",
+          "amount_value": 1272040.0,
+          "description": "Finanční příspěvek pro TS Litovel (RZ 123/2023/RM"
+        },
+        {
+          "budget_change_id": "124/2023/RM",
+          "raw_codes": [
+            "4116",
+            "106515011",
+            "7",
+            "000",
+            "783"
+          ],
+          "amount": "47 310,96",
+          "amount_value": 47310.96,
+          "description": "Neinvestiční transfer ze státního rozpočtu (RZ 124/2023/RM"
+        },
+        {
+          "budget_change_id": "125/2023/RM",
+          "raw_codes": [
+            "3392",
+            "2122",
+            "44"
+          ],
+          "amount": "151 698,00",
+          "amount_value": 151698.0,
+          "description": "Odvody z odpisů PO (RZ 125/2023/RM"
+        },
+        {
+          "budget_change_id": "126/2023/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "103 216,00",
+          "amount_value": 103216.0,
+          "description": "Odvody z odpisů PO (RZ 126/2023/RM"
+        },
+        {
+          "budget_change_id": "128/2023/RM",
+          "raw_codes": [
+            "4216",
+            "148515501",
+            "3",
+            "000",
+            "781"
+          ],
+          "amount": "-76 677 968,49",
+          "amount_value": -76677968.49,
+          "description": "Investiční transfer ze státáního fondu (RZ 128/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4122",
+            "469",
+            "7",
+            "000",
+            "000"
+          ],
+          "amount": "43 350,00",
+          "amount_value": 43350.0,
+          "description": "Účelová neinvestiční dotace (RZ129/2023/RM) OÚ Bílá Lhota - neinvestiční přijatý 4121 3008 1 000,00 transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "305"
+          ],
+          "amount": "3 228 070,50",
+          "amount_value": 3228070.5,
+          "description": "OÚ Měrotín - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "135/2023/RM",
+          "raw_codes": [
+            "3141",
+            "2122",
+            "50"
+          ],
+          "amount": "112 839,00",
+          "amount_value": 112839.0,
+          "description": "Odvody z odpisů PO (RZ 135/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "136/2023/RM",
+          "raw_codes": [
+            "8124"
+          ],
+          "amount": "-27 362,68",
+          "amount_value": -27362.68,
+          "description": "Uhrazené splátky dlouhodobě přijatých půjčených prostředků (RZ 136/2023/RM"
+        },
+        {
+          "budget_change_id": "123/2023/RM",
+          "raw_codes": [
+            "4116",
+            "170529031"
+          ],
+          "amount": "1 272 040,00",
+          "amount_value": 1272040.0,
+          "description": "Finanční příspěvek pro TS Litovel (RZ 123/2023/RM"
+        },
+        {
+          "budget_change_id": "123/2023/RM",
+          "raw_codes": [
+            "4116",
+            "29015"
+          ],
+          "amount": "126 752,00",
+          "amount_value": 126752.0,
+          "description": "Finanční příspěvek pro TS Litovel (RZ 123/2023/RM"
+        },
+        {
+          "budget_change_id": "124/2023/RM",
+          "raw_codes": [
+            "4116",
+            "106515011",
+            "7 000 783"
+          ],
+          "amount": "47 310,96",
+          "amount_value": 47310.96,
+          "description": "Neinvestiční transfer ze státního rozpočtu (RZ 124/2023/RM"
+        },
+        {
+          "budget_change_id": "125/2023/RM",
+          "raw_codes": [
+            "3392",
+            "2122",
+            "44"
+          ],
+          "amount": "151 698,00",
+          "amount_value": 151698.0,
+          "description": "Odvody z odpisů PO (RZ 125/2023/RM"
+        },
+        {
+          "budget_change_id": "126/2023/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "103 216,00",
+          "amount_value": 103216.0,
+          "description": "Odvody z odpisů PO (RZ 126/2023/RM"
+        },
+        {
+          "budget_change_id": "127/2023/RM",
+          "raw_codes": [
+            "4216",
+            "29519"
+          ],
+          "amount": "64 160,00",
+          "amount_value": 64160.0,
+          "description": "Finanční příspěvek pro město Litovel (RZ 127/2023/RM"
+        },
+        {
+          "budget_change_id": "128/2023/RM",
+          "raw_codes": [
+            "4216",
+            "148515501",
+            "3 000 781"
+          ],
+          "amount": "-76 677 968,49",
+          "amount_value": -76677968.49,
+          "description": "Investiční transfer ze státáního fondu (RZ 128/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3008"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "OÚ Bílá Lhota - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3012"
+          ],
+          "amount": "3 500,00",
+          "amount_value": 3500.0,
+          "description": "OÚ Bouzov -neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3016"
+          ],
+          "amount": "7 700,00",
+          "amount_value": 7700.0,
+          "description": "OÚ Červenka - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3048"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "OÚ Luká - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3053"
+          ],
+          "amount": "228 070,50",
+          "amount_value": 228070.5,
+          "description": "OÚ Měrotín - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3054"
+          ],
+          "amount": "3 200,00",
+          "amount_value": 3200.0,
+          "description": "OÚ Mladeč - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3058"
+          ],
+          "amount": "4 200,00",
+          "amount_value": 4200.0,
+          "description": "OÚ Náklo - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3061"
+          ],
+          "amount": "3 500,00",
+          "amount_value": 3500.0,
+          "description": "OÚ Olbramice - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3063"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "OÚ Pňovice - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3068"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "OÚ Senice na Hané - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3072"
+          ],
+          "amount": "500,00",
+          "amount_value": 500.0,
+          "description": "OÚ Slavětín - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "131/2023/RM",
+          "raw_codes": [
+            "4121",
+            "3089"
+          ],
+          "amount": "2 200,00",
+          "amount_value": 2200.0,
+          "description": "OÚ Vilémov - neinvestiční přijatý transfer od obce (RZ 131/2023/RM"
+        },
+        {
+          "budget_change_id": "132/2023/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "49"
+          ],
+          "amount": "20 868,48",
+          "amount_value": 20868.48,
+          "description": "Odvody z odpisů PO (RZ 132/2023/RM"
+        },
+        {
+          "budget_change_id": "133/2023/RM",
+          "raw_codes": [
+            "3111",
+            "2122",
+            "48"
+          ],
+          "amount": "63 468,60",
+          "amount_value": 63468.6,
+          "description": "Odvody z odpisů PO (RZ 133/2023/RM"
+        },
+        {
+          "budget_change_id": "134/2023/RM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "45"
+          ],
+          "amount": "66 000,00",
+          "amount_value": 66000.0,
+          "description": "Odvody z odpisů PO (RZ 134/2023/RM"
+        },
+        {
+          "budget_change_id": "135/2023/RM",
+          "raw_codes": [
+            "3141",
+            "2122",
+            "50"
+          ],
+          "amount": "112 839,00",
+          "amount_value": 112839.0,
+          "description": "Odvody z odpisů PO (RZ 135/2023/RM"
+        },
+        {
+          "budget_change_id": "123/2023/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "170529031",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "1 272 040,00",
+          "amount_value": 1272040.0,
+          "description": "Převod příspěvku Technickým službám (RZ 123/2023/RM"
+        },
+        {
+          "budget_change_id": "123/2023/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "126 752,00",
+          "amount_value": 126752.0,
+          "description": "Převod příspěvku Technickým službám (RZ 123/2023/RM"
+        },
+        {
+          "budget_change_id": "124/2023/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "106515011",
+            "7 000 783"
+          ],
+          "amount": "-22 689,04",
+          "amount_value": -22689.04,
+          "description": "Revitalizace Novozámecké aleje (RZ 124/2023/RM"
+        },
+        {
+          "budget_change_id": "125/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5331",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "-387,00",
+          "amount_value": -387.0,
+          "description": "Neinvestiční transfery PO (RZ 125/2023/RM"
+        },
+        {
+          "budget_change_id": "129/2023/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "469",
+            "308",
+            "7 000 000"
+          ],
+          "amount": "43 350,00",
+          "amount_value": 43350.0,
+          "description": "Čerpání účelové neinvestiční dotace (RZ 129/2023/RM"
+        },
+        {
+          "budget_change_id": "130/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-57 000,00",
+          "amount_value": -57000.0,
+          "description": "Neinvestiční transfery spolkům (RZ 130/2023/RM"
+        },
+        {
+          "budget_change_id": "137/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "-11 999,52",
+          "amount_value": -11999.52,
+          "description": "Vrácení části neinvestičního příspěvku (RZ 137/2023/RM"
+        },
+        {
+          "budget_change_id": "138/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "-10 531,40",
+          "amount_value": -10531.4,
+          "description": "Vrácení části neinvestičního příspěvku (RZ 138/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5011",
+            "1 000 403"
+          ],
+          "amount": "-275 717,00",
+          "amount_value": -275717.0,
+          "description": "Mzdové agendy - platy zaměstnanců (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5031",
+            "1 000 403"
+          ],
+          "amount": "-70 416,00",
+          "amount_value": -70416.0,
+          "description": "Mzdové agendy - pojistné na sociální zabezp. (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5032",
+            "1 000 403"
+          ],
+          "amount": "-25 246,00",
+          "amount_value": -25246.0,
+          "description": "Mzdové agendy - pojistné na zdrav. pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3314",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "106 541,00",
+          "amount_value": 106541.0,
+          "description": "Městská knihovna - platy zaměstnanců (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3314",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-3 801,00",
+          "amount_value": -3801.0,
+          "description": "Městská knihovna - ostatní osobní výdaje (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3314",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "26 700,00",
+          "amount_value": 26700.0,
+          "description": "Městská knihovna - pojistné na sociální zabezp. (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3314",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "9 988,00",
+          "amount_value": 9988.0,
+          "description": "Městská knihovna - pojistné na zdravotní poj. (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3315",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "189 349,00",
+          "amount_value": 189349.0,
+          "description": "Muzeum - platy zaměstnanců (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3315",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-37 950,00",
+          "amount_value": -37950.0,
+          "description": "Muzeum - ostatní osobní výdaje (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3315",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "46 685,00",
+          "amount_value": 46685.0,
+          "description": "Muzeum - pojistné na sociál. zabezp. (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3315",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "16 779,00",
+          "amount_value": 16779.0,
+          "description": "Muzeum - pojistné na zdrav. pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3341",
+            "5021",
+            "1 000 103"
+          ],
+          "amount": "-180 000,00",
+          "amount_value": -180000.0,
+          "description": "Rozhlas a televize - ostatní osobní výdaje (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3349",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Litovelské noviny - ostatní osobní výdaje (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3349",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "1 935,00",
+          "amount_value": 1935.0,
+          "description": "Litovelské noviny - pojistné na zdrav. pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5011",
+            "1 000 428"
+          ],
+          "amount": "7 975,00",
+          "amount_value": 7975.0,
+          "description": "Sokolovna - platy zaměstnanců (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5031",
+            "1 000 428"
+          ],
+          "amount": "2 306,00",
+          "amount_value": 2306.0,
+          "description": "Sokolovna - pojistné na sociál. pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5032",
+            "1 000 428"
+          ],
+          "amount": "955,00",
+          "amount_value": 955.0,
+          "description": "Sokolovna - pojistné na zdrav.pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3612",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "151 886,00",
+          "amount_value": 151886.0,
+          "description": "OBH - platy zaměstnanců (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3612",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-51 000,00",
+          "amount_value": -51000.0,
+          "description": "OBH - ostatní osobní výdaje (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3612",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "37 318,00",
+          "amount_value": 37318.0,
+          "description": "OBH - pojistné na sociální zabezp. (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3612",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "13 010,00",
+          "amount_value": 13010.0,
+          "description": "OBH - pojistné na zdrav.pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "97 987,00",
+          "amount_value": 97987.0,
+          "description": "Místní správa - platy zaměstnanců (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5021",
+            "1 000 000"
+          ],
+          "amount": "-48 350,00",
+          "amount_value": -48350.0,
+          "description": "Místní správa - ostatní osobní výdaje (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "1 000 000"
+          ],
+          "amount": "7 959,00",
+          "amount_value": 7959.0,
+          "description": "Místní správa - pojistné na sociální zabezpečení (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5032",
+            "1 000 000"
+          ],
+          "amount": "2 135,00",
+          "amount_value": 2135.0,
+          "description": "Místní správa - pojistné na zdravotní pojištění (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5424",
+            "1 000 000"
+          ],
+          "amount": "-52 517,00",
+          "amount_value": -52517.0,
+          "description": "Místní správa - náhrady mezd v době nemoci (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "140/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1 003 111"
+          ],
+          "amount": "-17 500,00",
+          "amount_value": -17500.0,
+          "description": "Mikroregion Litovelsko (RZ 140/2023/RM"
+        },
+        {
+          "budget_change_id": "128/2023/RM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "148515501",
+            "3",
+            "000",
+            "781"
+          ],
+          "amount": "-69 154 727,41",
+          "amount_value": -69154727.41,
+          "description": "Solární sušárna kalů (RZ 128/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3349",
+            "5011",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "25 938,00",
+          "amount_value": 25938.0,
+          "description": "Litovelské noviny - platy zaměstnanců (RZ 139/20236/RM) Litovelské noviny - ostatní osobní výdaje 3349 5021 1 000 000 -7 000,00 (RZ 139/2023/RM"
+        },
+        {
+          "budget_change_id": "139/2023/RM",
+          "raw_codes": [
+            "3349",
+            "5031",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "6 551,00",
+          "amount_value": 6551.0,
+          "description": "Kitovelské noviny - pojistné na sociál. zabezpečení (RZ 139/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 123/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od ČNB. Jedná se o finanční příspěvky pro příspěvkovou organizaci Technické služby Litovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku a také na ekologické a k přírodě šetrné technologie při hospodaření v lesích. RZ 124//2023/RM Na účet města Litovel byly připsány finanční prostředky od Ministerstva životního prostředí. Jedná se o neinvestiční transfer ze státního rozpočtu na akci „Revitalizace Novozámecké aleje“."
+    },
+    {
+      "title": "Rozpočtová změna č. 125/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace Městský klub Litovel. Jedná se o odvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 126/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace ZŠ Jungmannova. Jedná se o odvod z odpisů do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 127/2023/RM",
+      "text": "Město Litovel obdrželo finanční příspěvek na vyhotovení lesních hospodářských plánů."
+    },
+    {
+      "title": "Rozpočtová změna č. 128/2023/RM",
+      "text": "V rozpočtu města Litovel na rok 2023 byly plánovány přijaté dotační prostředky na realizaci akce „Solární sušárna kalů“. Rozpočtová změna č. 128/2023/RM řeší úpravu rozpočtu podle reálného stavu obdržených prostředků k 31.12.2023, který byl roven nule a město Litovel ze svého účtu předfinancovalo plánovaný dotační podíl na akci „Solární sušárna kalů“."
+    },
+    {
+      "title": "Rozpočtová změna č. 129/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky. Jedná se o účelovou neinvestiční dotaci na doprovodnou zeleň cyklostezky Litovel – Tři Dvory."
+    },
+    {
+      "title": "Rozpočtová změna č. 130/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od TJ Sokol Litovel. Jedná se o vrácení nevyčerpaných prostředků."
+    },
+    {
+      "title": "Rozpočtová změna č. 131/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 131/2023/RM řeší zapojení přijatých neinvestičních transferů od obcí do rozpočtu.",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 132/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Frištenského. Jedná se o odvod z odpisů do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 133/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Gemerská. Jedná se o odvod z odpisů do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 134/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace ZŠ Vítězná. Jedná se o odvod z odpisů do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 135/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace ŠJ Studentů. Jedná se o odvod z odpisů do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 136/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 136/2023/RM řeší změnu splátkového kalendáře u smlouvy číslo 3762041 ze SFŽP ČR,",
+      "text": "ke které došlo v průběhu roku 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 137/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Frištenského. Jedná se o vrácení části nečerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 138/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Gemerská. Jedná se o vrácení části nečerpaného neinvestičního příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 139/2023/RM",
+      "text": "V rámci schváleného rozpočtu roku 2023 na platy zaměstnanců za město Litovel (IČO 00299138) je potřeba provést přesun prostředků dle skutečného čerpání na jednotlivých §."
+    },
+    {
+      "title": "Rozpočtová změna č. 140/2023/RM",
+      "text": "V rozpočtu města Litovel na rok 2023 byly schváleny finanční prostředky pro Mikroregion Litovelsko."
+    },
+    {
+      "title": "Rozpočtová změna č. 140/2023/RM řeší rozdíl mezi finančními prostředky schválenými v rozpočtu a skutečností",
+      "text": "v čerpání dle výkazu pro hodnocení plnění rozpočtu územních samosprávných celků k 31.12.2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._24_2023_schvalene_radou_mesta_litovel_dne_1.unora_2024..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 24/2023 schválené Radou města Litovel\ndne 1. února 2024.\nRozpočtové opatření bylo schváleno na 29.schůzi Rady města Litovel dne 1.února 2024 na základě usnesení\n809/29/2024.\nZměny ve financování - příjmy:\n§ POL UZ ORJ ORG Kč\n8115 -47 310,96 Změna stavu finančních prostředků na\nbankovních účtech (RZ 124/2023/RM)\n8115 -22 689,04 Změna stavu finančních prostředků na\nbankovních účtech (RZ 124/2023/RM)\n8115 -151 698,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 125/2023/RM)\n8115 -387,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 125/2023/RM)\n8115 -103 216,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 126/2023/RM)\n8115 -64 160,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 127/2023/RM)\n8115 7 523 241,08 Změna stavu finančních prostředků na\nbankovních účtech (RZ 128/2023/RM)\n8115 -57 000,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 130/2023/RM)\n8115 -268 470,50 Změna stavu finančních prostředků na\nbankovních účtech (RZ 131/2023/RM)\n8115 -20 868,48 Změna stavu finančních prostředků na\nbankovních účtech (RZ 132/2023/RM)\n8115 -63 468,60 Změna stavu finančních prostředků na\nbankovních účtech (RZ 133/2023/RM)\n8115 -66 000,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 134/2023/RM)\n8115 -112 839,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 135/2023/RM)\nZměna stavu finančních prostředků na\n8115 -27 362,68\nbankovních účtech (RZ 136/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměna stavu finančních prostředků na\n8115 -11 999,52\nbankovních účtech (RZ 137/2023/RM)\nZměna stavu finančních prostředků na\n8115 -10 531,40\nbankovních účtech (RZ 138/2023/RM)\nZměna stavu finančních prostředků na\n8115 -17 500,00\nbankovních účtech (RZ 140/2023/RM)\nZměny ve financování - výdaje:\n§ POL UZ ORJ ORG Kč\nUhrazené splátky dlouhodobě přijatých\n8124 -27 362,68\npůjčených prostředků (RZ 136/2023/RM)\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\nFinanční příspěvek pro TS Litovel\n4116 170529031 1 272 040,00\n(RZ 123/2023/RM)\nFinanční příspěvek pro TS Litovel\n4116 29015 126 752,00\n(RZ 123/2023/RM)\nNeinvestiční transfer ze státního rozpočtu\n4116 106515011 7 000 783 47 310,96\n(RZ 124/2023/RM)\n3392 2122 44 151 698,00 Odvody z odpisů PO (RZ 125/2023/RM)\n3113 2122 46 103 216,00 Odvody z odpisů PO (RZ 126/2023/RM)\nFinanční příspěvek pro město Litovel\n4216 29519 64 160,00\n(RZ 127/2023/RM)\nInvestiční transfer ze státáního fondu\n4216 148515501 3 000 781 -76 677 968,49\n(RZ 128/2023/RM)\nÚčelová neinvestiční dotace\n4122 469 7 000 000 43 350,00\n(RZ129/2023/RM)\nOÚ Bílá Lhota - neinvestiční přijatý\n4121 3008 1 000,00\ntransfer od obce (RZ 131/2023/RM)\nOÚ Bouzov -neinvestiční přijatý transfer\n4121 3012 3 500,00\nod obce (RZ 131/2023/RM)\nOÚ Červenka - neinvestiční přijatý\n4121 3016 7 700,00\ntransfer od obce (RZ 131/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nOÚ Cholina - neinvestiční přijatý transfer\n4121 3037 6 600,00\nod obce (RZ 131/2023/RM)\nOÚ Luká - neinvestiční přijatý transfer od\n4121 3048 2 000,00\nobce (RZ 131/2023/RM)\nOÚ Měrotín - neinvestiční přijatý transfer\n4121 3053 228 070,50\nod obce (RZ 131/2023/RM)\nOÚ Mladeč - neinvestiční přijatý transfer\n4121 3054 3 200,00\nod obce (RZ 131/2023/RM)\nOÚ Náklo - neinvestiční přijatý transfer od\n4121 3058 4 200,00\nobce (RZ 131/2023/RM)\nOÚ Olbramice - neinvestiční přijatý\n4121 3061 3 500,00\ntransfer od obce (RZ 131/2023/RM)\nOÚ Pňovice - neinvestiční přijatý transfer\n4121 3063 5 000,00\nod obce (RZ 131/2023/RM)\nOÚ Senice na Hané - neinvestiční přijatý\n4121 3068 1 000,00\ntransfer od obce (RZ 131/2023/RM)\nOÚ Slavětín - neinvestiční přijatý transfer\n4121 3072 500,00\nod obce (RZ 131/2023/RM)\nOÚ Vilémov - neinvestiční přijatý transfer\n4121 3089 2 200,00\nod obce (RZ 131/2023/RM)\n3111 2122 49 20 868,48 Odvody z odpisů PO (RZ 132/2023/RM)\n3111 2122 48 63 468,60 Odvody z odpisů PO (RZ 133/2023/RM)\n3113 2122 45 66 000,00 Odvody z odpisů PO (RZ 134/2023/RM)\n3141 2122 50 112 839,00 Odvody z odpisů PO (RZ 135/2023/RM)\nZměny ve výdajích:\nPOL UZ ORJ ORG Kč\nPřevod příspěvku Technickým službám\n3639 5336 170529031 41 14 000 000 1 272 040,00\n(RZ 123/2023/RM)\nPřevod příspěvku Technickým službám\n3639 5336 29015 41 14 000 000 126 752,00\n(RZ 123/2023/RM)\nRevitalizace Novozámecké aleje\n3745 5169 106515011 7 000 783 -22 689,04\n(RZ 124/2023/RM)\nNeinvestiční transfery PO\n3392 5331 44 4 000 000 -387,00\n(RZ 125/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n2329 6121 148515501 3 000 781 -69 154 727,41 Solární sušárna kalů (RZ 128/2023/RM)\nČerpání účelové neinvestiční dotace\n3745 5169 469 308 7 000 000 43 350,00\n(RZ 129/2023/RM)\nNeinvestiční transfery spolkům\n3419 5222 4 000 000 -57 000,00\n(RZ 130/2023/RM)\nVrácení části neinvestičního příspěvku\n3111 5331 49 4 000 000 -11 999,52\n(RZ 137/2023/RM)\nVrácení části neinvestičního příspěvku\n3111 5331 48 4 000 000 -10 531,40\n(RZ 138/2023/RM)\nMzdové agendy - platy zaměstnanců\n3113 5011 1 000 403 -275 717,00\n(RZ 139/2023/RM)\nMzdové agendy - pojistné na sociální\n3113 5031 1 000 403 -70 416,00\nzabezp. (RZ 139/2023/RM)\nMzdové agendy - pojistné na zdrav.\n3113 5032 1 000 403 -25 246,00\npojištění (RZ 139/2023/RM)\nMěstská knihovna - platy zaměstnanců\n3314 5011 1 000 000 106 541,00\n(RZ 139/2023/RM)\nMěstská knihovna - ostatní osobní výdaje\n3314 5021 1 000 000 -3 801,00\n(RZ 139/2023/RM)\nMěstská knihovna - pojistné na sociální\n3314 5031 1 000 000 26 700,00\nzabezp. (RZ 139/2023/RM)\nMěstská knihovna - pojistné na zdravotní\n3314 5032 1 000 000 9 988,00\npoj. (RZ 139/2023/RM)\nMuzeum - platy zaměstnanců\n3315 5011 1 000 000 189 349,00\n(RZ 139/2023/RM)\nMuzeum - ostatní osobní výdaje\n3315 5021 1 000 000 -37 950,00\n(RZ 139/2023/RM)\nMuzeum - pojistné na sociál. zabezp.\n3315 5031 1 000 000 46 685,00\n(RZ 139/2023/RM)\nMuzeum - pojistné na zdrav. pojištění\n3315 5032 1 000 000 16 779,00\n(RZ 139/2023/RM)\nRozhlas a televize - ostatní osobní výdaje\n3341 5021 1 000 103 -180 000,00\n(RZ 139/2023/RM)\nLitovelské noviny - platy zaměstnanců\n3349 5011 1 000 000 25 938,00\n(RZ 139/20236/RM)\nLitovelské noviny - ostatní osobní výdaje\n3349 5021 1 000 000 -7 000,00\n(RZ 139/2023/RM)\nKitovelské noviny - pojistné na sociál.\n3349 5031 1 000 000 6 551,00\nzabezpečení (RZ 139/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nLitovelské noviny - pojistné na zdrav.\n3349 5032 1 000 000 1 935,00\npojištění (RZ 139/2023/RM)\nSokolovna - platy zaměstnanců\n3412 5011 1 000 428 7 975,00\n(RZ 139/2023/RM)\nSokolovna - pojistné na sociál. pojištění\n3412 5031 1 000 428 2 306,00\n(RZ 139/2023/RM)\nSokolovna - pojistné na zdrav.pojištění\n3412 5032 1 000 428 955,00\n(RZ 139/2023/RM)\nOBH - platy zaměstnanců\n3612 5011 1 000 000 151 886,00\n(RZ 139/2023/RM)\nOBH - ostatní osobní výdaje\n3612 5021 1 000 000 -51 000,00\n(RZ 139/2023/RM)\nOBH - pojistné na sociální zabezp.\n3612 5031 1 000 000 37 318,00\n(RZ 139/2023/RM)\nOBH - pojistné na zdrav.pojištění\n3612 5032 1 000 000 13 010,00\n(RZ 139/2023/RM)\nMístní správa - platy zaměstnanců\n6171 5011 1 000 000 97 987,00\n(RZ 139/2023/RM)\nMístní správa - ostatní osobní výdaje\n6171 5021 1 000 000 -48 350,00\n(RZ 139/2023/RM)\nMístní správa - pojistné na sociální\n6171 5031 1 000 000 7 959,00\nzabezpečení (RZ 139/2023/RM)\nMístní správa - pojistné na zdravotní\n6171 5032 1 000 000 2 135,00\npojištění (RZ 139/2023/RM)\nMístní správa - náhrady mezd v době\n6171 5424 1 000 000 -52 517,00\nnemoci (RZ 139/2023/RM)\nMikroregion Litovelsko\n6409 5329 1 003 111 -17 500,00\n(RZ 140/2023/RM)\nRZ 123/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od ČNB. Jedná se o finanční příspěvky pro příspěvkovou\norganizaci Technické služby Litovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku a také na\nekologické a k přírodě šetrné technologie při hospodaření v lesích.\nRZ 124//2023/RM\nNa účet města Litovel byly připsány finanční prostředky od Ministerstva životního prostředí. Jedná se o neinvestiční\ntransfer ze státního rozpočtu na akci „Revitalizace Novozámecké aleje“.\nRZ 125/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace Městský klub Litovel. Jedná\nse o odvod z odpisů a částečně o vrácení nevyčerpaného neinvestičního příspěvku.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 126/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace ZŠ Jungmannova.\nJedná se o odvod z odpisů do rozpočtu města.\nRZ 127/2023/RM\nMěsto Litovel obdrželo finanční příspěvek na vyhotovení lesních hospodářských plánů.\nRZ 128/2023/RM\nV rozpočtu města Litovel na rok 2023 byly plánovány přijaté dotační prostředky na realizaci akce\n„Solární sušárna kalů“. Rozpočtová změna č. 128/2023/RM řeší úpravu rozpočtu podle reálného stavu\nobdržených prostředků k 31.12.2023, který byl roven nule a město Litovel ze svého účtu předfinancovalo\nplánovaný dotační podíl na akci „Solární sušárna kalů“.\nRZ 129/2023/RM\nNa účet města Litovel byly připsány finanční prostředky. Jedná se o účelovou neinvestiční dotaci na doprovodnou\nzeleň cyklostezky Litovel – Tři Dvory.\nRZ 130/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od TJ Sokol Litovel. Jedná se o vrácení nevyčerpaných\nprostředků.\nRZ 131/2023/RM\nRozpočtová změna č. 131/2023/RM řeší zapojení přijatých neinvestičních transferů od obcí do rozpočtu.\nRZ 132/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Frištenského. Jedná\nse o odvod z odpisů do rozpočtu města.\nRZ 133/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Gemerská. Jedná se\no odvod z odpisů do rozpočtu města.\nRZ 134/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace ZŠ Vítězná. Jedná se\no odvod z odpisů do rozpočtu města.\nRZ 135/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace ŠJ Studentů.\nJedná se o odvod z odpisů do rozpočtu města.\nRZ 136/2023/RM\nRozpočtová změna č. 136/2023/RM řeší změnu splátkového kalendáře u smlouvy číslo 3762041 ze SFŽP ČR,\nke které došlo v průběhu roku 2023.\nRZ 137/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Frištenského.\nJedná se o vrácení části nečerpaného neinvestičního příspěvku.\nRZ 138/2023/RM\nNa účet města Litovel byly připsány finanční prostředky od příspěvkové organizace MŠ Gemerská.\nJedná se o vrácení části nečerpaného neinvestičního příspěvku.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 139/2023/RM\nV rámci schváleného rozpočtu roku 2023 na platy zaměstnanců za město Litovel (IČO 00299138)\nje potřeba provést přesun prostředků dle skutečného čerpání na jednotlivých §.\nRZ 140/2023/RM\nV rozpočtu města Litovel na rok 2023 byly schváleny finanční prostředky pro Mikroregion Litovelsko.\nRozpočtová změna č. 140/2023/RM řeší rozdíl mezi finančními prostředky schválenými v rozpočtu a skutečností\nv čerpání dle výkazu pro hodnocení plnění rozpočtu územních samosprávných celků k 31.12.2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 14. 2. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/809/29/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "123/2023/RM",
+        "124/2023/RM",
+        "125/2023/RM",
+        "126/2023/RM",
+        "127/2023/RM",
+        "128/2023/RM",
+        "129/2023/RM",
+        "130/2023/RM",
+        "131/2023/RM",
+        "132/2023/RM",
+        "133/2023/RM",
+        "134/2023/RM",
+        "135/2023/RM",
+        "136/2023/RM",
+        "137/2023/RM",
+        "138/2023/RM",
+        "139/2023/RM",
+        "140/2023/RM"
+      ]
+    }
+  ]
+}

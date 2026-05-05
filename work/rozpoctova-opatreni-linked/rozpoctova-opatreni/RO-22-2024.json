@@ -1,0 +1,393 @@
+{
+  "id": "RO/22/2024",
+  "number": 22,
+  "year": 2024,
+  "approval_date": "2024-12-05",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "12/2024/RM",
+    "123/2024/RM",
+    "124/2024/RM",
+    "125/2024/RM",
+    "126/2024/RM",
+    "127/2024/RM",
+    "128/2024/RM",
+    "129/2024/RM",
+    "130/2024/RM",
+    "131/2024/RM",
+    "132/2024/RM",
+    "133/2024/RM",
+    "134/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "126/2024/RM",
+          "raw_codes": [
+            "4113",
+            "90002"
+          ],
+          "amount": "16 720 000,00",
+          "amount_value": 16720000.0,
+          "description": "účelová neinvestiční dotace - Pomoc domácnostem postiženým povodní - Litovel 2024 (RZ 126/2024/RM"
+        },
+        {
+          "budget_change_id": "126/2024/RM",
+          "raw_codes": [
+            "4122",
+            "115"
+          ],
+          "amount": "18 000,00",
+          "amount_value": 18000.0,
+          "description": "účelová neinvestiční dotace od Olomouckého kraje - ZŠ Jungmannova - Zelená škola Olomouckého kraje 2023/2024 (RZ 126/2024/RM"
+        },
+        {
+          "budget_change_id": "130/2024/RM",
+          "raw_codes": [
+            "5269",
+            "2321",
+            "888"
+          ],
+          "amount": "215 000,00",
+          "amount_value": 215000.0,
+          "description": "přijaté finanční dary - povodeň 2024 (RZ 130/2024/RM"
+        },
+        {
+          "budget_change_id": "131/2024/RM",
+          "raw_codes": [
+            "3722",
+            "2321"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "přijaté finanční dary - FCC Litovel (RZ 131/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "123/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-240 000,00",
+          "amount_value": -240000.0,
+          "description": "řešení následků povodňové situace (RZ 123/2024/RM"
+        },
+        {
+          "budget_change_id": "123/2024/RM",
+          "raw_codes": [
+            "3392",
+            "6122",
+            "306",
+            "3 900 000"
+          ],
+          "amount": "240 000,00",
+          "amount_value": 240000.0,
+          "description": "KD Víska - kotel (RZ 123/2024/RM"
+        },
+        {
+          "budget_change_id": "124/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "řešení následků povodňové situace (RZ 124/2024/RM"
+        },
+        {
+          "budget_change_id": "124/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "306",
+            "3 900 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "KD Víska - výměna parket (RZ 124/2024/RM"
+        },
+        {
+          "budget_change_id": "125/2024/RM",
+          "raw_codes": [
+            "5213",
+            "5903",
+            "16 900 000"
+          ],
+          "amount": "-9 935,31",
+          "amount_value": -9935.31,
+          "description": "řešení následků povodňové situace (RZ 125/2024/RM"
+        },
+        {
+          "budget_change_id": "125/2024/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "307",
+            "3 903 470"
+          ],
+          "amount": "9 935,31",
+          "amount_value": 9935.31,
+          "description": "Chořelice - oprava sloupů na sportovním hřišti po povodni (RZ 125/2024/RM"
+        },
+        {
+          "budget_change_id": "126/2024/RM",
+          "raw_codes": [
+            "5269",
+            "5493",
+            "90002",
+            "14 000 000"
+          ],
+          "amount": "16 720 000,00",
+          "amount_value": 16720000.0,
+          "description": "transfery příjemcům dotace - Pomoc domácnostem postiženým povodní - Litovel 2024 (RZ 126/2024/RM"
+        },
+        {
+          "budget_change_id": "127/2024/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "115",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "18 000,00",
+          "amount_value": 18000.0,
+          "description": "transfery příjemci dotace - ZŠ Jungmannova - realizace programu Zelená škola Olomouckého kraje 2023/2024 (RZ 127/2024/RM"
+        },
+        {
+          "budget_change_id": "128/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5321",
+            "1 003 002"
+          ],
+          "amount": "-23 110,00",
+          "amount_value": -23110.0,
+          "description": "poskytnutí dotace na výkon činnosti související s realizací integrovaného nástroje ITI /RZ 128/2024/RM"
+        },
+        {
+          "budget_change_id": "12/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5169",
+            "1 000 000"
+          ],
+          "amount": "23 110,00",
+          "amount_value": 23110.0,
+          "description": "územní rozvoj - jiné služby (RZ 12/2024/RM"
+        },
+        {
+          "budget_change_id": "130/2024/RM",
+          "raw_codes": [
+            "3315",
+            "5171",
+            "18 900 000"
+          ],
+          "amount": "215 000,00",
+          "amount_value": 215000.0,
+          "description": "Muzeum Litovel - řešení povodňových škod (RZ 130/2024/RM"
+        },
+        {
+          "budget_change_id": "131/2024/RM",
+          "raw_codes": [
+            "2333",
+            "6142",
+            "7 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Úpravy drobných vodní toků - nadlimitní věcné břemeno (RZ 131/2024/RM"
+        },
+        {
+          "budget_change_id": "132/2024/RM",
+          "raw_codes": [
+            "3312",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "-185,00",
+          "amount_value": -185.0,
+          "description": "SOŠ Litovel - vratka dotace na minifestival amatérských skupin (RZ 132/2024/RM"
+        },
+        {
+          "budget_change_id": "132/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "185,00",
+          "amount_value": 185.0,
+          "description": "transfery dle rozhodnutí RM (RZ 132/2024/RM"
+        },
+        {
+          "budget_change_id": "129/2024/RM",
+          "raw_codes": [
+            "2295",
+            "5323",
+            "3 003 468"
+          ],
+          "amount": "-298 444,00",
+          "amount_value": -298444.0,
+          "description": "Dopravní obslužnost - neinvestiční transfery krajům (RZ 129/2024/RM"
+        },
+        {
+          "budget_change_id": "129/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "309",
+            "3 000 000"
+          ],
+          "amount": "286 426,00",
+          "amount_value": 286426.0,
+          "description": "KD - nákup služeb (129/2024/RM"
+        },
+        {
+          "budget_change_id": "129/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5151",
+            "310",
+            "3 003 465"
+          ],
+          "amount": "12 018,00",
+          "amount_value": 12018.0,
+          "description": "KD Unčovice - vodné a stočné (RZ 129/2024/RM"
+        },
+        {
+          "budget_change_id": "133/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "transfery dle rozhodnutí RM (RZ 133/2024/RM"
+        },
+        {
+          "budget_change_id": "134/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "transfery dle rozhodnutí RM (RZ 134/2024/RM"
+        },
+        {
+          "budget_change_id": "134/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "K.A. - dar na organizační zajištění mikulášské nadílky v Chudobíně (RZ 134/2024/RM"
+        },
+        {
+          "budget_change_id": "133/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "SDH Savín - organizační zajištění mikulášské nadílky (RZ 133/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 123/2024/RM",
+      "text": "Dne 20.11.2024 byla doručená žádost od odboru MH a SI na rozpočtovou změnu týkající se pořízení nového kotle do KD Víska (původní částečně zatopen při povodni)."
+    },
+    {
+      "title": "Rozpočtová změna č. 124/2024/RM",
+      "text": "Dne 20.11.2024 byla od odboru MH a SI doručená žádost na rozpočtovou změnu: Pro výměnu parket KD Víska zatopených při povodni (po odkrytí zjištěno, že je potřeba vybrousit a vyrovnat podklad - vícepráce) je požadována rozpočtová změna."
+    },
+    {
+      "title": "Rozpočtová změna č. 125/2024/RM",
+      "text": "Dne 20.11.2024 byla od odboru MH a SI doručená žádost na rozpočtovou změnu týkající se opravy nosných konstrukcí (vícepráce) na sportovišti v ulici Chořelice po povodni."
+    },
+    {
+      "title": "Rozpočtová změna č. 126/2024/RM",
+      "text": "Dne 22. 11. 2024 byla na účet města připsána od SFŽP ČR ve výši 16.720.000,00 Kč. Jedná se o finanční prostředky v rámci programu „Pomoc domácnostem postiženým povodní – Litovel 2024“"
+    },
+    {
+      "title": "Rozpočtová změna č. 127/2024/RM",
+      "text": "Dne 21. 11. 2024 byla na účet města připsána od Olomouckého kraje ve výši 18.000,00 Kč. Jedná se o finanční prostředky pro Základní školu Litovel, Jungmannova 655 na realizaci programu Zelená škola Olomouckého kraje 2023/2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 128/2024/RM",
+      "text": "V rozpočtu města na rok 2024 byla vyčleněna částka 120.000 Kč na poskytnutí dotace na výkon činností souvisejících s realizací integrovaného nástroje ITI, skutečné čerpání proběhlo ve výši 96.890 Kč."
+    },
+    {
+      "title": "Rozpočtová změna č. 129/2024/RM",
+      "text": "V rozpočtu města Litovel na rok 2024 byly vyčleněny finanční prostředky na zajištění dopravní obslužnosti pro rok 2024. Nevyčerpanou částku, která zůstala nevyčerpána po změně smluvních podmínek mezi městem a Olomouckým krajem, navrhuje odbor MHaSI ve spolupráci s FO využít ve prospěch kulturních domů v místních částech města."
+    },
+    {
+      "title": "Rozpočtová změna č. 130/2024/RM",
+      "text": "Město Litovel obdrželo finanční dary na odstraňování povodňových škod mimo jiné od společnosti Siemens (50.000, 12. 11. 2024) od Bingen am Rhein (15.000, 28. 10. 2024) a od Notářské komory Praha (150.000, 18. 11. 2024). Touto RZ jsou prostředky směrovány na řešení povodňových škod v litovelském muzeu, kde po jednání s našim pojistným ústavem je zřejmé, že městu nebudou proplaceny všechny výdaje na odstraňování povodňových škod dle záměrů vedoucího městského muzea."
+    },
+    {
+      "title": "Rozpočtová změna č. 131/2024/RM",
+      "text": "Město Litovel obdrželo finanční dar od společnosti FCC (200.000 8. 8. 2024). Touto RZ jsou prostředky směrovány do rozpočtu odboru životního prostředí na realizaci ekologických aktivit ve městě Litovel a jeho místních částech."
+    },
+    {
+      "title": "Rozpočtová změna č. 132/2024/RM",
+      "text": "Dne 22.2.2024 na 30. schůzi RM byla schválena RZ 16/2024/RM, kdy RM schválila poskytnutí dotace pro SOŠ Litovel ve výši 25 000 Kč na úhradu nákladů při konání minifestivalu amatérských skupin dne 21.6.2024 ve dvoře SOŠ Litovel. Dne 17.7.2024 obdrželo město Litovel na účet vratku části nevyčerpané dotace ve výši 185 Kč. Jelikož položka 5339 je závazný ukazatel, který musí být čerpán na 100 %, je nutná rozpočtová změna na skutečnou výši čerpání."
+    },
+    {
+      "title": "Rozpočtová změna č. 133/2024/RM",
+      "text": "Pan K.A. žádá o finanční příspěvek na organizační zajištění mikulášské nadílky v Chudobíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 134/2024/RM",
+      "text": "SDH Savín žádá o finanční dar na organizační zajištění mikulášské nabídky, která se koná 30. 11. 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._22_2024_dne_5._prosince_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 22/2024 schválené Radou města Litovel\ndne 5. prosince 2024\nRozpočtové opatření bylo schváleno na 44. schůzi města Litovel dne 5. prosince 2024 na základě usnesení\nRM/1341/44/RM, RM/1342/44/2024, RM 1360/44/2024.\nZměny v příjmech:\nODPA POL UZ ORJ ORG Kč\núčelová neinvestiční dotace - Pomoc domácnostem\n4113 90002 16 720 000,00\npostiženým povodní - Litovel 2024 (RZ 126/2024/RM)\núčelová neinvestiční dotace od Olomouckého kraje - ZŠ\n4122 115 18 000,00 Jungmannova - Zelená škola Olomouckého kraje\n2023/2024 (RZ 126/2024/RM)\n5269 2321 888 215 000,00 přijaté finanční dary - povodeň 2024 (RZ 130/2024/RM)\n3722 2321 200 000,00 přijaté finanční dary - FCC Litovel (RZ 131/2024/RM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\n5213 5903 16 900 000 -240 000,00 řešení následků povodňové situace (RZ 123/2024/RM)\n3392 6122 306 3 900 000 240 000,00 KD Víska - kotel (RZ 123/2024/RM)\n5213 5903 16 900 000 -100 000,00 řešení následků povodňové situace (RZ 124/2024/RM)\n3392 5171 306 3 900 000 100 000,00 KD Víska - výměna parket (RZ 124/2024/RM)\n5213 5903 16 900 000 -9 935,31 řešení následků povodňové situace (RZ 125/2024/RM)\nChořelice - oprava sloupů na sportovním hřišti po povodni\n3412 5171 307 3 903 470 9 935,31\n(RZ 125/2024/RM)\ntransfery příjemcům dotace - Pomoc domácnostem\n5269 5493 90002 14 000 000 16 720 000,00\npostiženým povodní - Litovel 2024 (RZ 126/2024/RM)\ntransfery příjemci dotace - ZŠ Jungmannova - realizace\n3113 5336 115 46 4 000 000 18 000,00 programu Zelená škola Olomouckého kraje 2023/2024 (RZ\n127/2024/RM)\nposkytnutí dotace na výkon činnosti související s realizací\n3639 5321 1 003 002 -23 110,00\nintegrovaného nástroje ITI /RZ 128/2024/RM)\n3639 5169 1 000 000 23 110,00 územní rozvoj - jiné služby (RZ 12/2024/RM)\nMuzeum Litovel - řešení povodňových škod (RZ\n3315 5171 18 900 000 215 000,00\n130/2024/RM)\nÚpravy drobných vodní toků - nadlimitní věcné břemeno\n2333 6142 7 000 000 200 000,00\n(RZ 131/2024/RM)\nSOŠ Litovel - vratka dotace na minifestival amatérských\n3312 5339 4 000 000 -185,00\nskupin (RZ 132/2024/RM)\n3429 5901 4 000 000 185,00 transfery dle rozhodnutí RM (RZ 132/2024/RM)\nDopravní obslužnost - neinvestiční transfery krajům (RZ\n2295 5323 3 003 468 -298 444,00\n129/2024/RM)\n3392 5169 309 3 000 000 286 426,00 KD - nákup služeb (129/2024/RM)\n3392 5151 310 3 003 465 12 018,00 KD Unčovice - vodné a stočné (RZ 129/2024/RM)\n3429 5901 4 000 000 -2 000,00 transfery dle rozhodnutí RM (RZ 133/2024/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSDH Savín - organizační zajištění mikulášské nadílky (RZ\n3429 5222 311 4 000 000 2 000,00\n133/2024/RM)\n3429 5901 4 000 000 -2 500,00 transfery dle rozhodnutí RM (RZ 134/2024/RM)\nK.A. - dar na organizační zajištění mikulášské nadílky v\n3900 5492 302 4 000 000 2 500,00\nChudobíně (RZ 134/2024/RM)\nRozpočtová změna č. 123/2024/RM\nDne 20.11.2024 byla doručená žádost od odboru MH a SI na rozpočtovou změnu týkající se pořízení nového kotle do\nKD Víska (původní částečně zatopen při povodni).\nRozpočtová změna č. 124/2024/RM\nDne 20.11.2024 byla od odboru MH a SI doručená žádost na rozpočtovou změnu: Pro výměnu parket KD Víska\nzatopených při povodni (po odkrytí zjištěno, že je potřeba vybrousit a vyrovnat podklad - vícepráce) je požadována\nrozpočtová změna.\nRozpočtová změna č. 125/2024/RM\nDne 20.11.2024 byla od odboru MH a SI doručená žádost na rozpočtovou změnu týkající se opravy nosných konstrukcí\n(vícepráce) na sportovišti v ulici Chořelice po povodni.\nRozpočtová změna č. 126/2024/RM\nDne 22. 11. 2024 byla na účet města připsána od SFŽP ČR ve výši 16.720.000,00 Kč. Jedná se o finanční prostředky\nv rámci programu „Pomoc domácnostem postiženým povodní – Litovel 2024“\nRozpočtová změna č. 127/2024/RM\nDne 21. 11. 2024 byla na účet města připsána od Olomouckého kraje ve výši 18.000,00 Kč. Jedná se o finanční\nprostředky pro Základní školu Litovel, Jungmannova 655 na realizaci programu Zelená škola Olomouckého kraje\n2023/2024.\nRozpočtová změna č. 128/2024/RM\nV rozpočtu města na rok 2024 byla vyčleněna částka 120.000 Kč na poskytnutí dotace na výkon činností souvisejících\ns realizací integrovaného nástroje ITI, skutečné čerpání proběhlo ve výši 96.890 Kč.\nRozpočtová změna č. 129/2024/RM\nV rozpočtu města Litovel na rok 2024 byly vyčleněny finanční prostředky na zajištění dopravní obslužnosti pro rok\n2024. Nevyčerpanou částku, která zůstala nevyčerpána po změně smluvních podmínek mezi městem a Olomouckým\nkrajem, navrhuje odbor MHaSI ve spolupráci s FO využít ve prospěch kulturních domů v místních částech města.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 130/2024/RM\nMěsto Litovel obdrželo finanční dary na odstraňování povodňových škod mimo jiné od společnosti Siemens (50.000,\n12. 11. 2024) od Bingen am Rhein (15.000, 28. 10. 2024) a od Notářské komory Praha (150.000, 18. 11. 2024). Touto\nRZ jsou prostředky směrovány na řešení povodňových škod v litovelském muzeu, kde po jednání s našim pojistným\nústavem je zřejmé, že městu nebudou proplaceny všechny výdaje na odstraňování povodňových škod dle záměrů\nvedoucího městského muzea.\nRozpočtová změna č. 131/2024/RM\nMěsto Litovel obdrželo finanční dar od společnosti FCC (200.000 8. 8. 2024). Touto RZ jsou prostředky směrovány do\nrozpočtu odboru životního prostředí na realizaci ekologických aktivit ve městě Litovel a jeho místních částech.\nRozpočtová změna č. 132/2024/RM\nDne 22.2.2024 na 30. schůzi RM byla schválena RZ 16/2024/RM, kdy RM schválila poskytnutí dotace pro SOŠ Litovel\nve výši 25 000 Kč na úhradu nákladů při konání minifestivalu amatérských skupin dne 21.6.2024 ve dvoře SOŠ Litovel.\nDne 17.7.2024 obdrželo město Litovel na účet vratku části nevyčerpané dotace ve výši 185 Kč. Jelikož položka 5339 je\nzávazný ukazatel, který musí být čerpán na 100 %, je nutná rozpočtová změna na skutečnou výši čerpání.\nRozpočtová změna č. 133/2024/RM\nPan K.A. žádá o finanční příspěvek na organizační zajištění mikulášské nadílky v Chudobíně.\nRozpočtová změna č. 134/2024/RM\nSDH Savín žádá o finanční dar na organizační zajištění mikulášské nabídky, která se koná 30. 11. 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 19.12.2024\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1360/44/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "123/2024/RM",
+        "124/2024/RM",
+        "125/2024/RM",
+        "126/2024/RM",
+        "127/2024/RM",
+        "128/2024/RM",
+        "129/2024/RM",
+        "130/2024/RM",
+        "131/2024/RM",
+        "132/2024/RM"
+      ]
+    }
+  ]
+}

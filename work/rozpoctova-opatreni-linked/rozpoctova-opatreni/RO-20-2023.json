@@ -1,0 +1,328 @@
+{
+  "id": "RO/20/2023",
+  "number": 20,
+  "year": 2023,
+  "approval_date": "2023-11-23",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 25,
+    "type": "schůzi",
+    "date": "2023-11-23"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "111/2023/RM",
+    "112/2023/RM",
+    "113/2023/RM",
+    "114/2023/RM",
+    "115/2023/RM",
+    "116/2023/RM",
+    "117/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "4116",
+            "13024"
+          ],
+          "amount": "351 933,33",
+          "amount_value": 351933.33,
+          "description": "Doplatek dotace na činnost OSPOD (RZ 114/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "111/2023/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 770,00",
+          "amount_value": -7770.0,
+          "description": "Ostatní záležitosti odboru školství (opravy hřišť a budov, posudky,audity, projekty a ostatní výdaje (RZ 111/2023/RM"
+        },
+        {
+          "budget_change_id": "111/2023/RM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "4 000 408"
+          ],
+          "amount": "7 770,00",
+          "amount_value": 7770.0,
+          "description": "ŠKS - SOŠ Litovel -výměna svítidel (RZ 111/2023/RM"
+        },
+        {
+          "budget_change_id": "112/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "ŠKS - Transfery dle rozhodnutí RM (RZ 112/2023/RM"
+        },
+        {
+          "budget_change_id": "112/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "J.Š. - činnost družstva malé kopané v Chudobíně (RZ 112/2023/RM"
+        },
+        {
+          "budget_change_id": "113/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "14 000 000"
+          ],
+          "amount": "-160 000,00",
+          "amount_value": -160000.0,
+          "description": "Vratky přeplatků minulých období … .(RZ 113/2023/RM"
+        },
+        {
+          "budget_change_id": "113/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5154",
+            "1 000 334"
+          ],
+          "amount": "160 000,00",
+          "amount_value": 160000.0,
+          "description": "Koupaliště Litovel - běžné výdaje (RZ 113/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Výdaje na činnost OSPOD-mzdové náklady (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "51 733,33",
+          "amount_value": 51733.33,
+          "description": "Výdaje na činnost OSPOD- sociální pojištění (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5032",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "39 000,00",
+          "amount_value": 39000.0,
+          "description": "Výdaje na činnost OSPOD-odvod na zdravotní pojištění (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5152",
+            "5 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Výdaje na činnost OSPOD- teplo (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5156",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "26 000,00",
+          "amount_value": 26000.0,
+          "description": "Výdaje na činnost OSPOD- pohonné hmoty (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5151",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "4 200,00",
+          "amount_value": 4200.0,
+          "description": "Výdaje na činnost OSPOD- voda (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5169",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Výdaje na činnost OSPOD- služby - tiskárna (RZ 114/2023/RM"
+        },
+        {
+          "budget_change_id": "115/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 400,00",
+          "amount_value": -4400.0,
+          "description": "Transfery dle rozhodnutí RM ( RZ 115/2023/RM"
+        },
+        {
+          "budget_change_id": "115/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "4 400,00",
+          "amount_value": 4400.0,
+          "description": "K.A. - dar na organizační zajištění mikulášské nadílky (RZ 115/2023/RM"
+        },
+        {
+          "budget_change_id": "116/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM ( RZ 116/2023/RM"
+        },
+        {
+          "budget_change_id": "116/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "E.K. - organizační zajištění mikulášské nadílky (RZ 116/2023/RM"
+        },
+        {
+          "budget_change_id": "117/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 117/2023/RM"
+        },
+        {
+          "budget_change_id": "117/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Savín -organizační zajištění mikulášské nadílky (RZ 117/2023/RM"
+        },
+        {
+          "budget_change_id": "114/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5154",
+            "13024",
+            "5",
+            "000",
+            "000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Výdaje na činnost OSPOD- elektrická energie (RZ 114/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 111/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 111/2023/RM řeší přesun finančních prostředků určených na ostatní záležitosti kultury",
+      "text": "na výměnu svítidel v SOŠ Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 112/2023/RM",
+      "text": "Město Litovel poskytlo dle požadavku z odboru ŠKS a požadavku pana J.Š. finanční příspěvek na činnost družstva malé kopané v Chudobíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 113/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky na pokrytí nedoplatku spotřeby elektrické energie na městském koupališti v Litovli, který byl vyúčtován od společnosti Pražská plynárenská, a.s. Část nedoplatku spotřeby elektrické energie bude přefakturovaná nájemkyni bufetu v areálu koupaliště."
+    },
+    {
+      "title": "Rozpočtová změna č. 114/2023/RM",
+      "text": "Město Litovel obdrželo na účet transfer ex-post (doplatek) na činnost OSPOD za rok 2022, který je poskytován z rozpočtu MPSV. Celková výše doplatku byla rozdělena na náklady jako jsou mzdy, sociální a zdravotní pojištění, teplo, elektrická energie, voda, PHM a ostatní služby."
+    },
+    {
+      "title": "Rozpočtová změna č. 115/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana K.A. dar na organizační zajištění rozsvěcení vánočního stromku a mikulášské nadílky, které se budou konat 2. prosince 2023 v Chudobíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 116/2023/RM",
+      "text": "Město Litovel poskytlo na žádost paní E.K. dar na organizační zajištění mikulášské nadílky pro děti, která se bude konat 2. prosince 2023 v Nové Vsi."
+    },
+    {
+      "title": "Rozpočtová změna č. 117/2023/RM",
+      "text": "Město Litovel poskytlo Sboru dobrovolných hasičů Savín dar na organizační zajištění mikulášské nadílky pro děti, která se bude konat 2. prosince 2023 v Savíně."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._20_2023_schvalene_radou_mesta_litovel_dne_23.listopadu_2023..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 20/2023 schválené Radou města Litovel\ndne 23.listopadu 2023.\nRozpočtové opatření bylo schváleno na 25. schůzi Rady města Litovel dne 23. listopadu 2023 na základě\nusnesení 691/25/2023, 692/25/2023, 693/25/2023 a 707/25/2023.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\n4116 13024 351 933,33 Doplatek dotace na činnost OSPOD\n(RZ 114/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nOstatní záležitosti odboru školství (opravy\n3319 5901 4 000 000 -7 770,00 hřišť a budov, posudky,audity, projekty a\nostatní výdaje (RZ 111/2023/RM)\nŠKS - SOŠ Litovel -výměna svítidel\n3613 6121 4 000 408 7 770,00\n(RZ 111/2023/RM)\nŠKS - Transfery dle rozhodnutí RM\n3429 5901 4 000 000 -7 000,00\n(RZ 112/2023/RM)\nJ.Š. - činnost družstva malé kopané v\n3419 5499 302 4 000 000 7 000,00\nChudobíně (RZ 112/2023/RM)\nVratky přeplatků minulých období …\n6409 5901 14 000 000 -160 000,00\n.(RZ 113/2023/RM)\nKoupaliště Litovel - běžné výdaje\n3412 5154 1 000 334 160 000,00\n(RZ 113/2023/RM)\nVýdaje na činnost OSPOD-mzdové\n6171 5011 13024 5 000 000 150 000,00\nnáklady (RZ 114/2023/RM)\nVýdaje na činnost OSPOD- sociální\n6171 5031 13024 5 000 000 51 733,33\npojištění (RZ 114/2023/RM)\nVýdaje na činnost OSPOD-odvod na\n6171 5032 13024 5 000 000 39 000,00\nzdravotní pojištění (RZ 114/2023/RM)\nVýdaje na činnost OSPOD- teplo\n6171 5152 13024 5 000 000 50 000,00\n(RZ 114/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVýdaje na činnost OSPOD- elektrická\n6171 5154 13024 5 000 000 30 000,00\nenergie (RZ 114/2023/RM)\nVýdaje na činnost OSPOD- pohonné\n6171 5156 13024 5 000 000 26 000,00\nhmoty (RZ 114/2023/RM)\nVýdaje na činnost OSPOD- voda\n6171 5151 13024 5 000 000 4 200,00\n(RZ 114/2023/RM)\nVýdaje na činnost OSPOD- služby -\n6171 5169 13024 5 000 000 1 000,00\ntiskárna (RZ 114/2023/RM)\n3429 5901 4 000 000 -4 400,00 Transfery dle rozhodnutí RM\n( RZ 115/2023/RM)\n3900 5492 302 4 000 000 4 400,00 K.A. - dar na organizační zajištění\nmikulášské nadílky (RZ 115/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n( RZ 116/2023/RM)\n3900 5492 303 4 000 000 5 000,00 E.K. - organizační zajištění mikulášské\nnadílky (RZ 116/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 117/2023/RM)\n3429 5222 311 4 000 000 5 000,00 SDH Savín -organizační zajištění\nmikulášské nadílky (RZ 117/2023/RM)\nRozpočtová změna č. 111/2023/RM\nRozpočtová změna č. 111/2023/RM řeší přesun finančních prostředků určených na ostatní záležitosti kultury\nna výměnu svítidel v SOŠ Litovel.\nRozpočtová změna č. 112/2023/RM\nMěsto Litovel poskytlo dle požadavku z odboru ŠKS a požadavku pana J.Š. finanční příspěvek na činnost\ndružstva malé kopané v Chudobíně.\nRozpočtová změna č. 113/2023/RM\nMěsto Litovel poskytlo finanční prostředky na pokrytí nedoplatku spotřeby elektrické energie na městském\nkoupališti v Litovli, který byl vyúčtován od společnosti Pražská plynárenská, a.s. Část nedoplatku spotřeby\nelektrické energie bude přefakturovaná nájemkyni bufetu v areálu koupaliště.\nRozpočtová změna č. 114/2023/RM\nMěsto Litovel obdrželo na účet transfer ex-post (doplatek) na činnost OSPOD za rok 2022, který je poskytován\nz rozpočtu MPSV. Celková výše doplatku byla rozdělena na náklady jako jsou mzdy, sociální a zdravotní\npojištění, teplo, elektrická energie, voda, PHM a ostatní služby.\nRozpočtová změna č. 115/2023/RM\nMěsto Litovel poskytlo na žádost pana K.A. dar na organizační zajištění rozsvěcení vánočního stromku a\nmikulášské nadílky, které se budou konat 2. prosince 2023 v Chudobíně.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 116/2023/RM\nMěsto Litovel poskytlo na žádost paní E.K. dar na organizační zajištění mikulášské nadílky pro děti, která se\nbude konat 2. prosince 2023 v Nové Vsi.\nRozpočtová změna č. 117/2023/RM\nMěsto Litovel poskytlo Sboru dobrovolných hasičů Savín dar na organizační zajištění mikulášské nadílky pro\nděti, která se bude konat 2. prosince 2023 v Savíně.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 11. 12. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/707/25/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "111/2023/RM",
+        "112/2023/RM",
+        "113/2023/RM",
+        "114/2023/RM"
+      ]
+    }
+  ]
+}

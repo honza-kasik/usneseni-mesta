@@ -1,0 +1,346 @@
+{
+  "id": "RO/6/2023",
+  "number": 6,
+  "year": 2023,
+  "approval_date": "2023-04-20",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 11,
+    "type": "schůzi",
+    "date": "2023-04-20"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "28/2023/RM",
+    "29/2023/RM",
+    "30/2023/RM",
+    "31/2023/RM",
+    "32/2023/RM",
+    "33/2023/RM",
+    "34/2023/RM",
+    "35/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "28/2023/RM",
+          "raw_codes": [
+            "4116",
+            "29015",
+            "14 000 000"
+          ],
+          "amount": "50 328,00",
+          "amount_value": 50328.0,
+          "description": "Přijatý transfer pro TS Litovel (RZ 28/2023/RM"
+        },
+        {
+          "budget_change_id": "29/2023/RM",
+          "raw_codes": [
+            "4116",
+            "170529031",
+            "14 000 000"
+          ],
+          "amount": "335 700,00",
+          "amount_value": 335700.0,
+          "description": "Přijatý transfer pro TS Litovel (RZ 29/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "4116",
+            "13015"
+          ],
+          "amount": "387 022,00",
+          "amount_value": 387022.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 32/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "28/2023/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "50 328,00",
+          "amount_value": 50328.0,
+          "description": "Převod přijatého transferu TS Litovel (RZ 28/2023/RM"
+        },
+        {
+          "budget_change_id": "29/2023/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "170529031",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "335 700,00",
+          "amount_value": 335700.0,
+          "description": "Převod přijatého transferu TS Litovel (RZ 29/2023/RM"
+        },
+        {
+          "budget_change_id": "30/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5169",
+            "310",
+            "3 003 465"
+          ],
+          "amount": "-15 000,00",
+          "amount_value": -15000.0,
+          "description": "Sokolovna Unčovice - nákup ostatních služeb (RZ 30/2023/RM"
+        },
+        {
+          "budget_change_id": "30/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "309",
+            "3 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Kulturní domy - opravy a udržování (RZ 30/2023/RM"
+        },
+        {
+          "budget_change_id": "31/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Obec Cholina - provoz pošty Partner v Cholině (RZ 31/2023/RM"
+        },
+        {
+          "budget_change_id": "31/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5321",
+            "4 003 037"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Obec Cholina - provoz pošty Partner v Cholině (neinvestiční transfer) (RZ 31/2023/RM"
+        },
+        {
+          "budget_change_id": "31/2023/RM",
+          "raw_codes": [
+            "3523",
+            "6359",
+            "4 000 000"
+          ],
+          "amount": "-40 000,00",
+          "amount_value": -40000.0,
+          "description": "Odborný léčebný ústav Paseka - pořízení vybavení ústavu (RZ 31/2023/RM"
+        },
+        {
+          "budget_change_id": "31/2023/RM",
+          "raw_codes": [
+            "3523",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Odborný léčebný ústav Paseka - pořízení vybavení ústavu (neinvestiční transfery cizím PO) (RZ 31/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "301 022,00",
+          "amount_value": 301022.0,
+          "description": "Výkon sociální práce-mzdové náklady (RZ 32/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "5032"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Výkon sociální práce - odvod na zdravotní pojištění (RZ 32/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5167",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "8 000,00",
+          "amount_value": 8000.0,
+          "description": "Výkon sociální práce - vzdělávání (RZ 32/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5173",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Výkon sociální práce - cestovné (RZ 32/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5133",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Výkon sociální práce - nákup testů Covid (RZ 32/2023/RM"
+        },
+        {
+          "budget_change_id": "33/2023/RM",
+          "raw_codes": [
+            "5311",
+            "6122",
+            "9 000 911"
+          ],
+          "amount": "-129 954,00",
+          "amount_value": -129954.0,
+          "description": "Kamerový systém MP (RZ 33/2023/RM"
+        },
+        {
+          "budget_change_id": "33/2023/RM",
+          "raw_codes": [
+            "5311",
+            "6122",
+            "3 000 911"
+          ],
+          "amount": "129 954,00",
+          "amount_value": 129954.0,
+          "description": "Chránička optického kabelu pro potřeby MP (RZ 33/2023/RM"
+        },
+        {
+          "budget_change_id": "34/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle usnesení RM (RZ 34/2023/RM"
+        },
+        {
+          "budget_change_id": "34/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Klub litovelského petanque- podpora činnosti v roce 2023 (RZ 34/2023/RM"
+        },
+        {
+          "budget_change_id": "35/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Chořelice - podpora místních spolků (RZ 35/2023/RM"
+        },
+        {
+          "budget_change_id": "35/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Chořelice - pobočný spolek SH ČMS - Sbor dobrovolných hasičů - činnost sboru v roce 2023 (RZ 35/2023/RM"
+        },
+        {
+          "budget_change_id": "32/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "13015",
+            "5",
+            "000",
+            "000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Výkon sociální práce - sociální pojištění (RZ 32/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 28/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od ministerstva zemědělství ČR. Dle informace získané z rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje se jedná o finanční příspěvek pro Technické služby Litovel na ekologické a k přírodě šetrné technologie při hospodaření v lesích."
+    },
+    {
+      "title": "Rozpočtová změna č. 29/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od ministerstva zemědělství ČR. Dle informace získané z rozhodnutí Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje se jedná o finanční příspěvek pro Technické služby Litovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku. ."
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2023/RM řeší dle požadavku z odboru MHaSI přesun finančních prostředků na opravy a údržbu",
+      "text": "v KD Nasobůrky."
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2023/RM řeší dle požadavku ŠKS zařazení finančních prostředků na správnou položku.",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 32/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na výkon sociální práce s výjimkou agendy sociálně právní ochrany dětí pro rok 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 33/2023/RM",
+      "text": "Na základě požadavku Městské policie Litovel je potřeba přeložit chráničku optického kabelu HDPE 50 v úseku ul. Dukelské, Palackého po kruhový objezd pro budoucí využití kamerového systému. Rozpočtová změna č. 33/2023/RM dle cenové nabídky od společnosti Opluštil-Stavby elektromontáže s.r.o. řeší na základě požadavku z odboru MHaSI přesun finančních prostředků z rozpočtu MP Litovel do rozpočtu odboru MHaSI."
+    },
+    {
+      "title": "Rozpočtová změna č. 34/2023/RM",
+      "text": "Město Litovel poskytlo Klubu litovelského petanque finanční příspěvek na podporu činnosti v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 35/2023/RM",
+      "text": "Město Litovel poskytlo pobočnému spolku SH ČMS – Sbor dobrovolných hasičů Chořelice finanční příspěvek na činnost sboru v roce 2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._6_2023_schvalene_radou_mesta_litovel_dne_20._dubna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 6/2023 schválené Radou města Litovel dne 20.dubna 2023.\nRozpočtové opatření bylo schváleno na 11. schůzi Rady města Litovel dne 20.dubna 2023 na základě usnesení\n330/11/2023, 331/11/2023 a 339/11/2023.\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\n4116 29015 14 000 000 50 328,00 Přijatý transfer pro TS Litovel\n(RZ 28/2023/RM)\n4116 170529031 14 000 000 335 700,00 Přijatý transfer pro TS Litovel\n(RZ 29/2023/RM)\n4116 13015 387 022,00 Přijatá účelová neinvestiční dotace\n(RZ 32/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3639 5336 29015 41 14 000 000 50 328,00 Převod přijatého transferu TS\nLitovel (RZ 28/2023/RM)\n3639 5336 170529031 41 14 000 000 335 700,00 Převod přijatého transferu TS\nLitovel (RZ 29/2023/RM)\n3412 5169 310 3 003 465 -15 000,00 Sokolovna Unčovice - nákup\nostatních služeb (RZ 30/2023/RM)\n3392 5171 309 3 000 000 15 000,00 Kulturní domy - opravy a\nudržování (RZ 30/2023/RM)\nObec Cholina - provoz pošty\n3900 5222 4 000 000 -10 000,00 Partner v Cholině\n(RZ 31/2023/RM)\nObec Cholina - provoz pošty\n3900 5321 4 003 037 10 000,00 Partner v Cholině (neinvestiční\ntransfer) (RZ 31/2023/RM)\nOdborný léčebný ústav Paseka -\n3523 6359 4 000 000 -40 000,00 pořízení vybavení ústavu\n(RZ 31/2023/RM)\nOdborný léčebný ústav Paseka -\npořízení vybavení ústavu\n3523 5339 4 000 000 40 000,00\n(neinvestiční transfery cizím PO)\n(RZ 31/2023/RM)\n6171 5011 13015 5 000 000 301 022,00 Výkon sociální práce-mzdové\nnáklady (RZ 32/2023/RM)\n6171 5031 13015 5 000 000 50 000,00 Výkon sociální práce - sociální\npojištění (RZ 32/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVýkon sociální práce - odvod na\n6171 5032 13015 5 000 000 25 000,00 zdravotní pojištění\n(RZ 32/2023/RM)\n6171 5167 13015 5 000 000 8 000,00 Výkon sociální práce - vzdělávání\n(RZ 32/2023/RM)\n6171 5173 13015 5 000 000 2 000,00 Výkon sociální práce - cestovné\n(RZ 32/2023/RM)\n6171 5133 13015 5 000 000 1 000,00 Výkon sociální práce - nákup testů\nCovid (RZ 32/2023/RM)\nKamerový systém MP\n5311 6122 9 000 911 -129 954,00\n(RZ 33/2023/RM)\n5311 6122 3 000 911 129 954,00 Chránička optického kabelu pro\npotřeby MP (RZ 33/2023/RM)\n3429 5901 4 000 000 -3 000,00 Transfery dle usnesení RM\n(RZ 34/2023/RM)\nKlub litovelského petanque-\n3429 5222 4 000 000 3 000,00 podpora činnosti v roce 2023\n(RZ 34/2023/RM)\n3429 5901 4 000 000 -25 000,00 Chořelice - podpora místních\nspolků (RZ 35/2023/RM)\nChořelice - pobočný spolek SH\nČMS - Sbor dobrovolných hasičů\n3429 5222 307 4 000 000 25 000,00\n- činnost sboru v roce 2023\n(RZ 35/2023/RM)\nRZ 28/2023/RM\nNa účet města Litovel byla připsaná platba od ministerstva zemědělství ČR. Dle informace získané z rozhodnutí Odboru\nživotního prostředí a zemědělství Krajského úřadu Olomouckého kraje se jedná o finanční příspěvek pro Technické služby\nLitovel na ekologické a k přírodě šetrné technologie při hospodaření v lesích.\nRZ 29/2023/RM\nNa účet města Litovel byla připsaná platba od ministerstva zemědělství ČR. Dle informace získané z rozhodnutí Odboru\nživotního prostředí a zemědělství Krajského úřadu Olomouckého kraje se jedná o finanční příspěvek pro Technické služby\nLitovel na obnovu, zajištění a výchovu lesních porostů do 40 let věku.\n.\nRZ 30/2023/RM\nRozpočtová změna č. 30/2023/RM řeší dle požadavku z odboru MHaSI přesun finančních prostředků na opravy a údržbu\nv KD Nasobůrky.\nRZ 31/2023/RM\nRozpočtová změna č. 31/2023/RM řeší dle požadavku ŠKS zařazení finančních prostředků na správnou položku.\nRZ 32/2023/RM\nNa účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na výkon sociální\npráce s výjimkou agendy sociálně právní ochrany dětí pro rok 2023.\nRZ 33/2023/RM\nNa základě požadavku Městské policie Litovel je potřeba přeložit chráničku optického kabelu HDPE 50 v úseku\nul. Dukelské, Palackého po kruhový objezd pro budoucí využití kamerového systému. Rozpočtová změna č. 33/2023/RM\ndle cenové nabídky od společnosti Opluštil-Stavby elektromontáže s.r.o. řeší na základě požadavku z odboru MHaSI přesun\nfinančních prostředků z rozpočtu MP Litovel do rozpočtu odboru MHaSI.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 34/2023/RM\nMěsto Litovel poskytlo Klubu litovelského petanque finanční příspěvek na podporu činnosti v roce 2023.\nRZ 35/2023/RM\nMěsto Litovel poskytlo pobočnému spolku SH ČMS – Sbor dobrovolných hasičů Chořelice finanční příspěvek na činnost\nsboru v roce 2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 10.5.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

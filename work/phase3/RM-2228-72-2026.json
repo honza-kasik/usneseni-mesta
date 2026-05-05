@@ -1,0 +1,29 @@
+{
+  "id": "RM/2228/72/2026",
+  "datum": "2026-04-23",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "rozhodla",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "rozhodla, že nájemce na pronájem části pozemku parc.č. 811, trvalý travní porost, v k.ú. Litovel, o výměře\n348 m2, jehož záměr na pronájem byl opakovaně zveřejněn v souladu s přijatým usnesením rady města\nč. RM/2166/69/2026, bod b), bude řešen losováním ze tří podaných žádostí za účasti vedení města."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření předložené Smlouvy na pronájem předmětného pozemku s vylosovaným nájemcem."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "RM/2166/69/2026",
+      "type": "explicit",
+      "resolved": "RM/2166/69/2026"
+    }
+  ],
+  "amounts": []
+}

@@ -1,0 +1,275 @@
+{
+  "id": "RO/6/2024",
+  "number": 6,
+  "year": 2024,
+  "approval_date": "2024-04-04",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "25/2024/RM",
+    "26/2024/RM",
+    "27/2024/RM",
+    "28/2024/RM",
+    "29/2024/RM",
+    "30/2024/RM",
+    "31/2024/RM",
+    "32/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "25/2024/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "15 111,00",
+          "amount_value": 15111.0,
+          "description": "Přijaté pojistné plnění (RZ 25/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "25/2024/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "15 111,00",
+          "amount_value": 15111.0,
+          "description": "Pojistné události – VO (RZ 25/2024/RM"
+        },
+        {
+          "budget_change_id": "26/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-30 000,00",
+          "amount_value": -30000.0,
+          "description": "Místní části - nerozdělená částka (RZ 26/2024/RM"
+        },
+        {
+          "budget_change_id": "26/2024/RM",
+          "raw_codes": [
+            "3326",
+            "6121",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Víska - rekonstrukce kapličky (RZ 26/2024/RM"
+        },
+        {
+          "budget_change_id": "27/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-123 000,00",
+          "amount_value": -123000.0,
+          "description": "Místní části - nerozdělená částka (RZ 27/2024/RM"
+        },
+        {
+          "budget_change_id": "27/2024/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "123 000,00",
+          "amount_value": 123000.0,
+          "description": "Víska - oplocení KD (RZ 27/2024/RM"
+        },
+        {
+          "budget_change_id": "28/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-21 780,00",
+          "amount_value": -21780.0,
+          "description": "Místní části - nerozdělená částka (RZ 28/2024/RM"
+        },
+        {
+          "budget_change_id": "28/2024/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "301",
+            "2 033 652"
+          ],
+          "amount": "21 780,00",
+          "amount_value": 21780.0,
+          "description": "PD komunikace pro nové RD v místní části Myslechovice (RZ 28/2024/RM"
+        },
+        {
+          "budget_change_id": "29/2024/RM",
+          "raw_codes": [
+            "2212",
+            "5169",
+            "3 003 463"
+          ],
+          "amount": "-61 000,00",
+          "amount_value": -61000.0,
+          "description": "Nové dopravní značení, informační systém, vitríny (RZ 29/2024/RM"
+        },
+        {
+          "budget_change_id": "29/2024/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "309",
+            "3 000 000"
+          ],
+          "amount": "61 000,00",
+          "amount_value": 61000.0,
+          "description": "Výměna svítidel v KD Nasobůrky (RZ 29/2024/RM"
+        },
+        {
+          "budget_change_id": "30/2024/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-90 750,00",
+          "amount_value": -90750.0,
+          "description": "ŠKS - ost. záležitosti odb. školství (opr. hřišť,posudky,audity,projekty a ost.výdaje) (RZ 30/2024/RM"
+        },
+        {
+          "budget_change_id": "30/2024/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "90 750,00",
+          "amount_value": 90750.0,
+          "description": "Administrace dotačního projektu revitalizace sport.areálu (RZ 30/2024/RM"
+        },
+        {
+          "budget_change_id": "31/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "SDH Savín - dar na organizační zajištění dne pro děti (RZ 31/2024/RM"
+        },
+        {
+          "budget_change_id": "32/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 32/2024/RM"
+        },
+        {
+          "budget_change_id": "32/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "K.A. - dar na organizační zajištění Velikonočního vítání jara (RZ 32/2024/RM"
+        },
+        {
+          "budget_change_id": "31/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-1 500,00",
+          "amount_value": -1500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 31/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 25/2024/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Generali Česká pojišťovna, a.s. Jedná se o pojistné plnění z pojistné události, která vznikla 25.1.2024 -poškozený sloup VO v Litovli na Komárově."
+    },
+    {
+      "title": "Rozpočtová změna č. 26/2024/RM",
+      "text": "Na žádost odboru MHaSI poskytlo město Litovel z položky rezervované k čerpání výdajů místních částí, která byla schválená v rozpočtu města na rok 2024 finanční prostředky na rekonstrukci kapličky ve Vísce."
+    },
+    {
+      "title": "Rozpočtová změna č. 27/2024/RM",
+      "text": "Na žádost odboru MHaSI poskytlo město Litovel z položky rezervované k čerpání výdajů místních částí, která byla schválená v rozpočtu města na rok 2024 finanční prostředky na oplocení Kulturního domu ve Vísce."
+    },
+    {
+      "title": "Rozpočtová změna č. 28/2024/RM",
+      "text": "Na žádost odboru MHaSI poskytlo město Litovel z položky rezervované k čerpání výdajů místních částí, která byla schválená v rozpočtu města na rok 2024 finanční prostředky na pokrytí výdajů na geologický průzkum v rámci připravované projektové dokumentace rekonstrukce komunikace pro nové RD v Myslechovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 29/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 29/2024/RM řeší přesun finančních prostředků určených na dopravní značení a",
+      "text": "informační systém na pokrytí výdajů při výměně nevyhovujících svítidel v Kulturním domě v Nasobůrkách."
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2024/RM řeší na žádost odboru ŠKS přesun finančních prostředků určených",
+      "text": "k financování ostatních záležitostí odboru školství na výdaje související s administrací dotačního projektu revitalizace sportovního areálu."
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2024/RM",
+      "text": "Město Litovel poskytlo dar SDH Savín na organizační zajištění akce pro děti „Honba za pokladem velikonočního zajíčka“, která se konala 30. března v Savíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 32/2024/RM",
+      "text": "Město Litovel poskytlo dar panu K.A. na organizační zajištění Velikonočního vítání jara v Chudobíně, která se konalo 31. března 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._6_2024_schvalene_radou_mesta_litovel_dne_4._dubna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 6/2024 schválené Radou města Litovel\ndne 4. dubna 2024.\nRozpočtové opatření bylo schváleno na 32.schůzi Rady města Litovel dne 4. dubna 2024 na základě usnesení\n916/32/2024, 917/32/2024 a 936/32/2024.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 15 111,00\n(RZ 25/2024/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPojistné události – VO\n3631 5171 3 003 559 15 111,00\n(RZ 25/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -30 000,00\n(RZ 26/2024/RM)\nVíska - rekonstrukce kapličky\n3326 6121 306 2 030 000 30 000,00\n(RZ 26/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -123 000,00\n(RZ 27/2024/RM)\nVíska - oplocení KD\n3392 6121 306 2 030 000 123 000,00\n(RZ 27/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -21 780,00\n(RZ 28/2024/RM)\nPD komunikace pro nové RD v místní\n2212 6121 301 2 033 652 21 780,00\nčásti Myslechovice (RZ 28/2024/RM)\nNové dopravní značení, informační\n2212 5169 3 003 463 -61 000,00\nsystém, vitríny (RZ 29/2024/RM)\nVýměna svítidel v KD Nasobůrky\n3392 6121 309 3 000 000 61 000,00\n(RZ 29/2024/RM)\nŠKS - ost. záležitosti odb. školství\n3319 5901 4 000 000 -90 750,00 (opr. hřišť,posudky,audity,projekty a\nost.výdaje) (RZ 30/2024/RM)\nAdministrace dotačního projektu\n3412 6121 4 000 442 90 750,00 revitalizace sport.areálu\n(RZ 30/2024/RM)\n3429 5901 4 000 000 -1 500,00 Transfery dle rozhodnutí RM\n(RZ 31/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSDH Savín - dar na organizační\n3429 5222 311 4 000 000 1 500,00 zajištění dne pro děti\n(RZ 31/2024/RM)\n3429 5901 4 000 000 -2 500,00 Transfery dle rozhodnutí RM\n(RZ 32/2024/RM)\nK.A. - dar na organizační zajištění\n3900 5492 302 4 000 000 2 500,00 Velikonočního vítání jara\n(RZ 32/2024/RM)\nRZ 25/2024/RM\nNa účet města Litovel byla připsaná platba od Generali Česká pojišťovna, a.s. Jedná se o pojistné plnění\nz pojistné události, která vznikla 25.1.2024 -poškozený sloup VO v Litovli na Komárově.\nRZ 26/2024/RM\nNa žádost odboru MHaSI poskytlo město Litovel z položky rezervované k čerpání výdajů místních částí,\nkterá byla schválená v rozpočtu města na rok 2024 finanční prostředky na rekonstrukci kapličky ve Vísce.\nRZ 27/2024/RM\nNa žádost odboru MHaSI poskytlo město Litovel z položky rezervované k čerpání výdajů místních částí,\nkterá byla schválená v rozpočtu města na rok 2024 finanční prostředky na oplocení Kulturního domu ve\nVísce.\nRZ 28/2024/RM\nNa žádost odboru MHaSI poskytlo město Litovel z položky rezervované k čerpání výdajů místních částí,\nkterá byla schválená v rozpočtu města na rok 2024 finanční prostředky na pokrytí výdajů na geologický\nprůzkum v rámci připravované projektové dokumentace rekonstrukce komunikace pro nové RD\nv Myslechovicích.\nRZ 29/2024/RM\nRozpočtová změna č. 29/2024/RM řeší přesun finančních prostředků určených na dopravní značení a\ninformační systém na pokrytí výdajů při výměně nevyhovujících svítidel v Kulturním domě v Nasobůrkách.\nRZ 30/2024/RM\nRozpočtová změna č. 30/2024/RM řeší na žádost odboru ŠKS přesun finančních prostředků určených\nk financování ostatních záležitostí odboru školství na výdaje související s administrací dotačního projektu\nrevitalizace sportovního areálu.\nRZ 31/2024/RM\nMěsto Litovel poskytlo dar SDH Savín na organizační zajištění akce pro děti „Honba za pokladem\nvelikonočního zajíčka“, která se konala 30. března v Savíně.\nRZ 32/2024/RM\nMěsto Litovel poskytlo dar panu K.A. na organizační zajištění Velikonočního vítání jara v Chudobíně,\nkterá se konalo 31. března 2024.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 17. 4. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/936/32/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "25/2024/RM",
+        "26/2024/RM",
+        "27/2024/RM",
+        "28/2024/RM",
+        "29/2024/RM",
+        "30/2024/RM"
+      ]
+    }
+  ]
+}

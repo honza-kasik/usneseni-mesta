@@ -1,0 +1,379 @@
+{
+  "id": "RO/15/2023",
+  "number": 15,
+  "year": 2023,
+  "approval_date": "2023-08-31",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 19,
+    "type": "schůzi",
+    "date": "2023-08-31"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "79/2023/RM",
+    "80/2023/RM",
+    "81/2023/RM",
+    "82/2023/RM",
+    "83/2023/RM",
+    "84/2023/RM",
+    "85/2023/RM",
+    "86/2023/RM",
+    "87/2023/RM",
+    "88/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "79/2023/RM",
+          "raw_codes": [
+            "4122",
+            "582"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Účelová neinvestiční dotace (RZ 79/2023/RM"
+        },
+        {
+          "budget_change_id": "80/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143533092",
+            "45"
+          ],
+          "amount": "2 200 935,52",
+          "amount_value": 2200935.52,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 80/2023/RM"
+        },
+        {
+          "budget_change_id": "80/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143133092",
+            "45"
+          ],
+          "amount": "667 293,48",
+          "amount_value": 667293.48,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 80/2023/RM"
+        },
+        {
+          "budget_change_id": "81/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143533092",
+            "47"
+          ],
+          "amount": "452 739,57",
+          "amount_value": 452739.57,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 81/2023/RM"
+        },
+        {
+          "budget_change_id": "81/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143133092",
+            "47"
+          ],
+          "amount": "137 264,43",
+          "amount_value": 137264.43,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 81/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "79/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "582",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Převod dotačních prostředků Městskému klubu (RZ 79/2023/RM"
+        },
+        {
+          "budget_change_id": "80/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143533092",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "2 200 935,52",
+          "amount_value": 2200935.52,
+          "description": "Převod účelové neinv.dotace PO (RZ 80/2023/RM"
+        },
+        {
+          "budget_change_id": "80/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143133092",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "667 293,48",
+          "amount_value": 667293.48,
+          "description": "Převod účelové neinv.dotace PO (RZ 80/2023/RM"
+        },
+        {
+          "budget_change_id": "81/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "-49,00",
+          "amount_value": -49.0,
+          "description": "Savín - drobná vydání , materiál (RZ 81/2023/RM"
+        },
+        {
+          "budget_change_id": "81/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "311",
+            "2030000"
+          ],
+          "amount": "49,00",
+          "amount_value": 49.0,
+          "description": "S avín - správce KD (RZ 81/2023/RM"
+        },
+        {
+          "budget_change_id": "82/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143533092",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "452 739,57",
+          "amount_value": 452739.57,
+          "description": "Převod účelové neinv.dotace PO (RZ 82/2023/RM"
+        },
+        {
+          "budget_change_id": "82/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143133092",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "137 264,43",
+          "amount_value": 137264.43,
+          "description": "Převod účelové neinv.dotace PO (RZ 82/2023/RM"
+        },
+        {
+          "budget_change_id": "83/2023/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 621"
+          ],
+          "amount": "-500 000,00",
+          "amount_value": -500000.0,
+          "description": "Litovel Sušilova Vítězná parkoviště realizace (RZ 83/2023/RM"
+        },
+        {
+          "budget_change_id": "84/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 84/2023/RM"
+        },
+        {
+          "budget_change_id": "84/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "SDH Savín - dar na organizační zajištění dne pro děti (RZ 84/2023/RM"
+        },
+        {
+          "budget_change_id": "85/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 85/2023/RM"
+        },
+        {
+          "budget_change_id": "85/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Dotace na činnost družstva malé kopané FH Rozvadovice v r. 2023 (RZ 85/2023/RM"
+        },
+        {
+          "budget_change_id": "86/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-6 000,00",
+          "amount_value": -6000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 86/2023/RM"
+        },
+        {
+          "budget_change_id": "86/2023/RM",
+          "raw_codes": [
+            "3312",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "M.O. - příspěvek na pořádání kulturních akcí (RZ 86/2023/RM"
+        },
+        {
+          "budget_change_id": "87/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 87/2023/RM"
+        },
+        {
+          "budget_change_id": "87/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "K.A. - organizační zajištění akce \"Oživíme Chudobín\" (RZ 87/2023/RM"
+        },
+        {
+          "budget_change_id": "87/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 87/2023/RM"
+        },
+        {
+          "budget_change_id": "87/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "R.U. - organizační zajištění akce \"Oživíme Chudobín\" (RZ 87/2023/RM"
+        },
+        {
+          "budget_change_id": "88/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-12 600,00",
+          "amount_value": -12600.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 88/2023/RM"
+        },
+        {
+          "budget_change_id": "88/2023/RM",
+          "raw_codes": [
+            "3421",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "12 600,00",
+          "amount_value": 12600.0,
+          "description": "DDM Litovel - personální zajištění provozu dopravního hřiště (RZ 88/2023/RM"
+        },
+        {
+          "budget_change_id": "83/2023/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3",
+            "003",
+            "637"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Skatepark a pumptrack Litovel Komárov (RZ 83/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 79/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci pro Městský klub Litovel na úhradu výdajů na akci „Služby TIC Litovel 2023“."
+    },
+    {
+      "title": "Rozpočtová změna č. 80/2023/RM",
+      "text": "Město Litovel obdrželo na účet účelovou neinvestiční dotaci pro Základní školu Litovel, Vítězná 1250 na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů."
+    },
+    {
+      "title": "Rozpočtová změna č. 81/2023/RM",
+      "text": "Rozpočtová změna 81/2023/RM řeší přesun finančních prostředků určených na nákup materiálu OV Savín na mzdy pro správce kulturního domu a to z důvodu, že od července 2023 má Savín správce KD."
+    },
+    {
+      "title": "Rozpočtová změna č. 82/2023/RM",
+      "text": "Město Litovel obdrželo na účet účelovou neinvestiční dotaci pro Základní školu a Mateřskou školu Nasobůrky na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů."
+    },
+    {
+      "title": "Rozpočtová změna č. 83/2023/RM",
+      "text": "Město Litovel poskytlo na žádost odboru MHaSI finanční prostředky na pokrytí nákladů na oplocení u skateparku a pumptracku v Litovli na Komárově."
+    },
+    {
+      "title": "Rozpočtová změna č. 84/2023/RM",
+      "text": "Město Litovel poskytlo SDH Savín dar na organizační zajištění dne pro děti, který se uskuteční 2.září 2023 v Savíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 85/2023/RM",
+      "text": "Na žádost pana J.P. poskytlo město Litovel finanční příspěvek na činnost družstva malé kopané FK Rozvadovice v roce 2023. RZ 86/23023/RM Na žádost pana M.O. poskytlo město dotaci na podporu konání kulturních akcí pořádaných v hostinci U Zeleného stromu v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 87/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky na organizační zajištění kulturně společenské akce Oživíme Chudobín – zapomenutou perlu Moravy, která se bude konat dne 1.října 2023 v Chudobíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 88/2023/RM",
+      "text": "Město Litovel poskytlo dar Domu dětí a mládeže na personální zajištění provozu dopravního hřiště v měsíci září a říjnu."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._15_2023_schvalene_radou_mesta_litovel_dne_31._srpna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 15/2023 schválené Radou města Litovel\ndne 31. srpna 2023.\nRozpočtové opatření bylo schváleno na 19. schůzi Rady města Litovel dne 31. srpna 2023 na základě usnesení\n545//19/2023,547/19/2023,548/19/2023,549/19/2023,565/19/2023 a 580/19/2023.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace (RZ\n4122 582 20 000,00\n79/2023/RM)\nPřijatá účelová neinvestiční dotace\n4116 143533092 45 2 200 935,52\n(RZ 80/2023/RM)\nPřijatá účelová neinvestiční dotace\n4116 143133092 45 667 293,48\n(RZ 80/2023/RM)\nPřijatá účelová neinvestiční dotace\n4116 143533092 47 452 739,57\n(RZ 81/2023/RM)\nPřijatá účelová neinvestiční dotace\n4116 143133092 47 137 264,43\n(RZ 81/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPřevod dotačních prostředků Městskému\n3392 5336 582 44 4 000 000 20 000,00\nklubu (RZ 79/2023/RM)\nPřevod účelové neinv.dotace PO\n3113 5336 143533092 45 4 000 000 2 200 935,52\n(RZ 80/2023/RM)\nPřevod účelové neinv.dotace PO\n3113 5336 143133092 45 4 000 000 667 293,48\n(RZ 80/2023/RM)\nSavín - drobná vydání , materiál\n3392 5139 311 2 030 000 -49,00\n(RZ 81/2023/RM)\n3429 5021 311 2030000 49,00\nS avín - správce KD (RZ 81/2023/RM)\nPřevod účelové neinv.dotace PO\n3113 5336 143533092 47 4 000 000 452 739,57\n(RZ 82/2023/RM)\nPřevod účelové neinv.dotace PO\n3113 5336 143133092 47 4 000 000 137 264,43\n(RZ 82/2023/RM)\n2219 6121 3 003 621 -500 000,00 Litovel Sušilova Vítězná parkoviště\nrealizace (RZ 83/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3412 6121 3 003 637 500 000,00 Skatepark a pumptrack Litovel Komárov\n(RZ 83/2023/RM)\n3429 5901 4 000 000 -4 000,00\nTransfery dle rozhodnutí RM\n(RZ 84/2023/RM)\n3429 5222 4 000 000 4 000,00 SDH Savín - dar na organizační zajištění\ndne pro děti (RZ 84/2023/RM)\n3429 5901 4 000 000 -10 000,00 Transfery dle rozhodnutí RM (RZ\n85/2023/RM)\nDotace na činnost družstva malé kopané\n3419 5499 4 000 000 10 000,00 FH Rozvadovice v r. 2023\n(RZ 85/2023/RM)\n3429 5901 4 000 000 -6 000,00\nTransfery dle rozhodnutí RM\n(RZ 86/2023/RM)\n3312 5499 4 000 000 6 000,00 M.O. - příspěvek na pořádání kulturních\nakcí (RZ 86/2023/RM)\n3429 5901 4 000 000 -20 000,00\nTransfery dle rozhodnutí RM\n(RZ 87/2023/RM)\n3900 5492 4 000 000 20 000,00 K.A. - organizační zajištění akce \"Oživíme\nChudobín\" (RZ 87/2023/RM)\n3429 5901 4 000 000 -3 000,00\nTransfery dle rozhodnutí RM\n(RZ 87/2023/RM)\n3900 5492 4 000 000 3 000,00 R.U. - organizační zajištění akce \"Oživíme\nChudobín\" (RZ 87/2023/RM)\n3429 5901 4 000 000 -12 600,00 Transfery dle rozhodnutí RM (RZ\n88/2023/RM)\nDDM Litovel - personální zajištění\n3421 5339 4 000 000 12 600,00 provozu dopravního hřiště\n(RZ 88/2023/RM)\nRZ 79/2023/RM\nNa účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci\npro Městský klub Litovel na úhradu výdajů na akci „Služby TIC Litovel 2023“.\nRZ 80/2023/RM\nMěsto Litovel obdrželo na účet účelovou neinvestiční dotaci pro Základní školu Litovel, Vítězná 1250 na\nrealizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené\nvykazování nákladů.\nRZ 81/2023/RM\nRozpočtová změna 81/2023/RM řeší přesun finančních prostředků určených na nákup materiálu OV Savín\nna mzdy pro správce kulturního domu a to z důvodu, že od července 2023 má Savín správce KD.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 82/2023/RM\nMěsto Litovel obdrželo na účet účelovou neinvestiční dotaci pro Základní školu a Mateřskou školu Nasobůrky na\nrealizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené\nvykazování nákladů.\nRZ 83/2023/RM\nMěsto Litovel poskytlo na žádost odboru MHaSI finanční prostředky na pokrytí nákladů na oplocení u skateparku\na pumptracku v Litovli na Komárově.\nRZ 84/2023/RM\nMěsto Litovel poskytlo SDH Savín dar na organizační zajištění dne pro děti, který se uskuteční 2.září 2023 v Savíně.\nRZ 85/2023/RM\nNa žádost pana J.P. poskytlo město Litovel finanční příspěvek na činnost družstva malé kopané FK Rozvadovice\nv roce 2023.\nRZ 86/23023/RM\nNa žádost pana M.O. poskytlo město dotaci na podporu konání kulturních akcí pořádaných v hostinci\nU Zeleného stromu v roce 2023.\nRZ 87/2023/RM\nMěsto Litovel poskytlo finanční prostředky na organizační zajištění kulturně společenské akce Oživíme\nChudobín – zapomenutou perlu Moravy, která se bude konat dne 1.října 2023 v Chudobíně.\nRZ 88/2023/RM\nMěsto Litovel poskytlo dar Domu dětí a mládeže na personální zajištění provozu dopravního hřiště v měsíci\nzáří a říjnu.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nLitovli, 12. 9. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

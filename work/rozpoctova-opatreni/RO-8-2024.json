@@ -1,0 +1,113 @@
+{
+  "id": "RO/8/2024",
+  "number": 8,
+  "year": 2024,
+  "approval_date": "2024-04-25",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "33/2024/RM",
+    "34/2024/RM",
+    "35/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "33/2024/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "-59 290,00",
+          "amount_value": -59290.0,
+          "description": "Nasobůrky - III/372 MK průtah, realizace (RZ 33/2024/RM"
+        },
+        {
+          "budget_change_id": "33/2024/RM",
+          "raw_codes": [
+            "3326",
+            "5169",
+            "309",
+            "3 000 000"
+          ],
+          "amount": "59 290,00",
+          "amount_value": 59290.0,
+          "description": "Kapličky - ostatní služby, revize (RZ 33/2024/RM"
+        },
+        {
+          "budget_change_id": "34/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 34/2024/RM"
+        },
+        {
+          "budget_change_id": "34/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "SDH Savín - dar na organizační zajištění lampionového průvodu pro děti (RZ 34/2024/RM"
+        },
+        {
+          "budget_change_id": "35/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 35/2024/RM"
+        },
+        {
+          "budget_change_id": "35/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "308",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Tři Dvory - činnost Čarodějnického spolku v roce 2024) (RZ 35/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 33/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 33/2024/RM řeší na žádost odboru MHaSI přesun finančních prostředků určených k",
+      "text": "realizaci průtahu MK III/372 v Nasobůrkách na rekonstrukci místní památky v Nasobůrkách. „V souvislosti s probíhající stavbou: „III/3732 Nasobůrky – průtah“ bylo nutné předejít možné škodě místní památky (kříže) s ohledem na jeho polohu. V návaznosti na potřebu provedení jednotlivých konstrukčních vrstev vozovky je nezbytně nutné tento kříž odborně demontovat, odvést, očistit a po provedení stavby povrchu komunikace se kříž opět vrátí do stejné pozice“."
+    },
+    {
+      "title": "Rozpočtová změna č. 34/2024/RM",
+      "text": "Město Litovel poskytlo dar SDH Savín na organizační zajištění lampionového průvodu pro děti, který se bude konat dne 11. května 2024 v Savíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 35/2024/RM",
+      "text": "Město Litovel poskytlo dar Čarodějnickému spolku Tři Dvory na aktivity nekomerčního charakteru, které se uskuteční ve Třech Dvorech u Litovle v roce 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._8_2024_schvalene_radou_mesta_litovel_dne_25._dubna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 8/2024 schválené Radou města Litovel\ndne 25. dubna 2024.\nRozpočtové opatření bylo schváleno na 34.schůzi Rady města Litovel dne 25. dubna 2024 na základě usnesení\n966/34/2024, 969/34/2024 a 986/34/2024.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nNasobůrky - III/372 MK průtah, realizace\n2219 6121 309 3 003 612 -59 290,00\n(RZ 33/2024/RM)\nKapličky - ostatní služby, revize\n3326 5169 309 3 000 000 59 290,00\n(RZ 33/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 000,00\n(RZ 34/2024/RM)\nSDH Savín - dar na organizační\n3429 5222 311 4 000 000 2 000,00 zajištění lampionového průvodu pro\nděti (RZ 34/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 35/2024/RM)\nTři Dvory - činnost Čarodějnického\n3900 5222 308 4 000 000 5 000,00 spolku v roce 2024)\n(RZ 35/2024/RM)\nRZ 33/2024/RM\nRozpočtová změna č. 33/2024/RM řeší na žádost odboru MHaSI přesun finančních prostředků určených k\nrealizaci průtahu MK III/372 v Nasobůrkách na rekonstrukci místní památky v Nasobůrkách. „V souvislosti s\nprobíhající stavbou: „III/3732 Nasobůrky – průtah“ bylo nutné předejít možné škodě místní památky (kříže) s\nohledem na jeho polohu. V návaznosti na potřebu provedení jednotlivých konstrukčních vrstev vozovky je\nnezbytně nutné tento kříž odborně demontovat, odvést, očistit a po provedení stavby povrchu komunikace se\nkříž opět vrátí do stejné pozice“.\nRZ 34/2024/RM\nMěsto Litovel poskytlo dar SDH Savín na organizační zajištění lampionového průvodu pro děti, který se bude\nkonat dne 11. května 2024 v Savíně.\nRZ 35/2024/RM\nMěsto Litovel poskytlo dar Čarodějnickému spolku Tři Dvory na aktivity nekomerčního charakteru, které se\nuskuteční ve Třech Dvorech u Litovle v roce 2024.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 13. 5. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

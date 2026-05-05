@@ -1,0 +1,798 @@
+{
+  "id": "RO/3/2024",
+  "number": 3,
+  "year": 2024,
+  "approval_date": "2024-02-08",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 10,
+    "type": "zasedání",
+    "date": "2024-02-08"
+  },
+  "source_resolutions": [
+    "ZM/4/10/2024",
+    "ZM/5/10/2024"
+  ],
+  "budget_change_ids": [
+    "1/2024/ZM",
+    "10/2024/ZM",
+    "11/2024/ZM",
+    "12/2024/ZM",
+    "13/2024/ZM",
+    "14/2024/ZM",
+    "15/2024/ZM",
+    "16/2024/ZM",
+    "17/2024/ZM",
+    "18/2024/ZM",
+    "19/2024/ZM",
+    "2/2024/ZM",
+    "20/2024/ZM",
+    "21/2024/ZM",
+    "22/2024/ZM",
+    "23/2024/ZM",
+    "24/2024/ZM",
+    "25/2024/ZM",
+    "26/2024/ZM",
+    "27/2024/ZM",
+    "28/2024/ZM",
+    "29/2024/ZM",
+    "3/2024/ZM",
+    "30/2024/ZM",
+    "31/2023/ZM",
+    "32/2024/ZM",
+    "33/2024/ZM",
+    "34/2024/ZM",
+    "35/2024/ZM",
+    "36/2023/ZM",
+    "36/2024/ZM",
+    "37/2024/ZM",
+    "4/2024/ZM",
+    "5/2024/ZM",
+    "6/2024/ZM",
+    "7/2024/ZM",
+    "8/2024/ZM",
+    "9/2024/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "34/2024/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "224 636,51",
+          "amount_value": 224636.51,
+          "description": "Změna stavu finančních prostředků na BÚ Sociálního fondu (RZ 34/2024/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "36/2024/ZM",
+          "raw_codes": [
+            "6330",
+            "4134"
+          ],
+          "amount": "99 458,42",
+          "amount_value": 99458.42,
+          "description": "Příjem na účtu Sociálního fondu dle vyúčtování za rok 2023 (RZ 36/2024/ZM"
+        },
+        {
+          "budget_change_id": "34/2024/ZM",
+          "raw_codes": [
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "224 636,51",
+          "amount_value": 224636.51,
+          "description": "Čerpání Sociálního fondu (RZ 34/2024/ZM"
+        },
+        {
+          "budget_change_id": "36/2023/ZM",
+          "raw_codes": [
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "99 458,42",
+          "amount_value": 99458.42,
+          "description": "Čerpání Sociálního fondu (RZ 36/2023/ZM"
+        },
+        {
+          "budget_change_id": "24/2024/ZM",
+          "raw_codes": [
+            "411"
+          ],
+          "amount": "2 571 300,00",
+          "amount_value": 2571300.0,
+          "description": "Příspěvek na výkon státní správy (RZ 24/2024/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "24/2024/ZM",
+          "raw_codes": [
+            "4112"
+          ],
+          "amount": "571 300,00",
+          "amount_value": 571300.0,
+          "description": "Příspěvek na výkon státní správy (RZ 24/2024/ZM"
+        },
+        {
+          "budget_change_id": "33/2024/ZM",
+          "raw_codes": [
+            "1345"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Příjmy z poplatku za obecní systém odpadového hospodářství (RZ 33/2024/ZM"
+        },
+        {
+          "budget_change_id": "1/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "6 246 491,90",
+          "amount_value": 6246491.9,
+          "description": "ZŠ Jungmannova - předfinancování dotační akce (RZ 1/2024/ZM"
+        },
+        {
+          "budget_change_id": "2/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "46",
+            "4000 445"
+          ],
+          "amount": "36 300,00",
+          "amount_value": 36300.0,
+          "description": "ZŠ Jungmannova - výběrové řízení na dodávku ICT (RZ 2/2024/ZM"
+        },
+        {
+          "budget_change_id": "3/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "46",
+            "4 000 445"
+          ],
+          "amount": "36 300,00",
+          "amount_value": 36300.0,
+          "description": "ZŠ Jungmannova - výběrové řízení na školní pomůcky (RZ 3/2024/ZM"
+        },
+        {
+          "budget_change_id": "4/2024/ZM",
+          "raw_codes": [
+            "3111",
+            "6119",
+            "47",
+            "4 000 000"
+          ],
+          "amount": "90 750,00",
+          "amount_value": 90750.0,
+          "description": "ZŠ a MŠ Nasobůrky - studie (RZ 4/2024/ZM"
+        },
+        {
+          "budget_change_id": "5/2024/ZM",
+          "raw_codes": [
+            "3111",
+            "6121",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "25 410,00",
+          "amount_value": 25410.0,
+          "description": "MŠ Gemerská - PD akumulační nádrž (RZ 5/2024/ZM"
+        },
+        {
+          "budget_change_id": "6/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "306",
+            "2 030 306"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Víska -parkovací místa podél komunikace (RZ 6/2024/ZM"
+        },
+        {
+          "budget_change_id": "6/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "303",
+            "2 033 408"
+          ],
+          "amount": "240 000,00",
+          "amount_value": 240000.0,
+          "description": "Nová Ves - autobusová zastávka (RZ 6/2024/ZM"
+        },
+        {
+          "budget_change_id": "6/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "304",
+            "2 033 647"
+          ],
+          "amount": "245 000,00",
+          "amount_value": 245000.0,
+          "description": "Rozvadovice - nová komunikace (RZ 6/2024/ZM"
+        },
+        {
+          "budget_change_id": "7/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "4 000 000,00",
+          "amount_value": 4000000.0,
+          "description": "Nasobůrky - průtah (RZ 7/2024/ZM"
+        },
+        {
+          "budget_change_id": "8/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-900 000,00",
+          "amount_value": -900000.0,
+          "description": "Místní části - nerozdělená rezerva (RZ 8/2024/ZM"
+        },
+        {
+          "budget_change_id": "8/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "301",
+            "2 033 646"
+          ],
+          "amount": "900 000,00",
+          "amount_value": 900000.0,
+          "description": "Myslechovice KD - rekonstrukce elektroinstalace (RZ 8/2024/ZM"
+        },
+        {
+          "budget_change_id": "9/2024/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "3 000 000"
+          ],
+          "amount": "110 000,00",
+          "amount_value": 110000.0,
+          "description": "Malý sál Záložny - dodávka a montáž oken (RZ 9/2024/ZM"
+        },
+        {
+          "budget_change_id": "10/2024/ZM",
+          "raw_codes": [
+            "5311",
+            "6123",
+            "9 000 000"
+          ],
+          "amount": "55 000,00",
+          "amount_value": 55000.0,
+          "description": "Dovybavení vozidla MP (RZ 10/2024/ZM"
+        },
+        {
+          "budget_change_id": "11/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "5137",
+            "7 000 000"
+          ],
+          "amount": "45 000,00",
+          "amount_value": 45000.0,
+          "description": "Pořízení sběrných nádob pro Litovel (RZ 11/2024/ZM"
+        },
+        {
+          "budget_change_id": "12/2024/ZM",
+          "raw_codes": [
+            "3632",
+            "6121",
+            "12 000 000"
+          ],
+          "amount": "70 000,00",
+          "amount_value": 70000.0,
+          "description": "PD - Rekonstrukce vstupu vč. vstupní brány na hřbitově v Litovli - Chořelicích (RZ 12/2024/ZM"
+        },
+        {
+          "budget_change_id": "13/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 589"
+          ],
+          "amount": "25 000 000,00",
+          "amount_value": 25000000.0,
+          "description": "Šmakalova ulice - rekonstrukce (RZ 13/2024/ZM"
+        },
+        {
+          "budget_change_id": "14/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "311",
+            "3 003 607"
+          ],
+          "amount": "6 500 000,00",
+          "amount_value": 6500000.0,
+          "description": "Savín - rekonstrukce autobusových zálivů (RZ 14/2024/ZM"
+        },
+        {
+          "budget_change_id": "15/2024/ZM",
+          "raw_codes": [
+            "2341",
+            "5171",
+            "7 000 725"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Oprava loviště a kádiště na Olomouckém rybníku (RZ 15/2024/ZM"
+        },
+        {
+          "budget_change_id": "16/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "5171",
+            "3 000 000"
+          ],
+          "amount": "2 500 000,00",
+          "amount_value": 2500000.0,
+          "description": "Rekonstrukce prostoru před GJO (RZ 16/2024/ZM"
+        },
+        {
+          "budget_change_id": "17/2024/ZM",
+          "raw_codes": [
+            "3111",
+            "6121",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "Mateřské školy (RZ 17/2024/ZM"
+        },
+        {
+          "budget_change_id": "18/2024/ZM",
+          "raw_codes": [
+            "3141",
+            "6121",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "ŠJ Studentů - rekonstrukce výtahu (RZ 18/2024/ZM"
+        },
+        {
+          "budget_change_id": "19/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "6121",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "750 000,00",
+          "amount_value": 750000.0,
+          "description": "ZŠ Vítězná - řídící systém vzduchotechniky a vytápění (RZ 19/2024/ZM"
+        },
+        {
+          "budget_change_id": "20/2024/ZM",
+          "raw_codes": [
+            "3113",
+            "6121",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "ZŠ Jungmannova - venkovní žaluzie (RZ 20/2024/ZM"
+        },
+        {
+          "budget_change_id": "21/2024/ZM",
+          "raw_codes": [
+            "3613",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Nespecifikovaná rezerva (RZ 21/2024/ZM"
+        },
+        {
+          "budget_change_id": "22/2024/ZM",
+          "raw_codes": [
+            "3612",
+            "6121",
+            "12 000 000"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "Zateplení půdního prostoru -Boskovicova 785/2,4 (RZ 22/2024/ZM"
+        },
+        {
+          "budget_change_id": "23/2024/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "12 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Vypracování PD - staveb.úpravy stávajícího nebyt.prostoru-Poděbradova 748,749 ke komerč.účelům(Ordinace)+ zatepl.fasády a půdy Poděbradova 748,749 (RZ 23/2024/ZM"
+        },
+        {
+          "budget_change_id": "24/2024/ZM",
+          "raw_codes": [
+            "6171",
+            "5169",
+            "10 000 000"
+          ],
+          "amount": "571 300,00",
+          "amount_value": 571300.0,
+          "description": "Výkon státní správy (RZ 24/2024/ZM"
+        },
+        {
+          "budget_change_id": "25/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "309",
+            "3 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "KD Nasobůrky - oprava světlovodů (RZ 25/2024/ZM"
+        },
+        {
+          "budget_change_id": "26/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-120 000,00",
+          "amount_value": -120000.0,
+          "description": "Místní části - nerozdělená rezerva (RZ 26/2024/ZM"
+        },
+        {
+          "budget_change_id": "26/2024/ZM",
+          "raw_codes": [
+            "3392",
+            "5137",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Vybavení kuchyně v KD Savín (RZ 26/2024/ZM"
+        },
+        {
+          "budget_change_id": "27/2024/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "4 000 442"
+          ],
+          "amount": "84 700,00",
+          "amount_value": 84700.0,
+          "description": "Organizační zajištění zadávacího řízení - Revitalizace sportovního areálu (RZ 27/2024/ZM"
+        },
+        {
+          "budget_change_id": "28/2024/ZM",
+          "raw_codes": [
+            "3429",
+            "6119",
+            "4 000 000"
+          ],
+          "amount": "102 850,00",
+          "amount_value": 102850.0,
+          "description": "Architektonická studie víceúčelového areálu (RZ 28/2024/ZM"
+        },
+        {
+          "budget_change_id": "29/2024/ZM",
+          "raw_codes": [
+            "3744",
+            "6130",
+            "3 003 454"
+          ],
+          "amount": "2 620 000,00",
+          "amount_value": 2620000.0,
+          "description": "Realizace protipovodňových opatření (RZ 29/2024/ZM"
+        },
+        {
+          "budget_change_id": "30/2024/ZM",
+          "raw_codes": [
+            "6402",
+            "5364",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "60 102,00",
+          "amount_value": 60102.0,
+          "description": "Vratka příspěvku na výkon pěstounské péče (RZ 30/2024/ZM"
+        },
+        {
+          "budget_change_id": "31/2023/ZM",
+          "raw_codes": [
+            "6402",
+            "5364",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "8 400,00",
+          "amount_value": 8400.0,
+          "description": "Vratka dotace na výkon sociální práce (RZ 31/2023/ZM"
+        },
+        {
+          "budget_change_id": "32/2024/ZM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Revitalizace papírenské vody (RZ 32/2024/ZM"
+        },
+        {
+          "budget_change_id": "33/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "5137",
+            "7 000 777"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Elektronická evidence pro sběrný dvůr (RZ 33/2024/ZM"
+        },
+        {
+          "budget_change_id": "35/2024/ZM",
+          "raw_codes": [
+            "6330",
+            "5342",
+            "1 000 000"
+          ],
+          "amount": "99 458,42",
+          "amount_value": 99458.42,
+          "description": "Převod do Sociálního fondu (RZ 35/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 900 000,00",
+          "amount_value": -5900000.0,
+          "description": "Ostatní zájmová činnost - nerozdělená rezerva (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "370 000,00",
+          "amount_value": 370000.0,
+          "description": "Spolek TJ VS Litovel z.s. - zajištění sportovní činnosti tělových. jednoty v roce 2024 (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Spolek TJ VS Litovel,z.s. - zajištění sport. soutěže BOBR CUP v 10/2024 (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "4 500 000,00",
+          "amount_value": 4500000.0,
+          "description": "TJ TATRAN Litovel, z.s. - souhrnná dotace -soutěže, provozuschopnost areálu, údržba hřišť, .. (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "4359",
+            "6122",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk - provoz sanitárního kontejneru (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Charita Šternberk - pouť na Starém městě (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Charita Šternberk - domácí zdravotní péče (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "450 000,00",
+          "amount_value": 450000.0,
+          "description": "Charita Šternberk - pečovatelská služba (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "4371",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk - sociálně aktivizační služby pro rodiny s dětmi (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "4312",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk - poradna Nedlužím (RZ 37/2024/ZM"
+        },
+        {
+          "budget_change_id": "6/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3",
+            "003",
+            "583"
+          ],
+          "amount": "165 000,00",
+          "amount_value": 165000.0,
+          "description": "Litovel, Pavlínka - chodník a komunikace (RZ 6/2024/ZM"
+        },
+        {
+          "budget_change_id": "23/2024/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "12",
+            "000",
+            "000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Vypracování studie - možné využití stávajícího nebyt.prostoru-Poděbradova 748,749 ke komerčním účelům (ordinace pro lékaře) (RZ 23/2024/ZM"
+        },
+        {
+          "budget_change_id": "23/2024/ZM",
+          "raw_codes": [],
+          "amount": "748,74",
+          "amount_value": 748.74,
+          "description": "Vypracování PD - staveb.úpravy stávajícího nebyt.prostoru-Poděbradova 9 ke 3613 6121 12 000 000 300 000,00 komerč.účelům(Ordinace)+ zatepl.fasády a půdy Poděbradova 748,749 (RZ 23/2024/ZM"
+        },
+        {
+          "budget_change_id": "37/2024/ZM",
+          "raw_codes": [
+            "3900",
+            "5223",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Charita Šternberk - Mateřské centrum Rybička (RZ 37/2024/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 10/2024/ZM řeší přesun nevyčerpaných finančních prostředků z roku 2023.",
+      "text": "Nevyčerpané finanční prostředky budou použity na dovybavení nově pořízeného vozidla městské policie polepy a majáky. RZ 11/2024/ZM Pořízení sběrných nádob pro Litovel § 3722"
+    },
+    {
+      "title": "Rozpočtová změna č. 11/2024/ZM řeší přesun nevyčerpaných finančních prostředků roku 2023 na pořízení",
+      "text": "sběrných nádob pro Litovel v roce 2024. RZ 12/2024/ZM PD – Rekonstrukce vstupu vč. vstupní brány na hřbitově v Litovli - Chořelicích § 3632 Projektová dokumentace na akci rekonstrukce vstupu vč. vstupní brány na hřbitově v Litovli- Chořelicích byla zahrnuta v rozpočtu roku 2023. Z důvodu řešení odvodu dešťové vody z betonových ploch nebyla projektová dokumentace v roce 2023 dokončena. Rozpočtová změna řeší přesun nevyčerpaných finančních, prostředků do roku 2024. RZ 13/2024/ZM Šmakalova ulice - rekonstrukce § 3639 Rekonstrukce v ulicích Šmakalova a ČS Armády je rozdělena do tří objektů, které zahrnují rekonstrukci stávajících a výstavbu nových zpevněných ploch vozovek v ul. Šmakalova a ČS Armády, úpravu křižovatek, rekonstrukci stávajícího chodníku + vybudování nových chodníků, vybudování nových podélných parkovacích stání s celkovou kapacitou 16 stání, doplnění veřejného osvětlení a odvodnění dešťovou kanalizací s uličními vpustěmi. RZ 14/2024/ZM Savín – rekonstrukce autobusových zálivů § 2219 Místo stavby se nachází v extravilánu místní části Savín v blízkosti napojení silnice III/37312 vedoucí ze Savína na silnici II/373. V křižovatce jsou umístěny 2 zastávkové zálivy, které nesplňují provozní a bezpečnostní požadavky. Přístup k zastávkám bude umožněn prodloužením chodníku ze Savína. Nové zastávkové nástupiště zajistí současně bezbariérový nástup a výstup z autobusu. Projekt řeší i zpomalení rychlosti a k celkovému vzhledu přispějí i nové zastávkové přístřešky. RZ 15/2024/ZM Oprava loviště a kádiště na Olomouckém rybníku § 2341 Projekt Oprava loviště a kádiště Olomouckého rybníka řeší obnovu některých objektů na tomto rybníku. Zdi a dno loviště jsou z betonu, který je silně zvětralý, hloubka loviště není dostatečná, dlažba loviště je nerovná. Nově bude k lovišti vybudován sjezd. RZ 16/2024/ZM Rekonstrukce prostoru před GJO § 3639 Předmětem rekonstrukce je nejprve vypracování projektové dokumentace pro provádění úpravy zpevněných ploch, tj. výměna travertinové dlažby podél čelní fasády a přístupu do budovy, úprava uložení kamenných desek kolem pomníku J. Opletala, vlajkové stožáry budou nahrazeny novým kónickým Alu stožárem, výměna mobiliáře, nová plošina k rybníku ze žulové dlažby, zahradnické úpravy. RZ 17/2024/ZM Mateřské školy § 3111"
+    },
+    {
+      "title": "Rozpočtová změna č. 17/2024/ZM řeší vybudování atria v MŠ Gemerská, opravu sociálního zařízení v",
+      "text": "MŠ Svatojánek a nákup herních prvků do MŠ Unčovice. RZ 18/2024/ZM ŠJ Studentů – rekonstrukce výtahu § 3141"
+    },
+    {
+      "title": "Rozpočtová změna č. 18/2024/ZM řeší rekonstrukci výtahu ve Školní jídelně Studentů Litovel.",
+      "text": "RZ 19/2024/ZM ZŠ Vítězná – řídící systém vzduchotechniky a vytápění § 3113"
+    },
+    {
+      "title": "Rozpočtová změna č. 19/2024/ZM řeší vybudování řídícího systému vzduchotechniky a vytápění v",
+      "text": "ZŠ Vítězná Litovel. RZ 20/2024/ZM ZŠ Jungmannova – venkovní žaluzie § 3113"
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2024/ZM řeší vybudování venkovních žaluzií v ZŠ Jungmannova Litovel.",
+      "text": "RZ 21/2024/ZM Nespecifikovaná rezerva pro krajské školy § 3613 Město Litovel poskytlo Odboru školství, kultury a sportu finanční prostředky pro krajské školy. Finanční prostředky se zatím naúčtovaly jako nespecifikovaná rezerva, ze které se bude čerpat průběžně na základě požadavků krajských škol. RZ 22/2024/ZM Zateplení půdního prostoru – Boskovicova 785/2,4 § 3612"
+    },
+    {
+      "title": "Rozpočtová změna č. 22/2024/ZM řeší zateplení půdního prostoru v ul. Boskovicova 785/2,4.",
+      "text": "Projektová dokumentace na zateplení půdního prostoru byla vypracovaná v roce 2023. RZ 23/2024/ZM Poděbradova 748,749 – studie, PD § 3613"
+    },
+    {
+      "title": "Rozpočtová změna č. 23/2024/ZM řeší vypracování studie na možné využití stávajícího nebytového",
+      "text": "prostoru – Poděbradova 748,749 ke komerčním účelům (ordinace pro lékaře) a vypracování projektové dokumentace na stavební úpravy stávajícího nebytového prostoru – Poděbradova 748,749 ke komerčním účelům (ordinace) + zateplení fasády. RZ 24/2024/ZM Příspěvek na výkon státní správy pro rok 2024 § 6171 Město Litovel obdrželo prostřednictvím datové schránky z Krajského úřadu Olomouckého kraje informaci o poskytnutí příspěvku na výkon státní správy pro rok 2024. RZ 25/2024/ZM KD Nasobůrky – oprava světlovodů § 3392"
+    },
+    {
+      "title": "Rozpočtová změna č. 25/2024/ZM řeší opravu světlovodů v KD Nasobůrky, kde zatéká okolo světlíků",
+      "text": "ve střeše. RZ 26/2024/ZM Vybavení kuchyně v KD Savín § 3392"
+    },
+    {
+      "title": "Rozpočtová změna č. 26/2024/ZM řeší vybavení kuchyně v KD Savín.",
+      "text": "RZ 27/2024/ZM Organizační zajištění zadávacího řízení – Revitalizace sportovního areálu § 3412 Město Litovel obdrželo nabídku na organizační zajištění zadávacího řízení k veřejné zakázce - „Revitalizace sportovního areálu v Litovli – 2 etapa. RZ 28/2024/ZM Architektonická studie víceúčelového areálu § 3429 Město Litovel obdrželo kompletní cenovou nabídku na vyhotovení projektu „Stavební úpravy, přístavba a rozvoj areálu pro konání kulturních a společenských akcí. RZ 29/2024/ZM Realizace protipovodňových opatření § 3744 Město Litovel dlouhodobě řeší záležitosti protipovodňových opatření města Litovel. V současném období probíhají intenzivní jednání se ZD Haňovice, kde získání části pozemků bude provedeno spíše formou směny, což město Litovel nepostihne finančně. Směna je podmínkou ZD Haňovice, které nechce o výměry pozemků přijít. Finanční prostředky určené na protipovodňové opatření budou použity na výkup pozemků od jiných majitelů, na zajištění znaleckých posudků, geometrických plánů, úhradu poplatků aj. RZ 30/2024/ZM Vratka příspěvku na výkon pěstounské péče za rok 2023 § 6402"
+    },
+    {
+      "title": "Rozpočtová změna č. 30/2024/ZM řeší vrácení příspěvku na výkon pěstounské péče za rok 2023",
+      "text": "v rámci finančního vypořádání se státním rozpočtem. RZ 31/2024/ZM Vratka nevyčerpaných dotačních prostředků na výkon sociální práce za rok 2023 § 6402"
+    },
+    {
+      "title": "Rozpočtová změna č. 31/2024/ZM řeší vrácení nevyčerpaných dotačních prostředků na výkon pěstounské",
+      "text": "péče za rok 2023 v rámci finančního vypořádání se státním rozpočtem. RZ 32/2024/ZM Revitalizace papírenské vody § 2333 Akce Revitalizace papírenské vody byla dokončena v roce 2023 a v roce 2024 se bude kolaudovat."
+    },
+    {
+      "title": "Rozpočtová změna č. 32/2024/ZM řeší zaplacení nájmu pro Povodí Moravy a doplatek firmě, která",
+      "text": "kolem toku provedla nezbytné terénní úpravy RZ33/2024/ZM Elektronická evidence pro sběrný dvůr § 3722 Vlivem nového zákona lze mít občanský průkaz v elektronické podobě. Sběrný dvůr je vybaven čtečkou pouze na klasické občanské průkazy. Z toho důvodu je nutná technická úprava. RZ 34/2024/ZM Zapojení zůstatku na BÚ SF k 31. 12. 2023 do rozpočtu SF na rok 2024 § 6171 Na účtu Sociálního fondu byl k 31.12.2023 zůstatek, který je potřeba zapojit do rozpočtu Sociálního fondu na rok 2024. RZ 35/2024/ZM Vyúčtování přídělu finančních prostředků za rok 2023 do Sociálního fondu V souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno vyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných – čl. 1, bod 1) a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, doručené 29. 1. 2024, ze kterého vyplývá rozdíl, který má být odveden ve prospěch Sociálního fondu. RZ 36/2024/ZM Příjem fin. prostředků do rozpočtu Soc.fondu na rok 2024 dle vyúčtování za rok 2023 V souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno vyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných – čl. 1, bod 1) a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo provedeno vyúčtování, doručené 29. 1. 2024, ze kterého vyplývá rozdíl, který má být odveden ve prospěch Sociálního fondu. RZ 37/2024/ZM Dotace žadatelům o finanční podporu na rok 2024"
+    },
+    {
+      "title": "Rozpočtová změna č. 37/2024/ZM řeší poskytnutí finančních dotací na rok 2024 žadatelům:",
+      "text": "TJ VS Litovel na zajištění sportovní činnosti tělovýchovné jednoty a na organizační zajištění sportovní soutěže BOBR CUP 2024, TJ TATRAN na přípravu a činnosti v oficiálních mistrovských soutěžích, na zabezpečení provozuschopnosti sportovního areálu a údržby hřišť v roce 2024 a Charitě Šternberk na provozní náklady pečovatelské služby, provozní náklady MC Rybička, mzdové náklady zdravotních sester, provozní náklady sanitárního kontejneru, na sociálně aktivizační služby pro rodiny s dětmi a na provoz poradny Nedlužím."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.3_2024_schvalene_zm_litovel_dne_8._unora_2024..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 3/2024 schválené Zastupitelstvem města Litovel\ndne 8. února 2024.\nRozpočtové opatření bylo schváleno na 10. zasedání Zastupitelstva města Litovel dne 8. února 2024 na základě\nusnesení ZM/4/10/2024 a ZM/5/10/2024.\nZměny ve financování Sociálního fondu:\n§ POL UZ ORJ ORG Kč\nZměna stavu finančních prostředků na BÚ Sociálního\n8115 224 636,51\nfondu (RZ 34/2024/ZM)\nZměny v příjmech Sociálního fondu:\n§ POL UZ ORJ ORG Kč\nPříjem na účtu Sociálního fondu dle vyúčtování za rok\n6330 4134 99 458,42\n2023 (RZ 36/2024/ZM)\nZměny ve výdajích Sociálního fondu:\n6171 5901 1 000 000 224 636,51 Čerpání Sociálního fondu (RZ 34/2024/ZM)\n6171 5901 1 000 000 99 458,42 Čerpání Sociálního fondu (RZ 36/2023/ZM)\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\n8115 6 246 491,90 Změna finančních prostředků na BÚ (RZ 1/2024//ZM)\n8115 36 300,00 Změna finančních prostředků na BÚ (RZ 2/2024//ZM)\n8115 36 300,00 Změna finančních prostředků na BÚ (RZ 3/2024//ZM)\n8115 90 750,00 Změna finančních prostředků na BÚ (RZ 4/2024//ZM)\n8115 25 410,00 Změna finančních prostředků na BÚ (RZ 5/2024//ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n8115 850 000,00 Změna finančních prostředků na BÚ (RZ 6/2024//ZM)\n8115 4 000 000,00 Změna finančních prostředků na BÚ (RZ 7/2024//ZM)\n8115 110 000,00 Změna finančních prostředků na BÚ (RZ 9/2024//ZM)\n8115 55 000,00 Změna finančních prostředků na BÚ (RZ 10/2024//ZM)\n8115 45 000,00 Změna finančních prostředků na BÚ (RZ 11/2024//ZM)\n8115 70 000,00 Změna finančních prostředků na BÚ (RZ 12/2024//ZM)\n8115 25 000 000,00 Změna finančních prostředků na BÚ (RZ 13/2024//ZM)\n8115 6 500 000,00 Změna finančních prostředků na BÚ (RZ 14/2024//ZM)\n8115 3 000 000,00 Změna finančních prostředků na BÚ (RZ 15/2024//ZM)\n8115 2 500 000,00 Změna finančních prostředků na BÚ (RZ 16/2024//ZM)\n8115 2 000 000,00 Změna finančních prostředků na BÚ (RZ 17/2024//ZM)\n8115 1 000 000,00 Změna finančních prostředků na BÚ (RZ 18/2024//ZM)\n8115 750 000,00 Změna finančních prostředků na BÚ (RZ 19/2024//ZM)\n8115 250 000,00 Změna finančních prostředků na BÚ (RZ 20/2024//ZM)\n8115 500 000,00 Změna finančních prostředků na BÚ (RZ 21/2024//ZM)\n8115 800 000,00 Změna finančních prostředků na BÚ (RZ 22/2024//ZM)\n8115 380 000,00 Změna finančních prostředků na BÚ (RZ 23/2024//ZM)\n8115 100 000,00 Změna finančních prostředků na BÚ (RZ 25/2024//ZM)\n8115 84 700,00 Změna finančních prostředků na BÚ (RZ 27/2024//ZM)\n8115 102 850,00 Změna finančních prostředků na BÚ (RZ 28/2024//ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n8115 2 620 000,00 Změna finančních prostředků na BÚ (RZ 29/2024//ZM)\n8115 60 102,00 Změna finančních prostředků na BÚ (RZ 30/2024//ZM)\n8115 8 400,00 Změna finančních prostředků na BÚ (RZ 31/2024//ZM)\n8115 99 458,42 Změna finančních prostředků na BÚ (RZ 35/2024//ZM)\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\n4112 571 300,00 Příspěvek na výkon státní správy (RZ 24/2024/ZM)\nPříjmy z poplatku za obecní systém odpadového\n1345 75 000,00\nhospodářství (RZ 33/2024/ZM)\nSběr a svoz komunálních odpadů - příjmy z poskytování\n3722 2111 100 000,00\nslužeb podnikatelům (RZ 32/20236/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nZŠ Jungmannova - předfinancování dotační akce\n3113 5169 46 4 000 000 6 246 491,90\n(RZ 1/2024/ZM)\nZŠ Jungmannova - výběrové řízení na dodávku ICT\n3113 5169 46 4000 445 36 300,00\n(RZ 2/2024/ZM)\nZŠ Jungmannova - výběrové řízení na školní pomůcky\n3113 5169 46 4 000 445 36 300,00\n(RZ 3/2024/ZM)\n3111 6119 47 4 000 000 90 750,00 ZŠ a MŠ Nasobůrky - studie (RZ 4/2024/ZM)\n3111 6121 48 4 000 000 25 410,00 MŠ Gemerská - PD akumulační nádrž (RZ 5/2024/ZM)\nVíska -parkovací místa podél komunikace\n2219 6121 306 2 030 306 200 000,00\n(RZ 6/2024/ZM)\n2219 6121 303 2 033 408 240 000,00 Nová Ves - autobusová zastávka (RZ 6/2024/ZM)\n2219 6121 304 2 033 647 245 000,00 Rozvadovice - nová komunikace (RZ 6/2024/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nLitovel, Pavlínka - chodník a komunikace\n2219 6121 3 003 583 165 000,00\n(RZ 6/2024/ZM)\n2219 6121 309 3 003 612 4 000 000,00 Nasobůrky - průtah (RZ 7/2024/ZM)\n3639 5901 2 030 000 -900 000,00 Místní části - nerozdělená rezerva (RZ 8/2024/ZM)\nMyslechovice KD - rekonstrukce elektroinstalace\n3392 6121 301 2 033 646 900 000,00\n(RZ 8/2024/ZM)\nMalý sál Záložny - dodávka a montáž oken\n3613 6121 3 000 000 110 000,00\n(RZ 9/2024/ZM)\n5311 6123 9 000 000 55 000,00 Dovybavení vozidla MP (RZ 10/2024/ZM)\n3722 5137 7 000 000 45 000,00 Pořízení sběrných nádob pro Litovel (RZ 11/2024/ZM)\nPD - Rekonstrukce vstupu vč. vstupní brány na hřbitově v\n3632 6121 12 000 000 70 000,00\nLitovli - Chořelicích (RZ 12/2024/ZM)\n3639 6121 3 003 589 25 000 000,00 Šmakalova ulice - rekonstrukce (RZ 13/2024/ZM)\nSavín - rekonstrukce autobusových zálivů\n2219 6121 311 3 003 607 6 500 000,00\n(RZ 14/2024/ZM)\nOprava loviště a kádiště na Olomouckém rybníku\n2341 5171 7 000 725 3 000 000,00\n(RZ 15/2024/ZM)\n3639 5171 3 000 000 2 500 000,00 Rekonstrukce prostoru před GJO (RZ 16/2024/ZM)\n3111 6121 48 4 000 000 2 000 000,00 Mateřské školy (RZ 17/2024/ZM)\n3141 6121 50 4 000 000 1 000 000,00 ŠJ Studentů - rekonstrukce výtahu (RZ 18/2024/ZM)\nZŠ Vítězná - řídící systém vzduchotechniky a vytápění\n3113 6121 45 4 000 000 750 000,00\n(RZ 19/2024/ZM)\n3113 6121 46 4 000 000 250 000,00 ZŠ Jungmannova - venkovní žaluzie (RZ 20/2024/ZM)\n3613 5901 4 000 000 500 000,00 Nespecifikovaná rezerva (RZ 21/2024/ZM)\nZateplení půdního prostoru -Boskovicova 785/2,4\n3612 6121 12 000 000 800 000,00\n(RZ 22/2024/ZM)\nVypracování studie - možné využití stávajícího\n3613 6121 12 000 000 80 000,00 nebyt.prostoru-Poděbradova 748,749 ke komerčním\núčelům (ordinace pro lékaře) (RZ 23/2024/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVypracování PD - staveb.úpravy stávajícího\nnebyt.prostoru-Poděbradova 748,749 ke\n3613 6121 12 000 000 300 000,00\nkomerč.účelům(Ordinace)+ zatepl.fasády a půdy\nPoděbradova 748,749 (RZ 23/2024/ZM)\n6171 5169 10 000 000 571 300,00 Výkon státní správy (RZ 24/2024/ZM)\n3392 5171 309 3 000 000 100 000,00 KD Nasobůrky - oprava světlovodů (RZ 25/2024/ZM)\n3639 5901 2 030 000 -120 000,00 Místní části - nerozdělená rezerva (RZ 26/2024/ZM)\n3392 5137 311 2 030 000 120 000,00 Vybavení kuchyně v KD Savín (RZ 26/2024/ZM)\nOrganizační zajištění zadávacího řízení - Revitalizace\n3412 6121 4 000 442 84 700,00\nsportovního areálu (RZ 27/2024/ZM)\nArchitektonická studie víceúčelového areálu\n3429 6119 4 000 000 102 850,00\n(RZ 28/2024/ZM)\n3744 6130 3 003 454 2 620 000,00 Realizace protipovodňových opatření (RZ 29/2024/ZM)\nVratka příspěvku na výkon pěstounské péče\n6402 5364 13010 5 000 000 60 102,00\n(RZ 30/2024/ZM)\n6402 5364 13015 5 000 000 8 400,00 Vratka dotace na výkon sociální práce (RZ 31/2023/ZM)\n2333 5169 7 000 000 100 000,00 Revitalizace papírenské vody (RZ 32/2024/ZM)\n3722 5137 7 000 777 75 000,00 Elektronická evidence pro sběrný dvůr (RZ 33/2024/ZM)\n6330 5342 1 000 000 99 458,42 Převod do Sociálního fondu (RZ 35/2024/ZM)\nOstatní zájmová činnost - nerozdělená rezerva\n3429 5901 4 000 000 -5 900 000,00\n(RZ 37/2024/ZM)\nSpolek TJ VS Litovel z.s. - zajištění sportovní činnosti\n3419 5222 4 000 000 370 000,00\ntělových. jednoty v roce 2024 (RZ 37/2024/ZM)\n3419 5222 4 000 000 100 000,00\nSpolek TJ VS Litovel,z.s. - zajištění sport. soutěže BOBR\nCUP v 10/2024 (RZ 37/2024/ZM)\nTJ TATRAN Litovel, z.s. - souhrnná dotace -soutěže,\n3419 5222 4 000 423 4 500 000,00 provozuschopnost areálu, údržba hřišť, ..\n(RZ 37/2024/ZM)\n4359 6122 4 000 000 50 000,00\nCharita Šternberk - provoz sanitárního kontejneru\n(RZ 37/2024/ZM)\nCharita Šternberk - pouť na Starém městě\n4359 5223 4 000 000 30 000,00\n(RZ 37/2024/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3900 5223 4 000 000 200 000,00\nCharita Šternberk - Mateřské centrum Rybička\n(RZ 37/2024/ZM)\nCharita Šternberk - domácí zdravotní péče\n4359 5223 4 000 000 100 000,00\n(RZ 37/2024/ZM)\n4359 5223 4 000 000 450 000,00 Charita Šternberk - pečovatelská služba (RZ 37/2024/ZM)\nCharita Šternberk - sociálně aktivizační služby pro rodiny\n4371 5223 4 000 000 50 000,00\ns dětmi (RZ 37/2024/ZM)\n4312 5223 4 000 000 50 000,00 Charita Šternberk - poradna Nedlužím (RZ 37/2024/ZM)\nRZ 1/2024/ZM – ZŠ Jungmannova – předfinancování dotační akce § 3113\nAkce na ZŠ Jungmannova byla zařazena do rozpočtu v roce 2023 rozpočtovou změnou RZ/106/2023/ZM.\nV roce 2023 byla zahájena a průběžně se realizuje. Do rozpočtu roku 2024 je potřeba převést nevyčerpané\nfinanční prostředky.\nRZ 2/2024/ZM – ZŠ Jungmannova – Výběrové řízení na dodávku ICT § 3113\nAkce výběrové řízení na dodávku ICT v ZŠ Jungmannova byla zahájena v roce 2023 a průběžně se realizuje.\nDo rozpočtu roku 2024 je potřeba převést nevyčerpané finanční prostředky.\nRZ 3/2024/ZM – ZŠ Jungmannova – Výběrové řízení na školní pomůcky § 3113\nAkce výběrové řízení na dodávku školních pomůcek v ZŠ Jungmannova byla zahájena v roce 2023 a průběžně\nse realizuje. Do rozpočtu roku 2024 je potřeba převést nevyčerpané finanční prostředky.\nRZ 4/2024/ZM ZŠ a MŠ Nasobůrky – Studie § 3111\nAkce na studii ZŠ a MŠ Nasobůrky byla zahájena v roce 2023 a průběžně se realizuje.\nDo rozpočtu roku 2024 je potřeba převést nevyčerpané finanční prostředky.\nRZ 5/2024/ZM MŠ Gemerská – PD akumulační nádrž § 3111\nAkce na vyhotovení PD na akumulační nádrž v MŠ Gemerská byla zahájena v roce 2023 a průběžně se realizuje.\nDo rozpočtu roku 2024 je potřeba převést nevyčerpané finanční prostředky.\nRZ 6/2024/ZM Doprava – rozpracované PD § 2219\nProjektové dokumentace na akce jako jsou parkovací místa podél komunikace ve Vísce, autobusová zastávka v\nNové Vsi, nová komunikace v Rozvadovicích a chodník a komunikace v Litovli-Pavlínka byly zahájeny v roce 2023\na průběžně se realizují. Do rozpočtu roku 2024 je potřeba převést nevyčerpané finanční prostředky.\nRZ 7/2024/ZM Nasobůrky průtah § 2219\nAkce průtah obcí Nasobůrky byla zahájena v roce 2023 a průběžně se realizuje. Byla již zahrnuta i do\nschváleného rozpočtu na rok 2024. Rozpočtová změna č. 7/2024/ZM řeší přesun finančních prostředků\nna dokončení průtahu v roce 2024.\nRZ 8/2024/ZM Myslechovice – rekonstrukce elektroinstalace v KD § 3392\nV Myslechovicích v KD bude probíhat rekonstrukce elektroinstalace. Akce je schválená rozpočtem\nroku 2024, ale plánovaná částka nebude stačit. Rozpočtová změna č. 8/2024/ZM řeší navýšení plánované\nčástky v rozpočtu roku 2024.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 9/2024/ZM Malý sál Záložny – dodávka a montáž oken § 3613\nVýměna stávajících oken za nová dřevěná (stejná jako v Muzeu harmonik) v malém sále Záložny je přesunuta\nz roku 2023. Posun realizace výměny oken byl s dodavatelem dohodnut na rok 2024 z důvodu odstoupení\nsubdodavatele. Přesný termín realizace bude určen po dohodě s MK Litovel.\nRZ 10/2024/ZM Dovybavení vozidla MP § 5311\nRozpočtová změna č. 10/2024/ZM řeší přesun nevyčerpaných finančních prostředků z roku 2023.\nNevyčerpané finanční prostředky budou použity na dovybavení nově pořízeného vozidla městské policie\npolepy a majáky.\nRZ 11/2024/ZM Pořízení sběrných nádob pro Litovel § 3722\nRozpočtová změna č. 11/2024/ZM řeší přesun nevyčerpaných finančních prostředků roku 2023 na pořízení\nsběrných nádob pro Litovel v roce 2024.\nRZ 12/2024/ZM PD – Rekonstrukce vstupu vč. vstupní brány na hřbitově v Litovli - Chořelicích § 3632\nProjektová dokumentace na akci rekonstrukce vstupu vč. vstupní brány na hřbitově v Litovli- Chořelicích\nbyla zahrnuta v rozpočtu roku 2023. Z důvodu řešení odvodu dešťové vody z betonových ploch nebyla\nprojektová dokumentace v roce 2023 dokončena. Rozpočtová změna řeší přesun nevyčerpaných finančních,\nprostředků do roku 2024.\nRZ 13/2024/ZM Šmakalova ulice - rekonstrukce § 3639\nRekonstrukce v ulicích Šmakalova a ČS Armády je rozdělena do tří objektů, které zahrnují\nrekonstrukci stávajících a výstavbu nových zpevněných ploch vozovek v ul. Šmakalova a ČS Armády,\núpravu křižovatek, rekonstrukci stávajícího chodníku + vybudování nových chodníků, vybudování nových\npodélných parkovacích stání s celkovou kapacitou 16 stání, doplnění veřejného osvětlení a odvodnění\ndešťovou kanalizací s uličními vpustěmi.\nRZ 14/2024/ZM Savín – rekonstrukce autobusových zálivů § 2219\nMísto stavby se nachází v extravilánu místní části Savín v blízkosti napojení silnice III/37312 vedoucí\nze Savína na silnici II/373. V křižovatce jsou umístěny 2 zastávkové zálivy, které nesplňují provozní\na bezpečnostní požadavky. Přístup k zastávkám bude umožněn prodloužením chodníku ze Savína.\nNové zastávkové nástupiště zajistí současně bezbariérový nástup a výstup z autobusu. Projekt řeší i\nzpomalení rychlosti a k celkovému vzhledu přispějí i nové zastávkové přístřešky.\nRZ 15/2024/ZM Oprava loviště a kádiště na Olomouckém rybníku § 2341\nProjekt Oprava loviště a kádiště Olomouckého rybníka řeší obnovu některých objektů na tomto rybníku.\nZdi a dno loviště jsou z betonu, který je silně zvětralý, hloubka loviště není dostatečná, dlažba loviště je\nnerovná. Nově bude k lovišti vybudován sjezd.\nRZ 16/2024/ZM Rekonstrukce prostoru před GJO § 3639\nPředmětem rekonstrukce je nejprve vypracování projektové dokumentace pro provádění úpravy zpevněných\nploch, tj. výměna travertinové dlažby podél čelní fasády a přístupu do budovy, úprava uložení kamenných\ndesek kolem pomníku J. Opletala, vlajkové stožáry budou nahrazeny novým kónickým Alu stožárem,\nvýměna mobiliáře, nová plošina k rybníku ze žulové dlažby, zahradnické úpravy.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 17/2024/ZM Mateřské školy § 3111\nRozpočtová změna č. 17/2024/ZM řeší vybudování atria v MŠ Gemerská, opravu sociálního zařízení v\nMŠ Svatojánek a nákup herních prvků do MŠ Unčovice.\nRZ 18/2024/ZM ŠJ Studentů – rekonstrukce výtahu § 3141\nRozpočtová změna č. 18/2024/ZM řeší rekonstrukci výtahu ve Školní jídelně Studentů Litovel.\nRZ 19/2024/ZM ZŠ Vítězná – řídící systém vzduchotechniky a vytápění § 3113\nRozpočtová změna č. 19/2024/ZM řeší vybudování řídícího systému vzduchotechniky a vytápění v\nZŠ Vítězná Litovel.\nRZ 20/2024/ZM ZŠ Jungmannova – venkovní žaluzie § 3113\nRozpočtová změna č. 20/2024/ZM řeší vybudování venkovních žaluzií v ZŠ Jungmannova Litovel.\nRZ 21/2024/ZM Nespecifikovaná rezerva pro krajské školy § 3613\nMěsto Litovel poskytlo Odboru školství, kultury a sportu finanční prostředky pro krajské školy.\nFinanční prostředky se zatím naúčtovaly jako nespecifikovaná rezerva, ze které se bude čerpat průběžně\nna základě požadavků krajských škol.\nRZ 22/2024/ZM Zateplení půdního prostoru – Boskovicova 785/2,4 § 3612\nRozpočtová změna č. 22/2024/ZM řeší zateplení půdního prostoru v ul. Boskovicova 785/2,4.\nProjektová dokumentace na zateplení půdního prostoru byla vypracovaná v roce 2023.\nRZ 23/2024/ZM Poděbradova 748,749 – studie, PD § 3613\nRozpočtová změna č. 23/2024/ZM řeší vypracování studie na možné využití stávajícího nebytového\nprostoru – Poděbradova 748,749 ke komerčním účelům (ordinace pro lékaře) a vypracování projektové\ndokumentace na stavební úpravy stávajícího nebytového prostoru – Poděbradova 748,749 ke komerčním\núčelům (ordinace) + zateplení fasády.\nRZ 24/2024/ZM Příspěvek na výkon státní správy pro rok 2024 § 6171\nMěsto Litovel obdrželo prostřednictvím datové schránky z Krajského úřadu Olomouckého kraje informaci\no poskytnutí příspěvku na výkon státní správy pro rok 2024.\nRZ 25/2024/ZM KD Nasobůrky – oprava světlovodů § 3392\nRozpočtová změna č. 25/2024/ZM řeší opravu světlovodů v KD Nasobůrky, kde zatéká okolo světlíků\nve střeše.\nRZ 26/2024/ZM Vybavení kuchyně v KD Savín § 3392\nRozpočtová změna č. 26/2024/ZM řeší vybavení kuchyně v KD Savín.\nRZ 27/2024/ZM Organizační zajištění zadávacího řízení – Revitalizace sportovního areálu § 3412\nMěsto Litovel obdrželo nabídku na organizační zajištění zadávacího řízení k veřejné zakázce -\n„Revitalizace sportovního areálu v Litovli – 2 etapa.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 28/2024/ZM Architektonická studie víceúčelového areálu § 3429\nMěsto Litovel obdrželo kompletní cenovou nabídku na vyhotovení projektu „Stavební úpravy, přístavba\na rozvoj areálu pro konání kulturních a společenských akcí.\nRZ 29/2024/ZM Realizace protipovodňových opatření § 3744\nMěsto Litovel dlouhodobě řeší záležitosti protipovodňových opatření města Litovel. V současném období\nprobíhají intenzivní jednání se ZD Haňovice, kde získání části pozemků bude provedeno spíše formou směny,\ncož město Litovel nepostihne finančně. Směna je podmínkou ZD Haňovice, které nechce o výměry pozemků\npřijít. Finanční prostředky určené na protipovodňové opatření budou použity na výkup pozemků od jiných\nmajitelů, na zajištění znaleckých posudků, geometrických plánů, úhradu poplatků aj.\nRZ 30/2024/ZM Vratka příspěvku na výkon pěstounské péče za rok 2023 § 6402\nRozpočtová změna č. 30/2024/ZM řeší vrácení příspěvku na výkon pěstounské péče za rok 2023\nv rámci finančního vypořádání se státním rozpočtem.\nRZ 31/2024/ZM Vratka nevyčerpaných dotačních prostředků na výkon sociální práce za rok 2023 § 6402\nRozpočtová změna č. 31/2024/ZM řeší vrácení nevyčerpaných dotačních prostředků na výkon pěstounské\npéče za rok 2023 v rámci finančního vypořádání se státním rozpočtem.\nRZ 32/2024/ZM Revitalizace papírenské vody § 2333\nAkce Revitalizace papírenské vody byla dokončena v roce 2023 a v roce 2024 se bude kolaudovat.\nRozpočtová změna č. 32/2024/ZM řeší zaplacení nájmu pro Povodí Moravy a doplatek firmě, která\nkolem toku provedla nezbytné terénní úpravy\nRZ33/2024/ZM Elektronická evidence pro sběrný dvůr § 3722\nVlivem nového zákona lze mít občanský průkaz v elektronické podobě. Sběrný dvůr je vybaven čtečkou\npouze na klasické občanské průkazy. Z toho důvodu je nutná technická úprava.\nRZ 34/2024/ZM Zapojení zůstatku na BÚ SF k 31. 12. 2023 do rozpočtu SF na rok 2024 § 6171\nNa účtu Sociálního fondu byl k 31.12.2023 zůstatek, který je potřeba zapojit do rozpočtu Sociálního\nfondu na rok 2024.\nRZ 35/2024/ZM Vyúčtování přídělu finančních prostředků za rok 2023 do Sociálního fondu\nV souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno\nvyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě uvolněných\n– čl. 1, bod 1) a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo provedeno\nvyúčtování, doručené 29. 1. 2024, ze kterého vyplývá rozdíl, který má být odveden ve prospěch\nSociálního fondu.\nRZ 36/2024/ZM Příjem fin. prostředků do rozpočtu Soc.fondu na rok 2024 dle vyúčtování za rok 2023\nV souladu se statutem Sociálního fondu, článek 5 („k datu 31.12. příslušného roku je provedeno\nvyúčtování skutečné výše přídělu podle skutečně vyplacených odměn členů ZM (dlouhodobě\nuvolněných – čl. 1, bod 1) a skutečně vyplacených mzdových prostředků zaměstnanců města“) bylo\nprovedeno vyúčtování, doručené 29. 1. 2024, ze kterého vyplývá rozdíl, který má být odveden ve prospěch\nSociálního fondu.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 37/2024/ZM Dotace žadatelům o finanční podporu na rok 2024\nRozpočtová změna č. 37/2024/ZM řeší poskytnutí finančních dotací na rok 2024 žadatelům:\nTJ VS Litovel na zajištění sportovní činnosti tělovýchovné jednoty a na organizační zajištění sportovní\nsoutěže BOBR CUP 2024, TJ TATRAN na přípravu a činnosti v oficiálních mistrovských soutěžích,\nna zabezpečení provozuschopnosti sportovního areálu a údržby hřišť v roce 2024 a Charitě Šternberk\nna provozní náklady pečovatelské služby, provozní náklady MC Rybička, mzdové náklady zdravotních\nsester, provozní náklady sanitárního kontejneru, na sociálně aktivizační služby pro rodiny s dětmi a na\nprovoz poradny Nedlužím.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 21. 2 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

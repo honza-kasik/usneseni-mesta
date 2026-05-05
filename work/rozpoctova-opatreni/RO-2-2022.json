@@ -1,0 +1,228 @@
+{
+  "id": "RO/2/2022",
+  "number": 2,
+  "year": 2022,
+  "approval_date": "2022-02-17",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 70,
+    "type": "schůzi",
+    "date": "2022-02-17"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "21/2022/RM",
+    "22/2022/RM",
+    "23/2022/RM",
+    "24/2022/RM",
+    "25/2022/RM",
+    "26/2022/RM",
+    "27/2022/RM",
+    "28/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": []
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "24/2022/RM",
+          "raw_codes": [
+            "5311",
+            "5901",
+            "9 000 901"
+          ],
+          "amount": "-420 000,00",
+          "amount_value": -420000.0,
+          "description": "Prevence kriminality, nespecifikované rezervy (RZ 24/2022/RM"
+        },
+        {
+          "budget_change_id": "24/2022/RM",
+          "raw_codes": [
+            "5311",
+            "5139",
+            "9 000 901"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Prevence kriminality, nákup materiálu j.n.(RZ 24/2022/RM"
+        },
+        {
+          "budget_change_id": "24/2022/RM",
+          "raw_codes": [
+            "2223",
+            "6121",
+            "9 000 919"
+          ],
+          "amount": "420 000,00",
+          "amount_value": 420000.0,
+          "description": "Dětské dopravní hřiště – školící centrum - dokončení (RZ 24/2022/RM"
+        },
+        {
+          "budget_change_id": "24/2022/RM",
+          "raw_codes": [
+            "2223",
+            "5137",
+            "9 000 919"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Dětské dopravní hřiště – školící centrum – vybavení interiéru nábytkem,…(RZ 24/2022/RM"
+        },
+        {
+          "budget_change_id": "25/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 25/2022/RM"
+        },
+        {
+          "budget_change_id": "25/2022/RM",
+          "raw_codes": [
+            "3315",
+            "5213",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Vojenské muzeum Králíky-spanilá jízda vojenských histor.vozidel se zastávkou vLitovli (RZ 25/2022/RM"
+        },
+        {
+          "budget_change_id": "26/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 26/2022/RM"
+        },
+        {
+          "budget_change_id": "26/2022/RM",
+          "raw_codes": [
+            "4359",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Klíč-cenrum sociál.služeb -činnost centra soc.péče (RZ 26/2022/RM"
+        },
+        {
+          "budget_change_id": "27/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-30 000,00",
+          "amount_value": -30000.0,
+          "description": "Transfery,dary,příspěvky dle rozhodnutí RM (RZ 27/2022/RM"
+        },
+        {
+          "budget_change_id": "27/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Spolek Gustava Frištenského -činnost spolku (RZ 27/2022/RM"
+        },
+        {
+          "budget_change_id": "28/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Klub litovelského petaque - činnost v roce 2022 (RZ 28/2022/RM"
+        },
+        {
+          "budget_change_id": "21/2022/RM",
+          "raw_codes": [],
+          "amount": "8 917,00",
+          "amount_value": 8917.0,
+          "description": "Převod nevyužitých prostředků na kraj 6402 5364 4 000 000 8.917,00 (RZ 21/2022/R Z ORJ ORG Kč Převod nevyužitých prostředků na kraj 6402 5364 4 000 000 8.917,00 (RZ 21/2022/RM"
+        },
+        {
+          "budget_change_id": "22/2022/RM",
+          "raw_codes": [],
+          "amount": "18 730,00",
+          "amount_value": 18730.0,
+          "description": "Veřejné osvětlení, opravy a udržování 3631 5171 3 003 559 18.730,00 (RZ 22/2022/R é osvětlení, opravy a udržování 3631 5171 3 003 559 18.730,00 (RZ 22/2022/RM"
+        },
+        {
+          "budget_change_id": "23/2022/RM",
+          "raw_codes": [],
+          "amount": "38 902,00",
+          "amount_value": 38902.0,
+          "description": "Veřejné osvětlení, opravy a udržování 3631 5171 3 003 559 38.902,00 (RZ 23/2022/R é osvětlení, opravy a udržování 3631 5171 3 003 559 38.902,00 (RZ 23/2022/RM"
+        },
+        {
+          "budget_change_id": "28/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery,dary,příspěvky dle rozhodnutí RM (RZ 28/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 21/2022/RM",
+      "text": "Na účet města byla připsaná částka od ZŠ Vítězná. Jedná se o vratku nevyužitých finanční prostředků na základě závěrečné zprávy k 31.12.2021. Město Litovel obdržené prostředky odeslalo na účet kraje a kraj následně tuto částku poukáže na účet MŠMT."
+    },
+    {
+      "title": "Rozpočtová změna č. 22/2022/RM",
+      "text": "Město Litovel obdrželo na účet platbu od Hasičské vzájemné pojišťovny. Jedná se o pojistné plnění z pojistné události ze dne 4.12.2021za poškozené veřejné osvětlení na cyklostezce do Vísky."
+    },
+    {
+      "title": "Rozpočtová změna č. 23/2022/RM",
+      "text": "Město Litovel obdrželo na účet platbu od ČSOB pojišťovny. Jedná se o pojistné plnění z pojistné události ze dne 7.7.2021 kdy došlo k poškození veřejného osvětlení při dopravní nehodě na Komárově."
+    },
+    {
+      "title": "Rozpočtová změna č. 24/2022/RM",
+      "text": "Město Litovel započalo v roce 2021 s další etapou modernizace dopravního hřiště. Záměrem je vybudovat zde zázemí pro návštěvníky a pro personál. Dopravní hřiště bylo vybudováno na nově odkoupeném pozemku, z typizovaných unimobuněk byla vybudovaná enviromentální učebna. Náklady na tuto akci byly pokryty cca 70% dotací. Z důvodu covidové krize v roce 2021 se dokončení akce tj. napojení stavby na inženýrské sítě a vybavení učebny nestihlo provést v roce 2021. Na dokončení akce byla podaná žádost o dotaci na Olomoucký kraj."
+    },
+    {
+      "title": "Rozpočtová změna č. 25/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek Vojenskému muzeu v Králíkách, které plánuje uspořádat v srpnu letošního roku spanilou jízdu vojenských historických vozidel se zastávkou v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 26/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek centru sociálních služeb Klíč na podporu činnosti centra v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 27/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek Spolku Gustava Frištenského na podporu činnosti spolku v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 28/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek Klubu litovelského petaque na podporu činnosti spolku v roce 2022."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._2_2022_schvalene_radou_mesta_litovel_dne_17._unora_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 2/2022 schválené Radou města Litovel dne 17.února 2022.\nRozpočtové opatření bylo schváleno na 70. schůzi Rady města Litovel dne 17.února 2022 na základě usnesení\n2342/70,2343/70,2344/70,2345/70,2351/70 a 2375/70.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijatá vratka finančních prostředků,\n3113 2229 45 8.917,00\nZŠ Vítězná (RZ 21/2022/RM\nPřijaté pojistné plnění\n6320 2322 18.730,00\n(RZ 22/2022/RM)\nPřijaté pojistné plnění\n6320 2322 38.902,00\n(RZ 23/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPřevod nevyužitých prostředků na kraj\n6402 5364 4 000 000 8.917,00\n(RZ 21/2022/RM)\nVeřejné osvětlení, opravy a udržování\n3631 5171 3 003 559 18.730,00\n(RZ 22/2022/RM)\nVeřejné osvětlení, opravy a udržování\n3631 5171 3 003 559 38.902,00\n(RZ 23/2022/RM)\nPrevence kriminality, nespecifikované\n5311 5901 9 000 901 -420 000,00\nrezervy (RZ 24/2022/RM)\nPrevence kriminality, nákup materiálu\n5311 5139 9 000 901 -100 000,00\nj.n.(RZ 24/2022/RM)\nDětské dopravní hřiště – školící\n2223 6121 9 000 919 420 000,00 centrum - dokončení (RZ\n24/2022/RM)\nDětské dopravní hřiště – školící\n2223 5137 9 000 919 100 000,00 centrum – vybavení interiéru\nnábytkem,…(RZ 24/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 25/2022/RM)\nVojenské muzeum Králíky-spanilá\n3315 5213 4 000 000 5 000,00 jízda vojenských histor.vozidel se\nzastávkou vLitovli (RZ 25/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 000,00\n(RZ 26/2022/RM)\nKlíč-cenrum sociál.služeb -činnost\n4359 5339 4 000 000 2 000,00\ncentra soc.péče (RZ 26/2022/RM)\nTransfery,dary,příspěvky dle\n3429 5901 4 000 000 -30 000,00\nrozhodnutí RM (RZ 27/2022/RM))\nSpolek Gustava Frištenského -činnost\n3429 5222 4 000 000 30 000,00\nspolku (RZ 27/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTransfery,dary,příspěvky dle\n3429 5901 4 000 000 -2 000,00\nrozhodnutí RM (RZ 28/2022/RM))\nKlub litovelského petaque - činnost v\n3429 5222 4 000 000 2 000,00\nroce 2022 (RZ 28/2022/RM)\nRZ 21/2022/RM\nNa účet města byla připsaná částka od ZŠ Vítězná. Jedná se o vratku nevyužitých finanční prostředků na základě závěrečné\nzprávy k 31.12.2021. Město Litovel obdržené prostředky odeslalo na účet kraje a kraj následně tuto částku poukáže na účet\nMŠMT.\nRZ 22/2022/RM\nMěsto Litovel obdrželo na účet platbu od Hasičské vzájemné pojišťovny. Jedná se o pojistné plnění z pojistné události ze\ndne 4.12.2021za poškozené veřejné osvětlení na cyklostezce do Vísky.\nRZ 23/2022/RM\nMěsto Litovel obdrželo na účet platbu od ČSOB pojišťovny. Jedná se o pojistné plnění z pojistné události ze dne 7.7.2021\nkdy došlo k poškození veřejného osvětlení při dopravní nehodě na Komárově.\nRZ 24/2022/RM\nMěsto Litovel započalo v roce 2021 s další etapou modernizace dopravního hřiště. Záměrem je vybudovat zde zázemí pro\nnávštěvníky a pro personál. Dopravní hřiště bylo vybudováno na nově odkoupeném pozemku, z typizovaných unimobuněk\nbyla vybudovaná enviromentální učebna. Náklady na tuto akci byly pokryty cca 70% dotací. Z důvodu covidové krize v roce\n2021 se dokončení akce tj. napojení stavby na inženýrské sítě a vybavení učebny nestihlo provést v roce 2021. Na dokončení\nakce byla podaná žádost o dotaci na Olomoucký kraj.\nRZ 25/2022/RM\nMěsto Litovel poskytlo finanční příspěvek Vojenskému muzeu v Králíkách, které plánuje uspořádat v srpnu letošního roku\nspanilou jízdu vojenských historických vozidel se zastávkou v Litovli.\nRZ 26/2022/RM\nMěsto Litovel poskytlo finanční příspěvek centru sociálních služeb Klíč na podporu činnosti centra v roce 2022.\nRZ 27/2022/RM\nMěsto Litovel poskytlo finanční příspěvek Spolku Gustava Frištenského na podporu činnosti spolku v roce 2022.\nRZ 28/2022/RM\nMěsto Litovel poskytlo finanční příspěvek Klubu litovelského petaque na podporu činnosti spolku v roce 2022.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 3.3.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

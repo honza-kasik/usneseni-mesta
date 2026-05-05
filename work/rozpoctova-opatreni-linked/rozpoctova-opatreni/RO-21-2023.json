@@ -1,0 +1,110 @@
+{
+  "id": "RO/21/2023",
+  "number": 21,
+  "year": 2023,
+  "approval_date": "2023-11-23",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "110/2023/ZM",
+    "111/2023/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "110/2023/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "Příjmy z úroků (RZ 110/2023/ZM"
+        },
+        {
+          "budget_change_id": "111/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "3 604,00",
+          "amount_value": 3604.0,
+          "description": "Příjmy z poskytování služeb (RZ 111/2023/ZM"
+        },
+        {
+          "budget_change_id": "111/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "3 079,20",
+          "amount_value": 3079.2,
+          "description": "Přijatá dividenda od FCC (RZ 111/2023/ZM"
+        },
+        {
+          "budget_change_id": "111/2023/ZM",
+          "raw_codes": [
+            "3725",
+            "2324"
+          ],
+          "amount": "243 316,80",
+          "amount_value": 243316.8,
+          "description": "Přijaté neinvestiční příspěvky a náhrady (RZ 111/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "110/2023/ZM",
+          "raw_codes": [
+            "5311",
+            "6123",
+            "9 000 000"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "Služební vozidlo pro MP Litovel (RZ 110/2023/ZM"
+        },
+        {
+          "budget_change_id": "111/2023/ZM",
+          "raw_codes": [
+            "3743",
+            "6122",
+            "7 000 782"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Mostní váha pro dobývací prostor (RZ 111/2023/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._21_2023_schvalene_zm_litovel_dne_23._listopadu_2023..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 21/2023 schválené Zastupitelstvem města Litovel\ndne 23. listopadu 2023.\nRozpočtové opatření bylo schváleno na 7. zasedání Zastupitelstva města Litovel dne 23. listopadu 2023 na\nzákladě usnesení ZM/3/7/2023.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\n6310 2141 800 000,00 Příjmy z úroků (RZ 110/2023/ZM)\nPříjmy z poskytování služeb\n3722 2111 3 604,00\n(RZ 111/2023/ZM)\n3722 2142 3 079,20 Přijatá dividenda od FCC (RZ 111/2023/ZM)\nPřijaté neinvestiční příspěvky a náhrady\n3725 2324 243 316,80\n(RZ 111/2023/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nSlužební vozidlo pro MP Litovel\n5311 6123 9 000 000 800 000,00\n(RZ 110/2023/ZM)\nMostní váha pro dobývací prostor\n3743 6122 7 000 782 250 000,00\n(RZ 111/2023/ZM)\nRZ 110/2023/ZM Služební vozidlo pro Městskou policii Litovel § 5311\nMěsto Litovel poskytlo finanční prostředky na pořízení služebního vozidla pro Městskou policii Litovel\nRZ 111/2023/ZM Mostní váha pro dobývací prostor § 3743\nMěsto Litovel poskytlo z realizovaných příjmů z oblasti odpadového hospodářství finanční prostředky\nna pořízení repasované mostní váhy pro TS Litovel, které pravděpodobně budou dobývací prostor\nprovozovat. Mostní váha je potřebná jako součást zázemí pro dobývací prostor z důvodu, že přijímaná\nzemina se musí dle zákona evidovat a vážit.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 11. 12. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/3/7/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "110/2023/ZM",
+        "111/2023/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/5/7/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "110/2023/ZM"
+      ]
+    }
+  ]
+}

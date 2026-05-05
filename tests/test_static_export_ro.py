@@ -483,6 +483,57 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
         )
         self.assertNotIn('<p class="usn-rz-title">OŽP - zpracování PD k vynětí půdy</p>', text)
 
+    def test_write_ro_page_explanation_strips_city_footer_from_transfer_target(self):
+        opatreni = {
+            "id": "RO/7/2026",
+            "approval_date": "2026-04-02",
+            "approved_by": "Radou města Litovel",
+            "meeting": {"number": 70, "type": "schůzi", "date": "2026-04-02"},
+            "budget_change_ids": ["76/2026/RM"],
+            "resolution_links": [],
+            "sections": [
+                {
+                    "type": "vydaje",
+                    "rows": [
+                        {
+                            "budget_change_id": "76/2026/RM",
+                            "raw_codes": ["5213", "5901"],
+                            "amount": "-96 800,00",
+                            "amount_value": -96800.0,
+                            "description": "KŘ - rezervy dle krizového zákona (RZ 76/2026/RM)",
+                        },
+                        {
+                            "budget_change_id": "76/2026/RM",
+                            "raw_codes": ["3744", "5169"],
+                            "amount": "96 800,00",
+                            "amount_value": 96800.0,
+                            "description": "Město Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz IČO 229138 Tel.: +420 585 153 111 www.litovel.eu č. účtu: 3620811/0100 KŘ - převod a aktualizace digitálního povodňového plánu - město Litovel a ORP Litovel (RZ 76/2026/RM)",
+                        },
+                    ],
+                },
+            ],
+            "notes": [
+                {
+                    "title": "Rozpočtová změna č. 76/2026/RM",
+                    "text": "Rozpočtová změna na základě požadavku pracovníka krizového řízení.",
+                }
+            ],
+        }
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            write_ro_page(opatreni, output)
+            text = (output / "rozpoctova-opatreni" / "RO-7-2026" / "index.html").read_text(encoding="utf-8")
+
+        self.assertIn(
+            '<p class="usn-rz-explanation">Rozpočtově: přesun 96 800,00 Kč z položky KŘ - rezervy dle krizového zákona na převod a aktualizace digitálního povodňového plánu - město Litovel a ORP Litovel pro KŘ.</p>',
+            text,
+        )
+        self.assertNotIn(
+            'Rozpočtově: přesun 96 800,00 Kč z položky KŘ - rezervy dle krizového zákona na převod a aktualizace digitálního povodňového plánu - město Litovel a ORP Litovel pro Město Litovel',
+            text,
+        )
+
     def test_write_ro_page_explains_same_label_transfer_as_reclassification(self):
         opatreni = {
             "id": "RO/7/2026",

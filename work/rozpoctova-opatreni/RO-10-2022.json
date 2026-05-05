@@ -1,0 +1,234 @@
+{
+  "id": "RO/10/2022",
+  "number": 10,
+  "year": 2022,
+  "approval_date": "2022-06-02",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 77,
+    "type": "schůzi",
+    "date": "2022-06-02"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "62/2022/RM",
+    "63/2022/RM",
+    "64/2022/RM",
+    "65/2022/RM",
+    "66/2022/RM",
+    "67/2022/RM",
+    "68/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "62/2022/RM",
+          "raw_codes": [
+            "4116",
+            "13015"
+          ],
+          "amount": "324 241,00",
+          "amount_value": 324241.0,
+          "description": "Účelová neinvestiční dotace na výkon sociální práce (RZ 62/2022/RM"
+        },
+        {
+          "budget_change_id": "64/2022/RM",
+          "raw_codes": [
+            "3722",
+            "2321"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Dar od společnosti FCC Litovel (RZ 64/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "62/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5xxx",
+            "13015",
+            "5 000 xxx"
+          ],
+          "amount": "324 241,00",
+          "amount_value": 324241.0,
+          "description": "Čerpání účelové neinvestiční dotace na výkon sociální práce (RZ 62/2022/RM"
+        },
+        {
+          "budget_change_id": "63/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Březové – drobná vydání (RZ 63/2022/RM"
+        },
+        {
+          "budget_change_id": "63/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Březové – drobná vydání (RZ 63/2022/RM"
+        },
+        {
+          "budget_change_id": "64/2022/RM",
+          "raw_codes": [
+            "3319",
+            "5xxx",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Ostatní záležitosti kultury (RZ 64/2022/RM"
+        },
+        {
+          "budget_change_id": "65/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "311",
+            "2 040 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Savín - podpora místních spolků (RZ 65/2022/RM"
+        },
+        {
+          "budget_change_id": "65/2022/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "311",
+            "2 040 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "SDH Savín - organizační zajištění oslav 111.výročí založení (RZ 65/2022/RM"
+        },
+        {
+          "budget_change_id": "66/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-14 000,00",
+          "amount_value": -14000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 66/2022/RM"
+        },
+        {
+          "budget_change_id": "66/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "14 000,00",
+          "amount_value": 14000.0,
+          "description": "P.V.-dotace na organizační zajištění soutěže ve vaření kotlíkového guláše Masters of Litovel (RZ 66/2022/RM"
+        },
+        {
+          "budget_change_id": "67/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Unčovice - podpora místních spolků (RZ 67/2022/RM"
+        },
+        {
+          "budget_change_id": "67/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "T.R. -dar na organizační zajištění turnaje v nohejbale (RZ 67/2022/RM"
+        },
+        {
+          "budget_change_id": "68/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Unčovice - podpora místních spolků (RZ 68/2022/RM"
+        },
+        {
+          "budget_change_id": "68/2022/RM",
+          "raw_codes": [
+            "3900",
+            "5499",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Unčovice - akce pro děti (RZ 68/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 62/2022/RM",
+      "text": "Město Litovel obdrželo účelovou neinvestiční dotaci od Ministerstva práce a sociálních věcí ČR. Finanční prostředky jsou určeny na výkon sociální práce s výjimkou agendy sociálně-právní ochrany dětí pro rok 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 63/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 63/2022/RM řeší dle požadavku odboru MHaSI zatřídění výdajů místní části Březové na",
+      "text": "správný § dle vyhlášky MF ČR o rozpočtové skladbě."
+    },
+    {
+      "title": "Rozpočtová změna č. 64/2022/RM",
+      "text": "Město Litovel obdrželo stejně jako v předchozích letech dar od společnosti FCC Litovel. Finanční prostředky budou použity na kulturní aktivity města."
+    },
+    {
+      "title": "Rozpočtová změna č. 65/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek spolku SDH Savín na organizační zajištění oslav při příležitosti 111.založení SDH. OV Savín s příspěvkem souhlasí."
+    },
+    {
+      "title": "Rozpočtová změna č. 66/2022/RM",
+      "text": "Město Litovel na žádost pana P.V. poskytlo finanční příspěvek na organizační zajištění akce „Masters of Litovel“ – soutěže ve vaření kotlíkového guláše na otevřeném ohni."
+    },
+    {
+      "title": "Rozpočtová změna č. 67/2022/RM",
+      "text": "Město Litovel na žádost p. T.R. poskytlo finanční příspěvek na organizační zajištění 12.ročníku nohejbalového turnaje v Unčovicích. OV Unčovice s příspěvkem souhlasí."
+    },
+    {
+      "title": "Rozpočtová změna č. 68/2022/RM",
+      "text": "Město Litovel poskytlo finanční podporu na kulturní akci pro děti, která se bude konat 4.června 2022 v Unčovicích. Osadní výbor Unčovice s finanční podporou souhlasí."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._10_2022_schvalene_radou_mesta_litovel_dne_2.cervna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 10/2022 schválené Radou města Litovel dne 2.června 2022.\nRozpočtové opatření bylo schváleno na 77. schůzi Rady města Litovel dne 2. června 2022 na základě usnesení\n2 562/77,2563/77,2590/77,2613/77 a 2614/77.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace na výkon\n4116 13015 324 241,00\nsociální práce (RZ 62/2022/RM)\nDar od společnosti FCC Litovel\n3722 2321 200 000,00\n(RZ 64/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nČerpání účelové neinvestiční dotace\n6171 5xxx 13015 5 000 xxx 324 241,00 na výkon sociální práce\n(RZ 62/2022/RM)\nBřezové – drobná vydání\n3429 5139 305 2 030 000 -5 000,00\n(RZ 63/2022/RM)\nBřezové – drobná vydání\n3392 5139 305 2 030 000 5 000,00\n(RZ 63/2022/RM)\nOstatní záležitosti kultury\n3319 5xxx 4 000 000 200 000,00\n(RZ 64/2022/RM)\nSavín - podpora místních spolků\n3429 5901 311 2 040 000 -20 000,00\n(RZ 65/2022/RM)\nSDH Savín - organizační zajištění\n5512 5222 311 2 040 000 20 000,00 oslav 111.výročí založení\n(RZ 65/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -14 000,00\n(RZ 66/2022/RM)\nP.V.-dotace na organizační zajištění\n3429 5499 4 000 000 14 000,00 soutěže ve vaření kotlíkového guláše\nMasters of Litovel (RZ 66/2022/RM)\nUnčovice - podpora místních spolků\n3429 5901 310 2 040 000 -5 000,00\n(RZ 67/2022/RM)\nT.R. -dar na organizační zajištění\n3419 5492 310 2 040 000 5 000,00\nturnaje v nohejbale (RZ 67/2022/RM)\nUnčovice - podpora místních spolků\n3429 5901 310 2 040 000 -5 000,00\n(RZ 68/2022/RM)\nUnčovice - akce pro děti\n3900 5499 310 2 040 000 5 000,00\n(RZ 68/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 62/2022/RM\nMěsto Litovel obdrželo účelovou neinvestiční dotaci od Ministerstva práce a sociálních věcí ČR. Finanční\nprostředky jsou určeny na výkon sociální práce s výjimkou agendy sociálně-právní ochrany dětí pro rok 2022.\nRZ 63/2022/RM\nRozpočtová změna č. 63/2022/RM řeší dle požadavku odboru MHaSI zatřídění výdajů místní části Březové na\nsprávný § dle vyhlášky MF ČR o rozpočtové skladbě.\nRZ 64/2022/RM\nMěsto Litovel obdrželo stejně jako v předchozích letech dar od společnosti FCC Litovel. Finanční prostředky\nbudou použity na kulturní aktivity města.\nRZ 65/2022/RM\nMěsto Litovel poskytlo finanční příspěvek spolku SDH Savín na organizační zajištění oslav při příležitosti\n111.založení SDH. OV Savín s příspěvkem souhlasí.\nRZ 66/2022/RM\nMěsto Litovel na žádost pana P.V. poskytlo finanční příspěvek na organizační zajištění akce „Masters of Litovel“\n– soutěže ve vaření kotlíkového guláše na otevřeném ohni.\nRZ 67/2022/RM\nMěsto Litovel na žádost p. T.R. poskytlo finanční příspěvek na organizační zajištění 12.ročníku nohejbalového\nturnaje v Unčovicích. OV Unčovice s příspěvkem souhlasí.\nRZ 68/2022/RM\nMěsto Litovel poskytlo finanční podporu na kulturní akci pro děti, která se bude konat 4.června 2022\nv Unčovicích. Osadní výbor Unčovice s finanční podporou souhlasí.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 20.6.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

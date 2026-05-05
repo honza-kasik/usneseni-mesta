@@ -1,0 +1,436 @@
+{
+  "id": "RO/5/2023",
+  "number": 5,
+  "year": 2023,
+  "approval_date": "2023-03-30",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 10,
+    "type": "schůzi",
+    "date": "2023-03-30"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "15/2023/RM",
+    "16/2023/RM",
+    "17/2023/RM",
+    "18/2023/RM",
+    "19/2023/RM",
+    "20/2023/RM",
+    "21/2023/RM",
+    "22/2023/RM",
+    "23/2023/RM",
+    "24/2023/RM",
+    "25/2023/RM",
+    "26/2023/RM",
+    "27/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "15/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "16 005,00",
+          "amount_value": 16005.0,
+          "description": "Přijaté pojistné plnění (RZ 15/2023/RM"
+        },
+        {
+          "budget_change_id": "16/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "908,00",
+          "amount_value": 908.0,
+          "description": "Přijaté pojistné plnění (RZ 16/2023/RM"
+        },
+        {
+          "budget_change_id": "17/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "Přijaté pojistné plnění (RZ 17/2023/RM"
+        },
+        {
+          "budget_change_id": "18/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "3 040,00",
+          "amount_value": 3040.0,
+          "description": "Přijaté pojistné plnění (RZ 18/2023/RM"
+        },
+        {
+          "budget_change_id": "19/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "7 470,00",
+          "amount_value": 7470.0,
+          "description": "Přijaté pojistné plnění (RZ 19/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "15/2023/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "16 005,00",
+          "amount_value": 16005.0,
+          "description": "VO – pojistné události (RZ 15/2023/RM"
+        },
+        {
+          "budget_change_id": "16/2023/RM",
+          "raw_codes": [
+            "2219",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "908,00",
+          "amount_value": 908.0,
+          "description": "Dopravní značení – pojistné události (RZ 16/2023/RM"
+        },
+        {
+          "budget_change_id": "17/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5171",
+            "10 000 000"
+          ],
+          "amount": "1 400,00",
+          "amount_value": 1400.0,
+          "description": "Činnost místní správy – opravy a udržování (RZ 17/2023/RM"
+        },
+        {
+          "budget_change_id": "18/2023/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "3 040,00",
+          "amount_value": 3040.0,
+          "description": "VO – pojistné události (RZ 18/2023/RM"
+        },
+        {
+          "budget_change_id": "19/2023/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "12 000 000"
+          ],
+          "amount": "7 470,00",
+          "amount_value": 7470.0,
+          "description": "OBH – opravy a udržování (RZ 19/2023/RM"
+        },
+        {
+          "budget_change_id": "20/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-14 036,00",
+          "amount_value": -14036.0,
+          "description": "Myslechovice – drobná vydání (RZ 20/2023/RM"
+        },
+        {
+          "budget_change_id": "20/2023/RM",
+          "raw_codes": [
+            "2141",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "14 036,00",
+          "amount_value": 14036.0,
+          "description": "Myslechovice – Paulla, pojízdná prodejna (RZ 20/2023/RM"
+        },
+        {
+          "budget_change_id": "20/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "-14 036,00",
+          "amount_value": -14036.0,
+          "description": "Rozvadovice – drobná vydání (RZ 20/2023/RM"
+        },
+        {
+          "budget_change_id": "20/2023/RM",
+          "raw_codes": [
+            "2141",
+            "5169",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "14 036,00",
+          "amount_value": 14036.0,
+          "description": "Rozvadovice – Paulla pojízdná prodejna (RZ 20/2023/RM"
+        },
+        {
+          "budget_change_id": "20/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-7 018,00",
+          "amount_value": -7018.0,
+          "description": "Unčovice – drobná vydání, služby (RZ 20/2023/RM"
+        },
+        {
+          "budget_change_id": "20/2023/RM",
+          "raw_codes": [
+            "2141",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "14 036,00",
+          "amount_value": 14036.0,
+          "description": "Unčovice - Paulla pojízdná prodejna (RZ 20/2023/RM"
+        },
+        {
+          "budget_change_id": "21/2023/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "307",
+            "2 033 633"
+          ],
+          "amount": "-35 000,00",
+          "amount_value": -35000.0,
+          "description": "Chořelice – odstavné plochy na návsi (RZ 21/2023/RM"
+        },
+        {
+          "budget_change_id": "21/2023/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "KD Březové – dokončení PD (RZ 21/2023/RM"
+        },
+        {
+          "budget_change_id": "22/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 22/2023/RM"
+        },
+        {
+          "budget_change_id": "22/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "J.K. - činnost místního sdružení ČĆK v Březovém (RZ 22/2023/RM"
+        },
+        {
+          "budget_change_id": "23/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 23/2023/RM"
+        },
+        {
+          "budget_change_id": "23/2023/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Transfer for SDH Březové (RZ 23/2023/RM"
+        },
+        {
+          "budget_change_id": "24/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 24/2023/RM"
+        },
+        {
+          "budget_change_id": "24/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "SRP při ZŠ Jungmannova (RZ 24/2023/RM"
+        },
+        {
+          "budget_change_id": "25/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 25/2023/RM"
+        },
+        {
+          "budget_change_id": "25/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "P.G. - malá kopaná Březové (RZ 25/2023/RM"
+        },
+        {
+          "budget_change_id": "26/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 26/2023/RM"
+        },
+        {
+          "budget_change_id": "26/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Dotace na činnost Mysliveckého spolku Unčovice v roce 2023 (RZ 26/2023/RM"
+        },
+        {
+          "budget_change_id": "27/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 27/2023/RM"
+        },
+        {
+          "budget_change_id": "27/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5229",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Závody malých motocyklů (RZ 27/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 16/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Generali Česká pojišťovna, a.s. Jedná se o pojistné plnění z pojistné události, která vznikla 11.2.2023 (poškozené dopravní značení na ulici Palackého v Litovli)."
+    },
+    {
+      "title": "Rozpočtová změna č. 17/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny, a.s. Jedná se o pojistné plnění z pojistné události, která vznikla 3.1.2023 (poškozený ventil topné soustavy)."
+    },
+    {
+      "title": "Rozpočtová změna č. 18/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od ČSOB pojišťovny, a.s. Jedná se o pojistné plnění z pojistné události, která vznikla 15.2.2023 (poškozené VO, ulice Studentů, Litovel)."
+    },
+    {
+      "title": "Rozpočtová změna č. 19/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny, a.s. Jedná se o pojistné plnění z pojistné události, která vznikla 17.2.2023 (poškozené WC v objektu Záložny)."
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2023/RM dle požadavku z odboru MHaSI řeší přesun finančních prostředků z drobných",
+      "text": "vydání místních částí Myslechovice, Rozvadovice a Unčovice na úhradu nákladů spojených s příspěvkem na pojízdnou prodejnu Paulla."
+    },
+    {
+      "title": "Rozpočtová změna č. 21/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 21/2023/RM řeší dle požadavku z odboru MHaSI přesun finančních prostředků na",
+      "text": "dokončení projektové dokumentace pro Kulturní dům v Březové."
+    },
+    {
+      "title": "Rozpočtová změna č. 22/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana J.K. finanční prostředky na činnost místního sdružení Českého červeného kříže v Březovém na rok 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 23/2023/RM",
+      "text": "Na žádost spolku SDH Březové poskytlo město Litovel finanční prostředky na činnost spolku v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 24/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky Spolku rodičů a přátel Základní školy Litovel, Jungmannova 655, okres Olomouc na organizační zajištění dětského dne „Minitoulky“, který se uskuteční dne 3.června 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 25/2023/RM",
+      "text": "Na žádost pana P.G. poskytlo město Litovel finanční prostředky na činnost družstva malé kopané v Březové v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 26/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky Mysliveckému spolku Unčovice na činnost v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 27/2023/RM",
+      "text": "Na žádost pana J.H. poskytlo město Litovel dar na organizační zajištění závodů malých motocyklů, které se budou konat 27.května 2023 v Unčovicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._5_2023_schvalene_radou_mesta_litovel_dne_30._brezna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 5/2023 schválené Radou města Litovel dne 30. března 2023.\nRozpočtové opatření bylo schváleno na 10. schůzi Rady města Litovel dne 30.března 2023 na základě usnesení\n270/10/2023 ,271/10/2023, 272/10/2023, 274/10/2023, 276/10/2023, 277/10/2023 a 290/10/2023.\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 16 005,00\n(RZ 15/2023/RM)\nPřijaté pojistné plnění\n6320 2322 908,00\n(RZ 16/2023/RM)\nPřijaté pojistné plnění\n6320 2322 1 400,00\n(RZ 17/2023/RM)\nPřijaté pojistné plnění\n6320 2322 3 040,00\n(RZ 18/2023/RM)\nPřijaté pojistné plnění\n6320 2322 7 470,00\n(RZ 19/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVO – pojistné události\n3631 5171 3 003 559 16 005,00\n(RZ 15/2023/RM)\nDopravní značení – pojistné\n2219 5171 3 003 559 908,00\nudálosti (RZ 16/2023/RM)\nČinnost místní správy – opravy a\n6171 5171 10 000 000 1 400,00\nudržování (RZ 17/2023/RM)\nVO – pojistné události\n3631 5171 3 003 559 3 040,00\n(RZ 18/2023/RM)\nOBH – opravy a udržování\n3613 5171 12 000 000 7 470,00\n(RZ 19/2023/RM)\nMyslechovice – drobná vydání\n3429 5139 301 2 030 000 -14 036,00\n(RZ 20/2023/RM)\nMyslechovice – Paulla, pojízdná\n2141 5169 301 2 030 000 14 036,00\nprodejna (RZ 20/2023/RM)\nRozvadovice – drobná vydání\n3429 5139 304 2 030 000 -14 036,00\n(RZ 20/2023/RM)\nRozvadovice – Paulla pojízdná\n2141 5169 304 2 030 000 14 036,00\nprodejna (RZ 20/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nUnčovice – drobná vydání,\n3429 5139 310 2 030 000 -7 018,00\nmateriál (RZ 20/2023/RM)\nUnčovice – drobná vydání, služby\n3429 5169 310 2 030 000 -7 018,00\n(RZ 20/2023/RM)\nUnčovice - Paulla pojízdná\n2141 5169 310 2 030 000 14 036,00\nprodejna (RZ 20/2023/RM)\nChořelice – odstavné plochy na\n2219 6121 307 2 033 633 -35 000,00\nnávsi (RZ 21/2023/RM)\nKD Březové – dokončení PD\n3392 6121 305 2 030 000 35 000,00\n(RZ 21/2023/RM\n3429 5901 4 000 000 -10 000,00 Transfery dle rozhodnutí RM\n(RZ 22/2023/RM)\nJ.K. - činnost místního sdružení\n3900 5492 4 000 000 10 000,00 ČĆK v Březovém\n(RZ 22/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 23/2023/RM)\n5512 5222 4 000 000 5 000,00 Transfer for SDH Březové\n(RZ 23/2023/RM)\n3429 5901 4 000 000 -10 000,00 Transfery dle rozhodnutí RM\n(RZ 24/2023/RM)\n3429 5222 4 000 000 10 000,00 SRP při ZŠ Jungmannova\n(RZ 24/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 25/2023/RM)\n3429 5222 4 000 000 5 000,00 P.G. - malá kopaná Březové\n(RZ 25/2023/RM)\n3429 5901 4 000 000 -4 000,00 Transfery dle rozhodnutí RM\n(RZ 26/2023/RM)\nDotace na činnost Mysliveckého\n3429 5222 4 000 000 4 000,00 spolku Unčovice v roce 2023\n(RZ 26/2023/RM)\n3429 5901 4 000 000 -2 000,00 Transfery dle rozhodnutí RM\n(RZ 27/2023/RM)\n3429 5229 4 000 000 2 000,00 Závody malých motocyklů\n(RZ 27/2023/RM)\nRZ 15//2023/RM\nNa účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny, a.s. Jedná se o pojistné plnění\nz pojistné události, která vznikla 23.11.2022 (poškozené VO, cyklostezka, Hrázky).\nRZ 16/2023/RM\nNa účet města Litovel byla připsaná platba od Generali Česká pojišťovna, a.s. Jedná se o pojistné plnění\nz pojistné události, která vznikla 11.2.2023 (poškozené dopravní značení na ulici Palackého v Litovli).\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 17/2023/RM\nNa účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny, a.s. Jedná se o pojistné plnění\nz pojistné události, která vznikla 3.1.2023 (poškozený ventil topné soustavy).\nRZ 18/2023/RM\nNa účet města Litovel byla připsaná platba od ČSOB pojišťovny, a.s. Jedná se o pojistné plnění z pojistné\nudálosti, která vznikla 15.2.2023 (poškozené VO, ulice Studentů, Litovel).\nRZ 19/2023/RM\nNa účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny, a.s. Jedná se o pojistné plnění\nz pojistné události, která vznikla 17.2.2023 (poškozené WC v objektu Záložny).\nRZ 20/2023/RM\nRozpočtová změna č. 20/2023/RM dle požadavku z odboru MHaSI řeší přesun finančních prostředků z drobných\nvydání místních částí Myslechovice, Rozvadovice a Unčovice na úhradu nákladů spojených s příspěvkem na\npojízdnou prodejnu Paulla.\nRZ 21/2023/RM\nRozpočtová změna č. 21/2023/RM řeší dle požadavku z odboru MHaSI přesun finančních prostředků na\ndokončení projektové dokumentace pro Kulturní dům v Březové.\nRZ 22/2023/RM\nMěsto Litovel poskytlo na žádost pana J.K. finanční prostředky na činnost místního sdružení Českého červeného\nkříže v Březovém na rok 2023.\nRZ 23/2023/RM\nNa žádost spolku SDH Březové poskytlo město Litovel finanční prostředky na činnost spolku v roce 2023.\nRZ 24/2023/RM\nMěsto Litovel poskytlo finanční prostředky Spolku rodičů a přátel Základní školy Litovel, Jungmannova 655,\nokres Olomouc na organizační zajištění dětského dne „Minitoulky“, který se uskuteční dne 3.června 2023.\nRZ 25/2023/RM\nNa žádost pana P.G. poskytlo město Litovel finanční prostředky na činnost družstva malé kopané v Březové v\nroce 2023.\nRZ 26/2023/RM\nMěsto Litovel poskytlo finanční prostředky Mysliveckému spolku Unčovice na činnost v roce 2023.\nRZ 27/2023/RM\nNa žádost pana J.H. poskytlo město Litovel dar na organizační zajištění závodů malých motocyklů, které se budou\nkonat 27.května 2023 v Unčovicích.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 12.4 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

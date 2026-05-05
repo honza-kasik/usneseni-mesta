@@ -1,0 +1,359 @@
+{
+  "id": "RO/1/2024",
+  "number": 1,
+  "year": 2024,
+  "approval_date": "2024-01-11",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "1/2024/RM",
+    "2/2024/RM",
+    "3/2024/RM",
+    "4/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 1/2024/RM"
+        },
+        {
+          "budget_change_id": "1/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SRPŠ Nasobůrky - organizační zajištění maškarního plesu (RZ 1/2024/RM"
+        },
+        {
+          "budget_change_id": "2/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 2/2024/RM"
+        },
+        {
+          "budget_change_id": "2/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "ZO Český zahrádkářský svaz Litovel - dotace na opravu a vybavení klubovny + výstavní činnost 2024 (RZ 2/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-556 000,00",
+          "amount_value": -556000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Český kynologický svaz Litovel - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Český rybářský svaz Litovel -podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Český svaz chovatelů Litovel - podpora činnosti v roce 2024 a pořízení nových výstavních klecí (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "4357",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Domov se zvl.režimem Bílsko - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5339",
+            "4000407"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "DDM Litovel - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3121",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Gymnázium Jana Opletala - podpora činnosti mládež.pěveckého sboru v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Hanácká mozeka Litovel - činnost spolku + organizační zajištění Hanáckého bálu (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Historický spolek Kirri - org. zajištění jednorázové akce historic.charakteru (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Junák - český skaut, stř. Šíp Loštice - činnost skautského oddílu v Litovli v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Klub litovelského petanque - činnost klubu v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3144",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Lesní klub Doubraváček - činnost klubu v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "4379",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Linka bezpečí - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Motorsport Hlavinka- činnost spolku v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Muzejní společnost Litovelska - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3523",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Odborný léčebný ústav Paseka - pořízení vybavení ústavu v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Senzakord - činnost spolku v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3541",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Společnost Podané ruce - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "4371",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Společnost pro ranou péči, pobočka pro rodinu - podpora činnosti v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "3/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Spolek Gustava Frištenského - činnost spolku v roce 2024 (RZ 3/2024/RM"
+        },
+        {
+          "budget_change_id": "4/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-700 000,00",
+          "amount_value": -700000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 4/2024/RM"
+        },
+        {
+          "budget_change_id": "4/2024/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Akselit - přepravaa členů spolku-seniorů od 65 let a osob s omezenou schopností pohybu (RZ 4/2024/RM"
+        },
+        {
+          "budget_change_id": "4/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Folklorní soubor HANAČKA - činnost souboru v roce 2024 (RZ 4/2024/RM"
+        },
+        {
+          "budget_change_id": "4/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Mažoretky Linetbells Litovel - činnost spolku v roce 2024 (RZ 4/2024/RM"
+        },
+        {
+          "budget_change_id": "4/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Rychlostní kanoistika Litovel - zajištění sportovní činnosti spolku v roce 2024 (RZ 4/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 1/2024/RM",
+      "text": "Město Litovel poskytlo dar Sdružení rodičů a přátel školy Nasobůrky na organizační zajištění maškarního plesu, který se uskuteční 21. ledna 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 2/2024/RM",
+      "text": "Město Litovel poskytlo dotaci Základní organizaci Českého zahrádkářského svazu v Litovli na opravu a vybavení klubovny a výstavní činnost v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 3/2024/RM",
+      "text": "Město Litovel poskytlo finanční prostředky žadatelům tj. spolkům, svazům, klubům, sociálním ústavům apod. na podporu činnosti roku 2024. RZ 4/2024//RM Město Litovel poskytlo finanční prostředky žadatelům tj. spolkům, souborům, Tělocvičné jednotě Sokol na podporu činnosti roku 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._1_2024_dne_11._ledna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 1/2024 schválené Radou města Litovel\ndne 11. ledna 2024.\nRozpočtové opatření bylo schváleno na 27.schůzi Rady města Litovel dne 11. ledna 2024 na základě usnesení\n761/27/2024, 762/27/2024, 763/27/2024 a 764/27/2024.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 1/2024/RM)\nSRPŠ Nasobůrky - organizační zajištění\n3429 5222 4 000 000 5 000,00\nmaškarního plesu (RZ 1/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -10 000,00\n(RZ 2/2024/RM)\nZO Český zahrádkářský svaz Litovel -\n3429 5222 4 000 000 10 000,00 dotace na opravu a vybavení klubovny +\nvýstavní činnost 2024 (RZ 2/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -556 000,00\n(RZ 3/2024/RM)\nČeský kynologický svaz Litovel - podpora\n3429 5222 4 000 000 40 000,00\nčinnosti v roce 2024 (RZ 3/2024/RM)\nČeský rybářský svaz Litovel -podpora\n3429 5222 4 000 000 20 000,00\nčinnosti v roce 2024 (RZ 3/2024/RM)\nČeský svaz chovatelů Litovel - podpora\n3429 5222 4 000 000 25 000,00 činnosti v roce 2024 a pořízení nových\nvýstavních klecí (RZ 3/2024/RM)\nDomov se zvl.režimem Bílsko - podpora\n4357 5221 4 000 000 50 000,00\nčinnosti v roce 2024 (RZ 3/2024/RM)\nDDM Litovel - podpora činnosti v roce\n3421 5339 4000407 40 000,00\n2024 (RZ 3/2024/RM)\nGymnázium Jana Opletala - podpora\n3121 5339 4 000 000 30 000,00 činnosti mládež.pěveckého sboru v roce\n2024 (RZ 3/2024/RM)\nHanácká mozeka Litovel - činnost spolku\n3429 5222 4 000 000 35 000,00 + organizační zajištění Hanáckého bálu\n(RZ 3/2024/RM)\nHanácký jezdecký klub Litovel - činnost\n3419 5222 4 000 000 25 000,00 jezdeckého klubu v roce 2024\n(RZ 3/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nHistorický spolek Kirri - org. zajištění\n3429 5222 4 000 000 40 000,00 jednorázové akce historic.charakteru\n(RZ 3/2024/RM)\nJunák - český skaut, stř. Šíp Loštice -\n3429 5222 4 000 000 15 000,00 činnost skautského oddílu v Litovli v roce\n2024 (RZ 3/2024/RM)\nKlub litovelského petanque - činnost klubu\n3429 5222 4 000 000 3 000,00\nv roce 2024 (RZ 3/2024/RM)\nLesní klub Doubraváček - činnost klubu v\n3144 5222 4 000 000 20 000,00\nroce 2024 (RZ 3/2024/RM)\nLinka bezpečí - podpora činnosti v roce\n4379 5222 4 000 000 3 000,00\n2024 (RZ 3/2024/RM)\nMotorsport Hlavinka- činnost spolku v\n3419 5222 4 000 000 40 000,00\nroce 2024 (RZ 3/2024/RM)\nMuzejní společnost Litovelska - podpora\n3429 5222 4 000 000 20 000,00\nčinnosti v roce 2024 (RZ 3/2024/RM)\nOdborný léčebný ústav Paseka - pořízení\n3523 5339 4 000 000 40 000,00 vybavení ústavu v roce 2024\n(RZ 3/2024/RM)\nSenzakord - činnost spolku v roce 2024\n3429 5222 4 000 000 20 000,00\n(RZ 3/2024/RM)\nSpolečnost Podané ruce - podpora činnosti\n3541 5221 4 000 000 40 000,00\nv roce 2024 (RZ 3/2024/RM)\nSpolečnost pro ranou péči, pobočka pro\n4371 5222 4 000 000 10 000,00 rodinu - podpora činnosti v roce 2024\n(RZ 3/2024/RM)\nSpolek Gustava Frištenského - činnost\n3429 5222 4 000 000 40 000,00\nspolku v roce 2024 (RZ 3/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -700 000,00\n(RZ 4/2024/RM)\nAkselit - přepravaa členů spolku-seniorů\n3900 5222 4 000 000 200 000,00 od 65 let a osob s omezenou schopností\npohybu (RZ 4/2024/RM)\nFolklorní soubor HANAČKA - činnost\n3429 5222 4 000 000 100 000,00\nsouboru v roce 2024 (RZ 4/2024/RM)\nMažoretky Linetbells Litovel - činnost\n3421 5222 4 000 000 80 000,00\nspolku v roce 2024 (RZ 4/2024/RM)\nRychlostní kanoistika Litovel - zajištění\n3419 5222 4 000 000 120 000,00 sportovní činnosti spolku v roce 2024\n(RZ 4/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTělocvičná jednota Sokol Litovel - činnost\n3419 5222 4 000 000 200 000,00 spolku v roce 2024, příprava a účast na\nSokolském sletu (RZ 4/2024/RM)\nRZ 1/2024/RM\nMěsto Litovel poskytlo dar Sdružení rodičů a přátel školy Nasobůrky na organizační zajištění maškarního\nplesu, který se uskuteční 21. ledna 2024.\nRZ 2/2024/RM\nMěsto Litovel poskytlo dotaci Základní organizaci Českého zahrádkářského svazu v Litovli na opravu a\nvybavení klubovny a výstavní činnost v roce 2024.\nRZ 3/2024/RM\nMěsto Litovel poskytlo finanční prostředky žadatelům tj. spolkům, svazům, klubům, sociálním\nústavům apod. na podporu činnosti roku 2024.\nRZ 4/2024//RM\nMěsto Litovel poskytlo finanční prostředky žadatelům tj. spolkům, souborům, Tělocvičné jednotě\nSokol na podporu činnosti roku 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 29. 1. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

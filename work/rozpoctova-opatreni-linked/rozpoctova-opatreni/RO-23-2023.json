@@ -1,0 +1,659 @@
+{
+  "id": "RO/23/2023",
+  "number": 23,
+  "year": 2023,
+  "approval_date": "2023-12-07",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "112/2023/ZM",
+    "113/2023/ZM",
+    "114/2023/ZM",
+    "115/2023/ZM",
+    "116/2023/ZM",
+    "117/2023/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "115/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-11 500 000,00",
+          "amount_value": -11500000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 115/2023/ZM"
+        },
+        {
+          "budget_change_id": "116/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-1 600 000,00",
+          "amount_value": -1600000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 116/2023/ZM"
+        },
+        {
+          "budget_change_id": "117/2023/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-7 996 000,00",
+          "amount_value": -7996000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 117/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "109"
+          ],
+          "amount": "350,00",
+          "amount_value": 350.0,
+          "description": "Czech Point - Výpis - Obchodní rejstřík (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "114"
+          ],
+          "amount": "900,00",
+          "amount_value": 900.0,
+          "description": "Czech Point - Výpis - Insolvenční rejstřík (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "116"
+          ],
+          "amount": "1 290,00",
+          "amount_value": 1290.0,
+          "description": "Czech Point - Dat. Schránky - konverze dokumentu (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "117"
+          ],
+          "amount": "550,00",
+          "amount_value": 550.0,
+          "description": "Výpis - základní registry (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "118"
+          ],
+          "amount": "100,00",
+          "amount_value": 100.0,
+          "description": "Výpis z veřejného rejstříku (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "119"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "Umístění herního automatu (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "235"
+          ],
+          "amount": "3 200,00",
+          "amount_value": 3200.0,
+          "description": "Povolení splátkování (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "253"
+          ],
+          "amount": "16 900,00",
+          "amount_value": 16900.0,
+          "description": "Cestovní doklad 100,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "256"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Občanský průkaz 500,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "260"
+          ],
+          "amount": "200,00",
+          "amount_value": 200.0,
+          "description": "Občanský průkaz (3 měsíce) (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "262"
+          ],
+          "amount": "1 250,00",
+          "amount_value": 1250.0,
+          "description": "Výdej údajů z inf. systému evidence obyvatel (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "263"
+          ],
+          "amount": "600,00",
+          "amount_value": 600.0,
+          "description": "Ohlášení změny místa trvalého pobytu - správní poplatek (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "264"
+          ],
+          "amount": "1 200,00",
+          "amount_value": 1200.0,
+          "description": "Vydání OP z důvodu zápisu titulu nebo vědecké hodnosti (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "265"
+          ],
+          "amount": "300,00",
+          "amount_value": 300.0,
+          "description": "Převzetí OP u OÚ dle žádosti 100,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "268"
+          ],
+          "amount": "2 900,00",
+          "amount_value": 2900.0,
+          "description": "Návrh na zrušení údaje o místu trvalého bydliště (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "269"
+          ],
+          "amount": "100,00",
+          "amount_value": 100.0,
+          "description": "Převzetí CP u OÚ dle žádosti 100,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "273"
+          ],
+          "amount": "19 237,07",
+          "amount_value": 19237.07,
+          "description": "CD do 5 dnů 3.000,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "277"
+          ],
+          "amount": "250,00",
+          "amount_value": 250.0,
+          "description": "OP do 5 dnů 250,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "278"
+          ],
+          "amount": "73 500,00",
+          "amount_value": 73500.0,
+          "description": "OP do 5 dnů 500,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "281"
+          ],
+          "amount": "33 100,00",
+          "amount_value": 33100.0,
+          "description": "OP do 5 dnů do 15 let 300,-- (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "601"
+          ],
+          "amount": "3 950,00",
+          "amount_value": 3950.0,
+          "description": "SP - silniční hospodářství (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "602"
+          ],
+          "amount": "90 036,00",
+          "amount_value": 90036.0,
+          "description": "SP - motorová vozidla (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "603"
+          ],
+          "amount": "2 780,00",
+          "amount_value": 2780.0,
+          "description": "SP - řidičské průkazy (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "609"
+          ],
+          "amount": "19 237,00",
+          "amount_value": 19237.0,
+          "description": "SP - paměťové karty (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "610"
+          ],
+          "amount": "19 237,00",
+          "amount_value": 19237.0,
+          "description": "Průkaz profesní způsobilosti řidiče (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "701"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Komunální odpad (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "704"
+          ],
+          "amount": "11 200,00",
+          "amount_value": 11200.0,
+          "description": "Stavební povolení – vodospráva (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "705"
+          ],
+          "amount": "4 100,00",
+          "amount_value": 4100.0,
+          "description": "Rybářské lístky (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "713"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Poplatek za tříděný odpad - podnikatelé (RZ 112/2023/ZM) Správní poplatky - licence pro lesní a vodní hospodářství (RZ 112/2023/ZM) Změny rejstříku HS (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "801"
+          ],
+          "amount": "10 024,33",
+          "amount_value": 10024.33,
+          "description": "SP - živnostenský odbor (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1361",
+            "3511"
+          ],
+          "amount": "30 750,00",
+          "amount_value": 30750.0,
+          "description": "Parkovací karty (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1381"
+          ],
+          "amount": "378 141,36",
+          "amount_value": 378141.36,
+          "description": "Příjem daně z hazardních her (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1385"
+          ],
+          "amount": "1 709 008,38",
+          "amount_value": 1709008.38,
+          "description": "Příjem z dílčí daně z technických her (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1069",
+            "2212"
+          ],
+          "amount": "8 000,00",
+          "amount_value": 8000.0,
+          "description": "Ostatní správa v zemědělství - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "1069",
+            "2212",
+            "784"
+          ],
+          "amount": "12 500,00",
+          "amount_value": 12500.0,
+          "description": "Ostatní správa v zemědělství - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "704"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "Ostatní správa v průmyslu - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "784"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Ostatní správa v průmyslu - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "802"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Ostatní správa v průmyslu - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "1103"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Ostatní správa v průmyslu - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "2299",
+            "2212",
+            "604"
+          ],
+          "amount": "355 759,24",
+          "amount_value": 355759.24,
+          "description": "Ostatní záležitosti v dopravě - sankční platby (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "575 419,00",
+          "amount_value": 575419.0,
+          "description": "Mzdové agendy (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "39 325,00",
+          "amount_value": 39325.0,
+          "description": "Odvody příspěvkových organizací (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "1 523 455,00",
+          "amount_value": 1523455.0,
+          "description": "Příjmy z úroků (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "6310",
+            "2141",
+            "14 000 000"
+          ],
+          "amount": "23,62",
+          "amount_value": 23.62,
+          "description": "Příjmy z úroků (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "130 796,00",
+          "amount_value": 130796.0,
+          "description": "Příjem z pojistných plnění (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "113/2023/ZM",
+          "raw_codes": [
+            "1112"
+          ],
+          "amount": "55 652,82",
+          "amount_value": 55652.82,
+          "description": "Daň z příjmů FO placená poplatníky (RZ 113/2023/ZM"
+        },
+        {
+          "budget_change_id": "113/2023/ZM",
+          "raw_codes": [
+            "1113"
+          ],
+          "amount": "1 846 702,13",
+          "amount_value": 1846702.13,
+          "description": "Daň z příjmů FO vybíraná srážkou (RZ 113/2023/ZM"
+        },
+        {
+          "budget_change_id": "113/2023/ZM",
+          "raw_codes": [
+            "1121"
+          ],
+          "amount": "3 472 177,31",
+          "amount_value": 3472177.31,
+          "description": "Daň z příjmů právnických osob (RZ 113/2023/ZM"
+        },
+        {
+          "budget_change_id": "113/2023/ZM",
+          "raw_codes": [
+            "1211"
+          ],
+          "amount": "-5 374 532,26",
+          "amount_value": -5374532.26,
+          "description": "Daň z přidané hodnoty (RZ 113/2023/ZM"
+        },
+        {
+          "budget_change_id": "114/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Příjmy z poskytování služeb (RZ 114/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "112/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "6130",
+            "3 003 454"
+          ],
+          "amount": "5 211 500,00",
+          "amount_value": 5211500.0,
+          "description": "Pozemky (RZ 112/2023/ZM"
+        },
+        {
+          "budget_change_id": "114/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "5123",
+            "7 000 777"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Rozšíření kamerového systému sběrného dvora (RZ 114/2023/ZM"
+        },
+        {
+          "budget_change_id": "115/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "-11 500 000,00",
+          "amount_value": -11500000.0,
+          "description": "Nasobůrky - MK navazující na průtah obcí (RZ 115/2023/ZM"
+        },
+        {
+          "budget_change_id": "116/2023/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "-1 600 000,00",
+          "amount_value": -1600000.0,
+          "description": "Nasobůrky - MK navazující na průtah obcí - realizace přeložky CETIN (RZ 116/2023/ZM"
+        },
+        {
+          "budget_change_id": "117/2023/ZM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "-7 996 000,00",
+          "amount_value": -7996000.0,
+          "description": "Rezerva na řešení potřeby zásobování energiemi (RZ 117/2023/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 117/2023/ZM řeší přesun finančních prostředků na energie z rezervy jednotlivým",
+      "text": "příspěvkovým organizacím na základě jejich podkladů."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.23_2023_schvalene_zm_litovel_dne_7._prosince_2023..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 23/2023 schválené Zastupitelstvem města Litovel\ndne 7. prosince 2023.\nRozpočtové opatření bylo schváleno na 8. zasedání Zastupitelstva města Litovel dne 7. prosince 2023 na\nzákladě usnesení ZM/4/8/2023.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\n8115 -11 500 000,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 115/2023/ZM)\n8115 -1 600 000,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 116/2023/ZM)\n8115 -7 996 000,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 117/2023/ZM)\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nCzech Point - Výpis - Obchodní rejstřík\n1361 109 350,00\n(RZ 112/2023/ZM)\nCzech Point - Výpis - Insolvenční rejstřík\n1361 114 900,00\n(RZ 112/2023/ZM)\nCzech Point - Dat. Schránky - konverze\n1361 116 1 290,00\ndokumentu (RZ 112/2023/ZM)\n1361 117 550,00 Výpis - základní registry (RZ 112/2023/ZM)\n1361 118 100,00 Výpis z veřejného rejstříku (RZ 112/2023/ZM)\n1361 119 1 500,00 Umístění herního automatu (RZ 112/2023/ZM)\n1361 235 3 200,00 Povolení splátkování (RZ 112/2023/ZM)\n1361 253 16 900,00 Cestovní doklad 100,-- (RZ 112/2023/ZM)\n1361 254 6 000,00 Cestovní doklady R (RZ 112/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n1361 256 1 000,00 Občanský průkaz 500,-- (RZ 112/2023/ZM)\n1361 257 15 100,00 Občanský průkaz (ztráta, zničení)\n1361 258 33 550,00 Občanský průkaz (mladší 15 let)\n1361 260 200,00 Občanský průkaz (3 měsíce) (RZ 112/2023/ZM)\nVýdej údajů z inf. systému evidence obyvatel\n1361 262 1 250,00\n(RZ 112/2023/ZM)\nOhlášení změny místa trvalého pobytu - správní\n1361 263 600,00\npoplatek (RZ 112/2023/ZM)\nVydání OP z důvodu zápisu titulu nebo vědecké\n1361 264 1 200,00\nhodnosti (RZ 112/2023/ZM)\nPřevzetí OP u OÚ dle žádosti 100,--\n1361 265 300,00\n(RZ 112/2023/ZM)\nNávrh na zrušení údaje o místu trvalého bydliště\n1361 268 2 900,00\n(RZ 112/2023/ZM)\nPřevzetí CP u OÚ dle žádosti 100,--\n1361 269 100,00\n(RZ 112/2023/ZM)\n1361 273 19 237,07 CD do 5 dnů 3.000,-- (RZ 112/2023/ZM)\n1361 277 250,00 OP do 5 dnů 250,-- (RZ 112/2023/ZM)\n1361 278 73 500,00 OP do 5 dnů 500,-- (RZ 112/2023/ZM)\n1361 281 33 100,00 OP do 5 dnů do 15 let 300,-- (RZ 112/2023/ZM)\n1361 601 3 950,00 SP - silniční hospodářství (RZ 112/2023/ZM)\n1361 602 90 036,00 SP - motorová vozidla (RZ 112/2023/ZM)\n1361 603 2 780,00 SP - řidičské průkazy (RZ 112/2023/ZM)\n1361 609 19 237,00 SP - paměťové karty (RZ 112/2023/ZM)\nPrůkaz profesní způsobilosti řidiče\n1361 610 19 237,00\n(RZ 112/2023/ZM)\n1361 611 1 000,00 Registrace autoškoly (RZ 112/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n1361 701 2 000,00 Komunální odpad (RZ 112/2023/ZM)\nStavební povolení – vodospráva\n1361 704 11 200,00\n(RZ 112/2023/ZM)\n1361 705 4 100,00 Rybářské lístky (RZ 112/2023/ZM)\nPoplatek za tříděný odpad - podnikatelé\n1361 713 1 000,00\n(RZ 112/2023/ZM)\nSprávní poplatky - licence pro lesní a vodní\n1361 719 1 200,00\nhospodářství (RZ 112/2023/ZM)\n1361 734 2 000,00 Změny rejstříku HS (RZ 112/2023/ZM)\n1361 801 10 024,33 SP - živnostenský odbor (RZ 112/2023/ZM)\n1361 3511 30 750,00 Parkovací karty (RZ 112/2023/ZM)\n1381 378 141,36 Příjem daně z hazardních her (RZ 112/2023/ZM)\nPříjem z dílčí daně z technických her\n1385 1 709 008,38\n(RZ 112/2023/ZM)\nOstatní správa v zemědělství - sankční platby\n1069 2212 8 000,00\n(RZ 112/2023/ZM)\nOstatní správa v zemědělství - sankční platby\n1069 2212 784 12 500,00\n(RZ 112/2023/ZM)\nOstatní správa v průmyslu - sankční platby\n2169 2212 704 700,00\n(RZ 112/2023/ZM)\nOstatní správa v průmyslu - sankční platby\n2169 2212 784 10 000,00\n(RZ 112/2023/ZM)\nOstatní správa v průmyslu - sankční platby\n2169 2212 802 1 000,00\n(RZ 112/2023/ZM)\nOstatní správa v průmyslu - sankční platby\n2169 2212 1103 15 000,00\n(RZ 112/2023/ZM)\nOstatní záležitosti v dopravě - sankční platby\n2299 2212 604 355 759,24\n(RZ 112/2023/ZM)\n3113 2111 403 575 419,00 Mzdové agendy (RZ 112/2023/ZM)\nOdvody příspěvkových organizací\n3113 2122 46 39 325,00\n(RZ 112/2023/ZM)\nMP - příjem sankčních plateb od jiných osob\n5311 2212 283 40 781,00\n(RZ 112/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n6310 2141 1 523 455,00 Příjmy z úroků (RZ 112/2023/ZM)\n6310 2141 14 000 000 23,62 Příjmy z úroků (RZ 112/2023/ZM)\n6320 2322 130 796,00 Příjem z pojistných plnění (RZ 112/2023/ZM)\nDaň z příjmů FO placená poplatníky\n1112 55 652,82\n(RZ 113/2023/ZM)\nDaň z příjmů FO vybíraná srážkou\n1113 1 846 702,13\n(RZ 113/2023/ZM)\nDaň z příjmů právnických osob\n1121 3 472 177,31\n(RZ 113/2023/ZM)\n1211 -5 374 532,26 Daň z přidané hodnoty (RZ 113/2023/ZM)\n3722 2111 35 000,00 Příjmy z poskytování služeb (RZ 114/2023/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3639 6130 3 003 454 5 211 500,00 Pozemky (RZ 112/2023/ZM)\nRozšíření kamerového systému sběrného dvora\n3722 5123 7 000 777 35 000,00\n(RZ 114/2023/ZM)\nNasobůrky - MK navazující na průtah obcí\n2219 6121 309 3 003 612 -11 500 000,00\n(RZ 115/2023/ZM)\nNasobůrky - MK navazující na průtah obcí -\n2219 6121 309 3 003 612 -1 600 000,00\nrealizace přeložky CETIN (RZ 116/2023/ZM)\nRezerva na řešení potřeby zásobování energiemi\n6409 5901 1 000 000 -7 996 000,00\n(RZ 117/2023/ZM)\nRZ 112/2023/ZM – Odkup pozemků § 3639\nMěsto Litovel poskytlo finanční prostředky na plánovaný odkup pozemků parcelní číslo 59/16 a 59/24\nv katastrálním území Nasobůrky za účelem výstavby stanice IZS.\nRZ 113/2023/ZM – Sdílené daňové příjmy\nPlnění sdílených daňových příjmů se odchyluje od predikce MF ČR, ze které se vycházelo při tvorbě rozpočtu\nna rok 2023. Rozpočtová změna č. 113/2023/ZM řeší úpravu dle aktuálního plnění jednotlivých druhů sdílených\ndaňových příjmů.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 114/2023/ZM – Rozšíření kamerového systému na sběrném dvoře § 3722\nMěsto Litovel poskytlo finanční prostředky získané z odpadového hospodářství na plánované rozšíření kamerového\nsystému na sběrném dvoře.\nRZ 115/2023/ZM – Nasobůrky – MK navazující na průtah obcí § 2219\nV rozpočtu města Litovel na rok 2023, který byl schválen dne 8.12.2022 byla zařazena investiční akce\n„ Nasobůrky – místní komunikace navazující na průtah obcí“. Akce byla vysoutěžena a zahájena. S ohledem na\ndílčí komplikace při realizaci akce se část vyčleněných finančních prostředků přesouvá do roku 2024, což je\nzahrnuto v návrhu rozpočtu na rok 2024. Rozpočtová změna č. 115/2023/ZM řeší zohlednění tohoto přesunu\na také úsporu, která vyplynula z výsledku výběrového řízení.\nRZ 116/2023/ZM - Nasobůrky – MK navazující na průtah obcí § 2219\nV rozpočtu města Litovel na rok 2023, který byl schválen dne 8.12.2022 byla zařazena investiční akce\n„ Nasobůrky – místní komunikace navazující na průtah obcí“ a s ní související realizace přeložky CETIN.\nRealizace přeložky se v plné výši přesouvá do roku 2024, což je zohledněno v návrhu rozpočtu města Litovel\nna rok 2024.\nRZ 117/2023/ZM – Rezerva na řešení potřeby zásobování energiemi § 6409\nV rozpočtu města Litovel na rok 2023, který byl schválen dne 8.12.2022 byla rezerva na řešení potřeby\nzásobování energiemi, která byla určena pro příspěvkové organizace, které zřídilo město Litovel.\nRozpočtová změna č. 117/2023/ZM řeší přesun finančních prostředků na energie z rezervy jednotlivým\npříspěvkovým organizacím na základě jejich podkladů.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 20. 12. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/738/26/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "112/2023/ZM",
+        "113/2023/ZM",
+        "114/2023/ZM",
+        "115/2023/ZM",
+        "116/2023/ZM",
+        "117/2023/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/4/8/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "112/2023/ZM",
+        "113/2023/ZM",
+        "114/2023/ZM",
+        "115/2023/ZM",
+        "116/2023/ZM",
+        "117/2023/ZM"
+      ]
+    }
+  ]
+}

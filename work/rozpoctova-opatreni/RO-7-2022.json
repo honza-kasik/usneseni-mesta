@@ -1,0 +1,344 @@
+{
+  "id": "RO/7/2022",
+  "number": 7,
+  "year": 2022,
+  "approval_date": "2022-04-21",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 74,
+    "type": "schůzi",
+    "date": "2022-04-21"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "44/2022/RM",
+    "45/2022/RM",
+    "46/2022/RM",
+    "47/2022/RM",
+    "48/2022/RM",
+    "49/2022/RM",
+    "50/2022/RM",
+    "51/2022/RM",
+    "52/2022/RM",
+    "53/2022/RM",
+    "54/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "44/2022/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "12 246,00",
+          "amount_value": 12246.0,
+          "description": "Přijaté pojistné plnění (RZ 44/2022/RM"
+        },
+        {
+          "budget_change_id": "50/2022/RM",
+          "raw_codes": [
+            "4116",
+            "13024"
+          ],
+          "amount": "2 554 300,00",
+          "amount_value": 2554300.0,
+          "description": "Přijatý neinvestiční transfer - SPOD (RZ 50/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "44/2022/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "12 246,00",
+          "amount_value": 12246.0,
+          "description": "Oprava VO (RZ 44/2022/RM"
+        },
+        {
+          "budget_change_id": "45/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Březové – drobná vydání… .(RZ 45/2022/RM"
+        },
+        {
+          "budget_change_id": "45/2022/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Březové – oprava unimobuňky na hřišti (RZ 45/2022/RM"
+        },
+        {
+          "budget_change_id": "46/2022/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "302",
+            "2 030 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Chudobín – zpevnění cesty Kamenné rybníky (RZ 46/2022/RM"
+        },
+        {
+          "budget_change_id": "46/2022/RM",
+          "raw_codes": [
+            "3412",
+            "5137",
+            "302",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Chudobín – nákup a instalace ochranných sítí (RZ 46/2022/RM"
+        },
+        {
+          "budget_change_id": "47/2022/RM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Charita Šternberk – organizační zajištění pouti (RZ 47/2022/RM"
+        },
+        {
+          "budget_change_id": "47/2022/RM",
+          "raw_codes": [
+            "3399",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Charita Šternberk – organizační zajištění pouti (RZ 47/2022/RM"
+        },
+        {
+          "budget_change_id": "48/2022/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "-12 000,00",
+          "amount_value": -12000.0,
+          "description": "Víska – dlažba v KD (RZ 48/2022/RM"
+        },
+        {
+          "budget_change_id": "48/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "12 000,00",
+          "amount_value": 12000.0,
+          "description": "Víska – dohody o provedení práce (RZ 48/2022/RM"
+        },
+        {
+          "budget_change_id": "49/2022/RM",
+          "raw_codes": [
+            "3412",
+            "5169",
+            "304",
+            "2 070 000"
+          ],
+          "amount": "-30 000,00",
+          "amount_value": -30000.0,
+          "description": "Rozvadovice – dosazení zeleně v katastru obce (RZ 49/2022/RM"
+        },
+        {
+          "budget_change_id": "49/2022/RM",
+          "raw_codes": [
+            "3429",
+            "6121",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Rozvadovice – dobudování zpevněné plochy u nástěnek (RZ 49/2022/RM"
+        },
+        {
+          "budget_change_id": "50/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5xxx",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "2 554 300,00",
+          "amount_value": 2554300.0,
+          "description": "Výkon agendy SPOD (RZ 50/2022/RM"
+        },
+        {
+          "budget_change_id": "51/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Dary a příspěvky dle rozhodnutí ZML a RML (RZ 51/2022/RM"
+        },
+        {
+          "budget_change_id": "51/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Neinvestiční transfer pro skautský oddíl (RZ 51/2022/RM"
+        },
+        {
+          "budget_change_id": "52/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "Dary a dotace dle rozhodnutí ZML RML (RZ 52/2022/RM"
+        },
+        {
+          "budget_change_id": "52/2022/RM",
+          "raw_codes": [
+            "3316",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "Dar paní H. za podíl na grafickém zpracování na knize (RZ 52/2022/RM"
+        },
+        {
+          "budget_change_id": "53/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Savín – dar na organiz. zajištění lampionového průvodu pro děti (RZ 53/2022/RM"
+        },
+        {
+          "budget_change_id": "54/2022/RM",
+          "raw_codes": [
+            "342 9",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Unčovice – podpora místních spolků (RZ 54/2022/RM"
+        },
+        {
+          "budget_change_id": "54/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5229",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Unčovice- závody malých motocyklů (RZ 54/2022/RM"
+        },
+        {
+          "budget_change_id": "53/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "311",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Savín – podpora místních spolků (RZ 53/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 44/2022/RM",
+      "text": "Na účet města byla připsaná částka od Generali Česká pojišťovna, a.s. Jedná se o výplatu pojistného plnění z pojistné události ze dne 28.1.2022, kdy došlo k poškození veřejného osvětlení v ulici Jungmannova v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 45/2022/RM",
+      "text": "Dle požadavku odboru MHaSI byly přesunuty finanční prostředky určené na drobná vydání osadního výboru Březové na opravu unimobuňky na hřišti v Březové."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2022/RM",
+      "text": "Na základě požadavku odboru MHaSI byly přesunuty finanční prostředky určené na zpevnění cesty Kamenné rybníky na nákup a instalaci ochranných sítí na malém hřišti pod pódiem v Chudobíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 47/2022/RM",
+      "text": "Zastupitelstvo města Litovel dne 17.2.2022 svým usnesením č. ZM/8/30/2022 schválilo pro Charitu Šternberk dotaci na organizační náklady při pořádání pouti na Starém městě. Rozpočtová změna č. 47/2022/RM řeší přesun na příslušný §."
+    },
+    {
+      "title": "Rozpočtová změna č. 48/2022/RM",
+      "text": "Dle požadavku odboru MHaSI byly přesunuty finanční prostředky určené na dlažbu v KD Víska na dohody o provedení práce v místní části Víska."
+    },
+    {
+      "title": "Rozpočtová změna č. 49/2022/RM",
+      "text": "Dle požadavku odboru MHaSI byly přesunuty finanční prostředky určené na dosazení zeleně v katastru obce Rozvadovice na dobudování zpevněné plochy u nástěnek v Rozvadovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 50/2022/RM",
+      "text": "Město Litovel obdrželo finanční prostředky ze státního rozpočtu z kapitoly 313 – MPS na financování výkonu přenesené působnosti v oblasti sociálně-právní ochrany dětí na rok 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 51/2022/RM",
+      "text": "Město Litovel poskytlo skautskému oddílu v Litovli finanční příspěvek na obnovu skautské činnosti v Litovli."
+    },
+    {
+      "title": "Rozpočtová změna č. 52/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek paní H., která se podílela grafickým zpracováním při vydání knihy Pejsek a cesta na Měsíc."
+    },
+    {
+      "title": "Rozpočtová změna č. 53/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek spolku SDH Savín na organizační zajištění lampionového průvodu pro děti. OV Savín souhlasí s poskytnutím příspěvku."
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2022/RM",
+      "text": "Město Litovel poskytlo na žádost pana H. finanční podporu na organizační zajištění závodů malých motocyklů v Unčovicích. OV Unčovice s finanční podporou souhlasí."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._7_2022_schvalene_radou_mesta_litovel_dne_21.dubna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 7/2022 schválené Radou města Litovel dne 21.dubna 2022.\nRozpočtové opatření bylo schváleno na 74. schůzi Rady města Litovel dne 21.dubna 2022 na základě usnesení\n2 489/74, 2490/74,2491/74,2492/74 a 2497/74.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 12 246,00\n(RZ 44/2022/RM)\nPřijatý neinvestiční transfer - SPOD\n4116 13024 2 554 300,00\n(RZ 50/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3631 5171 3 003 559 12 246,00 Oprava VO (RZ 44/2022/RM)\nBřezové – drobná vydání…\n3429 5137 305 2 030 000 -2 000,00\n.(RZ 45/2022/RM)\nBřezové – oprava unimobuňky na\n3412 5171 305 2 030 000 2 000,00\nhřišti (RZ 45/2022/RM)\nChudobín – zpevnění cesty Kamenné\n2212 6121 302 2 030 000 -20 000,00\nrybníky (RZ 46/2022/RM)\nChudobín – nákup a instalace\n3412 5137 302 2 030 000 20 000,00\nochranných sítí (RZ 46/2022/RM)\nCharita Šternberk – organizační\n4359 5223 4 000 000 -25 000,00\nzajištění pouti (RZ 47/2022/RM)\nCharita Šternberk – organizační\n3399 5223 4 000 000 25 000,00\nzajištění pouti (RZ 47/2022/RM)\nVíska – dlažba v KD\n3392 6121 306 2 030 000 -12 000,00\n(RZ 48/2022/RM)\nVíska – dohody o provedení práce\n3429 5021 306 2 030 000 12 000,00\n(RZ 48/2022/RM)\nRozvadovice – dosazení zeleně\n3412 5169 304 2 070 000 -30 000,00\nv katastru obce (RZ 49/2022/RM)\nRozvadovice – dobudování zpevněné\n3429 6121 304 2 030 000 30 000,00\nplochy u nástěnek (RZ 49/2022/RM)\nVýkon agendy SPOD\n6171 5xxx 13024 5 000 000 2 554 300,00\n(RZ 50/2022/RM)\nDary a příspěvky dle rozhodnutí ZML\n3429 5901 4 000 000 -10 000,00\na RML (RZ 51/2022/RM)\nNeinvestiční transfer pro skautský\n3421 5222 4 000 000 10 000,00\noddíl (RZ 51/2022/RM)\nDary a dotace dle rozhodnutí ZML\n3429 5901 4 000 000 -2 500,00\nRML (RZ 52/2022/RM)\nDar paní H. za podíl na grafickém\n3316 5492 4 000 000 2 500,00\nzpracování na knize (RZ 52/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSavín – podpora místních spolků\n3429 5901 311 2 040 000 -5 000,00\n(RZ 53/2022/RM)\nSDH Savín – dar na organiz. zajištění\n3429 5222 311 2 040 000 5 000,00 lampionového průvodu pro děti\n(RZ 53/2022/RM)\nUnčovice – podpora místních spolků\n342 9 5901 310 2 040 000 -20 000,00\n(RZ 54/2022/RM)\nUnčovice- závody malých motocyklů\n3429 5229 310 2 040 000 20 000,00\n(RZ 54/2022/RM)\nRZ 44/2022/RM\nNa účet města byla připsaná částka od Generali Česká pojišťovna, a.s. Jedná se o výplatu pojistného plnění\nz pojistné události ze dne 28.1.2022, kdy došlo k poškození veřejného osvětlení v ulici Jungmannova v Litovli.\nRZ 45/2022/RM\nDle požadavku odboru MHaSI byly přesunuty finanční prostředky určené na drobná vydání osadního výboru\nBřezové na opravu unimobuňky na hřišti v Březové.\nRZ 46/2022/RM\nNa základě požadavku odboru MHaSI byly přesunuty finanční prostředky určené na zpevnění cesty Kamenné\nrybníky na nákup a instalaci ochranných sítí na malém hřišti pod pódiem v Chudobíně.\nRZ 47/2022/RM\nZastupitelstvo města Litovel dne 17.2.2022 svým usnesením č. ZM/8/30/2022 schválilo pro Charitu Šternberk\ndotaci na organizační náklady při pořádání pouti na Starém městě. Rozpočtová změna č. 47/2022/RM řeší přesun\nna příslušný §.\nRZ 48/2022/RM\nDle požadavku odboru MHaSI byly přesunuty finanční prostředky určené na dlažbu v KD Víska na dohody o\nprovedení práce v místní části Víska.\nRZ 49/2022/RM\nDle požadavku odboru MHaSI byly přesunuty finanční prostředky určené na dosazení zeleně v katastru obce\nRozvadovice na dobudování zpevněné plochy u nástěnek v Rozvadovicích.\nRZ 50/2022/RM\nMěsto Litovel obdrželo finanční prostředky ze státního rozpočtu z kapitoly 313 – MPS na financování výkonu\npřenesené působnosti v oblasti sociálně-právní ochrany dětí na rok 2022.\nRZ 51/2022/RM\nMěsto Litovel poskytlo skautskému oddílu v Litovli finanční příspěvek na obnovu skautské činnosti v Litovli.\nRZ 52/2022/RM\nMěsto Litovel poskytlo finanční příspěvek paní H., která se podílela grafickým zpracováním při vydání knihy\nPejsek a cesta na Měsíc.\nRZ 53/2022/RM\nMěsto Litovel poskytlo finanční příspěvek spolku SDH Savín na organizační zajištění lampionového průvodu pro\nděti. OV Savín souhlasí s poskytnutím příspěvku.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 54/2022/RM\nMěsto Litovel poskytlo na žádost pana H. finanční podporu na organizační zajištění závodů malých motocyklů\nv Unčovicích. OV Unčovice s finanční podporou souhlasí.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 9.5.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

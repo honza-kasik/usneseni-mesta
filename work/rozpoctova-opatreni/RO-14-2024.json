@@ -1,0 +1,166 @@
+{
+  "id": "RO/14/2024",
+  "number": 14,
+  "year": 2024,
+  "approval_date": "2024-08-22",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "76/2024/RM",
+    "77/2024/RM",
+    "78/2024/RM",
+    "79/2024/RM",
+    "80/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "76/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-501 424,00",
+          "amount_value": -501424.0,
+          "description": "Místní části - nerozdělená částka (RZ 76/2024/RM"
+        },
+        {
+          "budget_change_id": "76/2024/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "310",
+            "2 033 419"
+          ],
+          "amount": "501 424,00",
+          "amount_value": 501424.0,
+          "description": "Unčovice - rekonstrukce komunikace západ DPS (RZ 76/2024/RM"
+        },
+        {
+          "budget_change_id": "77/2024/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 589"
+          ],
+          "amount": "-600 000,00",
+          "amount_value": -600000.0,
+          "description": "Litovel, úprava ulic Šmakalova a ČSA (RZ 77/2024/RM"
+        },
+        {
+          "budget_change_id": "77/2024/RM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "3 003 643"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "Prodloužení kanalizace ul. Pavlínka (RZ 77/2024/RM"
+        },
+        {
+          "budget_change_id": "78/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-1 500,00",
+          "amount_value": -1500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 78/2024/RM"
+        },
+        {
+          "budget_change_id": "78/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "1 500,00",
+          "amount_value": 1500.0,
+          "description": "D.K. - organizační zajištění turnaje v malé kopané (RZ 78/2024/RM"
+        },
+        {
+          "budget_change_id": "79/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 79/2024/RM"
+        },
+        {
+          "budget_change_id": "79/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "308",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "JSDH Tři Dvory - organiz.zajištění akce pro děti (RZ 79/2024/RM"
+        },
+        {
+          "budget_change_id": "80/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-6 889,00",
+          "amount_value": -6889.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 80/2024/RM"
+        },
+        {
+          "budget_change_id": "80/2024/RM",
+          "raw_codes": [
+            "3421",
+            "5339",
+            "4 000 407"
+          ],
+          "amount": "6 889,00",
+          "amount_value": 6889.0,
+          "description": "DDM Litovel - zajištění provozu dopravního hřiště (RZ 80/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 76/2024/RM",
+      "text": "Město Litovel na základě požadavku odboru MHaSI poskytlo finanční prostředky na připravovanou projektovou dokumentaci pro provedení stavby „ Unčovice – rekonstrukce komunikace západ“ v místní části Unčovice."
+    },
+    {
+      "title": "Rozpočtová změna č. 77/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 77/2024/RM řeší na základě požadavku odboru MHaSI přesun finančních prostředků",
+      "text": "určených na úpravu ulic Šmakalova a ČSA na prodloužení kanalizace v ulici Pavlínka."
+    },
+    {
+      "title": "Rozpočtová změna č. 78/2024/RM",
+      "text": "Město Litovel poskytlo dar panu D.K. na organizační zajištění turnaje v malé kopané, který se uskutečnil dne 3.8.2024 v Chořelicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 79/2024/RM",
+      "text": "Město Litovel poskytlo dar spolku JSDH Tři Dvory na organizační zajištění akce pro děti „ Rozloučení s prázdninami“, které se uskuteční 30.srpna 2024 ve Třech Dvorech."
+    },
+    {
+      "title": "Rozpočtová změna č. 80/2024/RM",
+      "text": "Město Litovel poskytlo dar Domu dětí a mládeže na dofinancování provozu dopravního hřiště v parku Míru za duben až červen 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoc_tove_opatr_eni_c_._14_2024_dne_22._srpna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 14/2024 schválené Radou města Litovel\ndne 22. srpna 2024.\nRozpočtové opatření bylo schváleno na 39.schůzi Rady města Litovel dne 22. srpna 2024 na základě usnesení\n1185/39/2024, 1186/39/2024, 1187/39/2024 a 1196/39/2024.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -501 424,00\n(RZ 76/2024/RM)\nUnčovice - rekonstrukce komunikace\n2212 6121 310 2 033 419 501 424,00\nzápad DPS (RZ 76/2024/RM)\nLitovel, úprava ulic Šmakalova a ČSA\n3639 6121 3 003 589 -600 000,00\n(RZ 77/2024/RM)\nProdloužení kanalizace ul. Pavlínka\n2321 6121 3 003 643 600 000,00\n(RZ 77/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -1 500,00\n(RZ 78/2024/RM)\nD.K. - organizační zajištění turnaje v\n3419 5492 307 4 000 000 1 500,00\nmalé kopané (RZ 78/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 79/2024/RM)\nJSDH Tři Dvory - organiz.zajištění\n3429 5222 308 4 000 000 3 000,00\nakce pro děti (RZ 79/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -6 889,00\n(RZ 80/2024/RM)\nDDM Litovel - zajištění provozu\n3421 5339 4 000 407 6 889,00\ndopravního hřiště (RZ 80/2024/RM)\nRZ 76/2024/RM\nMěsto Litovel na základě požadavku odboru MHaSI poskytlo finanční prostředky na připravovanou\nprojektovou dokumentaci pro provedení stavby „ Unčovice – rekonstrukce komunikace západ“ v místní části\nUnčovice.\nRZ 77/2024/RM\nRozpočtová změna č. 77/2024/RM řeší na základě požadavku odboru MHaSI přesun finančních prostředků\nurčených na úpravu ulic Šmakalova a ČSA na prodloužení kanalizace v ulici Pavlínka.\nRZ 78/2024/RM\nMěsto Litovel poskytlo dar panu D.K. na organizační zajištění turnaje v malé kopané, který se uskutečnil dne\n3.8.2024 v Chořelicích.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 79/2024/RM\nMěsto Litovel poskytlo dar spolku JSDH Tři Dvory na organizační zajištění akce pro děti\n„ Rozloučení s prázdninami“, které se uskuteční 30.srpna 2024 ve Třech Dvorech.\nRZ 80/2024/RM\nMěsto Litovel poskytlo dar Domu dětí a mládeže na dofinancování provozu dopravního hřiště\nv parku Míru za duben až červen 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 10. 9. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

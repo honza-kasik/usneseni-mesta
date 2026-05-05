@@ -1,0 +1,142 @@
+{
+  "id": "RO/6/2022",
+  "number": 6,
+  "year": 2022,
+  "approval_date": "2022-03-31",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 72,
+    "type": "schůzi",
+    "date": "2022-03-31"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "40/2022/RM",
+    "41/2022/RM",
+    "42/2022/RM",
+    "43/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "40/2022/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "7 986,00",
+          "amount_value": 7986.0,
+          "description": "Přijaté pojistné plnění (RZ 40/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "40/2022/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "7 986,00",
+          "amount_value": 7986.0,
+          "description": "Výměna sloupku na náměstí (RZ 40/2022/RM"
+        },
+        {
+          "budget_change_id": "41/2022/RM",
+          "raw_codes": [
+            "2321",
+            "5169",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "-105 754,00",
+          "amount_value": -105754.0,
+          "description": "Tři Dvory – vyčištění melioračního příkopu (RZ 41/2022/RM"
+        },
+        {
+          "budget_change_id": "41/2022/RM",
+          "raw_codes": [
+            "3326",
+            "6121",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "105 754,00",
+          "amount_value": 105754.0,
+          "description": "Tři Dvory – restaurování kamenného kříže na hřbitově (RZ 41/2022/RM"
+        },
+        {
+          "budget_change_id": "42/2022/RM",
+          "raw_codes": [
+            "6221",
+            "5901",
+            "16 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Humanitární zahraniční pomoc přímá-rezerva (RZ 42/2022/RM"
+        },
+        {
+          "budget_change_id": "42/2022/RM",
+          "raw_codes": [
+            "6221",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Charita Šternberk - transfer na zajištění výuky dle žádosti (RZ 42/2022/RM"
+        },
+        {
+          "budget_change_id": "43/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Unčovice - podpora místních spolků (RZ 43/2022/RM"
+        },
+        {
+          "budget_change_id": "43/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Družstvo malé kopané Unčovice - příspěvek na činnost (RZ 43/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 41/2022/RM",
+      "text": "Dle požadavku odboru MHaSI na základě žádosti Osadního výboru ve Třech Dvorech byly přesunuty finanční prostředky určené na vyčištění melioračního příkopu ve Třech Dvorech na restaurování kamenného kříže na hřbitově ve Třech Dvorech."
+    },
+    {
+      "title": "Rozpočtová změna č. 42/2022/RM",
+      "text": "Město Litovel poskytlo na žádost Charity Šternberk finanční podporu na zajištění výuky českého jazyka pro ukrajinské uprchlíky."
+    },
+    {
+      "title": "Rozpočtová změna č. 43/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek družstvu malé kopané Buldog Unčovice na sportovní činnost v roce 2022. OV Unčovice s výší poskytnutého příspěvku souhlasí."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._6_2022_schvalene_radou_mesta_litovel_dne_31.brezna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 6/2022 schválené Radou města Litovel dne 31.března 2022.\nRozpočtové opatření bylo schváleno na 72. schůzi Rady města Litovel dne 31.března 2022 na základě usnesení\n2451/72, 2452/72 a 2465/72.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 7 986,00\n(RZ 40/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVýměna sloupku na náměstí\n2212 5171 3 003 559 7 986,00\n(RZ 40/2022/RM)\nTři Dvory – vyčištění melioračního\n2321 5169 308 2 030 000 -105 754,00\npříkopu (RZ 41/2022/RM)\nTři Dvory – restaurování\n3326 6121 308 2 030 000 105 754,00 kamenného kříže na hřbitově\n(RZ 41/2022/RM)\nHumanitární zahraniční pomoc\n6221 5901 16 000 000 -20 000,00\npřímá-rezerva (RZ 42/2022/RM)\nCharita Šternberk - transfer na\n6221 5223 4 000 000 20 000,00 zajištění výuky dle žádosti\n(RZ 42/2022/RM)\nUnčovice - podpora místních spolků\n3429 5901 310 2 040 000 -10 000,00\n(RZ 43/2022/RM)\nDružstvo malé kopané Unčovice -\n3419 5499 310 2 040 000 10 000,00 příspěvek na činnost\n(RZ 43/2022/RM)\nR Z 40/2022/RM\nNa účet města byl připsán doplatek pojistného plnění z pojistné události ze dne 2.12.2021 za poškozený sloupek na náměstí.\nRZ 41/2022/RM\nDle požadavku odboru MHaSI na základě žádosti Osadního výboru ve Třech Dvorech byly přesunuty finanční prostředky\nurčené na vyčištění melioračního příkopu ve Třech Dvorech na restaurování kamenného kříže na hřbitově ve Třech Dvorech.\nRZ 42/2022/RM\nMěsto Litovel poskytlo na žádost Charity Šternberk finanční podporu na zajištění výuky českého jazyka pro ukrajinské\nuprchlíky.\nRZ 43/2022/RM\nMěsto Litovel poskytlo finanční příspěvek družstvu malé kopané Buldog Unčovice na sportovní činnost v roce 2022.\nOV Unčovice s výší poskytnutého příspěvku souhlasí.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 13.4.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": []
+}

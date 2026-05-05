@@ -31,7 +31,7 @@
           ],
           "amount": "8 962,00",
           "amount_value": 8962.0,
-          "description": "přijaté pojistné plnění (RZ 90/2025/RM)"
+          "description": "přijaté pojistné plnění (RZ 90/2025/RM"
         }
       ]
     },
@@ -48,7 +48,7 @@
           ],
           "amount": "-20 000,00",
           "amount_value": -20000.0,
-          "description": "Ochrana obyvatelstva - DDHM (RZ 88/2025/RM)"
+          "description": "Ochrana obyvatelstva - DDHM (RZ 88/2025/RM"
         },
         {
           "budget_change_id": "88/2025/RM",
@@ -59,7 +59,7 @@
           ],
           "amount": "-10 000,00",
           "amount_value": -10000.0,
-          "description": "Ochrana obyvatelstva - materiál (RZ 88/2025/RM)"
+          "description": "Ochrana obyvatelstva - materiál (RZ 88/2025/RM"
         },
         {
           "budget_change_id": "88/2025/RM",
@@ -70,7 +70,7 @@
           ],
           "amount": "-20 000,00",
           "amount_value": -20000.0,
-          "description": "Ostatní záležitosti civilní připravenosti na krizové stavy - materiál (RZ 88/2025/RM)"
+          "description": "Ostatní záležitosti civilní připravenosti na krizové stavy - materiál (RZ 88/2025/RM"
         },
         {
           "budget_change_id": "88/2025/RM",
@@ -81,7 +81,7 @@
           ],
           "amount": "-30 000,00",
           "amount_value": -30000.0,
-          "description": "Ostatní záležitosti civilní připravenosti na krizové stavy - opravy a udržování (RZ 88/2025/RM)"
+          "description": "Ostatní záležitosti civilní připravenosti na krizové stavy - opravy a udržování (RZ 88/2025/RM"
         },
         {
           "budget_change_id": "88/2025/RM",
@@ -92,7 +92,7 @@
           ],
           "amount": "78 988,00",
           "amount_value": 78988.0,
-          "description": "Odstraňování následků vichřic, smrští a krupobití aj. - rezerva (RZ 88/2025/RM)"
+          "description": "Odstraňování následků vichřic, smrští a krupobití aj. - rezerva (RZ 88/2025/RM"
         },
         {
           "budget_change_id": "88/2025/RM",
@@ -104,7 +104,7 @@
           ],
           "amount": "1 012,00",
           "amount_value": 1012.0,
-          "description": "Odstraňování následků vichřic, smrští a krupobití aj. - Myslechovice - úklid bahna po přívalu deště - voda (RZ 88/2025/RM)"
+          "description": "Odstraňování následků vichřic, smrští a krupobití aj. - Myslechovice - úklid bahna po přívalu deště - voda (RZ 88/2025/RM"
         },
         {
           "budget_change_id": "89/2025/RM",
@@ -115,7 +115,7 @@
           ],
           "amount": "-10 000,00",
           "amount_value": -10000.0,
-          "description": "transfery dle rozhodnutí RM (RZ 89/2025/RM)"
+          "description": "transfery dle rozhodnutí RM (RZ 89/2025/RM"
         },
         {
           "budget_change_id": "89/2025/RM",
@@ -126,7 +126,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "ZO Český zahrádkářský svaz Litovel - dotace na činnost v roce 2025 (RZ 89/2025/RM)"
+          "description": "ZO Český zahrádkářský svaz Litovel - dotace na činnost v roce 2025 (RZ 89/2025/RM"
         },
         {
           "budget_change_id": "90/2025/RM",
@@ -137,7 +137,7 @@
           ],
           "amount": "8 962,00",
           "amount_value": 8962.0,
-          "description": "Městská policie - opravy a udržování (RZ 90/2025/RM)"
+          "description": "Městská policie - opravy a udržování (RZ 90/2025/RM"
         }
       ]
     }

@@ -1,0 +1,986 @@
+{
+  "id": "RO/19/2022",
+  "number": 19,
+  "year": 2022,
+  "approval_date": null,
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "131/2022/RM",
+    "132/2022/RM",
+    "133/2022/RM",
+    "134/2022/RM",
+    "135/2022/RM",
+    "136/2022/RM",
+    "137/2022/RM",
+    "138/2022/RM",
+    "139/2022/RM",
+    "140/2022/RM",
+    "141/2022/RM",
+    "142/2022/RM",
+    "143/2022/RM",
+    "144/2022/RM",
+    "145/2022/RM",
+    "146/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "140/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-10 071,00",
+          "amount_value": -10071.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 140/2022/RM"
+        },
+        {
+          "budget_change_id": "141/2022/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-1 299,00",
+          "amount_value": -1299.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 141/2022/RM"
+        },
+        {
+          "budget_change_id": "131/2022/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "5 719,00",
+          "amount_value": 5719.0,
+          "description": "Přijaté pojistné plnění (RZ 131/2022/RM"
+        },
+        {
+          "budget_change_id": "139/2022/RM",
+          "raw_codes": [
+            "4122",
+            "555"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Účelová neinvestiční dotace (RZ 139/2022/RM"
+        },
+        {
+          "budget_change_id": "131/2022/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "12 000 000"
+          ],
+          "amount": "5 719,00",
+          "amount_value": 5719.0,
+          "description": "Pojistné události – poliklinika, sokl (RZ 131/2022/RM"
+        },
+        {
+          "budget_change_id": "132/2022/RM",
+          "raw_codes": [
+            "3612",
+            "5171",
+            "12 000 000"
+          ],
+          "amount": "-83 000,00",
+          "amount_value": -83000.0,
+          "description": "Bytové hospodářství – opravy a udržování (RZ 132/2022/RM"
+        },
+        {
+          "budget_change_id": "132/2022/RM",
+          "raw_codes": [
+            "3632",
+            "5171",
+            "12 000 000"
+          ],
+          "amount": "83 000,00",
+          "amount_value": 83000.0,
+          "description": "Rozvod vody na hřbitově v Litovli - Chořelice (RZ 132/2022/RM"
+        },
+        {
+          "budget_change_id": "133/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "-12 000,00",
+          "amount_value": -12000.0,
+          "description": "Víska – nákup služeb (RZ 133/2022/RM"
+        },
+        {
+          "budget_change_id": "133/2022/RM",
+          "raw_codes": [
+            "5021",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "12 000,00",
+          "amount_value": 12000.0,
+          "description": "Víska – dohody o provedení práce (RZ 133/2022/RM"
+        },
+        {
+          "budget_change_id": "134/2022/RM",
+          "raw_codes": [
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "-240 000,00",
+          "amount_value": -240000.0,
+          "description": "Platy zaměstnanců v pracovním poměru (RZ 134/2022/RM"
+        },
+        {
+          "budget_change_id": "134/2022/RM",
+          "raw_codes": [
+            "5424",
+            "1 000 000"
+          ],
+          "amount": "240 000,00",
+          "amount_value": 240000.0,
+          "description": "Náhrady mezd v době nemoci (RZ 134/2022/RM"
+        },
+        {
+          "budget_change_id": "135/2022/RM",
+          "raw_codes": [
+            "6121",
+            "310",
+            "2 030 310"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Unčovice – rezerva, parkovací zálivy (RZ 135/2022/RM"
+        },
+        {
+          "budget_change_id": "135/2022/RM",
+          "raw_codes": [
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Unčovice – drobná vydání OV (RZ 135/2022/RM"
+        },
+        {
+          "budget_change_id": "135/2022/RM",
+          "raw_codes": [
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Unčovice – drobná vydání OV (RZ 135/2022/RM"
+        },
+        {
+          "budget_change_id": "136/2022/RM",
+          "raw_codes": [
+            "6121",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "-160 000,00",
+          "amount_value": -160000.0,
+          "description": "Unčovice – chodník podél Sokolovny (RZ 136/2022/RM"
+        },
+        {
+          "budget_change_id": "136/2022/RM",
+          "raw_codes": [
+            "6121",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "160 000,00",
+          "amount_value": 160000.0,
+          "description": "Unčovice – rekonstrukce sociálního zařízení Sokolovny v Unčovicích (RZ 136/2022/RM"
+        },
+        {
+          "budget_change_id": "137/2022/RM",
+          "raw_codes": [
+            "5169",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "-15 459,00",
+          "amount_value": -15459.0,
+          "description": "Nasobůrky- PD oprava kapličky (RZ 137/2022/RM"
+        },
+        {
+          "budget_change_id": "137/2022/RM",
+          "raw_codes": [
+            "5901",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "-7 410,00",
+          "amount_value": -7410.0,
+          "description": "Nasobůrky - rezerva (RZ 137/2022/RM"
+        },
+        {
+          "budget_change_id": "137/2022/RM",
+          "raw_codes": [
+            "5171",
+            "309",
+            "2 033 470"
+          ],
+          "amount": "22 869,00",
+          "amount_value": 22869.0,
+          "description": "Nasobůrky – oprava dětského hřiště (RZ 137/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "3 003 470"
+          ],
+          "amount": "-48 260,00",
+          "amount_value": -48260.0,
+          "description": "Sportovní hřiště – údržba a vybavení (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "3 003 470"
+          ],
+          "amount": "25 360,00",
+          "amount_value": 25360.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "302",
+            "3 003 470"
+          ],
+          "amount": "3 670,00",
+          "amount_value": 3670.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize - Chudobín (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "305",
+            "3 003 470"
+          ],
+          "amount": "1 810,00",
+          "amount_value": 1810.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize - Březové (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "307",
+            "3 003 470"
+          ],
+          "amount": "2 540,00",
+          "amount_value": 2540.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize - Chořelice (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "308",
+            "3 003 470"
+          ],
+          "amount": "2 440,00",
+          "amount_value": 2440.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize – Tři Dvory (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "309",
+            "3 003 470"
+          ],
+          "amount": "1 350,00",
+          "amount_value": 1350.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize – Nasobůrky (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "310",
+            "3 003 470"
+          ],
+          "amount": "2 440,00",
+          "amount_value": 2440.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize - Unčovice (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "5169",
+            "311",
+            "3 003 470"
+          ],
+          "amount": "1 850,00",
+          "amount_value": 1850.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize - Savín (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "140/2022/RM",
+          "raw_codes": [
+            "5329",
+            "1 004 125"
+          ],
+          "amount": "-2 396,00",
+          "amount_value": -2396.0,
+          "description": "Sdružení obcí Střední Moravy (RZ 140/2022/RM"
+        },
+        {
+          "budget_change_id": "140/2022/RM",
+          "raw_codes": [
+            "5329",
+            "1 003 111"
+          ],
+          "amount": "-7 675,00",
+          "amount_value": -7675.0,
+          "description": "Mikroregion Litovelsko (RZ 140/2022/RM"
+        },
+        {
+          "budget_change_id": "141/2022/RM",
+          "raw_codes": [
+            "5321",
+            "1 003 002"
+          ],
+          "amount": "-1 299,00",
+          "amount_value": -1299.0,
+          "description": "Statutární město Olomouc (RZ 141/2022/RM"
+        },
+        {
+          "budget_change_id": "142/2022/RM",
+          "raw_codes": [
+            "5023",
+            "1 000 000"
+          ],
+          "amount": "-9 612,00",
+          "amount_value": -9612.0,
+          "description": "ZM - odměny členů ZM (RZ 142/2022/RM"
+        },
+        {
+          "budget_change_id": "142/2022/RM",
+          "raw_codes": [
+            "5019",
+            "1 000 000"
+          ],
+          "amount": "9 612,00",
+          "amount_value": 9612.0,
+          "description": "ZM – ostatní platy (RZ 142/2022/RM"
+        },
+        {
+          "budget_change_id": "143/2022/RM",
+          "raw_codes": [
+            "5901",
+            "311",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Savín - podpora místních spolků (RZ 143/2022/RM"
+        },
+        {
+          "budget_change_id": "143/2022/RM",
+          "raw_codes": [
+            "5222",
+            "311",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Savín -podpora místních spolků- SDH Savín (RZ 143/2022/RM"
+        },
+        {
+          "budget_change_id": "144/2022/RM",
+          "raw_codes": [
+            "5901",
+            "302",
+            "2 040 000"
+          ],
+          "amount": "-9 000,00",
+          "amount_value": -9000.0,
+          "description": "Chudobín-podpora místních spolků (RZ 144/2022/RM"
+        },
+        {
+          "budget_change_id": "144/2022/RM",
+          "raw_codes": [
+            "5499",
+            "302",
+            "2 040 000"
+          ],
+          "amount": "9 000,00",
+          "amount_value": 9000.0,
+          "description": "J.Š.-dotace na činnost družstva malé kopané v Chudobíně (RZ 144/2022/RM"
+        },
+        {
+          "budget_change_id": "145/2022/RM",
+          "raw_codes": [
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 145/2022/RM"
+        },
+        {
+          "budget_change_id": "145/2022/RM",
+          "raw_codes": [
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "TAJV z.s. (RZ 145/2022/RM"
+        },
+        {
+          "budget_change_id": "146/2022/RM",
+          "raw_codes": [
+            "5901",
+            "309",
+            "2 040 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Nasobůrky-podpora místních spolků (RZ 146/2022/RM"
+        },
+        {
+          "budget_change_id": "146/2022/RM",
+          "raw_codes": [
+            "5222",
+            "309",
+            "2 040 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Nasobůrky -podpora místních spolků (RZ 146/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "131/2022/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "12",
+            "000",
+            "000"
+          ],
+          "amount": "5 719,00",
+          "amount_value": 5719.0,
+          "description": "Pojistné události – poliklinika, sokl (RZ 131/2022/RM"
+        },
+        {
+          "budget_change_id": "132/2022/RM",
+          "raw_codes": [
+            "3612",
+            "5171",
+            "12",
+            "000",
+            "000"
+          ],
+          "amount": "-83 000,00",
+          "amount_value": -83000.0,
+          "description": "Bytové hospodářství – opravy a udržování (RZ 132/2022/RM"
+        },
+        {
+          "budget_change_id": "132/2022/RM",
+          "raw_codes": [
+            "3632",
+            "5171",
+            "12",
+            "000",
+            "000"
+          ],
+          "amount": "83 000,00",
+          "amount_value": 83000.0,
+          "description": "Rozvod vody na hřbitově v Litovli - Chořelice (RZ 132/2022/RM"
+        },
+        {
+          "budget_change_id": "133/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "306",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "-12 000,00",
+          "amount_value": -12000.0,
+          "description": "Víska – nákup služeb (RZ 133/2022/RM"
+        },
+        {
+          "budget_change_id": "133/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "306",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "12 000,00",
+          "amount_value": 12000.0,
+          "description": "Víska – dohody o provedení práce (RZ 133/2022/RM"
+        },
+        {
+          "budget_change_id": "134/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "-240 000,00",
+          "amount_value": -240000.0,
+          "description": "Platy zaměstnanců v pracovním poměru (RZ 134/2022/RM"
+        },
+        {
+          "budget_change_id": "134/2022/RM",
+          "raw_codes": [
+            "6171",
+            "5424",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "240 000,00",
+          "amount_value": 240000.0,
+          "description": "Náhrady mezd v době nemoci (RZ 134/2022/RM"
+        },
+        {
+          "budget_change_id": "135/2022/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "310",
+            "2",
+            "030",
+            "310"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Unčovice – rezerva, parkovací zálivy (RZ 135/2022/RM"
+        },
+        {
+          "budget_change_id": "135/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "310",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Unčovice – drobná vydání OV (RZ 135/2022/RM"
+        },
+        {
+          "budget_change_id": "135/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "310",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Unčovice – drobná vydání OV (RZ 135/2022/RM"
+        },
+        {
+          "budget_change_id": "136/2022/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "310",
+            "2",
+            "033",
+            "465"
+          ],
+          "amount": "-160 000,00",
+          "amount_value": -160000.0,
+          "description": "Unčovice – chodník podél Sokolovny (RZ 136/2022/RM"
+        },
+        {
+          "budget_change_id": "136/2022/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "310",
+            "2",
+            "033",
+            "465"
+          ],
+          "amount": "160 000,00",
+          "amount_value": 160000.0,
+          "description": "Unčovice – rekonstrukce sociálního zařízení Sokolovny v Unčovicích (RZ 136/2022/RM"
+        },
+        {
+          "budget_change_id": "137/2022/RM",
+          "raw_codes": [
+            "3326",
+            "5169",
+            "309",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "-15 459,00",
+          "amount_value": -15459.0,
+          "description": "Nasobůrky- PD oprava kapličky (RZ 137/2022/RM"
+        },
+        {
+          "budget_change_id": "137/2022/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "309",
+            "2",
+            "030",
+            "000"
+          ],
+          "amount": "-7 410,00",
+          "amount_value": -7410.0,
+          "description": "Nasobůrky - rezerva (RZ 137/2022/RM"
+        },
+        {
+          "budget_change_id": "137/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5171",
+            "309",
+            "2",
+            "033",
+            "470"
+          ],
+          "amount": "22 869,00",
+          "amount_value": 22869.0,
+          "description": "Nasobůrky – oprava dětského hřiště (RZ 137/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "3412",
+            "5169",
+            "3",
+            "003",
+            "470"
+          ],
+          "amount": "-48 260,00",
+          "amount_value": -48260.0,
+          "description": "Sportovní hřiště – údržba a vybavení (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "138/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5169",
+            "3",
+            "003",
+            "470"
+          ],
+          "amount": "25 360,00",
+          "amount_value": 25360.0,
+          "description": "Dětská hřiště – výměna a doplnění prvků, revize (RZ 138/2022/RM"
+        },
+        {
+          "budget_change_id": "139/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "555",
+            "44",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Převod účelové neinvestiční dotaci příjemci (RZ 139/2022/RM"
+        },
+        {
+          "budget_change_id": "140/2022/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1",
+            "004",
+            "125"
+          ],
+          "amount": "-2 396,00",
+          "amount_value": -2396.0,
+          "description": "Sdružení obcí Střední Moravy (RZ 140/2022/RM"
+        },
+        {
+          "budget_change_id": "140/2022/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1",
+            "003",
+            "111"
+          ],
+          "amount": "-7 675,00",
+          "amount_value": -7675.0,
+          "description": "Mikroregion Litovelsko (RZ 140/2022/RM"
+        },
+        {
+          "budget_change_id": "141/2022/RM",
+          "raw_codes": [
+            "3639",
+            "5321",
+            "1",
+            "003",
+            "002"
+          ],
+          "amount": "-1 299,00",
+          "amount_value": -1299.0,
+          "description": "Statutární město Olomouc (RZ 141/2022/RM"
+        },
+        {
+          "budget_change_id": "142/2022/RM",
+          "raw_codes": [
+            "6112",
+            "5023",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "-9 612,00",
+          "amount_value": -9612.0,
+          "description": "ZM - odměny členů ZM (RZ 142/2022/RM"
+        },
+        {
+          "budget_change_id": "142/2022/RM",
+          "raw_codes": [
+            "6112",
+            "5019",
+            "1",
+            "000",
+            "000"
+          ],
+          "amount": "9 612,00",
+          "amount_value": 9612.0,
+          "description": "ZM – ostatní platy (RZ 142/2022/RM"
+        },
+        {
+          "budget_change_id": "143/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "311",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Savín - podpora místních spolků (RZ 143/2022/RM"
+        },
+        {
+          "budget_change_id": "143/2022/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "311",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Savín -podpora místních spolků- SDH Savín (RZ 143/2022/RM"
+        },
+        {
+          "budget_change_id": "144/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "302",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-9 000,00",
+          "amount_value": -9000.0,
+          "description": "Chudobín-podpora místních spolků (RZ 144/2022/RM"
+        },
+        {
+          "budget_change_id": "144/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "302",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "9 000,00",
+          "amount_value": 9000.0,
+          "description": "J.Š.-dotace na činnost družstva malé kopané v Chudobíně (RZ 144/2022/RM"
+        },
+        {
+          "budget_change_id": "145/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 145/2022/RM"
+        },
+        {
+          "budget_change_id": "145/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "TAJV z.s. (RZ 145/2022/RM"
+        },
+        {
+          "budget_change_id": "146/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "309",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Nasobůrky-podpora místních spolků (RZ 146/2022/RM"
+        },
+        {
+          "budget_change_id": "146/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "309",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Nasobůrky -podpora místních spolků (RZ 146/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 131/2022/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Kooperativa pojišťovna, a.s. Jedná se o pojistné plnění z pojistné události ze dne 26.9.2022 – Poliklinika -sokl."
+    },
+    {
+      "title": "Rozpočtová změna č. 132/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 132/2022/RM řeší na základě podkladů z OBH dofinancování akce „Rozvod vody",
+      "text": "na hřbitově v Litovli-Chořelicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 133/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 133/2022 řeší na základě podkladů odboru MHaSI přesun finančních prostředků určených",
+      "text": "na nákup služeb ve Vísce na úhradu DPP v MČ Víska."
+    },
+    {
+      "title": "Rozpočtová změna č. 134/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 134/2022/RM řeší navýšení finančních prostředků na krytí výdajů za náhrady mezd",
+      "text": "v době nemoci, které budou vyšší, než bylo původně naplánováno ve schváleném rozpočtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 135/2022/RM",
+      "text": "Na základě podkladů MHaSI byly přesunuty finanční prostředky určené jako rezerva na parkovací zálivy v Unčovicích na pokrytí drobných výdajů a oprav v MČ Unčovice."
+    },
+    {
+      "title": "Rozpočtová změna č. 136/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 136/2022/RM řeší na základě podkladů odboru MHaSI přesun finančních prostředků",
+      "text": "určených na vybudování chodníku podél Sokolovny na rekonstrukci sociálního zařízení v Sokolovně Unčovice."
+    },
+    {
+      "title": "Rozpočtová změna č. 137/2022/RM",
+      "text": "Na základě podkladů z odboru MHaSI byly přesunuty finanční prostředky určené na projektovou dokumentaci na opravu kapličky v Nasobůrkách na opravu dětského hřiště v Nasobůrkách."
+    },
+    {
+      "title": "Rozpočtová změna č. 138/2022/RM",
+      "text": "Město Litovel na základě podkladů odboru MHaSI poskytlo finanční prostředky na náklady související s revizí dětských hřišť v Litovli a místních částech."
+    },
+    {
+      "title": "Rozpočtová změna č. 139/2022/RM",
+      "text": "Na účet města Litovel byla připsaná dotace od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na základě usnesení Zastupitelstva Olomouckého kraje. Finanční prostředky jsou určeny pro Městský klub Litovel na částečnou úhradu výdajů na akci „Hanácké Benátky 2022“."
+    },
+    {
+      "title": "Rozpočtová změna č. 140/2022/RM",
+      "text": "Rozpočtová změna 140/2022/RM řeší na základě výkazu pro hodnocení plnění rozpočtu územních samosprávných celků nevyčerpané finanční prostředky schválených v rozpočtu města Litovel na rok 2022 pro Sdružení obcí Střední Moravy a Mikroregionu Litovelsko."
+    },
+    {
+      "title": "Rozpočtová změna č. 141/2022/RM",
+      "text": "V rozpočtu města Litovel na rok 2022 byly schváleny finanční prostředky pro Statutární město Olomouc na výkon činností souvisejících s realizací integrovaného nástroje ITI. Dle výkazu pro hodnocení plnění rozpočtu územních samosprávních celků nebyly rozpočtované prostředky vyčerpány v plné výši."
+    },
+    {
+      "title": "Rozpočtová změna č. 142/2022/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 142/2022/RM řeší potřebu posílení výdajů na refundace mzdových výdajů.",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 143/2022/RM",
+      "text": "Město Litovel poskytlo dar Sboru dobrovolných hasičů Savín na organizační zajištění mikulášské nadílky pro děti, konané 26.11.2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 144/2022/RM",
+      "text": "Na žádost pana J.Š. poskytlo město Litovel finanční příspěvek družstvu malé kopané v Chudobíně na činnost v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 145/2022/RM",
+      "text": "Město Litovel poskytlo dar na organizační zajištění 1.ročníku Sportovního dne mládeže s TAJV pro žáky ZŠ Jungmannova."
+    },
+    {
+      "title": "Rozpočtová změna č. 146/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek Sboru dobrovolných hasičů Nasobůrky na činnost v roce 2022."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._19_2022_schvalene_radou_mesta_litovel_dne_16.listopadu_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 19/2022 schválené Radou města Litovel dne 16.listopadu\n2022.\nRozpočtové opatření bylo schváleno na 2.schůzi Rady města Litovel dne 16.listopadu 2022 na základě usnesení\n33/2/2022,34/2/2022,35/2/2022,36/2/2022 a 43/2/2022.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\nZměna stavu finančních\n8115 -10 071,00 prostředků na bankovních účtech\n(RZ 140/2022/RM)\nZměna stavu finančních\n8115 -1 299,00 prostředků na bankovních účtech\n(RZ 141/2022/RM)\nZ měny v příjmech:\n§ POL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 5 719,00\n(RZ 131/2022/RM)\nÚčelová neinvestiční dotace\n4122 555 50 000,00\n(RZ 139/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPojistné události – poliklinika,\n3613 5171 12 000 000 5 719,00\nsokl (RZ 131/2022/RM)\nBytové hospodářství – opravy a\n3612 5171 12 000 000 -83 000,00\nudržování (RZ 132/2022/RM)\nRozvod vody na hřbitově v Litovli\n3632 5171 12 000 000 83 000,00\n- Chořelice (RZ 132/2022/RM)\nVíska – nákup služeb\n3392 5169 306 2 030 000 -12 000,00\n(RZ 133/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVíska – dohody o provedení práce\n3429 5021 306 2 030 000 12 000,00\n(RZ 133/2022/RM)\nPlaty zaměstnanců v pracovním\n6171 5011 1 000 000 -240 000,00\npoměru (RZ 134/2022/RM)\nNáhrady mezd v době nemoci\n6171 5424 1 000 000 240 000,00\n(RZ 134/2022/RM)\nUnčovice – rezerva, parkovací\n2212 6121 310 2 030 310 -20 000,00\nzálivy (RZ 135/2022/RM)\nUnčovice – drobná vydání OV\n3429 5169 310 2 030 000 10 000,00\n(RZ 135/2022/RM)\nUnčovice – drobná vydání OV\n3392 5169 310 2 030 000 10 000,00\n(RZ 135/2022/RM)\nUnčovice – chodník podél\n2219 6121 310 2 033 465 -160 000,00\nSokolovny (RZ 136/2022/RM)\nUnčovice – rekonstrukce\n3392 6121 310 2 033 465 160 000,00 sociálního zařízení Sokolovny v\nUnčovicích (RZ 136/2022/RM)\nNasobůrky- PD oprava kapličky\n3326 5169 309 2 030 000 -15 459,00\n(RZ 137/2022/RM)\nNasobůrky - rezerva\n3639 5901 309 2 030 000 -7 410,00\n(RZ 137/2022/RM)\nNasobůrky – oprava dětského\n3421 5171 309 2 033 470 22 869,00\nhřiště (RZ 137/2022/RM)\nSportovní hřiště – údržba a\n3412 5169 3 003 470 -48 260,00\nvybavení (RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 3 003 470 25 360,00\nprvků, revize (RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 301 3 003 470 1 550,00 prvků, revize - Myslechovice\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 302 3 003 470 3 670,00 prvků, revize - Chudobín\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 303 3 003 470 1 900,00 prvků, revize – Nová Ves\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 304 3 003 470 2 000,00 prvků, revize - Rozvadovice\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 305 3 003 470 1 810,00 prvků, revize - Březové\n(RZ 138/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nDětská hřiště – výměna a doplnění\n3421 5169 306 3 003 470 1 350,00 prvků, revize - Víska\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 307 3 003 470 2 540,00 prvků, revize - Chořelice\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 308 3 003 470 2 440,00 prvků, revize – Tři Dvory\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 309 3 003 470 1 350,00 prvků, revize – Nasobůrky\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 310 3 003 470 2 440,00 prvků, revize - Unčovice\n(RZ 138/2022/RM)\nDětská hřiště – výměna a doplnění\n3421 5169 311 3 003 470 1 850,00 prvků, revize - Savín\n(RZ 138/2022/RM)\nPřevod účelové neinvestiční\n3392 5336 555 44 4 000 000 50 000,00 dotaci příjemci (RZ\n139/2022/RM)\nSdružení obcí Střední Moravy\n6409 5329 1 004 125 -2 396,00\n(RZ 140/2022/RM)\nMikroregion Litovelsko\n6409 5329 1 003 111 -7 675,00\n(RZ 140/2022/RM)\nStatutární město Olomouc\n3639 5321 1 003 002 -1 299,00\n(RZ 141/2022/RM)\nZM - odměny členů ZM\n6112 5023 1 000 000 -9 612,00\n(RZ 142/2022/RM)\nZM – ostatní platy\n6112 5019 1 000 000 9 612,00\n(RZ 142/2022/RM)\nSavín - podpora místních spolků\n3429 5901 311 2 040 000 -5 000,00\n(RZ 143/2022/RM)\nSavín -podpora místních spolků-\n5512 5222 311 2 040 000 5 000,00\nSDH Savín (RZ 143/2022/RM)\nChudobín-podpora místních\n3429 5901 302 2 040 000 -9 000,00\nspolků (RZ 144/2022/RM)\nJ.Š.-dotace na činnost družstva\n3419 5499 302 2 040 000 9 000,00 malé kopané v Chudobíně\n(RZ 144/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -10 000,00\n(RZ 145/2022/RM)\n3419 5222 4 000 000 10 000,00 TAJV z.s. (RZ 145/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nNasobůrky-podpora místních\n3429 5901 309 2 040 000 -20 000,00\nspolků (RZ 146/2022/RM)\nNasobůrky -podpora místních\n3429 5222 309 2 040 000 20 000,00\nspolků (RZ 146/2022/RM)\nRZ 131/2022/RM\nNa účet města Litovel byla připsaná platba od Kooperativa pojišťovna, a.s. Jedná se o pojistné plnění z pojistné\nudálosti ze dne 26.9.2022 – Poliklinika -sokl.\nRZ 132/2022/RM\nRozpočtová změna č. 132/2022/RM řeší na základě podkladů z OBH dofinancování akce „Rozvod vody\nna hřbitově v Litovli-Chořelicích.\nRZ 133/2022/RM\nRozpočtová změna č. 133/2022 řeší na základě podkladů odboru MHaSI přesun finančních prostředků určených\nna nákup služeb ve Vísce na úhradu DPP v MČ Víska.\nRZ 134/2022/RM\nRozpočtová změna č. 134/2022/RM řeší navýšení finančních prostředků na krytí výdajů za náhrady mezd\nv době nemoci, které budou vyšší, než bylo původně naplánováno ve schváleném rozpočtu.\nRZ 135/2022/RM\nNa základě podkladů MHaSI byly přesunuty finanční prostředky určené jako rezerva na parkovací zálivy\nv Unčovicích na pokrytí drobných výdajů a oprav v MČ Unčovice.\nRZ 136/2022/RM\nRozpočtová změna č. 136/2022/RM řeší na základě podkladů odboru MHaSI přesun finančních prostředků\nurčených na vybudování chodníku podél Sokolovny na rekonstrukci sociálního zařízení v Sokolovně Unčovice.\nRZ 137/2022/RM\nNa základě podkladů z odboru MHaSI byly přesunuty finanční prostředky určené na projektovou\ndokumentaci na opravu kapličky v Nasobůrkách na opravu dětského hřiště v Nasobůrkách.\nRZ 138/2022/RM\nMěsto Litovel na základě podkladů odboru MHaSI poskytlo finanční prostředky na náklady související\ns revizí dětských hřišť v Litovli a místních částech.\nRZ 139/2022/RM\nNa účet města Litovel byla připsaná dotace od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci\nna základě usnesení Zastupitelstva Olomouckého kraje. Finanční prostředky jsou určeny pro Městský klub\nLitovel na částečnou úhradu výdajů na akci „Hanácké Benátky 2022“.\nRZ 140/2022/RM\nRozpočtová změna 140/2022/RM řeší na základě výkazu pro hodnocení plnění rozpočtu územních samosprávných\ncelků nevyčerpané finanční prostředky schválených v rozpočtu města Litovel na rok 2022 pro Sdružení obcí Střední\nMoravy a Mikroregionu Litovelsko.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 141/2022/RM\nV rozpočtu města Litovel na rok 2022 byly schváleny finanční prostředky pro Statutární město Olomouc na\nvýkon činností souvisejících s realizací integrovaného nástroje ITI. Dle výkazu pro hodnocení plnění rozpočtu\núzemních samosprávních celků nebyly rozpočtované prostředky vyčerpány v plné výši.\nRZ 142/2022/RM\nRozpočtová změna č. 142/2022/RM řeší potřebu posílení výdajů na refundace mzdových výdajů.\nRZ 143/2022/RM\nMěsto Litovel poskytlo dar Sboru dobrovolných hasičů Savín na organizační zajištění mikulášské nadílky\npro děti, konané 26.11.2022.\nRZ 144/2022/RM\nNa žádost pana J.Š. poskytlo město Litovel finanční příspěvek družstvu malé kopané v Chudobíně na\nčinnost v roce 2022.\nRZ 145/2022/RM\nMěsto Litovel poskytlo dar na organizační zajištění 1.ročníku Sportovního dne mládeže s TAJV pro\nžáky ZŠ Jungmannova.\nRZ 146/2022/RM\nMěsto Litovel poskytlo finanční příspěvek Sboru dobrovolných hasičů Nasobůrky na činnost v roce 2022.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 5.12.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

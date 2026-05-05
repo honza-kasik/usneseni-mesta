@@ -33,7 +33,7 @@
           ],
           "amount": "798 473,00",
           "amount_value": 798473.0,
-          "description": "změna stavu finančních prostředků na BÚ (RZ 57/2025/ZM)"
+          "description": "změna stavu finančních prostředků na BÚ (RZ 57/2025/ZM"
         },
         {
           "budget_change_id": "60/2025/ZM",
@@ -42,7 +42,7 @@
           ],
           "amount": "208 147,00",
           "amount_value": 208147.0,
-          "description": "změna stavu finančních prostředků na BÚ (RZ 60/2025/ZM)"
+          "description": "změna stavu finančních prostředků na BÚ (RZ 60/2025/ZM"
         },
         {
           "budget_change_id": "61/2025/ZM",
@@ -51,7 +51,7 @@
           ],
           "amount": "5 485 298,00",
           "amount_value": 5485298.0,
-          "description": "dlouhodobě přijaté půjčené prostředky (RZ 61/2025/ZM)"
+          "description": "dlouhodobě přijaté půjčené prostředky (RZ 61/2025/ZM"
         }
       ]
     },
@@ -67,7 +67,7 @@
           ],
           "amount": "200 000,00",
           "amount_value": 200000.0,
-          "description": "příjmy z úroků (RZ 59/2025/ZM)"
+          "description": "příjmy z úroků (RZ 59/2025/ZM"
         },
         {
           "budget_change_id": "60/2025/ZM",
@@ -79,7 +79,7 @@
           ],
           "amount": "121 853,00",
           "amount_value": 121853.0,
-          "description": "přijaté dary - Nadace Charty 77 (RZ 60/2025/ZM)"
+          "description": "přijaté dary - Nadace Charty 77 (RZ 60/2025/ZM"
         }
       ]
     },
@@ -96,7 +96,7 @@
           ],
           "amount": "798 473,00",
           "amount_value": 798473.0,
-          "description": "doplatek rozdílu mezi cenou směňovaných nemovitých věcí (RZ 57/2025/ZM)"
+          "description": "doplatek rozdílu mezi cenou směňovaných nemovitých věcí (RZ 57/2025/ZM"
         },
         {
           "budget_change_id": "58/2025/ZM",
@@ -107,7 +107,7 @@
           ],
           "amount": "-50 000 000,00",
           "amount_value": -50000000.0,
-          "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa (RZ 58/2025/ZM)"
+          "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa (RZ 58/2025/ZM"
         },
         {
           "budget_change_id": "58/2025/ZM",
@@ -118,7 +118,7 @@
           ],
           "amount": "50 000 000,00",
           "amount_value": 50000000.0,
-          "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa (RZ 58/2025/ZM)"
+          "description": "Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa (RZ 58/2025/ZM"
         },
         {
           "budget_change_id": "59/2025/ZM",
@@ -129,7 +129,7 @@
           ],
           "amount": "200 000,00",
           "amount_value": 200000.0,
-          "description": "koupaliště Litovel - elektrická energie (RZ 59/2025/ZM)"
+          "description": "koupaliště Litovel - elektrická energie (RZ 59/2025/ZM"
         },
         {
           "budget_change_id": "60/2025/ZM",
@@ -141,7 +141,7 @@
           ],
           "amount": "330 000,00",
           "amount_value": 330000.0,
-          "description": "Muzeum Litovel - opravy a udržování (RZ 60/2025/ZM)"
+          "description": "Muzeum Litovel - opravy a udržování (RZ 60/2025/ZM"
         },
         {
           "budget_change_id": "61/2025/ZM",
@@ -153,7 +153,7 @@
           ],
           "amount": "4 963 546,00",
           "amount_value": 4963546.0,
-          "description": "Savín - vodovod (RZ 61/2025/ZM)"
+          "description": "Savín - vodovod (RZ 61/2025/ZM"
         },
         {
           "budget_change_id": "61/2025/ZM",
@@ -165,7 +165,7 @@
           ],
           "amount": "264 264,00",
           "amount_value": 264264.0,
-          "description": "Savín - splašková kanalizace (RZ 61/2025/ZM)"
+          "description": "Savín - splašková kanalizace (RZ 61/2025/ZM"
         },
         {
           "budget_change_id": "61/2025/ZM",
@@ -177,17 +177,7 @@
           ],
           "amount": "257 488,00",
           "amount_value": 257488.0,
-          "description": "Nová Ves - splašková kanalizace (RZ 61/2025/ZM)"
-        },
-        {
-          "budget_change_id": "58/2025/ZM",
-          "raw_codes": [
-            "50",
-            "000"
-          ],
-          "amount": "000,00",
-          "amount_value": 0.0,
-          "description": ") Revitalizace sportovního areálu Sokolovny v Litovli - 2. etapa (RZ 58/2025/ZM"
+          "description": "Nová Ves - splašková kanalizace (RZ 61/2025/ZM"
         }
       ]
     }

@@ -1,0 +1,2592 @@
+{
+  "id": "RO/3/2022",
+  "number": 3,
+  "year": 2022,
+  "approval_date": "2022-02-17",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "1/2022/ZM",
+    "10/2022/ZM",
+    "11/2022/ZM",
+    "12/2022/ZM",
+    "13/2022/ZM",
+    "14/2022/ZM",
+    "15/2022/ZM",
+    "16/2022/ZM",
+    "17/2022/ZM",
+    "18/2022/ZM",
+    "19/2022/ZM",
+    "2/2022/ZM",
+    "20/2022/ZM",
+    "21/2022/ZM",
+    "22/2022/ZM",
+    "23/2022/ZM",
+    "24/2022/ZM",
+    "25/2022/ZM",
+    "26/2022/ZM",
+    "27/2022/ZM",
+    "28/2022/ZM",
+    "29/2022/ZM",
+    "3/2022/ZM",
+    "30/2022/ZM",
+    "31/2022/ZM",
+    "32/2022/ZM",
+    "33/2022/ZM",
+    "34/2022/ZM",
+    "35/2022/ZM",
+    "36/2022/ZM",
+    "37/2022/ZM",
+    "38/2022/ZM",
+    "39/2022/ZM",
+    "4/2022/ZM",
+    "40/2022/ZM",
+    "41/2022/ZM",
+    "42/2022/ZM",
+    "43/2022/ZM",
+    "44/2022/ZM",
+    "45/2022/ZM",
+    "46/2022/ZM",
+    "47/2022/ZM",
+    "48/2022/ZM",
+    "49/2022/ZM",
+    "5/2022/ZM",
+    "50/2022/ZM",
+    "51/2022/ZM",
+    "52/2022/ZM",
+    "53/2022/ZM",
+    "54/2022/ZM",
+    "55/2022/ZM",
+    "55/5022/ZM",
+    "56/2022/ZM",
+    "57/2022/ZM",
+    "58/2022/ZM",
+    "59/2022/ZM",
+    "6/2022/ZM",
+    "60/2022/ZM",
+    "61/2022/ZM",
+    "62/2022/ZM",
+    "63/2022/ZM",
+    "64/2022/ZM",
+    "7/2022/ZM",
+    "8/2022/ZM",
+    "9/2022/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "42/2022/ZM",
+          "raw_codes": [
+            "6330",
+            "4134"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Příjem do Fondu na obnovu kanalizací (RZ 42/2022/ZM"
+        },
+        {
+          "budget_change_id": "56/2022/ZM",
+          "raw_codes": [
+            "6330",
+            "4134"
+          ],
+          "amount": "2 868,38",
+          "amount_value": 2868.38,
+          "description": "Příjem do sociálního fondu dle vyúčtov. (RZ 56/2022/ZM"
+        },
+        {
+          "budget_change_id": "59/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "2229",
+            "4 000 423"
+          ],
+          "amount": "125 000,00",
+          "amount_value": 125000.0,
+          "description": "Přijatá vratka transferu z roku 2021 (RZ 59/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "2229",
+            "4 000 423"
+          ],
+          "amount": "98 056,41",
+          "amount_value": 98056.41,
+          "description": "Přijatá vratka transferu z roku 2021 TJ Tatran Litovel, část (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "2229"
+          ],
+          "amount": "3 694,00",
+          "amount_value": 3694.0,
+          "description": "Přijatá vratka transferu z roku 2021 TJ Sokol Litovel, (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3111",
+            "2229",
+            "48"
+          ],
+          "amount": "85 470,00",
+          "amount_value": 85470.0,
+          "description": "Přijatá vratka transferu z roku 2021 MŠ Gemerská (nevyčerpané energie) (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "46"
+          ],
+          "amount": "117 585,69",
+          "amount_value": 117585.69,
+          "description": "Přijatá vratka transferu z roku 2021 ZŠ Jungmannova (nevyčerpané energie) (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "2229",
+            "44"
+          ],
+          "amount": "72 689,32",
+          "amount_value": 72689.32,
+          "description": "Přijatá vratka transferu z roku 2021 MK Litovel (nevyčerpané energie)(RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "45"
+          ],
+          "amount": "129 636,86",
+          "amount_value": 129636.86,
+          "description": "Přijatá vratka transferu z roku 2021 ZŠ Vítězná (nevyčerpané energie) (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "2229",
+            "41"
+          ],
+          "amount": "27 813,88",
+          "amount_value": 27813.88,
+          "description": "Přijatá vratka transferu z roku 2021 TS Litovel (nevyčerpané energie) (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2229",
+            "47"
+          ],
+          "amount": "45 095,91",
+          "amount_value": 45095.91,
+          "description": "Přijatá vratka transferu z roku 2021 ZŠ Nasobůrky (nevyčerpané energie) (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "4113",
+            "60190006",
+            "7 000 788"
+          ],
+          "amount": "41 164,20",
+          "amount_value": 41164.2,
+          "description": "Dotace na adaptační strategii – SFŽP ČR (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "4113",
+            "60590003",
+            "7 000 788"
+          ],
+          "amount": "233 263,80",
+          "amount_value": 233263.8,
+          "description": "Dotace na adaptační strategii – Norské fondy (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "633 0",
+            "4132"
+          ],
+          "amount": "1 168 256,00",
+          "amount_value": 1168256.0,
+          "description": "Převod nevyčerpaných prostředků (2021) (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "62/2022/ZM",
+          "raw_codes": [
+            "4213",
+            "130189505",
+            "3 003 401"
+          ],
+          "amount": "975 000,00",
+          "amount_value": 975000.0,
+          "description": "Účelová investiční dotace – Cesta za lesní školkou (RZ 62/2022/ZM"
+        },
+        {
+          "budget_change_id": "62/2022/ZM",
+          "raw_codes": [
+            "4213",
+            "130589506",
+            "3 003 401"
+          ],
+          "amount": "975 000,00",
+          "amount_value": 975000.0,
+          "description": "Účelová investiční dotace – Cesta za lesní školkou (RZ 62/2022/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2022/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "308",
+            "12 000 000"
+          ],
+          "amount": "900 000,00",
+          "amount_value": 900000.0,
+          "description": "Zateplení fasády objektu č.p. 73 (RZ 1/2022/ZM"
+        },
+        {
+          "budget_change_id": "2/2022/ZM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "308",
+            "12 000 000"
+          ],
+          "amount": "850 000,00",
+          "amount_value": 850000.0,
+          "description": "Vzduchotechnika v objektu č.p. 73 (RZ 2/2022/ZM"
+        },
+        {
+          "budget_change_id": "3/2022/ZM",
+          "raw_codes": [
+            "6171",
+            "6121",
+            "10 000 284"
+          ],
+          "amount": "1 171 894,60",
+          "amount_value": 1171894.6,
+          "description": "Rekonstrukce střechy skladu (RZ 3/2022/ZM"
+        },
+        {
+          "budget_change_id": "4/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "301",
+            "2 033 630"
+          ],
+          "amount": "590 480,00",
+          "amount_value": 590480.0,
+          "description": "Myslechovice – úprava návsi (RZ 4/2022/ZM"
+        },
+        {
+          "budget_change_id": "5/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "6122",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "34 122,00",
+          "amount_value": 34122.0,
+          "description": "Nová Ves – doplnění mobiliáře (RZ 5/2022/ZM"
+        },
+        {
+          "budget_change_id": "5/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "18 876,00",
+          "amount_value": 18876.0,
+          "description": "Nová Ves – doplnění mobiliáře (RZ 5/2022/ZM"
+        },
+        {
+          "budget_change_id": "6/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 030 305"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "Březové – veřejné WC na hřišti, PD (RZ 6/2022/ZM"
+        },
+        {
+          "budget_change_id": "7/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6122",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "330 000,00",
+          "amount_value": 330000.0,
+          "description": "Chořelice – workoutová sestava (RZ 7/2022/ZM"
+        },
+        {
+          "budget_change_id": "8/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "48 703,00",
+          "amount_value": 48703.0,
+          "description": "Unčovice – PD revitalizace okolí Sokolovny (RZ 8/2022/ZM"
+        },
+        {
+          "budget_change_id": "9/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "5123",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "22 631,00",
+          "amount_value": 22631.0,
+          "description": "Unčovice – vodovodní přípojka (RZ 9/2022/ZM"
+        },
+        {
+          "budget_change_id": "10/2022/ZM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "3 003 558"
+          ],
+          "amount": "330 000,00",
+          "amount_value": 330000.0,
+          "description": "Litovel – Unčovice II/449, přeložka (RZ 10/2022/ZM"
+        },
+        {
+          "budget_change_id": "11/2022/ZM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "121 139,18",
+          "amount_value": 121139.18,
+          "description": "Nasobůrky – uliční prostor (RZ 11/2022/ZM"
+        },
+        {
+          "budget_change_id": "11/2022/ZM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "309",
+            "3 003 612"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Nasobůrky – uliční prostor, PD přeložky CETIN (RZ 11/2022/ZM"
+        },
+        {
+          "budget_change_id": "12/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 589"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Litovel Šmakalova + ČSA – DUR, DSP, (RZ 12/2022/ZM"
+        },
+        {
+          "budget_change_id": "13/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 621"
+          ],
+          "amount": "1 800 000,00",
+          "amount_value": 1800000.0,
+          "description": "Litovel Sušilova – parkoviště, přeložka NN, realizace (RZ 13/2022/ZM"
+        },
+        {
+          "budget_change_id": "13/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 621"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Litovel Sušilova – přeložka CETIN, PD (RZ 13/2022/ZM"
+        },
+        {
+          "budget_change_id": "14/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 558"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Litovel Dukelská Komárov (RZ 14/2022/ZM"
+        },
+        {
+          "budget_change_id": "15/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 636"
+          ],
+          "amount": "32 000,00",
+          "amount_value": 32000.0,
+          "description": "Cyklistická stezka Haňovice - Litovel (RZ 15/2022/ZM"
+        },
+        {
+          "budget_change_id": "16/2022/ZM",
+          "raw_codes": [
+            "2221",
+            "6121",
+            "3 003 594"
+          ],
+          "amount": "12 000,00",
+          "amount_value": 12000.0,
+          "description": "Myslechovice autobusový záliv PD (RZ 16/2022/ZM"
+        },
+        {
+          "budget_change_id": "17/2022/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "3 003 482"
+          ],
+          "amount": "480 000,00",
+          "amount_value": 480000.0,
+          "description": "Odkup kanalizační přípojky - Chořelice (RZ 17/2022/ZM"
+        },
+        {
+          "budget_change_id": "18/2022/ZM",
+          "raw_codes": [
+            "3315",
+            "6121",
+            "3 003 624"
+          ],
+          "amount": "112 775,85",
+          "amount_value": 112775.85,
+          "description": "Litovel – Muzeum harmonik (RZ 18/2022/ZM"
+        },
+        {
+          "budget_change_id": "19/2022/ZM",
+          "raw_codes": [
+            "3322",
+            "6121",
+            "3 003 634"
+          ],
+          "amount": "685 352,00",
+          "amount_value": 685352.0,
+          "description": "Svatojánský most – rekonstrukce - PD (RZ 19/2022/ZM"
+        },
+        {
+          "budget_change_id": "19/2022/ZM",
+          "raw_codes": [
+            "3322",
+            "6121",
+            "3 003 634"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Svatojánský most – přeložka CETIN (RZ 19/2022/ZM"
+        },
+        {
+          "budget_change_id": "20/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 000 334"
+          ],
+          "amount": "74 200,00",
+          "amount_value": 74200.0,
+          "description": "Brouzdaliště na koupališti v Litovli (RZ 20/2022/ZM"
+        },
+        {
+          "budget_change_id": "22/2022/ZM",
+          "raw_codes": [
+            "3631",
+            "6121",
+            "3 003 631"
+          ],
+          "amount": "3 983 180,00",
+          "amount_value": 3983180.0,
+          "description": "Výměna svítidel – realizace II. etapa (RZ 22/2022/ZM"
+        },
+        {
+          "budget_change_id": "22/2022/ZM",
+          "raw_codes": [
+            "3631",
+            "6121",
+            "3 003 631"
+          ],
+          "amount": "130 000,00",
+          "amount_value": 130000.0,
+          "description": "Výměna svítidel – administrace EFOS (RZ 22/2022/ZM"
+        },
+        {
+          "budget_change_id": "23/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 610"
+          ],
+          "amount": "2 369 750,00",
+          "amount_value": 2369750.0,
+          "description": "Areál B. Němcové, realizace a projekční příprava (RZ 23/2022/ZM"
+        },
+        {
+          "budget_change_id": "24/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 626"
+          ],
+          "amount": "3 500 000,00",
+          "amount_value": 3500000.0,
+          "description": "Litovel Pavlínka, sítě pro RD (RZ 24/2022/ZM"
+        },
+        {
+          "budget_change_id": "25/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "5164",
+            "3 000 000"
+          ],
+          "amount": "69 333,00",
+          "amount_value": 69333.0,
+          "description": "TOI TOI náhradní BUS nádraží (RZ 25/2022/ZM"
+        },
+        {
+          "budget_change_id": "26/2022/ZM",
+          "raw_codes": [
+            "5512",
+            "6121",
+            "311",
+            "3 003 629"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Savín – rekonstrukce požární zbrojnice (RZ 26/2022/ZM"
+        },
+        {
+          "budget_change_id": "27/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "6121",
+            "302",
+            "2 030 302"
+          ],
+          "amount": "450 000,00",
+          "amount_value": 450000.0,
+          "description": "Chudobín oprava střechy obecního domu (RZ 27/2022/ZM"
+        },
+        {
+          "budget_change_id": "28/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "304",
+            "2 033 632"
+          ],
+          "amount": "31 460,00",
+          "amount_value": 31460.0,
+          "description": "Rozvadovice -parkovací místa (RZ 28/2022/ZM"
+        },
+        {
+          "budget_change_id": "29/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "270 803,00",
+          "amount_value": 270803.0,
+          "description": "Nasobůrky – KD - zateplení (RZ 29/2022/ZM"
+        },
+        {
+          "budget_change_id": "30/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6122",
+            "1 003 512"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Obnova parkovacích automatů (RZ 30/2022/ZM"
+        },
+        {
+          "budget_change_id": "31/2022/ZM",
+          "raw_codes": [
+            "6402",
+            "5364",
+            "14 000 000"
+          ],
+          "amount": "36 224,09",
+          "amount_value": 36224.09,
+          "description": "Finanční vypořádání roku 2021 (RZ 31/2022/ZM"
+        },
+        {
+          "budget_change_id": "32/2022/ZM",
+          "raw_codes": [
+            "3743",
+            "6121",
+            "7 000 782"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Dobývací prostor Haňovice II. Etapa (RZ 32/2022/ZM"
+        },
+        {
+          "budget_change_id": "33/2022/ZM",
+          "raw_codes": [
+            "3743",
+            "6121",
+            "7 000 782"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Dobývací prostor Haňovice I. Etapa (RZ 33/2022/ZM"
+        },
+        {
+          "budget_change_id": "34/2022/ZM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "7 000 781"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Solární sušárna kalů - příprava (RZ 34/2022/ZM"
+        },
+        {
+          "budget_change_id": "35/2022/ZM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "7 000 xxx"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Opravy na radniční Moravě (RZ 35/2022/ZM"
+        },
+        {
+          "budget_change_id": "36/2022/ZM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "7 000 xxx"
+          ],
+          "amount": "3 489 724,00",
+          "amount_value": 3489724.0,
+          "description": "Papírenská voda (RZ 36/2022/ZM"
+        },
+        {
+          "budget_change_id": "37/2022/ZM",
+          "raw_codes": [
+            "3725",
+            "6121",
+            "7 000 xxx"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Úprava stanovišť na tříděný odpad (RZ 37/2022/ZM"
+        },
+        {
+          "budget_change_id": "38/2022/ZM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 xxx"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Náklady na svoz gastroodpadu (RZ 38/2022/ZM"
+        },
+        {
+          "budget_change_id": "39/2022/ZM",
+          "raw_codes": [
+            "2295",
+            "5339",
+            "3 003 468"
+          ],
+          "amount": "-23 705,70",
+          "amount_value": -23705.7,
+          "description": "Příspěvek na dopravní obslužnost (RZ 39/2022/ZM"
+        },
+        {
+          "budget_change_id": "40/2022/ZM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "2 300 000,00",
+          "amount_value": 2300000.0,
+          "description": "Svoz komunálního odpadu (RZ 40/2022/ZM"
+        },
+        {
+          "budget_change_id": "41/2022/ZM",
+          "raw_codes": [
+            "6330",
+            "5344",
+            "14 000 000"
+          ],
+          "amount": "1 000 000,00",
+          "amount_value": 1000000.0,
+          "description": "Převod do Fondu na obnovu kanalizací (RZ 41/2022/ZM"
+        },
+        {
+          "budget_change_id": "43/2022/ZM",
+          "raw_codes": [
+            "3612",
+            "6119",
+            "1 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Studie stavu bytového fondu (RZ 43/2022/ZM"
+        },
+        {
+          "budget_change_id": "44/2022/ZM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "3 000 781"
+          ],
+          "amount": "12 000 000,00",
+          "amount_value": 12000000.0,
+          "description": "Solární sušárna kalů (RZ 44/2022/ZM"
+        },
+        {
+          "budget_change_id": "45/2022/ZM",
+          "raw_codes": [
+            "2321",
+            "6121",
+            "301",
+            "3 003 638"
+          ],
+          "amount": "7 250 000,00",
+          "amount_value": 7250000.0,
+          "description": "Myslechovice - Dešťová kanalizace podél silnice II/372 (RZ 45/2022/ZM"
+        },
+        {
+          "budget_change_id": "45/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "301",
+            "3 003 638"
+          ],
+          "amount": "3 750 000,00",
+          "amount_value": 3750000.0,
+          "description": "Myslechovice - Prodloužení a oprava chodníku podél komunikace II/372 (RZ 45/2022/ZM"
+        },
+        {
+          "budget_change_id": "47/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 582"
+          ],
+          "amount": "20 000 000,00",
+          "amount_value": 20000000.0,
+          "description": "Ulice Novosady, rekonstrukce uličního prostoru včetně VO a MR (RZ 47/2022/ZM"
+        },
+        {
+          "budget_change_id": "48/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 003 637"
+          ],
+          "amount": "12 000 000,00",
+          "amount_value": 12000000.0,
+          "description": "Skatepark a pumptrack Litovel Komárov (RZ 48/2022/ZM"
+        },
+        {
+          "budget_change_id": "48/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 003 637"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Odvody za vynětí půdy ze ZPF (RZ 48/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-924 000,00",
+          "amount_value": -924000.0,
+          "description": "Místní část Myslechovice ( RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "2141",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "13 068,00",
+          "amount_value": 13068.0,
+          "description": "Pojízdná prodejna (RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "301",
+            "2 033 630"
+          ],
+          "amount": "850 000,00",
+          "amount_value": 850000.0,
+          "description": "Úprava návsi – PD, zeleň, oprava ploch (RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "16 932,00",
+          "amount_value": 16932.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "14 000,00",
+          "amount_value": 14000.0,
+          "description": "Nákup ostatních služeb (RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Nákup ostatních služeb (RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "49/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Opravy a udržování (RZ 49/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-484 800,00",
+          "amount_value": -484800.0,
+          "description": "Místní část Nová Ves (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "18 000,00",
+          "amount_value": 18000.0,
+          "description": "Ostatní osobní výdaje (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Drobný hmotný dlouhodobý majetek (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Nákup ostatních služeb (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "10 456,00",
+          "amount_value": 10456.0,
+          "description": "Opravy a udržování (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5175",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Pohoštění (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "303",
+            "2 033 470"
+          ],
+          "amount": "140 000,00",
+          "amount_value": 140000.0,
+          "description": "Dětské hřiště, nové hrací prvky (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "303",
+            "2 040 000"
+          ],
+          "amount": "16 000,00",
+          "amount_value": 16000.0,
+          "description": "Podpora místních spolků (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Kulturní akce (MDŽ, Mikuláš, dětský den, posezení se seniory a jiné) (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5194",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Věcné dary (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "100 344,00",
+          "amount_value": 100344.0,
+          "description": "Dřevěné posezení okolo dvou lip (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Interiér knihovna (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "50/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "55 000,00",
+          "amount_value": 55000.0,
+          "description": "Oprava pomníku padlých – II. fáze (kameny, písmo, malíř) (RZ 50/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-614 993,00",
+          "amount_value": -614993.0,
+          "description": "Místní část Březové (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "305",
+            "2 033 639"
+          ],
+          "amount": "230 000,00",
+          "amount_value": 230000.0,
+          "description": "Cyklostezka Unčovice – Březové - PD (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "85 000,00",
+          "amount_value": 85000.0,
+          "description": "Oprava unimobuňky na hřišti (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Akce pořádané ve spolupráci s místními spolky – nákup ostatních služeb (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Nákup ostatních služeb (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Drobný hmotný dlouhodobý majetek (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "9 993,00",
+          "amount_value": 9993.0,
+          "description": "Opravy a udržování (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 030 305"
+          ],
+          "amount": "210 000,00",
+          "amount_value": 210000.0,
+          "description": "Veřejné WC na hřišti včetně napojení (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "-782 400,00",
+          "amount_value": -782400.0,
+          "description": "Místní část Chořelice (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "307",
+            "2 040 000"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Podpora místních spolků (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "5512",
+            "6121",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Přívod vody ze studny pro hasičskou dráhu (protlak pod silnicí, napojení, šachta) (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "2333",
+            "6121",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Obnovení lávky u Moravy (molo) (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Ostatní osobní výdaje (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Drobný hmotný dlouhodobý majetek (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Nákup ostatních služeb (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Opravy a udržování (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "6122",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Stroje, přístroje a zařízení (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "6121",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Sociální zařízení a kuchyňka, budova OV (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Oprava Božích muk (u hřbitova a za hřbitovem u dálnice) (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6122",
+            "307",
+            "2 033 470"
+          ],
+          "amount": "55 000,00",
+          "amount_value": 55000.0,
+          "description": "Doplnění prvků dětského hřiště u bytovky (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3900",
+            "5169",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Příprava sjezdu rodáků (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "5171",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "132 400,00",
+          "amount_value": 132400.0,
+          "description": "Obnova chodníku v parku (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "52/2022/ZM",
+          "raw_codes": [
+            "3326",
+            "5137",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Doplnění pamětní desky obětem 1. světové války (RZ 52/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "-621 600,00",
+          "amount_value": -621600.0,
+          "description": "Místní část Tři Dvory (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Drobný hmotný dlouhodobý majetek (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "4 600,00",
+          "amount_value": 4600.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Nákup ostatních služeb (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "22 000,00",
+          "amount_value": 22000.0,
+          "description": "Nákup pivních setů a lavic, dlaždic (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "6122",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "140 000,00",
+          "amount_value": 140000.0,
+          "description": "Nákup vánoční výzdoby (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "308",
+            "2 040 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Podpora místních spolků (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "2321",
+            "5169",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Vyčištění melioračního příkopu (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3900",
+            "5175",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Posezení s důchodci (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "53/2022/ZM",
+          "raw_codes": [
+            "3421",
+            "5137",
+            "308",
+            "2 030 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Hřiště pro děti (RZ 53/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-1 274 607,00",
+          "amount_value": -1274607.0,
+          "description": "Místní část Unčovice (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "2141",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "13 068,00",
+          "amount_value": 13068.0,
+          "description": "Pojízdná prodejna (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "90 000,00",
+          "amount_value": 90000.0,
+          "description": "Podpora místních spolků (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Výměna světel Sokolovny (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Chodník podél Sokolovny (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5137",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "16 932,00",
+          "amount_value": 16932.0,
+          "description": "Drobný hmotný dlouhodobý majetek (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5139",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Nákup ostatních služeb (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Opravy a udržování (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5021",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Ostatní osobní výdaje (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Drobný hmotný dlouhodobý majetek (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Nákup materiálu jinde nezařazený (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5168",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Zpracování dat a služby související s informačními a komunikačními techn. (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "9 607,00",
+          "amount_value": 9607.0,
+          "description": "Nákup ostatních služeb (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Opravy a udržování (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "310",
+            "2 033 465"
+          ],
+          "amount": "180 000,00",
+          "amount_value": 180000.0,
+          "description": "Výmalba vnitřních prostor – sál Sokolovny, WC + úklid (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Rekonstrukce fasády kapličky u cyklostezky (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Oslava 100 let výročí Sokolovny (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "55/2022/ZM",
+          "raw_codes": [
+            "6330",
+            "5342",
+            "1 000 000"
+          ],
+          "amount": "2 868,38",
+          "amount_value": 2868.38,
+          "description": "Převod z rozpočtu do sociálního fondu (RZ 55/2022/ZM"
+        },
+        {
+          "budget_change_id": "56/2022/ZM",
+          "raw_codes": [
+            "6171",
+            "5499",
+            "1 000 000"
+          ],
+          "amount": "2 868,38",
+          "amount_value": 2868.38,
+          "description": "Čerpání sociálního fondu (RZ 56/2022/ZM"
+        },
+        {
+          "budget_change_id": "57/2022/ZM",
+          "raw_codes": [
+            "6171",
+            "5499",
+            "1 000 000"
+          ],
+          "amount": "79 131,62",
+          "amount_value": 79131.62,
+          "description": "Čerpání Sociálního fondu (RZ 57/2022/ZM"
+        },
+        {
+          "budget_change_id": "57/2022/ZM",
+          "raw_codes": [
+            "6171",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "37 682,35",
+          "amount_value": 37682.35,
+          "description": "Čerpání Sociálního fondu – rezerva (RZ 57/2022/ZM"
+        },
+        {
+          "budget_change_id": "58/2022/ZM",
+          "raw_codes": [
+            "4349",
+            "5xxx",
+            "13010",
+            "5 000 000"
+          ],
+          "amount": "413 504,17",
+          "amount_value": 413504.17,
+          "description": "Výkon pěstounské péče (RZ 58/2022/ZM"
+        },
+        {
+          "budget_change_id": "59/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "125 000,00",
+          "amount_value": 125000.0,
+          "description": "TJ Tatran Litovel, činnost oddílu kopané (RZ 59/2022/ZM"
+        },
+        {
+          "budget_change_id": "60/2022/ZM",
+          "raw_codes": [
+            "3315",
+            "6111",
+            "1 000 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Muzeum harmonik – webová aplikace (RZ 60/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 000 334"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "Nové brouzdaliště na koupališti v Litovli (RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "62/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "301",
+            "2 033 630"
+          ],
+          "amount": "-850 000,00",
+          "amount_value": -850000.0,
+          "description": "Úprava návsi – PD, zeleň, oprava ploch (RZ 62/2022/ZM"
+        },
+        {
+          "budget_change_id": "62/2022/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "301",
+            "3 003 594"
+          ],
+          "amount": "2 500 000,00",
+          "amount_value": 2500000.0,
+          "description": "Autobusová zastávka Myslechovice (RZ 62/2022/ZM"
+        },
+        {
+          "budget_change_id": "62/2022/ZM",
+          "raw_codes": [
+            "3631",
+            "6121",
+            "301",
+            "3 003 594"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "Veřejné osvětlení u zastávky (RZ 62/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 200 000,00",
+          "amount_value": -5200000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "165 000,00",
+          "amount_value": 165000.0,
+          "description": "Akselit z.s.- přeprava členů spolku (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "DHK Litovel - činnost oddílu (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "B.D. - sportovní příprava (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Folklorní soubor HANAČKA- činnost souboru (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Charita Šternberk -provozní náklady pečovatelské služby (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3900",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Charita Šternberk- provozní náklady mateřského centra Rybička (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Charita Šternberk- mzdové náklady zdravotních sester (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "4359",
+            "6122",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Charita Šternberk- pořízení sanitárního kontejneru (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "4359",
+            "5223",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Charita Šternberk- organizační zajištění pouti na Starém městě (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Mažoretky Linetbells Litovel z.s.- činnost spolku (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Spolek TJ VS Litovel, z.s.-zajištění sportovní činnosti tělovýchovné jednoty (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Tělocviční jednota Sokol Litovel-pronájem sportovišť, činnost oddílů mládeže a činnost divadelního odboru (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "TJ TATRAN Litovel, z.s. -zabezpečení přípravy a činnosti v soutěžích a údržba sportovního areálu (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "63/2022/ZM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "TJ TATRAN Litovel, z.s.-účast družstva mužů oddílu házení v1.lize ČSH (RZ 63/2022/ZM"
+        },
+        {
+          "budget_change_id": "64/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-120 000,00",
+          "amount_value": -120000.0,
+          "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 64/2022/ZM"
+        },
+        {
+          "budget_change_id": "64/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "6322",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Český kynologický svaz ZKO Litovel-realizace stavby studny na užitkovou vodu (RZ 64/2022/ZM"
+        },
+        {
+          "budget_change_id": "64/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Český kynologický svaz ZKO Litovel-pořízení odkládacích boxů pro psy (RZ 64/2022/ZM"
+        },
+        {
+          "budget_change_id": "64/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Český kynologický svaz ZKO Litovel-činnost spolku (RZ 64/2022/ZM"
+        },
+        {
+          "budget_change_id": "1/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "900 000,00",
+          "amount_value": 900000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 1/2022/ZM"
+        },
+        {
+          "budget_change_id": "2/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "850 000,00",
+          "amount_value": 850000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 2/2022/ZM"
+        },
+        {
+          "budget_change_id": "3/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "1 171 894,60",
+          "amount_value": 1171894.6,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 3/2022/ZM"
+        },
+        {
+          "budget_change_id": "4/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "590 480,00",
+          "amount_value": 590480.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 4/2022/ZM"
+        },
+        {
+          "budget_change_id": "5/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "52 998,00",
+          "amount_value": 52998.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 5/2022/ZM"
+        },
+        {
+          "budget_change_id": "6/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 6/2022/ZM"
+        },
+        {
+          "budget_change_id": "7/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "330 000,00",
+          "amount_value": 330000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 7/2022/ZM"
+        },
+        {
+          "budget_change_id": "8/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "48 703,00",
+          "amount_value": 48703.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 8/2022/ZM"
+        },
+        {
+          "budget_change_id": "9/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "22 631,00",
+          "amount_value": 22631.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 9/2022/ZM"
+        },
+        {
+          "budget_change_id": "10/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "330 000,00",
+          "amount_value": 330000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 10/2022/ZM"
+        },
+        {
+          "budget_change_id": "11/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "181 139,18",
+          "amount_value": 181139.18,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 11/2022/ZM"
+        },
+        {
+          "budget_change_id": "12/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 12/2022/ZM"
+        },
+        {
+          "budget_change_id": "13/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "1 825 000,00",
+          "amount_value": 1825000.0,
+          "description": "Změna stavu prostředků na bank .účtech (RZ 13/2022/ZM"
+        },
+        {
+          "budget_change_id": "14/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 14/2022/ZM"
+        },
+        {
+          "budget_change_id": "16/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "12 000,00",
+          "amount_value": 12000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 16/2022/ZM"
+        },
+        {
+          "budget_change_id": "17/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "480 000,00",
+          "amount_value": 480000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 17/2022/ZM"
+        },
+        {
+          "budget_change_id": "18/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "112 775,85",
+          "amount_value": 112775.85,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 18/2022/ZM"
+        },
+        {
+          "budget_change_id": "19/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "720 352,00",
+          "amount_value": 720352.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 19/2022/ZM"
+        },
+        {
+          "budget_change_id": "20/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "74 200,00",
+          "amount_value": 74200.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 20/2022/ZM"
+        },
+        {
+          "budget_change_id": "21/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "105 900,00",
+          "amount_value": 105900.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 21/2022/ZM),"
+        },
+        {
+          "budget_change_id": "22/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "4 113 180,00",
+          "amount_value": 4113180.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 22/2022/ZM"
+        },
+        {
+          "budget_change_id": "23/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "2 369 750,00",
+          "amount_value": 2369750.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 23/2022/ZM"
+        },
+        {
+          "budget_change_id": "24/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "3 500 000,00",
+          "amount_value": 3500000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 24/2022/ZM"
+        },
+        {
+          "budget_change_id": "25/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "69 333,00",
+          "amount_value": 69333.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 25/2022/ZM"
+        },
+        {
+          "budget_change_id": "26/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 26/2022/ZM"
+        },
+        {
+          "budget_change_id": "27/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "450 000,00",
+          "amount_value": 450000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 27/2022/ZM"
+        },
+        {
+          "budget_change_id": "28/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "31 460,00",
+          "amount_value": 31460.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 28/2022/ZM"
+        },
+        {
+          "budget_change_id": "29/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "270 803,00",
+          "amount_value": 270803.0,
+          "description": "Změna stavu prostředků na bank.účtech (RZ 29/2022/ZM"
+        },
+        {
+          "budget_change_id": "30/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 30/2022/ZM"
+        },
+        {
+          "budget_change_id": "31/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "36 224,09",
+          "amount_value": 36224.09,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 31/2022/ZM"
+        },
+        {
+          "budget_change_id": "32/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 32/2022/ZM"
+        },
+        {
+          "budget_change_id": "33/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Změna stavu prostředků na bank.účtech (RZ 33/2022/ZM"
+        },
+        {
+          "budget_change_id": "34/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 34/2022/ZM"
+        },
+        {
+          "budget_change_id": "35/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Změna stavu prostředků na bank.účtech (RZ 35/2022/ZM"
+        },
+        {
+          "budget_change_id": "36/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "3 489 724,00",
+          "amount_value": 3489724.0,
+          "description": "Změna stavu prostředků na bank.účtech (RZ 36/2022/ZM"
+        },
+        {
+          "budget_change_id": "37/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 37/2022/ZM"
+        },
+        {
+          "budget_change_id": "38/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 38/2022/ZM"
+        },
+        {
+          "budget_change_id": "39/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-23 705,70",
+          "amount_value": -23705.7,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 39/2022/ZM"
+        },
+        {
+          "budget_change_id": "40/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "2 300 000,00",
+          "amount_value": 2300000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 40/2022/ZM"
+        },
+        {
+          "budget_change_id": "42/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-1 000 000,00",
+          "amount_value": -1000000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 42/2022/ZM"
+        },
+        {
+          "budget_change_id": "43/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 43/2022/ZM"
+        },
+        {
+          "budget_change_id": "44/2022/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "12 000 000,00",
+          "amount_value": 12000000.0,
+          "description": "Krátkodobé úvěry (RZ 44/2022/ZM"
+        },
+        {
+          "budget_change_id": "45/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "11 000 000,00",
+          "amount_value": 11000000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 45/2022/ZM"
+        },
+        {
+          "budget_change_id": "46/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "10 000 000,00",
+          "amount_value": 10000000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 46/2022/ZM"
+        },
+        {
+          "budget_change_id": "47/2022/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Krátkodobé úvěry (RZ 47/2022/ZM"
+        },
+        {
+          "budget_change_id": "47/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "17 000 000,00",
+          "amount_value": 17000000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 47/2022/ZM"
+        },
+        {
+          "budget_change_id": "48/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "15 000 000,00",
+          "amount_value": 15000000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 48/2022/ZM"
+        },
+        {
+          "budget_change_id": "55/5022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "2 868,38",
+          "amount_value": 2868.38,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 55/5022/ZM"
+        },
+        {
+          "budget_change_id": "57/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "116 813,97",
+          "amount_value": 116813.97,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 57/2022/ZM"
+        },
+        {
+          "budget_change_id": "58/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "413 504,17",
+          "amount_value": 413504.17,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 58/2022/ZM"
+        },
+        {
+          "budget_change_id": "60/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 60/2022/ZM"
+        },
+        {
+          "budget_change_id": "61/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-22 726,07",
+          "amount_value": -22726.07,
+          "description": "Změna stavu prostředků na bank. účtech ( RZ 61/2022/ZM"
+        },
+        {
+          "budget_change_id": "51/2022/ZM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "305",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Podpora místních spolků (RZ 51/2022/ZM"
+        },
+        {
+          "budget_change_id": "54/2022/ZM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "310",
+            "2",
+            "030",
+            "310"
+          ],
+          "amount": "160 000,00",
+          "amount_value": 160000.0,
+          "description": "Rezerva – parkovací zálivy (RZ 54/2022/ZM"
+        },
+        {
+          "budget_change_id": "1/2022/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 900 000,00",
+          "amount_value": 5900000.0,
+          "description": "Změny ve financích: § POL UZ ORJ ORG Kč Změna stavu prostředků na bank. účtech (RZ 1/2022/ZM"
+        },
+        {
+          "budget_change_id": "21/2022/ZM",
+          "raw_codes": [
+            "811"
+          ],
+          "amount": "5 105 900,00",
+          "amount_value": 5105900.0,
+          "description": "Změna stavu prostředků na bank. účtech (RZ 21/2022/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.3_2022_schvalene_zm_litovel_dne_17.unora_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 3/2022 schválené Zastupitelstvem města Litovel\ndne 17.února 2022\nRozpočtové opatření bylo schváleno na 30. zasedání Zastupitelstva města Litovel dne 17.února 2022 na\nzákladě usnesení ZM/5/30/2022, ZM/8/30/2022 a ZM/10/30/2022.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nPříjem do Fondu na obnovu kanalizací\n6330 4134 1 000 000,00\n(RZ 42/2022/ZM)\nPříjem do sociálního fondu dle vyúčtov.\n6330 4134 2 868,38\n(RZ 56/2022/ZM)\nPřijatá vratka transferu z roku 2021\n3419 2229 4 000 423 125 000,00\n(RZ 59/2022/ZM)\nPřijatá vratka transferu z roku 2021 TJ Tatran\n3419 2229 4 000 423 98 056,41\nLitovel, část (RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 TJ Sokol\n3419 2229 3 694,00\nLitovel, (RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 MŠ Gemerská\n3111 2229 48 85 470,00\n(nevyčerpané energie) (RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 ZŠ\n3113 2229 46 117 585,69 Jungmannova (nevyčerpané energie)\n(RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 MK Litovel\n3392 2229 44 72 689,32\n(nevyčerpané energie)(RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 ZŠ Vítězná\n3113 2229 45 129 636,86\n(nevyčerpané energie) (RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 TS Litovel\n3639 2229 41 27 813,88\n(nevyčerpané energie) (RZ 61/2022/ZM)\nPřijatá vratka transferu z roku 2021 ZŠ Nasobůrky\n3113 2229 47 45 095,91\n(nevyčerpané energie) (RZ 61/2022/ZM)\nDotace na adaptační strategii – SFŽP ČR\n4113 60190006 7 000 788 41 164,20\n(RZ 61/2022/ZM)\nDotace na adaptační strategii – Norské fondy\n4113 60590003 7 000 788 233 263,80\n(RZ 61/2022/ZM)\nPřevod nevyčerpaných prostředků (2021)\n633 0 4132 1 168 256,00\n(RZ 61/2022/ZM)\nÚčelová investiční dotace – Cesta za lesní školkou\n4213 130189505 3 003 401 975 000,00\n(RZ 62/2022/ZM)\nÚčelová investiční dotace – Cesta za lesní školkou\n4213 130589506 3 003 401 975 000,00\n(RZ 62/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3613 6121 308 12 000 000 900 000,00 Zateplení fasády objektu č.p. 73 (RZ 1/2022/ZM)\n3613 6121 308 12 000 000 850 000,00 Vzduchotechnika v objektu č.p. 73 (RZ 2/2022/ZM)\n6171 6121 10 000 284 1 171 894,60 Rekonstrukce střechy skladu (RZ 3/2022/ZM)\n3639 6121 301 2 033 630 590 480,00 Myslechovice – úprava návsi (RZ 4/2022/ZM)\n3429 6122 303 2 030 000 34 122,00 Nová Ves – doplnění mobiliáře (RZ 5/2022/ZM)\n3429 5169 303 2 030 000 18 876,00 Nová Ves – doplnění mobiliáře (RZ 5/2022/ZM)\n3412 6121 305 2 030 305 6 000,00 Březové – veřejné WC na hřišti, PD (RZ 6/2022/ZM)\n3412 6122 307 2 030 000 330 000,00 Chořelice – workoutová sestava (RZ 7/2022/ZM)\nUnčovice – PD revitalizace okolí Sokolovny\n3412 6121 310 2 033 465 48 703,00\n(RZ 8/2022/ZM)\n3412 5123 310 2 030 000 22 631,00 Unčovice – vodovodní přípojka (RZ 9/2022/ZM)\n2212 6121 3 003 558 330 000,00 Litovel – Unčovice II/449, přeložka (RZ 10/2022/ZM)\n2212 6121 309 3 003 612 121 139,18 Nasobůrky – uliční prostor (RZ 11/2022/ZM)\nNasobůrky – uliční prostor, PD přeložky CETIN\n2212 6121 309 3 003 612 60 000,00\n(RZ 11/2022/ZM)\nLitovel Šmakalova + ČSA – DUR, DSP,\n2219 6121 3 003 589 100 000,00\n(RZ 12/2022/ZM)\nLitovel Sušilova – parkoviště, přeložka NN, realizace\n2219 6121 3 003 621 1 800 000,00\n(RZ 13/2022/ZM)\nLitovel Sušilova – přeložka CETIN, PD\n2219 6121 3 003 621 25 000,00\n(RZ 13/2022/ZM)\n2219 6121 3 003 558 150 000,00 Litovel Dukelská Komárov (RZ 14/2022/ZM)\n2219 6121 3 003 636 32 000,00 Cyklistická stezka Haňovice - Litovel (RZ 15/2022/ZM)\n2221 6121 3 003 594 12 000,00 Myslechovice autobusový záliv PD (RZ 16/2022/ZM)\nOdkup kanalizační přípojky - Chořelice\n2321 6121 3 003 482 480 000,00\n(RZ 17/2022/ZM)\n3315 6121 3 003 624 112 775,85 Litovel – Muzeum harmonik (RZ 18/2022/ZM)\n3322 6121 3 003 634 685 352,00 Svatojánský most – rekonstrukce - PD (RZ 19/2022/ZM)\n3322 6121 3 003 634 35 000,00 Svatojánský most – přeložka CETIN (RZ 19/2022/ZM)\n3412 6121 3 000 334 74 200,00 Brouzdaliště na koupališti v Litovli (RZ 20/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3613 6121 3 000 000 105 900,00 Nová okna na malém sále Záložny (RZ 21/2022/ZM)\n3631 6121 3 003 631 3 983 180,00 Výměna svítidel – realizace II. etapa (RZ 22/2022/ZM)\n3631 6121 3 003 631 130 000,00 Výměna svítidel – administrace EFOS (RZ 22/2022/ZM)\nAreál B. Němcové, realizace a projekční příprava\n3639 6121 3 003 610 2 369 750,00\n(RZ 23/2022/ZM)\n3639 6121 3 003 626 3 500 000,00 Litovel Pavlínka, sítě pro RD (RZ 24/2022/ZM)\n3639 5164 3 000 000 69 333,00 TOI TOI náhradní BUS nádraží (RZ 25/2022/ZM)\n5512 6121 311 3 003 629 50 000,00 Savín – rekonstrukce požární zbrojnice (RZ 26/2022/ZM)\nChudobín oprava střechy obecního domu\n3429 6121 302 2 030 302 450 000,00\n(RZ 27/2022/ZM)\n2219 6121 304 2 033 632 31 460,00 Rozvadovice -parkovací místa (RZ 28/2022/ZM)\n3392 6121 309 2 030 000 270 803,00 Nasobůrky – KD - zateplení (RZ 29/2022/ZM)\n2219 6122 1 003 512 500 000,00 Obnova parkovacích automatů (RZ 30/2022/ZM)\n6402 5364 14 000 000 36 224,09 Finanční vypořádání roku 2021 (RZ 31/2022/ZM)\n3743 6121 7 000 782 80 000,00 Dobývací prostor Haňovice II. Etapa (RZ 32/2022/ZM)\n3743 6121 7 000 782 200 000,00 Dobývací prostor Haňovice I. Etapa (RZ 33/2022/ZM)\n2329 6121 7 000 781 50 000,00 Solární sušárna kalů - příprava (RZ 34/2022/ZM)\n2333 5169 7 000 xxx 50 000,00 Opravy na radniční Moravě (RZ 35/2022/ZM)\n2333 5169 7 000 xxx 3 489 724,00 Papírenská voda (RZ 36/2022/ZM)\n3725 6121 7 000 xxx 50 000,00 Úprava stanovišť na tříděný odpad (RZ 37/2022/ZM)\n3722 5169 7 000 xxx 200 000,00 Náklady na svoz gastroodpadu (RZ 38/2022/ZM)\n2295 5339 3 003 468 -23 705,70 Příspěvek na dopravní obslužnost (RZ 39/2022/ZM)\n3722 5169 7 000 000 2 300 000,00 Svoz komunálního odpadu (RZ 40/2022/ZM)\n6330 5344 14 000 000 1 000 000,00 Převod do Fondu na obnovu kanalizací (RZ 41/2022/ZM)\n3612 6119 1 000 000 200 000,00 Studie stavu bytového fondu (RZ 43/2022/ZM)\n2329 6121 3 000 781 12 000 000,00 Solární sušárna kalů (RZ 44/2022/ZM)\nMyslechovice - Dešťová kanalizace podél silnice II/372\n2321 6121 301 3 003 638 7 250 000,00\n(RZ 45/2022/ZM)\nMyslechovice - Prodloužení a oprava chodníku podél\n2219 6121 301 3 003 638 3 750 000,00\nkomunikace II/372 (RZ 45/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nDopravně bezpečnostní opatření podél silnice II/449 v\n2219 6121 3 003 558 10 000 000,00\nLitovli (RZ 46/2022/ZM)\nUlice Novosady, rekonstrukce uličního prostoru včetně\n2219 6121 3 003 582 20 000 000,00\nVO a MR (RZ 47/2022/ZM)\nSkatepark a pumptrack Litovel Komárov\n3412 6121 3 003 637 12 000 000,00\n(RZ 48/2022/ZM)\n3412 6121 3 003 637 3 000 000,00 Odvody za vynětí půdy ze ZPF (RZ 48/2022/ZM)\n3429 5169 301 2 030 000 -924 000,00 Místní část Myslechovice ( RZ 49/2022/ZM)\n2141 5169 301 2 030 000 13 068,00 Pojízdná prodejna (RZ 49/2022/ZM)\nÚprava návsi – PD, zeleň, oprava ploch\n3639 6121 301 2 033 630 850 000,00\n(RZ 49/2022/ZM)\n3429 5139 301 2 030 000 16 932,00 Nákup materiálu jinde nezařazený (RZ 49/2022/ZM)\n3429 5169 301 2 030 000 14 000,00 Nákup ostatních služeb (RZ 49/2022/ZM)\n3392 5169 301 2 030 000 15 000,00 Nákup ostatních služeb (RZ 49/2022/ZM)\n3392 5171 301 2 030 000 15 000,00 Opravy a udržování (RZ 49/2022/ZM)\n3429 5169 303 2 030 000 -484 800,00 Místní část Nová Ves (RZ 50/2022/ZM)\n3429 5021 303 2 030 000 18 000,00 Ostatní osobní výdaje (RZ 50/2022/ZM)\n3429 5137 303 2 030 000 20 000,00 Drobný hmotný dlouhodobý majetek (RZ 50/2022/ZM)\n3429 5139 303 2 030 000 20 000,00 Nákup materiálu jinde nezařazený (RZ 50/2022/ZM)\n3429 5169 303 2 030 000 10 000,00 Nákup ostatních služeb (RZ 50/2022/ZM)\n3429 5171 303 2 030 000 10 456,00 Opravy a udržování (RZ 50/2022/ZM)\n3429 5175 303 2 030 000 10 000,00 Pohoštění (RZ 50/2022/ZM)\n3421 6122 303 2 033 470 140 000,00 Dětské hřiště, nové hrací prvky (RZ 50/2022/ZM)\n3429 5901 303 2 040 000 16 000,00 Podpora místních spolků (RZ 50/2022/ZM)\nKulturní akce (MDŽ, Mikuláš, dětský den, posezení se\n3429 5169 303 2 030 000 20 000,00\nseniory a jiné) (RZ 50/2022/ZM)\n3429 5194 303 2 030 000 15 000,00 Věcné dary (RZ 50/2022/ZM)\n3429 5137 303 2 030 000 100 344,00 Dřevěné posezení okolo dvou lip (RZ 50/2022/ZM)\n3429 5137 303 2 030 000 50 000,00 Interiér knihovna (RZ 50/2022/ZM)\nOprava pomníku padlých – II. fáze (kameny, písmo,\n3429 5169 303 2 030 000 55 000,00\nmalíř) (RZ 50/2022/ZM)\n3429 5169 305 2 030 000 -614 993,00 Místní část Březové (RZ 51/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3429 5901 305 2 040 000 30 000,00 Podpora místních spolků (RZ 51/2022/ZM)\n2219 6121 305 2 033 639 230 000,00 Cyklostezka Unčovice – Březové - PD (RZ 51/2022/ZM)\n3412 5171 305 2 030 000 85 000,00 Oprava unimobuňky na hřišti (RZ 51/2022/ZM)\nAkce pořádané ve spolupráci s místními spolky – nákup\n3429 5169 305 2 030 000 20 000,00\nostatních služeb (RZ 51/2022/ZM)\n3429 5139 305 2 030 000 10 000,00 Nákup materiálu jinde nezařazený (RZ 51/2022/ZM)\n3429 5169 305 2 030 000 10 000,00 Nákup ostatních služeb (RZ 51/2022/ZM)\n3429 5137 305 2 030 000 10 000,00 Drobný hmotný dlouhodobý majetek (RZ 51/2022/ZM)\n3429 5171 305 2 030 000 9 993,00 Opravy a udržování (RZ 51/2022/ZM)\n3412 6121 305 2 030 305 210 000,00 Veřejné WC na hřišti včetně napojení (RZ 51/2022/ZM)\n3429 5169 307 2 030 000 -782 400,00 Místní část Chořelice (RZ 52/2022/ZM)\n3429 5901 307 2 040 000 75 000,00 Podpora místních spolků (RZ 52/2022/ZM)\nPřívod vody ze studny pro hasičskou dráhu (protlak pod\n5512 6121 307 2 030 000 40 000,00\nsilnicí, napojení, šachta) (RZ 52/2022/ZM)\n2333 6121 307 2 030 000 50 000,00 Obnovení lávky u Moravy (molo) (RZ 52/2022/ZM)\n3429 5021 307 2 030 000 5 000,00 Ostatní osobní výdaje (RZ 52/2022/ZM)\n3429 5137 307 2 030 000 10 000,00 Drobný hmotný dlouhodobý majetek (RZ 52/2022/ZM)\n3429 5139 307 2 030 000 15 000,00 Nákup materiálu jinde nezařazený (RZ 52/2022/ZM)\n3429 5169 307 2 030 000 10 000,00 Nákup ostatních služeb (RZ 52/2022/ZM)\n3429 5171 307 2 030 000 10 000,00 Opravy a udržování (RZ 52/2022/ZM)\n3429 6122 307 2 030 000 100 000,00 Stroje, přístroje a zařízení (RZ 52/2022/ZM)\nSociální zařízení a kuchyňka, budova OV (RZ\n3429 6121 307 2 030 000 150 000,00\n52/2022/ZM)\nOprava Božích muk (u hřbitova a za hřbitovem u dálnice)\n3326 5171 307 2 030 000 50 000,00\n(RZ 52/2022/ZM)\nDoplnění prvků dětského hřiště u bytovky\n3412 6122 307 2 033 470 55 000,00\n(RZ 52/2022/ZM)\n3900 5169 307 2 030 000 60 000,00 Příprava sjezdu rodáků (RZ 52/2022/ZM)\n2219 5171 307 2 030 000 132 400,00 Obnova chodníku v parku (RZ 52/2022/ZM)\nDoplnění pamětní desky obětem 1. světové války\n3326 5137 307 2 030 000 20 000,00\n(RZ 52/2022/ZM)\n3429 5169 308 2 030 000 -621 600,00 Místní část Tři Dvory (RZ 53/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3429 5021 308 2 030 000 4 000,00 Ostatní osobní výdaje (RZ 53/2022/ZM)\n3429 5137 308 2 030 000 4 000,00 Drobný hmotný dlouhodobý majetek (RZ 53/2022/ZM)\n3429 5139 308 2 030 000 4 600,00 Nákup materiálu jinde nezařazený (RZ 53/2022/ZM)\n3429 5169 308 2 030 000 2 000,00 Nákup ostatních služeb (RZ 53/2022/ZM)\n3429 5137 308 2 030 000 22 000,00 Nákup pivních setů a lavic, dlaždic (RZ 53/2022/ZM)\n3429 6122 308 2 030 000 140 000,00 Nákup vánoční výzdoby (RZ 53/2022/ZM)\n3429 5901 308 2 040 000 60 000,00 Podpora místních spolků (RZ 53/2022/ZM)\n2321 5169 308 2 030 000 350 000,00 Vyčištění melioračního příkopu (RZ 53/2022/ZM)\n3900 5175 308 2 030 000 30 000,00 Posezení s důchodci (RZ 53/2022/ZM)\n3421 5137 308 2 030 000 5 000,00 Hřiště pro děti (RZ 53/2022/ZM)\n3412 5169 310 2 030 000 -1 274 607,00 Místní část Unčovice (RZ 54/2022/ZM)\n2141 5169 310 2 030 000 13 068,00 Pojízdná prodejna (RZ 54/2022/ZM)\n3429 5901 310 2 040 000 90 000,00 Podpora místních spolků (RZ 54/2022/ZM)\n3392 5139 310 2 033 465 25 000,00 Výměna světel Sokolovny (RZ 54/2022/ZM)\n2219 6121 310 2 030 000 500 000,00 Chodník podél Sokolovny (RZ 54/2022/ZM)\n3392 5137 310 2 030 000 16 932,00 Drobný hmotný dlouhodobý majetek (RZ 54/2022/ZM)\n3392 5139 310 2 030 000 15 000,00 Nákup materiálu jinde nezařazený (RZ 54/2022/ZM)\n3392 5169 310 2 030 000 20 000,00 Nákup ostatních služeb (RZ 54/2022/ZM)\n3392 5171 310 2 030 000 15 000,00 Opravy a udržování (RZ 54/2022/ZM)\n3429 5021 310 2 030 000 10 000,00 Ostatní osobní výdaje (RZ 54/2022/ZM)\n3429 5137 310 2 030 000 15 000,00 Drobný hmotný dlouhodobý majetek (RZ 54/2022/ZM)\n3429 5139 310 2 030 000 10 000,00 Nákup materiálu jinde nezařazený (RZ 54/2022/ZM)\nZpracování dat a služby související s informačními a\n3429 5168 310 2 030 000 10 000,00\nkomunikačními techn. (RZ 54/2022/ZM)\n3429 5169 310 2 030 000 9 607,00 Nákup ostatních služeb (RZ 54/2022/ZM)\n3429 5171 310 2 030 000 5 000,00 Opravy a udržování (RZ 54/2022/ZM)\nVýmalba vnitřních prostor – sál Sokolovny, WC + úklid\n3392 5169 310 2 033 465 180 000,00\n(RZ 54/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n2212 6121 310 2 030 310 160 000,00 Rezerva – parkovací zálivy (RZ 54/2022/ZM)\nRekonstrukce fasády kapličky u cyklostezky (RZ\n3326 5171 310 2 030 000 30 000,00\n54/2022/ZM)\n3392 5169 310 2 030 000 150 000,00 Oslava 100 let výročí Sokolovny (RZ 54/2022/ZM)\nPřevod z rozpočtu do sociálního fondu\n6330 5342 1 000 000 2 868,38\n(RZ 55/2022/ZM)\n6171 5499 1 000 000 2 868,38 Čerpání sociálního fondu (RZ 56/2022/ZM)\n6171 5499 1 000 000 79 131,62 Čerpání Sociálního fondu (RZ 57/2022/ZM)\nČerpání Sociálního fondu – rezerva\n6171 5901 1 000 000 37 682,35\n(RZ 57/2022/ZM)\n4349 5xxx 13010 5 000 000 413 504,17 Výkon pěstounské péče (RZ 58/2022/ZM)\nTJ Tatran Litovel, činnost oddílu kopané\n3419 5222 4 000 423 125 000,00\n(RZ 59/2022/ZM)\nMuzeum harmonik – webová aplikace\n3315 6111 1 000 000 400 000,00\n(RZ 60/2022/ZM)\nNové brouzdaliště na koupališti v Litovli\n3412 6121 3 000 334 2 000 000,00\n(RZ 61/2022/ZM)\nÚprava návsi – PD, zeleň, oprava ploch\n3639 6121 301 2 033 630 -850 000,00\n(RZ 62/2022/ZM)\nAutobusová zastávka Myslechovice\n2219 6121 301 3 003 594 2 500 000,00\n(RZ 62/2022/ZM)\n3631 6121 301 3 003 594 300 000,00 Veřejné osvětlení u zastávky (RZ 62/2022/ZM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -5 200 000,00\n(RZ 63/2022/ZM)\n3900 5222 4 000 000 165 000,00 Akselit z.s.- přeprava členů spolku (RZ 63/2022/ZM)\n3419 5222 4 000 000 120 000,00 DHK Litovel - činnost oddílu (RZ 63/2022/ZM)\n3419 5499 4 000 000 80 000,00 B.D. - sportovní příprava (RZ 63/2022/ZM)\nFolklorní soubor HANAČKA- činnost souboru\n3429 5222 4 000 000 100 000,00\n(RZ 63/2022/ZM)\nCharita Šternberk -provozní náklady pečovatelské služby\n4359 5223 4 000 000 350 000,00\n(RZ 63/2022/ZM)\nCharita Šternberk- provozní náklady mateřského centra\n3900 5223 4 000 000 150 000,00\nRybička (RZ 63/2022/ZM)\nCharita Šternberk- mzdové náklady zdravotních sester\n4359 5223 4 000 000 100 000,00\n(RZ 63/2022/ZM)\nCharita Šternberk- pořízení sanitárního kontejneru\n4359 6122 4 000 000 50 000,00\n(RZ 63/2022/ZM)\nCharita Šternberk- organizační zajištění pouti na Starém\n4359 5223 4 000 000 25 000,00\nměstě (RZ 63/2022/ZM)\nMažoretky Linetbells Litovel z.s.- činnost spolku\n3421 5222 4 000 000 60 000,00\n(RZ 63/2022/ZM)\nRychlostní kanoistika Litovel z.s.-zajištění sportovní\n3419 5222 4 000 000 100 000,00\nčinnosti spolku (RZ 63/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSpolek TJ VS Litovel, z.s.-zajištění sportovní činnosti\n3419 5222 4 000 000 350 000,00\ntělovýchovné jednoty (RZ 63/2022/ZM)\nTělocviční jednota Sokol Litovel-pronájem sportovišť,\n3419 5222 4 000 000 150 000,00 činnost oddílů mládeže a činnost divadelního odboru\n(RZ 63/2022/ZM)\nTJ TATRAN Litovel, z.s. -zabezpečení přípravy a\n3419 5222 4 000 423 3 000 000,00 činnosti v soutěžích a údržba sportovního areálu (RZ\n63/2022/ZM)\nTJ TATRAN Litovel, z.s.-účast družstva mužů oddílu\n3419 5222 4 000 423 400 000,00\nházení v1.lize ČSH (RZ 63/2022/ZM)\nTransfery, dary, příspěvky dle rozhodnutí ZML a RML\n3429 5901 4 000 000 -120 000,00\n(RZ 64/2022/ZM)\nČeský kynologický svaz ZKO Litovel-realizace stavby\n3429 6322 4 000 000 50 000,00\nstudny na užitkovou vodu (RZ 64/2022/ZM)\nČeský kynologický svaz ZKO Litovel-pořízení\n3429 5222 4 000 000 40 000,00\nodkládacích boxů pro psy (RZ 64/2022/ZM)\nČeský kynologický svaz ZKO Litovel-činnost spolku\n3429 5222 4 000 000 30 000,00\n(RZ 64/2022/ZM)\nZměny ve financích:\n§ POL UZ ORJ ORG Kč\n8115 900 000,00 Změna stavu prostředků na bank. účtech (RZ 1/2022/ZM)\n8115 850 000,00 Změna stavu prostředků na bank. účtech (RZ 2/2022/ZM)\n8115 1 171 894,60 Změna stavu prostředků na bank. účtech (RZ 3/2022/ZM)\n8115 590 480,00 Změna stavu prostředků na bank. účtech (RZ 4/2022/ZM)\n8115 52 998,00 Změna stavu prostředků na bank. účtech (RZ 5/2022/ZM)\n8115 6 000,00 Změna stavu prostředků na bank. účtech (RZ 6/2022/ZM)\n8115 330 000,00 Změna stavu prostředků na bank. účtech (RZ 7/2022/ZM)\n8115 48 703,00 Změna stavu prostředků na bank. účtech (RZ 8/2022/ZM)\n8115 22 631,00 Změna stavu prostředků na bank. účtech (RZ 9/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 330 000,00\n(RZ 10/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 181 139,18\n(RZ 11/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 100 000,00\n(RZ 12/2022/ZM)\nZměna stavu prostředků na bank .účtech\n8115 1 825 000,00\n(RZ 13/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 150 000,00\n(RZ 14/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměna stavu prostředků na bank. účtech\n8115 32 000,00\n(RZ 15/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 12 000,00\n(RZ 16/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 480 000,00\n(RZ 17/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 112 775,85\n(RZ 18/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 720 352,00\n(RZ 19/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 74 200,00\n(RZ 20/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 105 900,00\n(RZ 21/2022/ZM),\nZměna stavu prostředků na bank. účtech\n8115 4 113 180,00\n(RZ 22/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 2 369 750,00\n(RZ 23/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 3 500 000,00\n(RZ 24/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 69 333,00\n(RZ 25/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 50 000,00\n(RZ 26/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 450 000,00\n(RZ 27/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 31 460,00\n(RZ 28/2022/ZM)\nZměna stavu prostředků na bank.účtech\n8115 270 803,00\n(RZ 29/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 500 000,00\n(RZ 30/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 36 224,09\n(RZ 31/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 80 000,00\n(RZ 32/2022/ZM)\nZměna stavu prostředků na bank.účtech\n8115 200 000,00\n(RZ 33/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 50 000,00\n(RZ 34/2022/ZM)\nZměna stavu prostředků na bank.účtech\n8115 50 000,00\n(RZ 35/2022/ZM)\nZměna stavu prostředků na bank.účtech\n8115 3 489 724,00\n(RZ 36/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 50 000,00\n(RZ 37/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 200 000,00\n(RZ 38/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 -23 705,70\n(RZ 39/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 2 300 000,00\n(RZ 40/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměna stavu prostředků na bank. účtech\n8115 1 000 000,00\n(RZ 41/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 -1 000 000,00\n(RZ 42/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 200 000,00\n(RZ 43/2022/ZM)\n8113 12 000 000,00 Krátkodobé úvěry (RZ 44/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 11 000 000,00\n(RZ 45/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 10 000 000,00\n(RZ 46/2022/ZM)\n8113 3 000 000,00 Krátkodobé úvěry (RZ 47/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 17 000 000,00\n(RZ 47/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 15 000 000,00\n(RZ 48/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 2 868,38\n(RZ 55/5022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 116 813,97\n(RZ 57/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 413 504,17\n(RZ 58/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 400 000,00\n(RZ 60/2022/ZM)\nZměna stavu prostředků na bank. účtech\n8115 -22 726,07\n( RZ 61/2022/ZM)\nRZ 1/2022/ZM – Zateplení fasády objektu č.p. 73 v obci Tři Dvory § 3613 – OBH\nV roce 2021 byla uzavřena s firmou KEMOSTAV s.r.o. smlouva o dílo. Jednalo se o „Zateplení fasády objektu\nč.p.73 v obci Tři Dvory“. V roce 2021 nedošlo k dokončení, předání a převzetí díla, proto neproběhla ani platba\nz a uvedené dílo.\nRZ 2/2022/ZM – Vzduchotechnika v objektu č.p. 73 v obci Tři Dvory § 3613 – OBH\nPři realizaci díla „Zateplení fasády objektu č.p. 73 v obci Tři Dvory“ byla zjištěna zastaralá a nevyhovující\nVZT zařízení v kuchyni restaurace. K řešení situace byl přizván zástupce fi. FAKSA-STRAKA, s.r.o.\nVZDUCHOTECHNIKA-KLIMATIZACE. Po prohlídce stávajícího VZT zařízení navrhují generální výměnu\nVZT, které je již za hranou své životnosti, neodpovídá energetickým trendům a hlavně výkonově nekoresponduje\ns nainstalovanou technologií v kuchyni. Prohlídky se zúčastnilo i vedení města.\nRZ 3/2022/ZM – Rekonstrukce střechy skladu ve dvorním traktu radnice § 6171 – Oddělení vnitřních věcí\nV rozpočtu města Litovel pro rok 2021 byly připraveny finanční prostředky pro zajištění investiční akce\nRekonstrukce střechy skladu“ ve dvorním traktu budovy radnice. Akce byla zahájena v 10/2021 a dle dodatku\nsmlouvy bude ukončena 28.2.2022.Z tohoto důvodu je potřeba zajistit finanční prostředky i pro rok 2022.\nRZ 4/2022/ZM – Myslechovice – úprava návsi – PD, zeleň, oprava ploch §3639 – MHaSI\nU rozpočtové změny 4/2022 se jedná o přesun finančních prostředků z roku 2021. Dle smlouvy o dílo je termín\ndokončení úpravy návsi v Myslechovicích v 1.čtvrtletí roku 2022.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 5/2022/ZM – Nová Ves – doplnění mobiliáře v areálu zatopeného lomu §3429 – MHaSI\nU rozpočtové změny 5/2022 se jedná o přesun finančních prostředků z roku 2021. Zpoždění akce doplnění mobiliáře\nv Nové Vsi bylo z důvodu nepříznivých klimatických podmínek.\nRZ 6/2022/ZM – Březové – veřejné WC na hřišti včetně napojení sítí, PD §3412 – MHaSI\nU rozpočtové změny 6/2022 se jedná o přesun finančních prostředků z roku 2021. Projektant dodal dokumentaci k výstavbě\nveřejných WC na hřišti v Březové bez IČ.\nRZ 7/2022/ZM – Chořelice – workoutová sestava na hřišti u bytovky §3412 – MHaSI\nU rozpočtové změny 7/2022 se jedná o přesun finančních prostředků z roku 2021. Workoutová sestava v Chořelicích\nnebyla vybudovaná z důvodu nepříznivých klimatických podmínek.\nRZ 8/2022/ZM – Unčovice – revitalizace venkovních ploch Sokolovny, PD §3412 – MHaSI\nU rozpočtové změny 8/2022 se jedná o přesun finančních prostředků z roku 2021 a to z důvodu dokončení projektové\nd okumentace na revitalizaci venkovních ploch v okolí Sokolovny v Unčovicích až v roce 2022.\nRZ 9/2022/ZM – Unčovice – Vodovodní přípojka do kiosku na hřišti §3412 – MHaSI\nU rozpočtové změny 9/2022 se jedná o přesun finančních prostředků z roku 2021. Vodovodní přípojka nebyla dokončena\nz důvodu nedostatečné kapacity VHS Čerlinka.\nRZ 10/2022/ZM – Unčovice – Litovel II/449, přeložka CETIN § 2212 – MHaSI\nU rozpočtové změny 10/2022 se jedná o přesun finančních prostředků z roku 2021. Přeložku Litovel-Unčovice II/449\nje možné provést až s akcí Olomouckého kraje.\nRZ 11/2022/ZM – Nasobůrky – uliční prostor silnice II. třídy uvnitř místní části § 2212 – MHaSI\nU rozpočtové změny 11/2022 se jedná o přesun finančních prostředků z roku 2021. Dokončení IČ – PD přeložky CETIN\nv uličním prostoru v Nasobůrkách bude v roce 2022.\nRZ 12/2022/ZM – Litovel Šmakalova + ČSA – DUR, DSP, DPS § 2219 – MHaSI\nU rozpočtové změny 12/2022 Litovel Šmakalova + ČSA – DUR,DSP,DPS se jedná o přesun finančních prostředků\nz roku 2021 z důvodu kapacitních možností projektanta.\nRZ 13/2022/ZM – Litovel Sušilova ulice – parkoviště, přeložka NN, realizace § 2219 – MHaSI\nU rozpočtové změny 13/2022 se jedná o přesun finančních prostředků z roku 2021 z důvodu nedokončené PD\npřeložky CETIN v Litovli Sušilova ze strany firem ČEZ, MULTINEX.\nRZ 14/2022/ZM – Litovel Dukelská Komárov – stavba chodníku, přeložka NN pro ČEZ § 2219 – MHaSI\nU rozpočtové změny14/2022 se jedná o přesun finančních prostředků z roku 2021 z důvodu nedokončené PD\npřeložky NN při stavbě chodníku v Litovel Dukelská Komárov ze strany firmy ČEZ.\nRZ 15/2022/ZM – Cyklistická stezka Haňovice – Litovel (podél kolejí) dokončení PD pro ÚR § 2219 – MHaSI\nU rozpočtové změny 15/2022 se jedná o přesun finančních prostředků z roku 2021. U cyklistické stezky Litovel-Haňovice\nchybí dokončení inženýrských činností.\nRZ 16/2022/ZM – Myslechovice – autobusový záliv, PD za NN § 2221 – MHaSI\nU rozpočtové změny 16/022 se jedná o přesun finančních prostředků z roku 2021. Fakturace PD za NN Myslechovice –\nautobusový záliv bude v roce 2022.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 17/2022/ZM – Odkup kanalizační přípojky – resort Chořelice § 2321 – MHaSI\nU rozpočtové změny 17/2022- Odkup kanalizační přípojky – Chořelice se jedná o přesun finančních prostředků\nz roku 2021. Nebylo čerpáno v roce 2021.\nRZ 18/2022/ZM – Litovel – Muzeum harmonik § 3315 – MHaSI\nU rozpočtové změny 18/2022 se jedná o přesun finančních prostředků z roku 2021 z důvodu dokončovacích prací v\nMuzeu harmonik Litovel v roce 2022.\nRZ 19/2022/ZM – Svatojánský most – rekonstrukce – PD, překládka CETIN § 3322 – MHaSI\nU rozpočtové změny 19/2022 Svatojánský most-rekonstrukce -PD,překládka CETIN se jedná o přesun finančních\nprostředků z roku 2021. Důvod posunu ze strany města Litovel.\nRZ 20/2022/ZM – Koupaliště Litovel – brouzdaliště na koupališti § 3412 – MHaSI\nU rozpočtové změny 20/2022 brouzdaliště na koupališti v Litovli se jedná o přesun finančních prostředků z roku 2021\na to z důvodu, že chybí vyřídit inženýrskou činnost a územní souhlas nebo stavební povolení.\nRZ 21/2022/ZM – Záložna – malý sál, nová okna § 3613 – MHaSI\nU rozpočtové změny 21/2021/ZM – nová okna v malém sále Záložny se jedná o přesun finančních prostředků\nz roku 2021 z důvodu kapacity dodavatele.\nRZ 22/2022/ZM – Výměna svítidel – realizace II. etapa, administrace EFOS § 3631 – MHaSI\nU rozpočtové změny 22/2022 se jedná o přesun finančních prostředků z roku 2021.Posun výměny svítidel – realizace\nII. etapy, administrace EFOS je z důvodu podání nové žádosti o dotaci.\nRZ 23/2022/ZM – Areál B. Němcové – realizační a projekční příprava § 3639 – MHaSI\nU rozpočtové změny 23/2022 Areál B.Němcové – realizační a projekční příprava = jedná se o částečný přesun\nfinančních prostředků z roku 2021. Důvodem je pokračování projekční přípravy z roku 2021 a následné vypracování\nprojektové dokumentace. Projektant bude vybírán v soutěži v únoru – březnu /2022, podpis smlouvy se dá očekávat\nněkdy v období 04 – 05/2022.\nRZ 24/2022/ZM – Litovel – Pavlínka, sítě pro rodinné domy § 3639 – MHaSI\nU rozpočtové změny 24//2022 se jedná o přesun finančních prostředků z roku 2021. Realizace sítě pro rodinné\ndomy v Litovel-Pavlínka je plánovaná v roce 2022.\nRZ 25/2022/ZM – TOI TOI náhradní BUS nádraží § 3639 – MHaSI\nU rozpočtové změny 25/2022 se jedná o přesun finančních prostředků z roku 2021. Nájemné TOI TOI na náhradním\nBUS nádraží na ulici Příčná pokračuje i v roce 2022.\nRZ 26/2022/ZM – Savín – rekonstrukce požární zbrojnice PD § 5512 – MHaSI\nU rozpočtové změny 26/2022 se jedná o přesun finančních prostředků z roku 2021. Projektová dokumentace\nna rekonstrukci požární zbrojnice v Savíně bude dokončena v roce 2022.\nRZ 27/2022/ZM – Chudobín – kompletní oprava střechy obecního domu s knihovnou § 3429 – MHaSI\nU rozpočtové změny 27/2022 = kompletní oprava střechy obecního domu s knihovnou v Chudobíně se jedná\no přesun finančních prostředků z roku 2021 z důvodu, že nebyla stavební kapacita dodavatele.\nRZ 28/2022/ZM – Rozvadovice – parkovací místa u řadových domů - PD § 2219 – MHaSI\nU rozpočtové změny 28/2022 se jedná o přesun finančních prostředků z roku 2021 z důvodu dokončení\ninženýrských činností a projektové dokumentace, vydání stavebního povolení.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 29/2022/ZM – Nasobůrky -KD – zateplení směrem od hřiště § 3392 – MHaSI\nU rozpočtové změny 29/2022 se jedná o přesun finančních prostředků z roku 2021. Akce KD Nasobůrky – zateplení\nsměrem od hřiště bude dokončena v roce 2022.\nRZ 30/2022/ZM – Obnova parkovacích automatů § 2219 – Tajemník Městského úřadu\nU rozpočtové změny 30/2022 se jedná o částečný přesun finančních prostředků z roku 2021 na obnovu\nparkovacích automatů.\nRZ 31/2022/ZM – Finanční vypořádání roku 2021 § 6402 – Odbor finanční\nMěsto Litovel obdrželo v průběhu roku účelové dotační prostředky na krytí výdajů obcí při přípravě sčítání\nlidí, domů a bytů v roce 2021 a na úhradu výdajů vzniklých v souvislosti s konáním voleb do Poslanecké\nsněmovny Parlamentu ČR. Nespotřebované dotační prostředky jsou předmětem finančního vypořádání za rok 2021.\nRZ 32/2022/ZM – Dobývací prostor Haňovice II. etapa § 3743 – Odbor životního prostředí\nDobývací prostor Haňovice – II.etapa = navýšení částky z důvodu, že smlouva o dílo se společností Geotest Brno, a.s.\nbyla v listopadu roku 2021 uzavřena bez DPH.\nRZ 33/2022/ZM – Dobývací prostor Haňovice I. etapa § 3743 – Odbor životního prostředí\nDobývací prostor Haňovice I. etapa = požadované navýšení na pokrytí nákladů na technický dozor, BOZP\na autorský dozor na realizaci akce. Město Litovel finalizuje dvoukolové výběrové řízení na zhotovitele akce, který\nvymísí nebezpečný odpad na příslušnou skládku. V této souvislosti je zapotřebí, stejně jako u ostatních stavební dozor a\nčinnost BOZP.\nRZ 34/2022/ZM – Solární sušárna kalů - příprava § 2329 – Odbor životního prostředí\nPříprava solární sušárny kalů – požadované navýšení je z důvodu získání nových aktualizovaných informací,\nNa jaře 2022 bude otevřena výzva na získání dotace na tuto akci. Je potřeba připravit pozemek a zpracovat\nrealizační dokumentaci.\nRZ 35/2022/ZM – Opravy na radniční Moravě § 2333 – Odbor životního prostředí\nOpravy na radniční Moravě – požadované navýšení je z důvodu získání nových aktualizovaných informací,\nv rámci zpracování projektové dokumentace na tuto akci je třeba zpracovat projekty na přeložky sítí NN a plynu.\nRZ 36/2022/ZM – Papírenská voda § 2333 – Odbor životního prostředí\nPapírenská voda – částečný přesun z roku 2021. Projekt je připravován od roku 2020. Tato část vodního toku\nje zanedbaná a zanesená sedimenty a to dlouhodobě dělá problémy Litovelským rybářům. Částečný přesun\nfinančních prostředků bude použit na realizaci akce a na náklady BOZP, na autorský a technický dozor a\nvýběrové řízení.\nRZ 37/2022/ZM – Úprava stanovišť na tříděný odpad § 3725 – Odbor životního prostředí\nÚprava stanovišť na tříděný odpad = požadované navýšení v rozpočtu je z důvodu , že město Litovel má v plánu rozšířit\nstanoviště na tříděný odpad (např. sídliště Vitězná). Počátkem tohoto roku vznikl problém s poddimenzovanou kapacitou\nv ulici Severní. Je to dáno především výstavbou dvou nových bytových domů. Je potřeba i zde stanoviště na tříděný odpad\nrozšířit event. vybudovat nové.\nRZ 38/2022/ZM – Náklady na svoz gastroodpadu § 3722 – Odbor životního prostředí\nSvoz gastroodpadu je nově zaváděná služba občanům v oblasti odpadového hospodářství.\nRZ 39/2021/ZM – Dopravní obslužnost – § 2295 - odbor finanční\nV 1/2022 obdrželo město Litovel informaci o skutečné výši ročního příspěvku na dopravní obslužnost\npro rok 2022. Rozpočtová změna 39/2022 snižuje kvalifikovaný odhad ve schváleném rozpočtu.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 40/2021/ZM – Svoz komunálního odpadu – § 3722 - odbor životního prostředí\nSvoz komunálního odpadu – vzhledem k výsledku výběrového řízení na svoz je potřeba na tuto službu\nnavýšit rozpočet.\nRZ 41/2021/ZM – Převod finančních prostředků do Fondu na obnovu kanalizací – starosta města\nNávrh převodu finančních prostředků do Fondu na obnovu kanalizací, kterým dojde k navýšení částky\nurčené k převodu do fondu, která je již ve schváleném rozpočtu města Litovel na rok 2022.\nRZ 42/2021/ZM – Převod finančních prostředků do Fondu na obnovu kanalizací – starosta města\nV rozpočtové změně 41/2022 je návrh převodu finančních prostředků do Fondu na obnovu kanalizací.\nV případě schválení navrženého převodu je nutné schválení rozpočtové změny 42/2022, která řeší přijetí\nfinančních prostředků na účet fondu.\nRZ 43/2021/ZM – Studie – Koncepce podporovaného bydlení pro město Litovel - § 3612 – MST\nRozpočtová změna 43/2022 se týká převodu finančních prostředků na studii stavu Bytového fondu = koncepce\npodporovaného bydlení pro město Litovel.\nRZ 44/2022/ZM – Solární sušárna kalů § 2329 – MHaSI\nSolární sušárna kalů = stavba bude situovaná severovýchodně a bude přiléhat k areálu ČOV. Sušárna je\nnavržena v počtu dvou sušících polí – ocelové montované haly, které navazují zpevněnou plochou na obslužnou cestu\npro příjezd a odjezd vozidel pro odvoz sušeného kalu.\nVysušený kal bude odvážen k zemědělskému nebo energetickému využití. Předpokládaná doba výstavby je 6 měsíců.\nRZ 45/2022/ZM – Myslechovice- dešťová kanalizace podél silnice III/3732 - §2321, prodloužení a oprava\nchodníku podél silnice II/3732 § 2219 – MHaSI\nMyslechovice – dešťová kanalizace podél silnice III/3732= předmětem stavby je rekonstrukce – nahrazení stávající\ndešťové kanalizace z betonu, umístěné pod stávajícím chodníkem podél silnice a doplnění dešťové kanalizace při\nvjezdu do Myslechovic z důvodu odvodnění křižovatky.\nProdloužení a oprava chodníku v Myslechovicích podél silnice III/3732 = stavba je podmíněna opravou dešťové\nkanalizace, která je situovaná v celé délce chodníku. Je rozdělena na dva stavební objekty – stavební úpravy\nstávajícího chodníku a nový chodník. Chodníky jsou v souběhu nebo kříží inženýrské sítě a to kabely sdělovací\na silové, nadzemní vedení NN, vodovod a STL plynovod.\nRZ 46/2022/ZM – Dopravně bezpečnostní opatření pro pěší a cyklisty (cyklostezka) podél silnice II/449 v\nzastavěném území města Litovle – I. etapa § 2219 – MHaSI\nÚzemí, kde bude stavba= dopravně bezpečnostní opatření pro pěší a cyklisty podél silnice prováděna, se rozprostírá\nna ul. Olomoucká, dále přes ul. Palackého a Dukelskou. Účelem vybudování stavby je zajištění bezpečného a\npohodlného přístupu k nemovitostem v dané lokalitě. Zajištěna bude bezbariérová pěší trasa a bezpečnější průjezd\ncyklistům ze směru ulic Olomoucká, Svatoplukova, Palackého a Dukelská. Současně dojde ke zlepšení způsobu\nparkování vozidel na ul. Palackého., přístup k soukromým nemovitostem a pohodlnější odbavení cestujících\nlinkovou dopravou v podobě nového autobusového zálivu s nástupištěm.\nRZ 47/2022/ZM – Litovel – Ulice Novosady- rekonstrukce uličního prostoru, vč. VO a MR § 2219 – MHaSI\nRekonstrukce uličního prostoru Litovel – Ulice Novosady = předmětem stavby je komplexní rekonstrukce\nmístní komunikace ulice Novosady od ulice Žerotínovy po ulici Severní. Součástí stavby jsou chodníky, vjezdy\na parkovací stání před bytovými domy a bude dořešen způsob parkování na vozovce.\nMění se veřejné osvětlení a nově se umísťuje městský rozhlas.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 48/2022/ZM – Litovel - Komárov Skatepark a pumptrack § 3412 – MHaSI\nSkatepark a pumptrack Litovel Komárov = jedná se o novostavbu celobetonového skateparku a asfaltového\nPumptracku, což jsou nízké povrchové sportovní překážky ve volném prostoru.\nSkatepark je určen zejména pro uživatele skateboardů a pumptrack zejména pro uživatele BMX kol a koloběžek.\nNový park je situován ve východní části města Litovel, v rekreační zóně v blízkosti řeky Moravy (v blízkosti\nkempu In-life). Přístup na sportoviště je stávající z ulice Javoříčská.\nSkatepark a pumptrack jsou sportovní překážky určeny k odpočinku nebo sportovní činnost ve volném čase,\nKdy současně předchází kriminalitě mládeže. Stavby má veřejný charakter a slouží ke sportu a relaxaci\nširoké veřejnosti.\nRZ 49/2022/ZM – Místní část Myslechovice – MHaSI\nFinanční prostředky vyčleněné ve schváleném rozpočtu 2022 pro místní část Myslechovice jsou rozvrženy\ndle návrhu osadního výboru Myslechovice.\nRZ 50/2022/ZM – Místní část Nová Ves – MHaSI\nFinanční prostředky vyčleněné ve schváleném rozpočtu 2022 pro místní část Nová Ves jsou rozvrženy\ndle návrhu osadního výboru Nová Ves.\nRZ 51/2022/ZM – Místní část Březové – MHaSI\nFinanční prostředky vyčleněné ve schváleném rozpočtu 2022 pro místní část Březové jsou rozvrženy\ndle návrhu osadního výboru Březové.\nRZ 52/2022/ZM – Místní část Chořelice – MHaSI\nFinanční prostředky vyčleněné ve schváleném rozpočtu 2022 pro místní část Chořelice jsou rozvrženy\ndle návrhu osadního výboru Chořelice.\nRZ 53/2022/ZM – Místní část Tři Dvory – MHaSI\nFinanční prostředky vyčleněné ve schváleném rozpočtu 2022 pro místní část Tři Dvory jsou rozvrženy\ndle návrhu osadního výboru Tři Dvory.\nRZ 54/2022/ZM – Místní část Unčovice – MHaSI\nFinanční prostředky vyčleněné ve schváleném rozpočtu 2022 pro místní část Unčovice jsou rozvrženy\ndle návrhu osadního výboru Unčovice.\nRZ 55/2022/ZM – Vyúčtování přídělu finančních prostředků do Sociálního fondu (odbor finanční)\nV souladu se statutem sociálního fondu k 31.12.2021 bylo provedeno vyúčtování za rok 2021, vzniklý rozdíl\nuvedený v RZ 55/2022/ZM bude odveden ve prospěch sociálního fondu.\nRZ 56/2022/ZM – Příjem finančních prostředků do Sociálního fondu dle vyúčtování za rok 2021 (odbor finanční)\nRZ 56/2022/ZM zahrnuje příjem finančních prostředků na účet sociálního fondu dle vyúčtování RZ 55/2022/ZM a\njejich čerpání.\nRZ 57/2022/ZM – Zapojení zůstatku na bankovním účtu SF k 31.12.2021 do výdajů SF 2022 (odbor finanční)\nPřevod zůstatku na bankovním účtu Sociálního fondu k 31.12.2021 do výdajů Sociálního fondu roku 2022.\nRZ 58/2022/ZM – Výkon pěstounské péče – převod nevyčerpaných prostředků § 4349 – odbor sociální a správní\nRozpočtová změna 58/2022/ZM se týká převodu nevyčerpaného příspěvku na výkon pěstounské péče z předchozích období\ndo rozpočtu roku 2022.\nRZ 59/2022/ZM –TJ Tatran Litovel – oddíl kopané § 3412 – RM, OŠKS\nRozpočtová změna 59/2022/ZM se týká převodu nevyčerpaných financí TJ Tatran z roku 2021 na činnost fotbalového oddílu\nTJ Tatran v roce 2022.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 60/2022/ZM – Muzeum harmonik – nová webová aplikace - § 3315 MST\nMěsto Litovel poskytlo finanční prostředky Muzeu harmonik na vytvoření webové stránky, která bude obsahovat informace\no jednotlivých nástrojích přes QR kódy, včetně zvuků, mapu muzea, druhy harmonik, funkci a stavbu hudebních nástrojů.\nRZ 61/2022/ZM –Nové brouzdaliště na koupališti v Litovli § 3412 – MHaSI\nMěsto Litovel poskytlo finanční prostředky na vybudování nového brouzdaliště v Litovli na koupališti. Projekční příprava byla\nzahájena v loňském roce, po jejím dokončení bude zahájena realizace akce. Část výdajů bude pokryta vratkami finančních\nprostředků z roku 2021, transfery od příspěvkových organizací zřizovaných městem, od sportovních klubů. Část bude kryta\nočekávanými dotačními prostředky.\nRZ 62/2022/ZM – Myslechovice – úprava autobusové zastávky § 2119 – MHaSI\nMěsto Litovel poskytlo finanční prostředky na stavební úpravy stávající autobusové zastávky tj. vybudování nového\nautobusového zálivu , veřejné osvětlení u zastávky , stavbu nové plochy pro kontejnery na separovaný odpad, novou\nplakátovací plochu a vitrínu a také přístřešek na kola.\nRZ 63/2022/ZM Dotace žadatelům o finanční podporu na rok 2022 – odbor OŠKS\nMěsto Litovel poskytlo finanční prostředky žadatelům tj. spolkům, souborům, Charitě na podporu činností v roce 2022.\nRZ 64/2022/ZM Český kynologický svaz ZKO Litovel – dotace na činnost -odbor OŠKS\nMěsto Litovel poskytlo finanční prostředky na činnost svazu v roce 2022, na realizaci stavby studny na užitkovou vodu\na na pořízení odkládacích boxů pro psy.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nV Litovli 9.3.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": []
+}

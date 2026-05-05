@@ -1,0 +1,278 @@
+{
+  "id": "RO/12/2024",
+  "number": 12,
+  "year": 2024,
+  "approval_date": "2024-06-27",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "53/2024/RM",
+    "54/2024/RM",
+    "55/2024/RM",
+    "56/2024/RM",
+    "57/2024/RM",
+    "58/2024/RM",
+    "59/2024/RM",
+    "60/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "53/2024/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "-39 600,00",
+          "amount_value": -39600.0,
+          "description": "Účelová neinvestiční dotace (RZ 53/2024/RM"
+        },
+        {
+          "budget_change_id": "57/2024/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "6 311,00",
+          "amount_value": 6311.0,
+          "description": "Přijaté pojistné plnění (RZ 57/2024/RM"
+        },
+        {
+          "budget_change_id": "59/2024/RM",
+          "raw_codes": [
+            "4122",
+            "582"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Účelová neinvestiční dotace (RZ 59/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "53/2024/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 566"
+          ],
+          "amount": "-39 600,00",
+          "amount_value": -39600.0,
+          "description": "Výkon pěstounské péče (RZ 53/2024/RM"
+        },
+        {
+          "budget_change_id": "54/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-24 200,00",
+          "amount_value": -24200.0,
+          "description": "Místní části - nerozdělená částka (RZ 54/2024/RM"
+        },
+        {
+          "budget_change_id": "54/2024/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "304",
+            "2 030 000"
+          ],
+          "amount": "24 200,00",
+          "amount_value": 24200.0,
+          "description": "Rozvadovice - chodník na návsi (RZ 54/2024/RM"
+        },
+        {
+          "budget_change_id": "55/2024/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "303",
+            "2 030 303"
+          ],
+          "amount": "-22 582,00",
+          "amount_value": -22582.0,
+          "description": "Nová Ves - modernizace a legalizace sportovního hřiště (RZ 55/2024/RM"
+        },
+        {
+          "budget_change_id": "55/2024/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "303",
+            "2 033 470"
+          ],
+          "amount": "22 582,00",
+          "amount_value": 22582.0,
+          "description": "Nová Ves - dětské hřiště (RZ 55/2024/RM"
+        },
+        {
+          "budget_change_id": "56/2024/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "-118 000,00",
+          "amount_value": -118000.0,
+          "description": "MŠ Frištenského - neinvestiční příspěvek (RZ 56/2024/RM"
+        },
+        {
+          "budget_change_id": "56/2024/RM",
+          "raw_codes": [
+            "3111",
+            "6351",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "118 000,00",
+          "amount_value": 118000.0,
+          "description": "MŠ Frištenského - investiční příspěvek (RZ 56/2024/RM"
+        },
+        {
+          "budget_change_id": "57/2024/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "6 311,00",
+          "amount_value": 6311.0,
+          "description": "Veřejné osvětlení - opravy a udržování (RZ 57/2024/RM"
+        },
+        {
+          "budget_change_id": "58/2024/RM",
+          "raw_codes": [
+            "1014",
+            "5169",
+            "7 000 700"
+          ],
+          "amount": "-189 340,00",
+          "amount_value": -189340.0,
+          "description": "Likvidace komárů - nákup služeb (RZ 58/2024/RM"
+        },
+        {
+          "budget_change_id": "58/2024/RM",
+          "raw_codes": [
+            "1014",
+            "5329",
+            "7 003 115"
+          ],
+          "amount": "189 340,00",
+          "amount_value": 189340.0,
+          "description": "Neinvestiční transfer DSO Region Moravská cesta (RZ 58/2024/RM"
+        },
+        {
+          "budget_change_id": "59/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "582",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Převod účelové dotace Městskému klubu (RZ 59/2024/RM"
+        },
+        {
+          "budget_change_id": "60/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "ADETO,z.s.-úhr.nákladů spojených s akcí \"Starám se o svoji řeku\" (RZ 60/2024/RM"
+        },
+        {
+          "budget_change_id": "60/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 60/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 53/2024/RM",
+      "text": "Rozhodnutím Úřadu práce České republiky – Krajská pobočka v Olomouci ze dne 3. 6. 2024 se snižuje státní příspěvek na výkon pěstounské péče na rok 2024, který bude město Litovel vracet na účet Úřadu práce."
+    },
+    {
+      "title": "Rozpočtová změna č. 54/2024/RM",
+      "text": "Rozpočtová změna na základě požadavku z odboru MHaSI řeší přesun finančních prostředků na vypracování hydrogeologického posudku v rámci připravované PD chodníku k návsi v místní části Rozvadovice"
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 55/2024/RM řeší na základě požadavku z odboru MHaSI navýšení finančních",
+      "text": "prostředků na pokrytí celkových nákladů na pořízení nových herních prvků na dětské hřiště v Nové Vsi."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2024/RM",
+      "text": "Na základě požadavku ředitelky MŠ Frištenského a souhlasu odboru ŠKS byla vyčleněna část finančních prostředků ze schváleného neinvestičního příspěvku na rok 2024 pro MŠ Frištenského a přiznána jako příspěvek investiční na pořízení herních prvků do školní zahrady."
+    },
+    {
+      "title": "Rozpočtová změna č. 57/2024/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny,a.s. Jedná se o pojistné plnění z pojistné události, která vznikla 29.3.2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 58/2024/RM",
+      "text": "Ve schváleném rozpočtu na rok 2024 má město Litovel na odboru Životního prostředí vyčleněny finanční prostředky pro DSO Region Moravská cesta na zajištění společného postupu při likvidaci komárů v Litovelském Pomoraví. RZ řeší, po konzultaci s účetní DSO, správné zatřídění výdaje dle vyhlášky o rozpočtové skladbě, protože se jedná o transfer, který je předmětem konsolidace mezi účetními jednotkami."
+    },
+    {
+      "title": "Rozpočtová změna č. 59/2024/RM",
+      "text": "Město Litovel obdrželo od Olomouckého kraje účelovou neinvestiční dotaci pro příspěvkovou organizaci Městský klub Litovel na akci Služby TIC Litovel 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 60/2024/RM",
+      "text": "Město Litovel poskytlo dar z.s. ADETO na úhradu nákladů spojených s akcí „Starám se o svoji řeku“, která se uskutečnila 14.6.2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._12_2024_schvalene_radou_mesta_litovel_dne_27._cervna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 12/2024 schválené Radou města Litovel\ndne 27. června 2024.\nRozpočtové opatření bylo schváleno na 37.schůzi Rady města Litovel dne 27. června 2024 na základě usnesení\n1096/37/2024, 1110/37/2024 a 1133/37/2024.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace\n4116 13010 -39 600,00\n(RZ 53/2024/RM)\nPřijaté pojistné plnění\n6320 2322 6 311,00\n(RZ 57/2024/RM)\nÚčelová neinvestiční dotace\n4122 582 35 000,00\n(RZ 59/2024/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVýkon pěstounské péče\n4339 5169 13010 5 000 566 -39 600,00\n(RZ 53/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -24 200,00\n(RZ 54/2024/RM)\nRozvadovice - chodník na návsi\n2219 6121 304 2 030 000 24 200,00\n(RZ 54/2024/RM)\nNová Ves - modernizace a legalizace\n3412 6121 303 2 030 303 -22 582,00\nsportovního hřiště (RZ 55/2024/RM)\nNová Ves - dětské hřiště\n3421 6122 303 2 033 470 22 582,00\n(RZ 55/2024/RM)\nMŠ Frištenského - neinvestiční\n3111 5331 49 4 000 000 -118 000,00\npříspěvek (RZ 56/2024/RM)\nMŠ Frištenského - investiční příspěvek\n3111 6351 49 4 000 000 118 000,00\n(RZ 56/2024/RM)\nVeřejné osvětlení - opravy a udržování\n3631 5171 3 003 559 6 311,00\n(RZ 57/2024/RM)\nLikvidace komárů - nákup služeb\n1014 5169 7 000 700 -189 340,00\n(RZ 58/2024/RM)\nNeinvestiční transfer DSO Region\n1014 5329 7 003 115 189 340,00\nMoravská cesta (RZ 58/2024/RM)\nPřevod účelové dotace Městskému\n3392 5336 582 44 4 000 000 35 000,00\nklubu (RZ 59/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 60/2024/RM)\nADETO,z.s.-úhr.nákladů spojených s\n3429 5222 4 000 000 5 000,00 akcí \"Starám se o svoji řeku\"\n(RZ 60/2024/RM)\nRZ 53/2024/RM\nRozhodnutím Úřadu práce České republiky – Krajská pobočka v Olomouci ze dne 3. 6. 2024 se snižuje státní\npříspěvek na výkon pěstounské péče na rok 2024, který bude město Litovel vracet na účet Úřadu práce.\nRZ 54/2024/RM\nRozpočtová změna na základě požadavku z odboru MHaSI řeší přesun finančních prostředků na vypracování\nhydrogeologického posudku v rámci připravované PD chodníku k návsi v místní části Rozvadovice\nRZ 55/2024/RM\nRozpočtová změna č. 55/2024/RM řeší na základě požadavku z odboru MHaSI navýšení finančních\nprostředků na pokrytí celkových nákladů na pořízení nových herních prvků na dětské hřiště v Nové Vsi.\nRZ 56/2024/RM\nNa základě požadavku ředitelky MŠ Frištenského a souhlasu odboru ŠKS byla vyčleněna část finančních\nprostředků ze schváleného neinvestičního příspěvku na rok 2024 pro MŠ Frištenského a přiznána jako\npříspěvek investiční na pořízení herních prvků do školní zahrady.\nRZ 57/2024/RM\nNa účet města Litovel byla připsaná platba od Hasičské vzájemné pojišťovny,a.s. Jedná se o pojistné plnění\nz pojistné události, která vznikla 29.3.2024.\nRZ 58/2024/RM\nVe schváleném rozpočtu na rok 2024 má město Litovel na odboru Životního prostředí vyčleněny finanční\nprostředky pro DSO Region Moravská cesta na zajištění společného postupu při likvidaci komárů v Litovelském\nPomoraví. RZ řeší, po konzultaci s účetní DSO, správné zatřídění výdaje dle vyhlášky o rozpočtové skladbě,\nprotože se jedná o transfer, který je předmětem konsolidace mezi účetními jednotkami.\nRZ 59/2024/RM\nMěsto Litovel obdrželo od Olomouckého kraje účelovou neinvestiční dotaci pro příspěvkovou organizaci\nMěstský klub Litovel na akci Služby TIC Litovel 2024.\nRZ 60/2024/RM\nMěsto Litovel poskytlo dar z.s. ADETO na úhradu nákladů spojených s akcí „Starám se o svoji řeku“, která\nse uskutečnila 14.6.2024.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 4.7. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1110/37/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "53/2024/RM",
+        "54/2024/RM",
+        "55/2024/RM",
+        "56/2024/RM",
+        "57/2024/RM",
+        "58/2024/RM"
+      ]
+    },
+    {
+      "resolution_id": "RM/1133/37/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "59/2024/RM"
+      ]
+    }
+  ]
+}

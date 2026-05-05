@@ -1,0 +1,415 @@
+{
+  "id": "RO/1/2022",
+  "number": 1,
+  "year": 2022,
+  "approval_date": "2022-01-27",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 69,
+    "type": "schůzi",
+    "date": "2022-01-27"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "1/2022/RM",
+    "10/2022/RM",
+    "11/2022/RM",
+    "12/2022/RM",
+    "13/2022/RM",
+    "14/2022/RM",
+    "15/2022/RM",
+    "16/2022/RM",
+    "17/2022/RM",
+    "18/2022/RM",
+    "19/2022/RM",
+    "2/2022/RM",
+    "20/2022/RM",
+    "3/2022/RM",
+    "4/2022/RM",
+    "5/2022/RM",
+    "6/2022/RM",
+    "7/2022/RM",
+    "8/2022/RM",
+    "9/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "1/2022/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "216 000,00",
+          "amount_value": 216000.0,
+          "description": "Finanční příspěvek na výkon agendy SPOD (RZ 1/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 566"
+          ],
+          "amount": "54 000,00",
+          "amount_value": 54000.0,
+          "description": "Výkon agendy SPOD (RZ 1/2022/RM"
+        },
+        {
+          "budget_change_id": "1/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 536"
+          ],
+          "amount": "54 000,00",
+          "amount_value": 54000.0,
+          "description": "Výkon agendy SPOD (RZ 1/2022/RM"
+        },
+        {
+          "budget_change_id": "1/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 556"
+          ],
+          "amount": "54 000,00",
+          "amount_value": 54000.0,
+          "description": "Výkon agendy SPOD (RZ 1/2022/RM"
+        },
+        {
+          "budget_change_id": "1/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 562"
+          ],
+          "amount": "54 000,00",
+          "amount_value": 54000.0,
+          "description": "Výkon agendy SPOD (RZ 1/2022/RM"
+        },
+        {
+          "budget_change_id": "2/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-438 000,00",
+          "amount_value": -438000.0,
+          "description": "Transfery,dary,příspěvky dle rozhodnutí RM (RZ 2/2022/RM - RZ 20/2022/RM"
+        },
+        {
+          "budget_change_id": "2/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Český rybářský svaz Litovel-dotace na činnost (RZ 2/2022/RM"
+        },
+        {
+          "budget_change_id": "3/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Český svaz chovatelů, Litovel -dotace na činnost (RZ 3/2022/RM"
+        },
+        {
+          "budget_change_id": "4/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Český zahrádkářský svaz Litovel -dotace na činnost (RZ 4/2022/RM"
+        },
+        {
+          "budget_change_id": "5/2022/RM",
+          "raw_codes": [
+            "4357",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Domov se zvláštním režimem Bílsko - dotace na činnost (RZ 5/2022/RM"
+        },
+        {
+          "budget_change_id": "6/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5339",
+            "4 000 407"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Dům dětí a mládeže -dotace na činnost (RZ 6/2022/RM"
+        },
+        {
+          "budget_change_id": "7/2022/RM",
+          "raw_codes": [
+            "3121",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Gymnázium Jana Opletala-dotace na činnost (RZ 7/2022/RM"
+        },
+        {
+          "budget_change_id": "8/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "Hanácký petanque klub-dotace na činnost (RZ 8/2022/RM"
+        },
+        {
+          "budget_change_id": "9/2022/RM",
+          "raw_codes": [
+            "4379",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Jak Dál? -dar na podporu dětí (RZ 9/2022/RM"
+        },
+        {
+          "budget_change_id": "10/2022/RM",
+          "raw_codes": [
+            "4379",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Linka bezpečí - dar na podporu činnosti (RZ 10/2022/RM"
+        },
+        {
+          "budget_change_id": "11/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "38 000,00",
+          "amount_value": 38000.0,
+          "description": "Historický spolek Kirri -dotace k zahájení turistické sezony (RZ 11/2022/RM"
+        },
+        {
+          "budget_change_id": "12/2022/RM",
+          "raw_codes": [
+            "3523",
+            "6359",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Odborný léčebný ústav Paseka-dotace na vybavení ústavu (RZ 12/2022/RM"
+        },
+        {
+          "budget_change_id": "14/2022/RM",
+          "raw_codes": [
+            "3541",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Společnost Podané ruce- dotace na činnost (RZ 14/2022/RM"
+        },
+        {
+          "budget_change_id": "15/2022/RM",
+          "raw_codes": [
+            "4371",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Společnost pro ranou péči- dotace na činnost (RZ 15/2022/RM"
+        },
+        {
+          "budget_change_id": "16/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Spolek rodičů a přátel ZŠ Jungmannova - dotace na zajištění dětského dne (RZ 16/2022/RM"
+        },
+        {
+          "budget_change_id": "17/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "TJ TATRAN Litovel-dotace- Mini Cup (RZ 17/2022/RM"
+        },
+        {
+          "budget_change_id": "18/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Hanácký jezdecký klub Litovel -dotace na činnost (RZ 18/2022/RM"
+        },
+        {
+          "budget_change_id": "19/2022/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Motorsport Hlavinka - dotace na činnost (RZ 19/2022/RM"
+        },
+        {
+          "budget_change_id": "20/2022/RM",
+          "raw_codes": [
+            "3543",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "NA KOLE DĚTEM-dotace na zajištění 13.roč.Na kole dětem (RZ 20/2022/RM"
+        },
+        {
+          "budget_change_id": "13/2022/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Obec Cholina-dar na provoz pošty (RZ 13/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 1/2022/RM",
+      "text": "Město Litovel obdrželo na základě rozhodnutí Úřadu práce České republiky – Krajské pobočky v Olomouci státní příspěvek na výkon pěstounské péče na rok 2022, za účelem pokrytí nákladů na zajišťování pomoci osobám pečujícím, osobám v evidenci a svěřeným dětem, jakož i na provádění dohledu nad výkonem pěstounské péče."
+    },
+    {
+      "title": "Rozpočtová změna č. 2/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Českému rybářskému svazu Litovel na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 3/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Českému svazu chovatelů Litovel na podporu činnosti a na nové výstavní klece."
+    },
+    {
+      "title": "Rozpočtová změna č. 4/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Českému zahrádkářskému svazu Litovel na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 5/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Domovu se zvláštním režimem Bílsko na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 6/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Domu dětí a mládeže na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 7/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Gymnáziu Jana Opletala Litovel na podporu činnosti mládežnického pěveckého sboru."
+    },
+    {
+      "title": "Rozpočtová změna č. 8/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Hanáckému petanque klubu na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 9/2022/RM",
+      "text": "Město Litovel poskytlo dar spolku Jak Dál? na doprovázení a podporu dětí v krizové situaci, …"
+    },
+    {
+      "title": "Rozpočtová změna č. 10/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Českému zahrádkářskému svazu Litovel na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 11/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Historickému spolku Kirri na jednorázovou akci historického charakteru při zahájení turistické sezóny."
+    },
+    {
+      "title": "Rozpočtová změna č. 12/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Odbornému léčebnému ústavu Paseka na pořízení vybavení ústavu."
+    },
+    {
+      "title": "Rozpočtová změna č. 13/2022/RM",
+      "text": "Město Litovel poskytlo dar Obci Cholina na provoz Pošty Partner v Cholině v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 14/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Společnosti Podané ruce na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 15/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Společnosti pro ranou péči, pobočku pro rodinu Olomouc na podporu činnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 16/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Spolku rodičů a přátel ZŠ Jungmannova na organizační zajištění dětského dne „Minitoulky“."
+    },
+    {
+      "title": "Rozpočtová změna č. 17/2022/RM",
+      "text": "Město Litovel poskytlo dotaci TJ TATRAN Litovel na organizační zajištění Mini cupu."
+    },
+    {
+      "title": "Rozpočtová změna č. 18/2022/RM",
+      "text": "Město Litovel poskytlo dotaci Hanáckému jezdeckému klubu Litovel na činnost jezdeckého klubu."
+    },
+    {
+      "title": "Rozpočtová změna č. 19/2022/RM",
+      "text": "Město Litovel poskytlo dotaci spolku Motorsport Hlavinka na činnost spolku."
+    },
+    {
+      "title": "Rozpočtová změna č. 20/2022/RM",
+      "text": "Město Litovel poskytlo dotaci nadačnímu fondu Josefa Zimovčáka NA KOLE DĚTEM na organizační zajištění 13.ročníku Na kole dětem s trasou přes Litovel dne 8.6.2022."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._1_2022_schvalene_radou_mesta_litovel_dne_27._ledna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 1/2022 schválené Radou města Litovel dne 27.1.2022.\nRozpočtové opatření bylo schváleno na 69. schůzi Rady města Litovel dne 27. ledna 2022 na základě usnesení\n2303/69 a 2319/69.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nFinanční příspěvek na výkon agendy\n4116 13010 216 000,00\nSPOD (RZ 1/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n4339 5169 13010 5 000 566 54 000,00 Výkon agendy SPOD (RZ 1/2022/RM)\n4339 5169 13010 5 000 536 54 000,00 Výkon agendy SPOD (RZ 1/2022/RM)\n4339 5169 13010 5 000 556 54 000,00 Výkon agendy SPOD (RZ 1/2022/RM)\n4339 5169 13010 5 000 562 54 000,00 Výkon agendy SPOD (RZ 1/2022/RM)\nTransfery,dary,příspěvky dle rozhodnutí\n3429 5901 4 000 000 -438 000,00\nRM (RZ 2/2022/RM - RZ 20/2022/RM)\nČeský rybářský svaz Litovel-dotace na\n3429 5222 4 000 000 20 000,00\nčinnost (RZ 2/2022/RM)\nČeský svaz chovatelů, Litovel -dotace na\n3429 5222 4 000 000 25 000,00\nčinnost (RZ 3/2022/RM)\nČeský zahrádkářský svaz Litovel -dotace\n3429 5222 4 000 000 10 000,00\nna činnost (RZ 4/2022/RM)\nDomov se zvláštním režimem Bílsko -\n4357 5221 4 000 000 50 000,00\ndotace na činnost (RZ 5/2022/RM)\nDům dětí a mládeže -dotace na činnost\n3421 5339 4 000 407 35 000,00\n(RZ 6/2022/RM)\nGymnázium Jana Opletala-dotace na\n3121 5339 4 000 000 15 000,00\nčinnost (RZ 7/2022/RM)\nHanácký petanque klub-dotace na činnost\n3429 5222 4 000 000 7 000,00\n(RZ 8/2022/RM)\nJak Dál? -dar na podporu dětí\n4379 5222 4 000 000\n5 000,00 (RZ 9/2022/RM)\nLinka bezpečí - dar na podporu činnosti\n4379 5222 4 000 000\n3 000,00 (RZ 10/2022/RM)\nHistorický spolek Kirri -dotace k zahájení\n3429 5222 4 000 000\n38 000,00 turistické sezony (RZ 11/2022/RM)\nOdborný léčebný ústav Paseka-dotace na\n3523 6359 4 000 000\n40 000,00 vybavení ústavu (RZ 12/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nObec Cholina-dar na provoz pošty\n3900 5222 4 000 000\n10 000,00 (RZ 13/2022/RM)\nSpolečnost Podané ruce- dotace na činnost\n3541 5221 4 000 000\n40 000,00 (RZ 14/2022/RM)\nSpolečnost pro ranou péči- dotace na\n4371 5222 4 000 000\n10 000,00 činnost (RZ 15/2022/RM)\nSpolek rodičů a přátel ZŠ Jungmannova -\n3421 5222 4 000 000 dotace na zajištění dětského dne\n10 000,00 (RZ 16/2022/RM)\nTJ TATRAN Litovel-dotace- Mini Cup\n3419 5222\n4 000 423 20 000,00 (RZ 17/2022/RM)\nHanácký jezdecký klub Litovel -dotace na\n3419 5222\n4 000 000 50 000,00 činnost (RZ 18/2022/RM)\nMotorsport Hlavinka - dotace na činnost\n3419 5222\n4 000 000 40 000,00 (RZ 19/2022/RM)\nNA KOLE DĚTEM-dotace na zajištění\n3543 5222\n4 000 000 10 000,00 13.roč.Na kole dětem (RZ 20/2022/RM)\nRZ 1/2022/RM\nMěsto Litovel obdrželo na základě rozhodnutí Úřadu práce České republiky – Krajské pobočky v Olomouci státní\npříspěvek na výkon pěstounské péče na rok 2022, za účelem pokrytí nákladů na zajišťování pomoci osobám\npečujícím, osobám v evidenci a svěřeným dětem, jakož i na provádění dohledu nad výkonem pěstounské péče.\nRZ 2/2022/RM\nMěsto Litovel poskytlo dotaci Českému rybářskému svazu Litovel na podporu činnosti.\nRZ 3/2022/RM\nMěsto Litovel poskytlo dotaci Českému svazu chovatelů Litovel na podporu činnosti a na nové výstavní klece.\nRZ 4/2022/RM\nMěsto Litovel poskytlo dotaci Českému zahrádkářskému svazu Litovel na podporu činnosti.\nRZ 5/2022/RM\nMěsto Litovel poskytlo dotaci Domovu se zvláštním režimem Bílsko na podporu činnosti.\nRZ 6/2022/RM\nMěsto Litovel poskytlo dotaci Domu dětí a mládeže na podporu činnosti.\nRZ 7/2022/RM\nMěsto Litovel poskytlo dotaci Gymnáziu Jana Opletala Litovel na podporu činnosti mládežnického pěveckého\nsboru.\nRZ 8/2022/RM\nMěsto Litovel poskytlo dotaci Hanáckému petanque klubu na podporu činnosti.\nRZ 9/2022/RM\nMěsto Litovel poskytlo dar spolku Jak Dál? na doprovázení a podporu dětí v krizové situaci, …\nRZ 10/2022/RM\nMěsto Litovel poskytlo dotaci Českému zahrádkářskému svazu Litovel na podporu činnosti.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 11/2022/RM\nMěsto Litovel poskytlo dotaci Historickému spolku Kirri na jednorázovou akci historického charakteru při\nzahájení turistické sezóny.\nRZ 12/2022/RM\nMěsto Litovel poskytlo dotaci Odbornému léčebnému ústavu Paseka na pořízení vybavení ústavu.\nRZ 13/2022/RM\nMěsto Litovel poskytlo dar Obci Cholina na provoz Pošty Partner v Cholině v roce 2022.\nRZ 14/2022/RM\nMěsto Litovel poskytlo dotaci Společnosti Podané ruce na podporu činnosti.\nRZ 15/2022/RM\nMěsto Litovel poskytlo dotaci Společnosti pro ranou péči, pobočku pro rodinu Olomouc na podporu činnosti.\nRZ 16/2022/RM\nMěsto Litovel poskytlo dotaci Spolku rodičů a přátel ZŠ Jungmannova na organizační zajištění dětského dne\n„Minitoulky“.\nRZ 17/2022/RM\nMěsto Litovel poskytlo dotaci TJ TATRAN Litovel na organizační zajištění Mini cupu.\nRZ 18/2022/RM\nMěsto Litovel poskytlo dotaci Hanáckému jezdeckému klubu Litovel na činnost jezdeckého klubu.\nRZ 19/2022/RM\nMěsto Litovel poskytlo dotaci spolku Motorsport Hlavinka na činnost spolku.\nRZ 20/2022/RM\nMěsto Litovel poskytlo dotaci nadačnímu fondu Josefa Zimovčáka NA KOLE DĚTEM na organizační zajištění\n13.ročníku Na kole dětem s trasou přes Litovel dne 8.6.2022.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 10.2.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": []
+}

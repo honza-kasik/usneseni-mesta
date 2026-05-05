@@ -29,7 +29,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 5/2026/ZM)"
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 5/2026/ZM"
         },
         {
           "budget_change_id": "6/2026/ZM",
@@ -38,7 +38,7 @@
           ],
           "amount": "1 793 333,00",
           "amount_value": 1793333.0,
-          "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 6/2026/ZM)"
+          "description": "změna stavu krátkodobých prostředků na bankovních účtech .. (RZ 6/2026/ZM"
         }
       ]
     },
@@ -55,7 +55,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "jistina dle dražební vyhlášky - dům na ul. 1. máje (RZ 5/2026/ZM)"
+          "description": "jistina dle dražební vyhlášky - dům na ul. 1. máje (RZ 5/2026/ZM"
         },
         {
           "budget_change_id": "6/2026/ZM",
@@ -66,7 +66,7 @@
           ],
           "amount": "1 793 333,00",
           "amount_value": 1793333.0,
-          "description": "dům na ul. 1. máje (RZ 6/2026/ZM)"
+          "description": "dům na ul. 1. máje (RZ 6/2026/ZM"
         }
       ]
     }

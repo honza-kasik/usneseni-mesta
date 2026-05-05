@@ -1,0 +1,184 @@
+{
+  "id": "RO/22/2023",
+  "number": 22,
+  "year": 2023,
+  "approval_date": "2023-12-07",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 26,
+    "type": "schůzi",
+    "date": "2023-12-07"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "118/2023/RM",
+    "119/2023/RM",
+    "120/2023/RM",
+    "121/2023/RM",
+    "122/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "118/2023/RM",
+          "raw_codes": [
+            "3729",
+            "5169",
+            "7 000 782"
+          ],
+          "amount": "-180 000,00",
+          "amount_value": -180000.0,
+          "description": "Haňovice II.etapa - zpracování oznámení záměru pro zjišťovací řízení (RZ 118/2023/RM"
+        },
+        {
+          "budget_change_id": "118/2023/RM",
+          "raw_codes": [
+            "3743",
+            "6121",
+            "7 000 782"
+          ],
+          "amount": "180 000,00",
+          "amount_value": 180000.0,
+          "description": "Dobývací prostor Haňovice - II.etapa (RZ 118/2023/RM"
+        },
+        {
+          "budget_change_id": "119/2023/RM",
+          "raw_codes": [
+            "3727",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "-106 802,37",
+          "amount_value": -106802.37,
+          "description": "Prevence vzniku odpadů - MAS Moravská cesta - předfinancování projektu (RZ 119/2023/RM"
+        },
+        {
+          "budget_change_id": "119/2023/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "106 802,37",
+          "amount_value": 106802.37,
+          "description": "Svoz komunálního odpadu (RZ 119/2023/RM"
+        },
+        {
+          "budget_change_id": "120/2023/RM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "-31 612,85",
+          "amount_value": -31612.85,
+          "description": "Revitalizace papírenské vody (RZ 120/2023/RM"
+        },
+        {
+          "budget_change_id": "120/2023/RM",
+          "raw_codes": [
+            "1014",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "31 612,85",
+          "amount_value": 31612.85,
+          "description": "Celoplošná deratizace (RZ 120/2023/RM"
+        },
+        {
+          "budget_change_id": "121/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "14 000 000"
+          ],
+          "amount": "-61 000,00",
+          "amount_value": -61000.0,
+          "description": "Vratky přeplatků minulých období, kaucí,….(RZ 121/2023/RM"
+        },
+        {
+          "budget_change_id": "121/2023/RM",
+          "raw_codes": [
+            "3733",
+            "5169",
+            "7 000 718"
+          ],
+          "amount": "61 000,00",
+          "amount_value": 61000.0,
+          "description": "Postsanační monitoring skládky v Nasobůrkách (RZ 121/2023/RM"
+        },
+        {
+          "budget_change_id": "122/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "14 000 000"
+          ],
+          "amount": "-40 000,00",
+          "amount_value": -40000.0,
+          "description": "Vratky přeplatků minulých období, kaucí,….(RZ 122/2023/RM"
+        },
+        {
+          "budget_change_id": "122/2023/RM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "7 000 781"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Solární sušárna kalů -transfer zvláště chráněných živočichů, biologický dozor (RZ 122/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 118/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 118/2023/RM řeší přesun finančních prostředků mezi paragrafy určenými na",
+      "text": "revitalizaci dobývacího prostoru II. etapy v Haňovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 119/2023/RM",
+      "text": "Město Litovel se podílelo v rámci DSO Moravská cesta na projektu: Předcházení vzniku odpadů – nákup vratných kelímků a myčky na nádobí. Finanční prostředky, které zůstaly městu Litovel z předfinancování projektu se dle návrhu Odboru životního prostředí použijí na svoz komunálního odpadu."
+    },
+    {
+      "title": "Rozpočtová změna č. 120/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 120/2023/RM řeší převod finančních prostředků, které zůstaly po realizaci projektu:",
+      "text": "Revitalizace Papírenské vody na náklady spojené s deratizací, která se provádí často koncem roku."
+    },
+    {
+      "title": "Rozpočtová změna č. 121/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky na každoroční postsanační monitoring skládky v Nasobůrkách, který se provádí po realizaci projektu : Dekontaminace skládky v Nasobůrkách na základě rozhodnutí Krajského úřadu Olomouckého kraje, odboru ŽP a zemědělství."
+    },
+    {
+      "title": "Rozpočtová změna č. 122/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky pro přípravu lokality na stavbu Solární sušárny kalů. Bylo potřeba provést záchranný transfer zvláště chráněných živočichů včetně biologického dozoru. Práce byly poměrně náročné, jedná se o lokalitu, kde byl původně lužní les."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._22_2023_schvalene_radou_mesta_litovel_dne_7._prosince_2023..pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 22/2023 schválené Radou města Litovel\ndne 7. prosince 2023.\nRozpočtové opatření bylo schváleno na 26. schůzi Rady města Litovel dne 7. prosince 2023 na základě\nusnesení 737/26/2023.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nHaňovice II.etapa - zpracování oznámení\n3729 5169 7 000 782 -180 000,00 záměru pro zjišťovací řízení\n(RZ 118/2023/RM)\nDobývací prostor Haňovice - II.etapa\n3743 6121 7 000 782 180 000,00\n(RZ 118/2023/RM)\nPrevence vzniku odpadů - MAS Moravská\n3727 5169 7 000 000 -106 802,37 cesta - předfinancování projektu\n(RZ 119/2023/RM)\nSvoz komunálního odpadu\n3722 5169 7 000 000 106 802,37\n(RZ 119/2023/RM)\nRevitalizace papírenské vody\n2333 5169 7 000 000 -31 612,85\n(RZ 120/2023/RM)\n1014 5169 7 000 000 31 612,85 Celoplošná deratizace (RZ 120/2023/RM)\nVratky přeplatků minulých období,\n6409 5901 14 000 000 -61 000,00\nkaucí,….(RZ 121/2023/RM)\nPostsanační monitoring skládky v\n3733 5169 7 000 718 61 000,00\nNasobůrkách (RZ 121/2023/RM)\nVratky přeplatků minulých období,\n6409 5901 14 000 000 -40 000,00\nkaucí,….(RZ 122/2023/RM)\nSolární sušárna kalů -transfer zvláště\n2329 6121 7 000 781 40 000,00 chráněných živočichů, biologický dozor\n(RZ 122/2023/RM)\nRZ 118/2023/RM\nRozpočtová změna č. 118/2023/RM řeší přesun finančních prostředků mezi paragrafy určenými na\nrevitalizaci dobývacího prostoru II. etapy v Haňovicích.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 119/2023/RM\nMěsto Litovel se podílelo v rámci DSO Moravská cesta na projektu: Předcházení vzniku odpadů – nákup\nvratných kelímků a myčky na nádobí. Finanční prostředky, které zůstaly městu Litovel z předfinancování\nprojektu se dle návrhu Odboru životního prostředí použijí na svoz komunálního odpadu.\nRZ 120/2023/RM\nRozpočtová změna č. 120/2023/RM řeší převod finančních prostředků, které zůstaly po realizaci projektu:\nRevitalizace Papírenské vody na náklady spojené s deratizací, která se provádí často koncem roku.\nRZ 121/2023/RM\nMěsto Litovel poskytlo finanční prostředky na každoroční postsanační monitoring skládky v Nasobůrkách,\nkterý se provádí po realizaci projektu : Dekontaminace skládky v Nasobůrkách na základě rozhodnutí\nKrajského úřadu Olomouckého kraje, odboru ŽP a zemědělství.\nRZ 122/2023/RM\nMěsto Litovel poskytlo finanční prostředky pro přípravu lokality na stavbu Solární sušárny kalů. Bylo\npotřeba provést záchranný transfer zvláště chráněných živočichů včetně biologického dozoru. Práce byly\npoměrně náročné, jedná se o lokalitu, kde byl původně lužní les.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 20. 12. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/737/26/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "118/2023/RM",
+        "119/2023/RM",
+        "120/2023/RM",
+        "121/2023/RM",
+        "122/2023/RM"
+      ]
+    }
+  ]
+}

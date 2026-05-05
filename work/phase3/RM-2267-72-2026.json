@@ -1,0 +1,23 @@
+{
+  "id": "RM/2267/72/2026",
+  "datum": "2026-04-23",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí žádost o zpětné proplacení vodného a stočného provozovatele restaurace U Tří Zlatých Trojek,\nTři Dvory."
+    },
+    {
+      "label": "b",
+      "text": "ukládá pracovníkům krizového řízení projednat s provozovatelem restaurace rozsah vyrovnání spotřeby vody\nv objektu SDH Tři Dvory za poslední tři roky a předložit návrh radě města."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

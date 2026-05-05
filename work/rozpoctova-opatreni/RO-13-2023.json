@@ -1,0 +1,407 @@
+{
+  "id": "RO/13/2023",
+  "number": 13,
+  "year": 2023,
+  "approval_date": "2023-07-20",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 17,
+    "type": "schůzi",
+    "date": "2023-07-20"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "61/2023/RM",
+    "62/2023/RM",
+    "63/2023/RM",
+    "64/2023/RM",
+    "65/2023/RM",
+    "66/2023/RM",
+    "67/2023/RM",
+    "68/2023/RM",
+    "69/2023/RM",
+    "70/2023/RM",
+    "71/2023/RM",
+    "72/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "61/2023/RM",
+          "raw_codes": [
+            "4122",
+            "555"
+          ],
+          "amount": "70 000,00",
+          "amount_value": 70000.0,
+          "description": "Účelová neinvestiční dotace (RZ 61/2023/RM"
+        },
+        {
+          "budget_change_id": "62/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "3 023,00",
+          "amount_value": 3023.0,
+          "description": "Přijaté pojistné plnění (RZ 62/2023/RM"
+        },
+        {
+          "budget_change_id": "64/2023/RM",
+          "raw_codes": [
+            "3429",
+            "2321"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Přijatý peněžitý neinvestiční dar (RZ 64/2023/RM"
+        },
+        {
+          "budget_change_id": "66/2023/RM",
+          "raw_codes": [
+            "4122",
+            "555",
+            "4 000 436"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Účelová neinvestiční dotace (RZ 66/2023/RM"
+        },
+        {
+          "budget_change_id": "67/2023/RM",
+          "raw_codes": [
+            "3319",
+            "2321"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Přijatý neinvestiční dar (RZ 67/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "61/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "555",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "70 000,00",
+          "amount_value": 70000.0,
+          "description": "Převod dotačních prostředků Městskému klubu (RZ 61/2023/RM"
+        },
+        {
+          "budget_change_id": "62/2023/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "3 023,00",
+          "amount_value": 3023.0,
+          "description": "VO - pojistné události (RZ 62/2023/RM"
+        },
+        {
+          "budget_change_id": "63/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Savín - drobná vydání (RZ 63/2023/RM"
+        },
+        {
+          "budget_change_id": "63/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "-6 400,00",
+          "amount_value": -6400.0,
+          "description": "Savín - opravy a udržování (RZ 63/2023/RM"
+        },
+        {
+          "budget_change_id": "63/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "-3 081,00",
+          "amount_value": -3081.0,
+          "description": "Savín - nákup služeb (RZ 63/2023/RM"
+        },
+        {
+          "budget_change_id": "63/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "311",
+            "2 033 470"
+          ],
+          "amount": "14 481,00",
+          "amount_value": 14481.0,
+          "description": "Savín - oprava stolu na stolní tenis (RZ 63/2023/RM"
+        },
+        {
+          "budget_change_id": "65/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Březové - drobná vydání, materiál (RZ 65/2023/RM"
+        },
+        {
+          "budget_change_id": "65/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "305",
+            "2 030 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Březové - drobná vydání,služby (RZ 65/2023/RM"
+        },
+        {
+          "budget_change_id": "65/2023/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 030 305"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Březové - veřejné WC na hřišti,dokončení PD a realizace (RZ 65/2023/RM"
+        },
+        {
+          "budget_change_id": "66/2023/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "555",
+            "4 0004 36"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Čerpání účelové neinvestiční dotace (RZ 66/2023/RM"
+        },
+        {
+          "budget_change_id": "67/2023/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "4 000 436"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Litovelské slavnosti 2023 (RZ 67/2023/RM"
+        },
+        {
+          "budget_change_id": "68/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 68/2023/RM"
+        },
+        {
+          "budget_change_id": "68/2023/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "306",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Víska - organizační zajištění hasičské soutěže veteránů (RZ 68/2023/RM"
+        },
+        {
+          "budget_change_id": "69/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-14 000,00",
+          "amount_value": -14000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 69/2023/RM"
+        },
+        {
+          "budget_change_id": "69/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5499",
+            "4 000 000"
+          ],
+          "amount": "14 000,00",
+          "amount_value": 14000.0,
+          "description": "P.V. - dotace na organizační zajištění soutěže ve vaření kotlíkového guláše -akce Gulášefest (RZ 69/2023/RM"
+        },
+        {
+          "budget_change_id": "70/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-15 000,00",
+          "amount_value": -15000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 70/2023/RM"
+        },
+        {
+          "budget_change_id": "70/2023/RM",
+          "raw_codes": [
+            "3121",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Gymnázium Jana Opletala - podpora činnosti pěveckého sboru (RZ 70/2023/RM"
+        },
+        {
+          "budget_change_id": "71/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 800,00",
+          "amount_value": -2800.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 71/2023/RM"
+        },
+        {
+          "budget_change_id": "71/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "302",
+            "4 000 000"
+          ],
+          "amount": "2 800,00",
+          "amount_value": 2800.0,
+          "description": "K.A. - dar na organizační zajištění dětského dne (RZ 71/2023/RM"
+        },
+        {
+          "budget_change_id": "72/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 72/2023/RM"
+        },
+        {
+          "budget_change_id": "72/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "T.R. - dar na organizační zajištění turnaje v malé kopané (RZ 72/2023/RM"
+        },
+        {
+          "budget_change_id": "64/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Čerpání přijatého neinvestičního daru dle darovací smlouvy (RZ 64/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 61/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Olomouckého kraje. Dle rozpočtového opatření, které město Litovel obdrželo se jedná o účelovou neinvestiční dotaci pro Městský klub Litovel na částečnou úhradu výdajů na akci „Hanácké Benátky 2023“."
+    },
+    {
+      "title": "Rozpočtová změna č. 62/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od ČSOB pojišťovny. Jedná se o pojistné plnění z pojistné události, která vznikla dne 5.6.2023 (poškozený sloup VO v ulici Smyčkova v Litovli)."
+    },
+    {
+      "title": "Rozpočtová změna č. 63/2023/RM",
+      "text": "Rozpočtová změna č.63/2023/RM řeší přesun finanční prostředků určených k drobnému vydání OV Savín na opravu stolu na stolní tenis na sportovním hřišti v místní části Savín."
+    },
+    {
+      "title": "Rozpočtová změna č. 64/2023/RM",
+      "text": "Zastupitelstvo města Litovel svým usnesením číslo ZM/11/5/2023 schválilo Darovací smlouvu, na základě které by mělo město Litovel obdržet od společnosti Českomoravský štěrk, a.s. dar za účelem podpory kultury a vzdělávání pro město Litovel, místní část Nová Ves."
+    },
+    {
+      "title": "Rozpočtová změna č. 65/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 65/2023/RM řeší přesun finančních prostředků určených k drobnému vydání OV Březové",
+      "text": "na realizaci veřejného WC na hřišti v místní části Březové."
+    },
+    {
+      "title": "Rozpočtová změna č. 66/2023/RM",
+      "text": "Na účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci pro město Litovel na částečnou úhradu výdajů na akci „Litovelské slavnosti 2023 v rámci Dnů evropského dědictví“."
+    },
+    {
+      "title": "Rozpočtová změna č. 67/2023/RM",
+      "text": "Město Litovel obdrželo dar od společnosti Europasta SE na částečnou úhradu výdajů na akci „Litovelské slavnosti 2023 v rámci Dnů evropského dědictví“."
+    },
+    {
+      "title": "Rozpočtová změna č. 68/2023/RM",
+      "text": "Město Litovel poskytlo dar na poháry pro soutěžící družstva závodů hasičů veteránů „O pravyho kohóta z Viske“, který se konal 5.7.2023 ve Vísce."
+    },
+    {
+      "title": "Rozpočtová změna č. 69/2023/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek na organizační zajištění soutěže družstev ve vaření kotlíkového guláše na kulturně-gastronomické akci Gulášefest, která se konala dne 22.7.2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 70/2023/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek mládežnickému pěveckému sboru Palora na částečnou úhradu cestovních nákladů do Maďarska na setkání pěveckých sborů, které se uskuteční v říjnu 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 71/2023/RM",
+      "text": "Město Litovel poskytlo dar na organizační zajištění dětského dne, který se konal 10. června 2023 v Chudobíně."
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2023/RM",
+      "text": "Město Litovel poskytlo dar na organizační zajištění 20.ročníku nočního turnaje v malé kopané, který se uskuteční dne 4.8.2023 v Unčovicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._13_2023_schvalene_radou_mesta_litovel_dne_20._cervence_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 13/2023 schválené Radou města Litovel\ndne 20.července 2023.\nRozpočtové opatření bylo schváleno na 17. schůzi Rady města Litovel dne 20.července 2023 na základě\nusnesení 485/17/2023,486/17/2023,487/17/2023,495/17/2023,506/17/2023, 507/17/2023 a 509/17/2023.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace\n4122 555 70 000,00\n(RZ 61/2023/RM)\nPřijaté pojistné plnění\n6320 2322 3 023,00\n(RZ 62/2023/RM)\nPřijatý peněžitý neinvestiční\n3429 2321 100 000,00\ndar (RZ 64/2023/RM)\nÚčelová neinvestiční dotace\n4122 555 4 000 436 80 000,00\n(RZ 66/2023/RM)\nPřijatý neinvestiční dar\n3319 2321 30 000,00\n(RZ 67/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPřevod dotačních prostředků\n3392 5336 555 44 4 000 000 70 000,00 Městskému klubu\n(RZ 61/2023/RM)\nVO - pojistné události\n3631 5171 3 003 559 3 023,00\n(RZ 62/2023/RM)\nSavín - drobná vydání\n3429 5139 311 2 030 000 -5 000,00\n(RZ 63/2023/RM)\nSavín - opravy a udržování\n3392 5171 311 2 030 000 -6 400,00\n(RZ 63/2023/RM)\nSavín - nákup služeb\n3392 5169 311 2 030 000 -3 081,00\n(RZ 63/2023/RM)\nSavín - oprava stolu na stolní\n3412 5171 311 2 033 470 14 481,00\ntenis (RZ 63/2023/RM)\nČerpání přijatého\nneinvestičního daru dle\n3429 5169 303 4 000 000 100 000,00\ndarovací smlouvy\n(RZ 64/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nBřezové - drobná vydání,\n3429 5139 305 2 030 000 -5 000,00\nmateriál (RZ 65/2023/RM)\nBřezové - drobná vydání,služby\n3429 5169 305 2 030 000 -5 000,00\n(RZ 65/2023/RM)\nBřezové - veřejné WC na\n3412 6121 305 2 030 305 10 000,00 hřišti,dokončení PD a realizace\n(RZ 65/2023/RM)\nČerpání účelové neinvestiční\n3319 5169 555 4 0004 36 80 000,00\ndotace (RZ 66/2023/RM)\nLitovelské slavnosti 2023\n3319 5169 4 000 436 30 000,00\n(RZ 67/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 68/2023/RM)\nSDH Víska - organizační\n5512 5222 306 4 000 000 5 000,00 zajištění hasičské soutěže\nveteránů (RZ 68/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -14 000,00\n(RZ 69/2023/RM)\nP.V. - dotace na organizační\nzajištění soutěže ve vaření\n3429 5499 4 000 000 14 000,00\nkotlíkového guláše -akce\nGulášefest (RZ 69/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -15 000,00\n(RZ 70/2023/RM)\nGymnázium Jana Opletala -\n3121 5339 4 000 000 15 000,00 podpora činnosti pěveckého\nsboru (RZ 70/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 800,00\n(RZ 71/2023/RM)\nK.A. - dar na organizační\n3900 5492 302 4 000 000 2 800,00 zajištění dětského dne\n(RZ 71/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 72/2023/RM)\nT.R. - dar na organizační\n3419 5492 310 4 000 000 5 000,00 zajištění turnaje v malé kopané\n(RZ 72/2023/RM)\nRZ 61/2023/RM\nNa účet města Litovel byla připsaná platba od Olomouckého kraje. Dle rozpočtového opatření, které město\nLitovel obdrželo se jedná o účelovou neinvestiční dotaci pro Městský klub Litovel na částečnou úhradu\nvýdajů na akci „Hanácké Benátky 2023“.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 62/2023/RM\nNa účet města Litovel byla připsaná platba od ČSOB pojišťovny. Jedná se o pojistné plnění z pojistné události,\nkterá vznikla dne 5.6.2023 (poškozený sloup VO v ulici Smyčkova v Litovli).\nRZ 63/2023/RM\nRozpočtová změna č.63/2023/RM řeší přesun finanční prostředků určených k drobnému vydání OV Savín\nna opravu stolu na stolní tenis na sportovním hřišti v místní části Savín.\nRZ 64/2023/RM\nZastupitelstvo města Litovel svým usnesením číslo ZM/11/5/2023 schválilo Darovací smlouvu, na základě\nkteré by mělo město Litovel obdržet od společnosti Českomoravský štěrk, a.s. dar za účelem podpory kultury\na vzdělávání pro město Litovel, místní část Nová Ves.\nRZ 65/2023/RM\nRozpočtová změna č. 65/2023/RM řeší přesun finančních prostředků určených k drobnému vydání OV Březové\nna realizaci veřejného WC na hřišti v místní části Březové.\nRZ 66/2023/RM\nNa účet města Litovel byla připsaná platba od Olomouckého kraje. Jedná se o účelovou neinvestiční\ndotaci pro město Litovel na částečnou úhradu výdajů na akci „Litovelské slavnosti 2023 v rámci\nDnů evropského dědictví“.\nRZ 67/2023/RM\nMěsto Litovel obdrželo dar od společnosti Europasta SE na částečnou úhradu výdajů na akci\n„Litovelské slavnosti 2023 v rámci Dnů evropského dědictví“.\nRZ 68/2023/RM\nMěsto Litovel poskytlo dar na poháry pro soutěžící družstva závodů hasičů veteránů „O pravyho kohóta z Viske“,\nkterý se konal 5.7.2023 ve Vísce.\nRZ 69/2023/RM\nMěsto Litovel poskytlo finanční příspěvek na organizační zajištění soutěže družstev ve vaření kotlíkového guláše\nna kulturně-gastronomické akci Gulášefest, která se konala dne 22.7.2023.\nRZ 70/2023/RM\nMěsto Litovel poskytlo finanční příspěvek mládežnickému pěveckému sboru Palora na částečnou úhradu\ncestovních nákladů do Maďarska na setkání pěveckých sborů, které se uskuteční v říjnu 2023.\nRZ 71/2023/RM\nMěsto Litovel poskytlo dar na organizační zajištění dětského dne, který se konal 10. června 2023 v Chudobíně.\nRZ 72/2023/RM\nMěsto Litovel poskytlo dar na organizační zajištění 20.ročníku nočního turnaje v malé kopané, který se uskuteční\ndne 4.8.2023 v Unčovicích.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 15. 8. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

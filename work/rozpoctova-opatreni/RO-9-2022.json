@@ -1,0 +1,336 @@
+{
+  "id": "RO/9/2022",
+  "number": 9,
+  "year": 2022,
+  "approval_date": "2022-05-12",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 75,
+    "type": "schůzi",
+    "date": "2022-05-12"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "55/2022/RM",
+    "56/2022/RM",
+    "57/2022/RM",
+    "58/2022/RM",
+    "59/2022/RM",
+    "60/2022/RM",
+    "61/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "55/2022/RM",
+          "raw_codes": [
+            "2212",
+            "5171",
+            "3 003 457"
+          ],
+          "amount": "-400 000,00",
+          "amount_value": -400000.0,
+          "description": "Opravy, údržba místních komunikací (RZ 55/2022/RM"
+        },
+        {
+          "budget_change_id": "55/2022/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 626"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Litovel – Pavlínka, sítě pro RD (RZ 55/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-100 344,00",
+          "amount_value": -100344.0,
+          "description": "Nová Ves – úprava prostředí okolo odpadních nádob – po Lipou (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 621"
+          ],
+          "amount": "-38 000,00",
+          "amount_value": -38000.0,
+          "description": "Litovel ulice Sušilova – parkoviště + přeložka CETIN realizace (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5137",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Nová Ves – drobný dlouhodobý hmotný majetek (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-2 520,78",
+          "amount_value": -2520.78,
+          "description": "Nová Ves – nákup materiálu (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-14 135,22",
+          "amount_value": -14135.22,
+          "description": "Nová Ves – doplnění mobiliáře kolem zatopeného lomu – likvidace starých laviček (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5169",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "-55 000,00",
+          "amount_value": -55000.0,
+          "description": "Nová Ves – oprava pomníku padlých – II. fáze (kameny, písmo, malíř) (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "56/2022/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "303",
+            "2 033 470"
+          ],
+          "amount": "220 000,00",
+          "amount_value": 220000.0,
+          "description": "Nová Ves – dětské hřiště, nové hrací prvky (RZ 56/2022/RM"
+        },
+        {
+          "budget_change_id": "57/2022/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "MŠ Gemerská – neinvestiční příspěvek (RZ 57/2022/RM"
+        },
+        {
+          "budget_change_id": "57/2022/RM",
+          "raw_codes": [
+            "3111",
+            "6351",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "MŠ Gemerská – investiční příspěvek (RZ 57/2022/RM"
+        },
+        {
+          "budget_change_id": "58/2022/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "ZŠ Vítězná – neinvestiční příspěvek (RZ 58/2022/RM"
+        },
+        {
+          "budget_change_id": "58/2022/RM",
+          "raw_codes": [
+            "3113",
+            "6351",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "ZŠ Vítězná – investiční příspěvek (RZ 58/2022/RM"
+        },
+        {
+          "budget_change_id": "59/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Savín-dar na organizační zajištění dne pro děti (RZ 59/2022/RM"
+        },
+        {
+          "budget_change_id": "60/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "307",
+            "2 040 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Chořelice-podpora místních spolků (RZ 60/2022/RM"
+        },
+        {
+          "budget_change_id": "60/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "307",
+            "2 040 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Myslivecký spolek Unčovice-dotace na činnost v roce 2022 (RZ 60/2022/RM"
+        },
+        {
+          "budget_change_id": "60/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Unčovice-podpora místních spolků (RZ 60/2022/RM"
+        },
+        {
+          "budget_change_id": "60/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Myslivecký spolek Unčovice-dotace na činnost v roce 2022 (RZ 60/2022/RM"
+        },
+        {
+          "budget_change_id": "60/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "304",
+            "2 040 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Rozvadovice-podpora místních spolků (RZ 60/2022/RM"
+        },
+        {
+          "budget_change_id": "60/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "304",
+            "2 040 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Myslivecký spolek Unčovice-dotace na činnost v roce 2022 (RZ 60/2022/RM"
+        },
+        {
+          "budget_change_id": "61/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Transfery dle usnesení RM (RZ 61/2022/RM"
+        },
+        {
+          "budget_change_id": "61/2022/RM",
+          "raw_codes": [
+            "3312",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "SOŠ Litovel-transfer na organizační náklady hudebního minifestivalu (RZ 61/2022/RM"
+        },
+        {
+          "budget_change_id": "59/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "311",
+            "2",
+            "040",
+            "000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Savín-podpora místních spolků (RZ 59/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 55/2022/RM",
+      "text": "Rozpočtová změna 55/2022/RM dle požadavku odboru MHaSI řeší pokrytí navýšení nákladů u akce Litovel – Pavlínka, sítě pro RD. V rozpočtu na tuto akci byla podstatná část finančních prostředků již schválena RZ 24/2022/ZM ze dne 17.2.2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 56/2022/RM",
+      "text": "Dle požadavku odboru MHaSI byly přesunuty finanční prostředky v rozpočtu rozdělené osadním výborem Nová Ves k čerpání činností pro rok 2022 na pořízení nového hracího prvku a dopadové plochy na dětské hřiště v Nové Vsi. Osadní výbor Nová Ves s tímto souhlasí."
+    },
+    {
+      "title": "Rozpočtová změna č. 57/2022/RM",
+      "text": "Na základě požadavku odboru ŠKS byly finanční prostředky přesunuty z neinvestičního příspěvku na investiční z důvodu pořízení pískoviště pro MŠ Gemerská Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 58/2022/RM",
+      "text": "Na základě požadavku odboru ŠKS byly finanční prostředky přesunuty z neinvestičního příspěvku na investiční pro ZŠ Vítězná Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 59/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek spolku SDH Savín na organizační zajištění dne pro děti. OV Savín s poskytnutím příspěvku souhlasí."
+    },
+    {
+      "title": "Rozpočtová změna č. 60/2022/RM",
+      "text": "Město Litovel poskytlo na žádost Mysliveckého spolku Unčovice finanční prostředky na činnost spolku, zejména na příkrm zvěře, na opravu drobných mysliveckých zařízení, na organizační zajištění dnů pro děti a na péči o zeleň. Finanční podpora Mysliveckého spolku je poskytnuta z prostředků OV Chořelice, OV Rozvadovice a OV Unčovice, které s tímto souhlasily."
+    },
+    {
+      "title": "Rozpočtová změna č. 61/2022/RM",
+      "text": "Město Litovel na žádost ředitele SOŠ Litovel poskytlo finanční prostředky na organizační náklady minifestivalu amatérských hudebních skupin, který se uskuteční v opraveném dvoře SOŠ."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._9_2022_schvalene_radou_mesta_litovel_dne_12.kvetna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 9/2022 schválené Radou města Litovel dne 12.května 2022.\nRozpočtové opatření bylo schváleno na 75. schůzi Rady města Litovel dne 12.května 2022 na základě usnesení\n2529/75,2530/75,2533/75 a 2540/75.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nOpravy, údržba místních komunikací\n2212 5171 3 003 457 -400 000,00\n(RZ 55/2022/RM)\nLitovel – Pavlínka, sítě pro RD\n3639 6121 3 003 626 400 000,00\n(RZ 55/2022/RM)\nNová Ves – úprava prostředí okolo\n3429 5137 303 2 030 000 -100 344,00 odpadních nádob – po Lipou\n(RZ 56/2022/RM)\nLitovel ulice Sušilova – parkoviště +\n2219 6121 3 003 621 -38 000,00 přeložka CETIN realizace\n(RZ 56/2022/RM)\nNová Ves – drobný dlouhodobý\n3429 5137 303 2 030 000 -10 000,00\nhmotný majetek (RZ 56/2022/RM)\nNová Ves – nákup materiálu\n3429 5139 303 2 030 000 -2 520,78\n(RZ 56/2022/RM)\nNová Ves – doplnění mobiliáře kolem\n3429 5169 303 2 030 000 -14 135,22 zatopeného lomu – likvidace starých\nlaviček (RZ 56/2022/RM)\nNová Ves – oprava pomníku padlých\n3429 5169 303 2 030 000 -55 000,00 – II. fáze (kameny, písmo, malíř)\n(RZ 56/2022/RM)\nNová Ves – dětské hřiště, nové hrací\n3421 6122 303 2 033 470 220 000,00\nprvky (RZ 56/2022/RM)\nMŠ Gemerská – neinvestiční\n3111 5331 48 4 000 000 -100 000,00\npříspěvek (RZ 57/2022/RM)\nMŠ Gemerská – investiční příspěvek\n3111 6351 48 4 000 000 100 000,00\n(RZ 57/2022/RM)\nZŠ Vítězná – neinvestiční příspěvek\n3113 5331 45 4 000 000 -100 000,00\n(RZ 58/2022/RM)\nZŠ Vítězná – investiční příspěvek\n3113 6351 45 4 000 000 100 000,00\n(RZ 58/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nSavín-podpora místních spolků\n3429 5901 311 2 040 000 -5 000,00\n(RZ 59/2022/RM)\nSDH Savín-dar na organizační\n3429 5222 311 2 040 000 5 000,00 zajištění dne pro děti\n(RZ 59/2022/RM)\nChořelice-podpora místních spolků\n3429 5901 307 2 040 000 -10 000,00\n(RZ 60/2022/RM)\nMyslivecký spolek Unčovice-dotace\n3429 5222 307 2 040 000 10 000,00 na činnost v roce 2022\n(RZ 60/2022/RM)\nUnčovice-podpora místních spolků\n3429 5901 310 2 040 000 -5 000,00\n(RZ 60/2022/RM)\nMyslivecký spolek Unčovice-dotace\n3429 5222 310 2 040 000 5 000,00 na činnost v roce 2022\n(RZ 60/2022/RM)\nRozvadovice-podpora místních spolků\n3429 5901 304 2 040 000 -5 000,00\n(RZ 60/2022/RM)\nMyslivecký spolek Unčovice-dotace\n3429 5222 304 2 040 000 5 000,00 na činnost v roce 2022\n(RZ 60/2022/RM)\nTransfery dle usnesení RM\n3429 5901 4 000 000 -7 000,00\n(RZ 61/2022/RM)\nSOŠ Litovel-transfer na organizační\n3312 5339 4 000 000 7 000,00\nnáklady hudebního minifestivalu\n(RZ 61/2022/RM)\nRZ 55/2022/RM\nRozpočtová změna 55/2022/RM dle požadavku odboru MHaSI řeší pokrytí navýšení nákladů u akce Litovel –\nPavlínka, sítě pro RD. V rozpočtu na tuto akci byla podstatná část finančních prostředků již schválena\nRZ 24/2022/ZM ze dne 17.2.2022.\nRZ 56/2022/RM\nDle požadavku odboru MHaSI byly přesunuty finanční prostředky v rozpočtu rozdělené osadním výborem\nNová Ves k čerpání činností pro rok 2022 na pořízení nového hracího prvku a dopadové plochy na dětské hřiště\nv Nové Vsi. Osadní výbor Nová Ves s tímto souhlasí.\nRZ 57/2022/RM\nNa základě požadavku odboru ŠKS byly finanční prostředky přesunuty z neinvestičního příspěvku na investiční\nz důvodu pořízení pískoviště pro MŠ Gemerská Litovel.\nRZ 58/2022/RM\nNa základě požadavku odboru ŠKS byly finanční prostředky přesunuty z neinvestičního příspěvku na investiční\npro ZŠ Vítězná Litovel.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 59/2022/RM\nMěsto Litovel poskytlo finanční příspěvek spolku SDH Savín na organizační zajištění dne pro děti.\nOV Savín s poskytnutím příspěvku souhlasí.\nRZ 60/2022/RM\nMěsto Litovel poskytlo na žádost Mysliveckého spolku Unčovice finanční prostředky na činnost spolku, zejména\nna příkrm zvěře, na opravu drobných mysliveckých zařízení, na organizační zajištění dnů pro děti a na péči o\nzeleň. Finanční podpora Mysliveckého spolku je poskytnuta z prostředků OV Chořelice, OV Rozvadovice a\nOV Unčovice, které s tímto souhlasily.\nRZ 61/2022/RM\nMěsto Litovel na žádost ředitele SOŠ Litovel poskytlo finanční prostředky na organizační náklady minifestivalu\namatérských hudebních skupin, který se uskuteční v opraveném dvoře SOŠ.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 1.6.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

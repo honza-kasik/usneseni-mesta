@@ -1,0 +1,411 @@
+{
+  "id": "RO/20/2024",
+  "number": 20,
+  "year": 2024,
+  "approval_date": "2024-11-04",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 15,
+    "type": "zasedání",
+    "date": "2024-11-04"
+  },
+  "source_resolutions": [
+    "ZM/4/15/2024"
+  ],
+  "budget_change_ids": [
+    "75/2024/ZM",
+    "76/2024/ZM",
+    "77/2024/ZM",
+    "78/2024/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "77/2024/ZM",
+          "raw_codes": [
+            "3315",
+            "2111"
+          ],
+          "amount": "31 190,00",
+          "amount_value": 31190.0,
+          "description": "Muzeum - příjmy ze vstupného (RZ 77/2024/ZM"
+        },
+        {
+          "budget_change_id": "77/2024/ZM",
+          "raw_codes": [
+            "3315",
+            "2112"
+          ],
+          "amount": "20 734,00",
+          "amount_value": 20734.0,
+          "description": "Muzeum - příjmy z prodeje zboží (RZ 77/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "109"
+          ],
+          "amount": "250,00",
+          "amount_value": 250.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "110"
+          ],
+          "amount": "100,00",
+          "amount_value": 100.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "114"
+          ],
+          "amount": "900,00",
+          "amount_value": 900.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "116"
+          ],
+          "amount": "870,00",
+          "amount_value": 870.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "117"
+          ],
+          "amount": "200,00",
+          "amount_value": 200.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "118"
+          ],
+          "amount": "750,00",
+          "amount_value": 750.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "119"
+          ],
+          "amount": "19 000,00",
+          "amount_value": 19000.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "1361",
+            "222"
+          ],
+          "amount": "102 698,00",
+          "amount_value": 102698.0,
+          "description": "příjem ze správních poplatků (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3008"
+          ],
+          "amount": "2 100,00",
+          "amount_value": 2100.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3009"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3012"
+          ],
+          "amount": "4 700,00",
+          "amount_value": 4700.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3016"
+          ],
+          "amount": "10 100,00",
+          "amount_value": 10100.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3027"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3037"
+          ],
+          "amount": "2 800,00",
+          "amount_value": 2800.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3048"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3054"
+          ],
+          "amount": "2 100,00",
+          "amount_value": 2100.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3058"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3061"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3063"
+          ],
+          "amount": "2 700,00",
+          "amount_value": 2700.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3068"
+          ],
+          "amount": "2 800,00",
+          "amount_value": 2800.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3069"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3077"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "4121",
+            "3089"
+          ],
+          "amount": "4 800,00",
+          "amount_value": 4800.0,
+          "description": "neinvestiční transfery od obcí (RZ 78/2024/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "75/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3 003 655"
+          ],
+          "amount": "-3 900 000,00",
+          "amount_value": -3900000.0,
+          "description": "rekonstrukce prostoru před GJO (RZ 75/2024/ZM"
+        },
+        {
+          "budget_change_id": "76/2024/ZM",
+          "raw_codes": [
+            "5512",
+            "6123",
+            "15 000 000"
+          ],
+          "amount": "-6 000 000,00",
+          "amount_value": -6000000.0,
+          "description": "PO - DČ - pořízení automobilové cisternové stříkačky (RZ 76/2024/ZM"
+        },
+        {
+          "budget_change_id": "76/2024/ZM",
+          "raw_codes": [
+            "5512",
+            "6123",
+            "416",
+            "308",
+            "15 000 000"
+          ],
+          "amount": "-600 000,00",
+          "amount_value": -600000.0,
+          "description": "PO - DČ - pořízení automobilové cisternové stříkačky (RZ 76/2024/ZM"
+        },
+        {
+          "budget_change_id": "77/2024/ZM",
+          "raw_codes": [
+            "3315",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "220 000,00",
+          "amount_value": 220000.0,
+          "description": "platy zam-ců - Muzeum (RZ 77/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-231 032,00",
+          "amount_value": -231032.0,
+          "description": "úroky z úvěrů (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "78/2024/ZM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "1 000 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "platy zam-ců (RZ 78/2024/ZM"
+        },
+        {
+          "budget_change_id": "77/2024/ZM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14",
+            "000",
+            "000"
+          ],
+          "amount": "-168 076,00",
+          "amount_value": -168076.0,
+          "description": "úroky z úvěrů (RZ 77/2024/ZM"
+        }
+      ]
+    },
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "75/2024/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-3 900 000,00",
+          "amount_value": -3900000.0,
+          "description": "změna stavu fin. prostředků na BÚ (RZ 75/2024/ZM"
+        },
+        {
+          "budget_change_id": "76/2024/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-6 600 000,00",
+          "amount_value": -6600000.0,
+          "description": "změna stavu fin. prostředků na BÚ (RZ 76/2024/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._20_2024_dne_4._listopadu_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 20/2024 schválené Zastupitelstvem města Litovel\ndne 4. listopadu 2024\nRozpočtové opatření bylo schváleno na 15. zasedání Zastupitelstva města Litovel dne 4. listopadu 2024 na základě\nusnesení ZM/4/15/2024.\nZměny v příjmech:\nOR\nODPA POL UZ ORG Kč\nJ\n3315 2111 31 190,00 Muzeum - příjmy ze vstupného (RZ 77/2024/ZM)\n3315 2112 20 734,00 Muzeum - příjmy z prodeje zboží (RZ 77/2024/ZM)\n1361 109 250,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 110 100,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 114 900,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 116 870,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 117 200,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 118 750,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 119 19 000,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n1361 222 102 698,00 příjem ze správních poplatků (RZ 78/2024/ZM)\n4121 3008 2 100,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3009 700,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3012 4 700,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3016 10 100,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3027 2 000,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3037 2 800,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3048 700,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3054 2 100,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3058 700,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3061 2 000,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3063 2 700,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3068 2 800,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3069 2 000,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3077 4 000,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\n4121 3089 4 800,00 neinvestiční transfery od obcí (RZ 78/2024/ZM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\n3639 6121 3 003 655 -3 900 000,00 rekonstrukce prostoru před GJO (RZ 75/2024/ZM)\n-6 000 000,00 PO - DČ - pořízení automobilové cisternové stříkačky (RZ\n5512 6123 15 000 000\n76/2024/ZM)\n-600 000,00 PO - DČ - pořízení automobilové cisternové stříkačky (RZ\n5512 6123 416 308 15 000 000\n76/2024/ZM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n6310 5141 14 000 000 -168 076,00 úroky z úvěrů (RZ 77/2024/ZM)\n3315 5011 1 000 000 220 000,00 platy zam-ců - Muzeum (RZ 77/2024/ZM)\n6310 5141 14 000 000 -231 032,00 úroky z úvěrů (RZ 78/2024/ZM)\n6171 5011 1 000 000 400 000,00 platy zam-ců (RZ 78/2024/ZM)\nZměny ve financování:\nODPA POL UZ ORJ ORG Kč\n8115 -3 900 000,00 změna stavu fin. prostředků na BÚ (RZ 75/2024/ZM)\n8115 -6 600 000,00 změna stavu fin. prostředků na BÚ (RZ 76/2024/ZM)\nRZ 75/2024/ZM Rekonstrukce prostoru před GJO § 3639\nAkce \"Rekonstrukce prostoru před GJO\" byla včleněna do rozpočtu roku 2024 v celkovém objemu 3,9 mil. Kč.\nV průběhu přípravy rozpočtu města na rok 2025 byla předestřena informace, že realizace akce bude přesunuta do\nrozpočtu roku 2025. RZ reaguje na tuto skutečnost\nRZ 76/2024/ZM JSDH Tři Dvory – pořízení automobilové cisternové stříkačky § 5512\nAkce \"Pořízení automobilové cisternové stříkačky pro JSDH Tři Dvory\" byla včleněna do rozpočtu roku 2024\nv celkovém objemu 6,6 mil. Kč. V průběhu přípravy rozpočtu města na rok 2025 byla předestřena informace, že\nrealizace akce bude přesunuta do rozpočtu roku 2025. RZ reaguje na tuto skutečnost\nRZ 77/2024/ZM Muzeum – platové záležitosti § 3315\nRZ na základě podkladů ze dne 23. 10. 2024 řešící potřebu navýšení prostředků na platy pro muzeum v souvislosti se\nzměnou na postu vedoucího muzea. Kryto částečně příjmy plynoucími z činnosti muzea a úsporami ve výdajové části\nrozpočtu.\nRZ 78/2024/ZM Činnost místní správy – platové záležitosti § 6171\nRZ na základě podkladů ze dne 23. 10. 2024 řešící potřebu navýšení prostředků na platy na úseku místní správy\nv souvislosti s nástupem nové právničky v průběhu roku 2024. Kryto částečně příjmy plynoucími z činnosti městského\núřadu a úsporami ve výdajové části rozpočtu.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 18.11.2024\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/4/15/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "ZM/4/15/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "75/2024/ZM",
+        "76/2024/ZM",
+        "77/2024/ZM",
+        "78/2024/ZM"
+      ]
+    }
+  ]
+}

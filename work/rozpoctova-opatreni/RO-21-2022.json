@@ -1,0 +1,784 @@
+{
+  "id": "RO/21/2022",
+  "number": 21,
+  "year": 2022,
+  "approval_date": "2022-12-08",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 2,
+    "type": "zasedání",
+    "date": "2022-12-08"
+  },
+  "source_resolutions": [
+    "ZM/6/2/2022"
+  ],
+  "budget_change_ids": [
+    "112/2022/ZM",
+    "113/2022/ZM",
+    "114/2022/ZM",
+    "115/2022/ZM",
+    "116/2022/ZM",
+    "117/2022/ZM",
+    "118/2022/ZM",
+    "119/2022/ZM",
+    "120/2022/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "112/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "60 500,00",
+          "amount_value": 60500.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 112/2022/ZM"
+        },
+        {
+          "budget_change_id": "112/2022/ZM",
+          "raw_codes": [
+            "3744",
+            "6130",
+            "3 003 454"
+          ],
+          "amount": "60 500,00",
+          "amount_value": 60500.0,
+          "description": "Znalecké posudky pozemků pro stavbu protipovodňových opatření, k.ú. Víska (RZ 112/2022/ZM"
+        },
+        {
+          "budget_change_id": "118/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-11 000 000,00",
+          "amount_value": -11000000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 118/2022/ZM"
+        },
+        {
+          "budget_change_id": "119/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-5 500 000,00",
+          "amount_value": -5500000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 119/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-4 500 000,00",
+          "amount_value": -4500000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 120/2022/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "118/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-11 000 000,00",
+          "amount_value": -11000000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 118/2022/ZM"
+        },
+        {
+          "budget_change_id": "119/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-5 500 000,00",
+          "amount_value": -5500000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 119/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-4 500 000,00",
+          "amount_value": -4500000.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "113/2022/ZM",
+          "raw_codes": [
+            "133"
+          ],
+          "amount": "4 200 000,00",
+          "amount_value": 4200000.0,
+          "description": "Odvody za vynětí půdy ze ZPF (RZ 113/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1353",
+            "608"
+          ],
+          "amount": "88 200,00",
+          "amount_value": 88200.0,
+          "description": "Příjmy za zkoušky odborné způsobilosti (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [],
+          "amount": "1 285 612,69",
+          "amount_value": 1285612.69,
+          "description": "Příjem ze správních poplatků 1361 xxxx 285 612,69 (RZ 120/2022/Z správních poplatků 1361 xxxx 285 612,69 (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "138"
+          ],
+          "amount": "1 316 884,94",
+          "amount_value": 1316884.94,
+          "description": "Příjem z daní z hazardních her (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1385"
+          ],
+          "amount": "2 665 372,90",
+          "amount_value": 2665372.9,
+          "description": "Příjem z dílčí daně z technických her (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2451",
+            "48"
+          ],
+          "amount": "328 000,00",
+          "amount_value": 328000.0,
+          "description": "Splátky půjčených prostředků od PO (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [],
+          "amount": "6 314 517,71",
+          "amount_value": 6314517.71,
+          "description": "Příjem sankčních plateb - doprava 2299 2212 6xx 314 517,71 (RZ 120/2022/Z nkčních plateb - doprava 2299 2212 6xx 314 517,71 (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2310",
+            "2133"
+          ],
+          "amount": "-1 806 208,16",
+          "amount_value": -1806208.16,
+          "description": "Příjmy z pronájmu movitých věcí VHS (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2369",
+            "2212",
+            "784"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Správa ve vodním hospodářství (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "224 321,00",
+          "amount_value": 224321.0,
+          "description": "Příjmy z poskytování služeb – mzdové (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3319",
+            "211"
+          ],
+          "amount": "1 435 700,00",
+          "amount_value": 1435700.0,
+          "description": "Dějiny Litovle – prodej knih (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "2111",
+            "334"
+          ],
+          "amount": "222 196,00",
+          "amount_value": 222196.0,
+          "description": "Příjem z poskytování služeb - koupaliště (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3612",
+            "213"
+          ],
+          "amount": "2 800 000,00",
+          "amount_value": 2800000.0,
+          "description": "Příjmy z pronájmu – bytové hospodářství (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "211"
+          ],
+          "amount": "1 170 900,40",
+          "amount_value": 1170900.4,
+          "description": "Příjmy z poskytování služeb (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3769",
+            "221"
+          ],
+          "amount": "2 784 886,50",
+          "amount_value": 2784886.5,
+          "description": "Přijaté sankční platby (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "6310",
+            "214"
+          ],
+          "amount": "1 611 013,25",
+          "amount_value": 1611013.25,
+          "description": "Příjem z úroků (RZ 120/2022/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "113/2022/ZM",
+          "raw_codes": [
+            "1334"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Odvody za vynětí půdy ze ZPF (RZ 113/2022/ZM"
+        },
+        {
+          "budget_change_id": "114/2022/ZM",
+          "raw_codes": [
+            "1334"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Odvody za vynětí půdy ze ZPF (RZ 114/2022/ZM"
+        },
+        {
+          "budget_change_id": "115/2022/ZM",
+          "raw_codes": [
+            "3349",
+            "2111",
+            "246"
+          ],
+          "amount": "27 000,00",
+          "amount_value": 27000.0,
+          "description": "Litovelské noviny - inzerce (RZ 115/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1334"
+          ],
+          "amount": "45 659,00",
+          "amount_value": 45659.0,
+          "description": "Příjmy z odvodů za odnětí půdy ze ZPF (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1341"
+          ],
+          "amount": "14 815,00",
+          "amount_value": 14815.0,
+          "description": "Příjem z poplatku ze psů (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1343"
+          ],
+          "amount": "7 056,00",
+          "amount_value": 7056.0,
+          "description": "Příjmy z poplatků za užívání veř. prostr. (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1346"
+          ],
+          "amount": "1 380,00",
+          "amount_value": 1380.0,
+          "description": "Příjmy z poplatků za povolení vjezdu (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1353",
+            "608"
+          ],
+          "amount": "88 200,00",
+          "amount_value": 88200.0,
+          "description": "Příjmy za zkoušky odborné způsobilosti (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1356"
+          ],
+          "amount": "9 730,31",
+          "amount_value": 9730.31,
+          "description": "Příjmy z úhrad za dobývání nerostů (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1361",
+            "xxxx"
+          ],
+          "amount": "285 612,69",
+          "amount_value": 285612.69,
+          "description": "Příjem ze správních poplatků (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1381"
+          ],
+          "amount": "316 884,94",
+          "amount_value": 316884.94,
+          "description": "Příjem z daní z hazardních her (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1385"
+          ],
+          "amount": "2 665 372,90",
+          "amount_value": 2665372.9,
+          "description": "Příjem z dílčí daně z technických her (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2451",
+            "48"
+          ],
+          "amount": "328 000,00",
+          "amount_value": 328000.0,
+          "description": "Splátky půjčených prostředků od PO (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1069",
+            "2212"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Správa v zeměd. Přijaté sankční platby (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "1070",
+            "2212",
+            "784"
+          ],
+          "amount": "5 800,00",
+          "amount_value": 5800.0,
+          "description": "Rybářství - Přijaté sankční platby (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2169",
+            "2212",
+            "802"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Živnostenský úřad -Přijaté sankční platby (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2299",
+            "2212",
+            "6xx"
+          ],
+          "amount": "314 517,71",
+          "amount_value": 314517.71,
+          "description": "Příjem sankčních plateb - doprava (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2310",
+            "2133"
+          ],
+          "amount": "-1 806 208,16",
+          "amount_value": -1806208.16,
+          "description": "Příjmy z pronájmu movitých věcí VHS (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "2369",
+            "2212",
+            "784"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Správa ve vodním hospodářství (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "2111",
+            "403"
+          ],
+          "amount": "224 321,00",
+          "amount_value": 224321.0,
+          "description": "Příjmy z poskytování služeb – mzdové (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3315",
+            "2111"
+          ],
+          "amount": "12 260,00",
+          "amount_value": 12260.0,
+          "description": "Příjmy ze vstupného – muzeum (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3315",
+            "2112"
+          ],
+          "amount": "2 972,00",
+          "amount_value": 2972.0,
+          "description": "Příjmy z prodeje zboží – muzeum (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3319",
+            "2111",
+            "435"
+          ],
+          "amount": "700,00",
+          "amount_value": 700.0,
+          "description": "Dějiny Litovle – prodej knih (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "2111",
+            "334"
+          ],
+          "amount": "222 196,00",
+          "amount_value": 222196.0,
+          "description": "Příjem z poskytování služeb - koupaliště (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "2111",
+            "428"
+          ],
+          "amount": "4 550,00",
+          "amount_value": 4550.0,
+          "description": "Příjem z poskytování služeb - Sokolovna (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3612",
+            "2132"
+          ],
+          "amount": "800 000,00",
+          "amount_value": 800000.0,
+          "description": "Příjmy z pronájmu – bytové hospodářství (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3632",
+            "2111"
+          ],
+          "amount": "14 776,00",
+          "amount_value": 14776.0,
+          "description": "Příjem z poskytování služeb (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "2111"
+          ],
+          "amount": "170 900,40",
+          "amount_value": 170900.4,
+          "description": "Příjmy z poskytování služeb (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3639",
+            "2119"
+          ],
+          "amount": "15 489,21",
+          "amount_value": 15489.21,
+          "description": "Ostatní příjmy z vlastní činnosti (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "50 608,76",
+          "amount_value": 50608.76,
+          "description": "Příjmy z poskytování služeb (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3722",
+            "2324"
+          ],
+          "amount": "12 642,10",
+          "amount_value": 12642.1,
+          "description": "Přijaté neinvestiční příspěvky a náhrady (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3724",
+            "2324"
+          ],
+          "amount": "34 660,45",
+          "amount_value": 34660.45,
+          "description": "Přijaté neinvestiční příspěvky a náhrady (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3729",
+            "2212",
+            "784"
+          ],
+          "amount": "1 000,00",
+          "amount_value": 1000.0,
+          "description": "Přijaté sankční platby (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "3769",
+            "2212",
+            "784"
+          ],
+          "amount": "886,50",
+          "amount_value": 886.5,
+          "description": "Přijaté sankční platby (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "4171",
+            "2229"
+          ],
+          "amount": "3,94",
+          "amount_value": 3.94,
+          "description": "Ostatní přijaté vratky transferů (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "5311",
+            "2212"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Přijaté sankční platby – městská policie (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "6171",
+            "3113"
+          ],
+          "amount": "14 200,00",
+          "amount_value": 14200.0,
+          "description": "Příjmy z prodeje ostatního majetku (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "120/2022/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "611 013,25",
+          "amount_value": 611013.25,
+          "description": "Příjem z úroků (RZ 120/2022/ZM"
+        },
+        {
+          "budget_change_id": "113/2022/ZM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "7 000 xxx"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "Papírenská voda (RZ 113/2022/ZM"
+        },
+        {
+          "budget_change_id": "114/2022/ZM",
+          "raw_codes": [
+            "3733",
+            "5169",
+            "7 000 xxx"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Monitoring vody a půdy (RZ 114/2022/ZM"
+        },
+        {
+          "budget_change_id": "115/2022/ZM",
+          "raw_codes": [
+            "3349",
+            "5138",
+            "4 000 000"
+          ],
+          "amount": "27 000,00",
+          "amount_value": 27000.0,
+          "description": "Litovelské noviny – volební noviny (RZ 115/2022/ZM"
+        },
+        {
+          "budget_change_id": "118/2022/ZM",
+          "raw_codes": [
+            "2329",
+            "6121",
+            "3 000 781"
+          ],
+          "amount": "-11 000 000,00",
+          "amount_value": -11000000.0,
+          "description": "Solární sušárna kalů (RZ 118/2022/ZM"
+        },
+        {
+          "budget_change_id": "119/2022/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "3 003 637"
+          ],
+          "amount": "-5 500 000,00",
+          "amount_value": -5500000.0,
+          "description": "Skatepark Litovel – Komárov (RZ 119/2022/ZM"
+        },
+        {
+          "budget_change_id": "116/2022/ZM",
+          "raw_codes": [],
+          "amount": "54 805,00",
+          "amount_value": 54805.0,
+          "description": "Opravy/rekonstrukce dle požadavků 3113 5171 4 000 000 -54.805,00 ředitelů městem zřízených organizací (ZŠ)(RZ 116/2022/Z /rekonstrukce dle požadavků 3113 5171 4 000 000 -54.805,00 ředitelů městem zřízených organizací (ZŠ)(RZ 116/2022/ZM"
+        },
+        {
+          "budget_change_id": "116/2022/ZM",
+          "raw_codes": [],
+          "amount": "307 951,00",
+          "amount_value": 307951.0,
+          "description": "Opravy/rekonstrukce dle požadavků 3111 5171 4 000 000 -307.951,00 ředitelů městem zřízených organizací (MŠ)(RZ 116/2022/Z rekonstrukce dle požadavků 3111 5171 4 000 000 -307.951,00 ředitelů městem zřízených organizací (MŠ)(RZ 116/2022/ZM"
+        },
+        {
+          "budget_change_id": "116/2022/ZM",
+          "raw_codes": [],
+          "amount": "344 357,00",
+          "amount_value": 344357.0,
+          "description": "Opravy/rekonstrukce dle požadavků 3613 5171 4 000 000 -344.357,00 ředitelů krajem zřízených organizací (RZ 116/2022/Z rekonstrukce dle požadavků 3613 5171 4 000 000 -344.357,00 ředitelů krajem zřízených organizací (RZ 116/2022/ZM"
+        },
+        {
+          "budget_change_id": "116/2022/ZM",
+          "raw_codes": [],
+          "amount": "42 887,00",
+          "amount_value": 42887.0,
+          "description": "GJO Litovel, opravy a udržování 3613 5171 4 000 410 -42.887,00 (RZ 116/2022/Z tovel, opravy a udržování 3613 5171 4 000 410 -42.887,00 (RZ 116/2022/ZM"
+        },
+        {
+          "budget_change_id": "116/2022/ZM",
+          "raw_codes": [],
+          "amount": "750 000,00",
+          "amount_value": 750000.0,
+          "description": "ZŠ Jungmannova – zvedací plošina pro 3113 6121 46 4 000 000 750.000,00 dopravu stravy (RZ 116/2022/Z mannova – zvedací plošina pro 3113 6121 46 4 000 000 750.000,00 dopravu stravy (RZ 116/2022/ZM"
+        },
+        {
+          "budget_change_id": "117/2022/ZM",
+          "raw_codes": [],
+          "amount": "54 805,00",
+          "amount_value": 54805.0,
+          "description": "SOŠ Litovel – oprava podlahy 3613 5171 4 000 408 -54.805,00 (RZ 117/2022/Z tovel – oprava podlahy 3613 5171 4 000 408 -54.805,00 (RZ 117/2022/ZM"
+        },
+        {
+          "budget_change_id": "117/2022/ZM",
+          "raw_codes": [],
+          "amount": "74 152,00",
+          "amount_value": 74152.0,
+          "description": "GJO Litovel, opravy a udržování 3613 5171 4 000 410 -74.152,00 (RZ 117/2022/Z tovel, opravy a udržování 3613 5171 4 000 410 -74.152,00 (RZ 117/2022/ZM"
+        },
+        {
+          "budget_change_id": "117/2022/ZM",
+          "raw_codes": [],
+          "amount": "128 957,00",
+          "amount_value": 128957.0,
+          "description": "ZŠ Vítězná – výměna svítidel 3113 6121 45 4 000 000 128.957,00 (RZ 117/2022/Z zná – výměna svítidel 3113 6121 45 4 000 000 128.957,00 (RZ 117/2022/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 115/2022/ZM řeší navýšení rozpočtových výdajů pro Litovelské noviny. Finanční",
+      "text": "prostředky byly převedeny z příjmů, které vznikly úhradou částky od subjektů kandidujících do ZM na zajištění výtisku mimořádného vydání volebního čísla Litovelských novin. RZ 116/2022/RM – ZŠ Jungmannova – zvedací plošina pro dopravu stravy § 3113 - OŠKS"
+    },
+    {
+      "title": "Rozpočtová změna č. 116/2022/ZM řeší na základě podkladů z Odboru školství, kultury a sportu přesun",
+      "text": "finančních prostředků určených na opravy, rekonstrukce ZŠ, MŠ a GJO na výstavbu zvedací plošiny pro dopravu stravy k budově ZŠ Jungmannova. RZ 117/2022/RM – ZŠ Vítězná – výměna svítidel § 3113 - OŠKS"
+    },
+    {
+      "title": "Rozpočtová změna č. 117/2022/ZM na základě podkladů Odboru školství ,kultury a sportu řeší přesun",
+      "text": "finančních prostředků určených na opravy a udržování v SOŠ a GJO Litovel na výměnu svítidel na ZŠ Vítězná Litovel. RZ 118/2022/ZM – Solární sušárna kalů § 2329 – Odbor MHaSI Solární sušárna kalů byla do rozpočtu zařazena již v únoru 2022. Jelikož zatím nebyla získaná dotace, se kterou je pro realizaci tohoto projektu počítáno, nebyla akce zahájena. RZ 119/2022/ZM – Skatepark Litovel - Komárov § 3412 – Odbor MHaSI Skatepark Litovel – Komárov – akce byla do rozpočtu roku 2022 zařazena již 17.2.2022, ale v roce 2022 nebyla realizována. Akce je obsažena v návrhu rozpočtu města Litovel na rok 2023. RZ 120/2022/ZM – Úprava příjmové části rozpočtu V rozpočtové změně č. 120/2022/ZM je zahrnuta úprava rozpočtu v příjmové části a v oblasti financování. Jsou zde zapojeny nové, dosud nerozpočtované příjmy, které město obdrželo během roku 2022 a snížení původně plánovaných příjmů z pronájmu movitého majetku."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoc_tove_opatr_eni_c_.21_2022_schva_lene_zm_litovel_dne_8.prosince_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 21/2022 schválené Zastupitelstvem města Litovel\ndne 8.prosince 2022.\nRozpočtové opatření bylo schváleno na 2. zasedání Zastupitelstva města Litovel dne 8.prosince 2022 na základě\nusnesení ZM/6/2/2022.\nZměna ve financování Fondu rezerv na realizaci protipovodňových opatření (SÚ 236):\n§ Položka UZ ORJ ORG Částka Popis\nZměna stavu finančních prostředků na\n8115 60 500,00\nbankovních účtech (RZ 112/2022/ZM)\nZměna ve výdajích Fondu rezerv na realizaci protipovodňových opatření (SÚ 236):\n§ Položka UZ ORJ ORG Částka Popis\nZnalecké posudky pozemků pro stavbu\n3744 6130 3 003 454 60 500,00 protipovodňových opatření, k.ú. Víska\n(RZ 112/2022/ZM)\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\nZměna stavu finančních prostředků na\n8115 -11 000 000,00\nbankovních účtech (RZ 118/2022/ZM)\nZměna stavu finančních prostředků na\n8115 -5 500 000,00\nbankovních účtech (RZ 119/2022/ZM)\nZměna stavu finančních prostředků na\n8115 -4 500 000,00\nbankovních účtech (RZ 120/2022/ZM)\nZměny v příjmech:\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n§ POL UZ ORJ ORG Kč\nOdvody za vynětí půdy ze ZPF\n1334 200 000,00\n(RZ 113/2022/ZM)\nOdvody za vynětí půdy ze ZPF\n1334 50 000,00\n(RZ 114/2022/ZM)\nLitovelské noviny - inzerce\n3349 2111 246 27 000,00\n(RZ 115/2022/ZM)\nPříjmy z odvodů za odnětí půdy ze ZPF\n1334 45 659,00\n(RZ 120/2022/ZM)\nPříjem z poplatku ze psů (RZ\n1341 14 815,00\n120/2022/ZM)\nPříjmy z poplatků za užívání veř. prostr.\n1343 7 056,00\n(RZ 120/2022/ZM)\nPříjmy z poplatků za povolení vjezdu\n1346 1 380,00\n(RZ 120/2022/ZM)\nPříjmy za zkoušky odborné způsobilosti\n1353 608 88 200,00\n(RZ 120/2022/ZM)\nPříjmy z úhrad za dobývání nerostů\n1356 9 730,31\n(RZ 120/2022/ZM)\nPříjem ze správních poplatků\n1361 xxxx 285 612,69\n(RZ 120/2022/ZM)\nPříjem z daní z hazardních her\n1381 316 884,94\n(RZ 120/2022/ZM)\nPříjem z dílčí daně z technických her\n1385 2 665 372,90\n(RZ 120/2022/ZM)\nSplátky půjčených prostředků od PO\n2451 48 328 000,00\n(RZ 120/2022/ZM)\nSpráva v zeměd. Přijaté sankční platby\n1069 2212 5 000,00\n(RZ 120/2022/ZM)\nRybářství - Přijaté sankční platby\n1070 2212 784 5 800,00\n(RZ 120/2022/ZM)\nŽivnostenský úřad -Přijaté sankční platby\n2169 2212 802 1 000,00\n(RZ 120/2022/ZM)\nPříjem sankčních plateb - doprava\n2299 2212 6xx 314 517,71\n(RZ 120/2022/ZM)\nPříjmy z pronájmu movitých věcí VHS\n2310 2133 -1 806 208,16\n(RZ 120/2022/ZM)\nSpráva ve vodním hospodářství\n2369 2212 784 10 000,00\n(RZ 120/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTýraná zvířata – přijaté sankční platby\n2399 2212 720 4 000,00\n(RZ 120/2022/ZM)\nPříjmy z poskytování služeb – mzdové\n3113 2111 403 224 321,00\n(RZ 120/2022/ZM)\nPříjmy ze vstupného – muzeum\n3315 2111 12 260,00\n(RZ 120/2022/ZM)\nPříjmy z prodeje zboží – muzeum\n3315 2112 2 972,00\n(RZ 120/2022/ZM)\nDějiny Litovle – prodej knih\n3319 2111 435 700,00\n(RZ 120/2022/ZM)\nPříjem z poskytování služeb - koupaliště\n3412 2111 334 222 196,00\n(RZ 120/2022/ZM)\nPříjem z poskytování služeb - Sokolovna\n3412 2111 428 4 550,00\n(RZ 120/2022/ZM)\nPříjmy z pronájmu – bytové hospodářství\n3612 2132 800 000,00\n(RZ 120/2022/ZM)\nPříjem z poskytování služeb\n3632 2111 14 776,00\n(RZ 120/2022/ZM)\nPříjmy z poskytování služeb\n3639 2111 170 900,40\n(RZ 120/2022/ZM)\nOstatní příjmy z vlastní činnosti\n3639 2119 15 489,21\n(RZ 120/2022/ZM)\nPříjmy z poskytování služeb\n3722 2111 50 608,76\n(RZ 120/2022/ZM)\nPřijaté neinvestiční příspěvky a náhrady\n3722 2324 12 642,10\n(RZ 120/2022/ZM)\nPřijaté neinvestiční příspěvky a náhrady\n3724 2324 34 660,45\n(RZ 120/2022/ZM)\n3729 2212 784 1 000,00 Přijaté sankční platby (RZ 120/2022/ZM)\n3769 2212 784 886,50 Přijaté sankční platby (RZ 120/2022/ZM)\nOstatní přijaté vratky transferů\n4171 2229 3,94\n(RZ 120/2022/ZM)\nPřijaté sankční platby – městská policie\n5311 2212 10 000,00\n(RZ 120/2022/ZM)\nPříjmy z prodeje ostatního majetku\n6171 3113 14 200,00\n(RZ 120/2022/ZM)\n6310 2141 611 013,25 Příjem z úroků (RZ 120/2022/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n2333 5169 7 000 xxx 200 000,00 Papírenská voda (RZ 113/2022/ZM)\nMonitoring vody a půdy\n3733 5169 7 000 xxx 50 000,00\n(RZ 114/2022/ZM)\nLitovelské noviny – volební noviny\n3349 5138 4 000 000 27 000,00\n(RZ 115/2022/ZM)\nOpravy/rekonstrukce dle požadavků\n3113 5171 4 000 000 -54.805,00 ředitelů městem zřízených organizací\n(ZŠ)(RZ 116/2022/ZM)\nOpravy/rekonstrukce dle požadavků\n3111 5171 4 000 000 -307.951,00 ředitelů městem zřízených organizací\n(MŠ)(RZ 116/2022/ZM)\nOpravy/rekonstrukce dle požadavků\n3613 5171 4 000 000 -344.357,00 ředitelů krajem zřízených organizací\n(RZ 116/2022/ZM)\nGJO Litovel, opravy a udržování\n3613 5171 4 000 410 -42.887,00\n(RZ 116/2022/ZM)\nZŠ Jungmannova – zvedací plošina pro\n3113 6121 46 4 000 000 750.000,00\ndopravu stravy (RZ 116/2022/ZM)\nSOŠ Litovel – oprava podlahy\n3613 5171 4 000 408 -54.805,00\n(RZ 117/2022/ZM)\nGJO Litovel, opravy a udržování\n3613 5171 4 000 410 -74.152,00\n(RZ 117/2022/ZM)\nZŠ Vítězná – výměna svítidel\n3113 6121 45 4 000 000 128.957,00\n(RZ 117/2022/ZM)\n2329 6121 3 000 781 -11 000 000,00 Solární sušárna kalů (RZ 118/2022/ZM)\nSkatepark Litovel – Komárov\n3412 6121 3 003 637 -5 500 000,00\n(RZ 119/2022/ZM)\nRZ 112/2022/ZM – Znalecké posudky pozemků pro stavbu protipovodňových opatření § 3744 – MHaSI\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nV rámci přípravy a realizace protipovodňových opatření budou z Fondu rezerv na realizaci protipovodňových\nopatření hrazeny znalecké posudky pozemků plánovaných pro stavbu protipovodňových opatření v katastrálním\núzemí Víska.\nRZ 113/2022/ZM – Papírenská voda § 2333 – Odbor životního prostředí\nPapírenská voda - jedná se o část vodního toku, která je zanedbaná a silně zanesená sedimenty. Akce byla do\nrozpočtu zařazena již v únoru 2022 a nyní je již ve fázi realizace. Rozpočtová změna č. 113/2022/ZM řeší navýšení\nfinanční prostředků na rozbory sedimentů a bourání opěrné zdi, které vyplynuly v rámci realizace stavby a nebyly\nsoučástí projektové dokumentace.\nRZ 114/2022/ZM – Monitoring vody a půdy § 3733 – Odbor životního prostředí\nMěsto Litovel navýšilo na žádost Odboru životního prostředí finanční prostředky na realizaci většího počtu\nkontrol (i v důsledku havárií) oproti plánu na rok 2022, což si vyžádalo i větší počet odebraných vzorků a jejich\nnásledný rozbor.\nRZ 115/2022/ZM – Litovelské noviny § 3349 – OŠKS\nRozpočtová změna č. 115/2022/ZM řeší navýšení rozpočtových výdajů pro Litovelské noviny. Finanční\nprostředky byly převedeny z příjmů, které vznikly úhradou částky od subjektů kandidujících do ZM na zajištění\nvýtisku mimořádného vydání volebního čísla Litovelských novin.\nRZ 116/2022/RM – ZŠ Jungmannova – zvedací plošina pro dopravu stravy § 3113 - OŠKS\nRozpočtová změna č. 116/2022/ZM řeší na základě podkladů z Odboru školství, kultury a sportu přesun\nfinančních prostředků určených na opravy, rekonstrukce ZŠ, MŠ a GJO na výstavbu zvedací plošiny pro dopravu\nstravy k budově ZŠ Jungmannova.\nRZ 117/2022/RM – ZŠ Vítězná – výměna svítidel § 3113 - OŠKS\nRozpočtová změna č. 117/2022/ZM na základě podkladů Odboru školství ,kultury a sportu řeší přesun\nfinančních prostředků určených na opravy a udržování v SOŠ a GJO Litovel na výměnu svítidel na ZŠ Vítězná\nLitovel.\nRZ 118/2022/ZM – Solární sušárna kalů § 2329 – Odbor MHaSI\nSolární sušárna kalů byla do rozpočtu zařazena již v únoru 2022. Jelikož zatím nebyla získaná dotace, se kterou\nje pro realizaci tohoto projektu počítáno, nebyla akce zahájena.\nRZ 119/2022/ZM – Skatepark Litovel - Komárov § 3412 – Odbor MHaSI\nSkatepark Litovel – Komárov – akce byla do rozpočtu roku 2022 zařazena již 17.2.2022, ale v roce 2022 nebyla\nrealizována. Akce je obsažena v návrhu rozpočtu města Litovel na rok 2023.\nRZ 120/2022/ZM – Úprava příjmové části rozpočtu\nV rozpočtové změně č. 120/2022/ZM je zahrnuta úprava rozpočtu v příjmové části a v oblasti financování. Jsou\nzde zapojeny nové, dosud nerozpočtované příjmy, které město obdrželo během roku 2022 a snížení původně\nplánovaných příjmů z pronájmu movitého majetku.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 2.1.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

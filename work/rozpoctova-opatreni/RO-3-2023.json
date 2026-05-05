@@ -1,0 +1,381 @@
+{
+  "id": "RO/3/2023",
+  "number": 3,
+  "year": 2023,
+  "approval_date": "2023-02-16",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 8,
+    "type": "schůzi",
+    "date": "2023-02-16"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "4/2023/RM",
+    "5/2023/RM",
+    "6/2023/RM",
+    "7/2023/RM",
+    "8/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "4/2023/RM",
+          "raw_codes": [
+            "8115"
+          ],
+          "amount": "-3 357,00",
+          "amount_value": -3357.0,
+          "description": "Změna stavu finančních prostředků na bankovních účtech (RZ 4/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "4/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "3 357,00",
+          "amount_value": 3357.0,
+          "description": "Přijaté pojistné plnění (RZ 4/2023/RM"
+        },
+        {
+          "budget_change_id": "5/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "4 276,00",
+          "amount_value": 4276.0,
+          "description": "Přijaté pojistné plnění (RZ 5/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "5/2023/RM",
+          "raw_codes": [
+            "2219",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "4 276,00",
+          "amount_value": 4276.0,
+          "description": "Pojistné události (RZ 5/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-510 000,00",
+          "amount_value": -510000.0,
+          "description": "Transfery dle rozhodnutí RML a ZML - rezerva (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Český kynologický svaz ZKO Litovel- podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Český rybářský svaz, z.s. - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Český svaz chovatelů,z.s.,základní organizace Litovel - podpora činnosti + nové výstavní klece (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Český svaz ochránců přírody Litovel - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3421",
+            "5339"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Dům dětí a mládeže Litovel - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3121",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Gymnázium Jana Opletala Litovel - podpora činnosti mládežnického pěveckého sboru (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "H anácká mozeka Litovel - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Historický spolek Kirri - jednorázová akce historického charakteru při zahájení turistické sezóny (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Junák - český skaut,středisko Šíp Loštice - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "4359",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "Klíč - centrum sociálních služeb - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "4379",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Linka bezpečí Litovel - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Motorsport Hlavinka-podpora činnosti v roce2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Muzejní společnost Litovelska - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Muzeum československých legií Olomouc - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Obec Cholina - provoz pošty Partner v Cholině (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3523",
+            "6359",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Odborný léčebný ústav Paseka - pořízení vybavení ústavu (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3541",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "Společnost podané ruce - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "4371",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Společnost pro ranou péči,pobočka pro rodinu Olomouc - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "45 000,00",
+          "amount_value": 45000.0,
+          "description": "Spolek Gustava Frištenského - podpora činnosti v roce 2023 (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "7/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 7/2023/RM"
+        },
+        {
+          "budget_change_id": "7/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Unčovice -akce pro děti = drakiáda dne 16.10.22 (RZ 7/2023/RM"
+        },
+        {
+          "budget_change_id": "8/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "310",
+            "2 040 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Unčovice -akce pro děti = lampionový průvod dne 12.11.22 (RZ 8/2023/RM"
+        },
+        {
+          "budget_change_id": "6/2023/RM",
+          "raw_codes": [
+            "4357",
+            "5221",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Domov se zvláštním režimem Bílsko - podpora činnosti (RZ 6/2023/RM"
+        },
+        {
+          "budget_change_id": "8/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 8/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 5/2023/RM",
+      "text": "Na účet města Litovel byla připsána platba od Generali Česká pojišťovna,a.s. Dle sdělení se jedná o pojistné plnění z pojistné události č. 8472462, která vznikla 16.12.2022 (dopravní značka na budově pošty)."
+    },
+    {
+      "title": "Rozpočtová změna č. 6/2023/RM",
+      "text": "Město Litovel poskytlo finanční prostředky žadatelům, tj. spolkům, souborům, sociálním ústavům apod. na podporu činnosti v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 7/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana Š. finanční příspěvek na organizační zajištění drakiády a následného programu pro děti v Unčovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 8/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana Š. finanční příspěvek na organizační zajištění lampionového průvodu a následného programu pro děti v Unčovicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._3_2023_schvalene_radou_mesta_litovel_dne_16.unora_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 3/2023 schválené Radou města Litovel dne 16.února 2023.\nRozpočtové opatření bylo schváleno na 8. schůzi Rady města Litovel dne 16. února 2023 na základě usnesení\n189/8/2023,190/8/2023,191/8/2023 a 195/8/2023.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\n8115 -3 357,00 Změna stavu finančních prostředků na\nbankovních účtech (RZ 4/2023/RM)\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 3 357,00\n(RZ 4/2023/RM)\nPřijaté pojistné plnění\n6320 2322 4 276,00\n(RZ 5/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n2219 5171 3 003 559 4 276,00 Pojistné události (RZ 5/2023/RM)\n3429 5901 4 000 000 -510 000,00 Transfery dle rozhodnutí RML a ZML\n- rezerva (RZ 6/2023/RM)\nČeský kynologický svaz ZKO Litovel-\n3429 5222 4 000 000 40 000,00\npodpora činnosti v roce 2023 (RZ\n6/2023/RM)\n3429 5222 4 000 000 20 000,00 Český rybářský svaz, z.s. - podpora\nčinnosti v roce 2023 (RZ 6/2023/RM)\nČeský svaz chovatelů,z.s.,základní\norganizace Litovel - podpora činnosti\n3429 5222 4 000 000 25 000,00\n+ nové výstavní klece\n(RZ 6/2023/RM)\nČeský svaz ochránců přírody Litovel -\n3429 5222 4 000 000 5 000,00\npodpora činnosti v roce 2023\n(RZ 6/2023/RM)\n4357 5221 4 000 000 50 000,00 Domov se zvláštním režimem Bílsko -\npodpora činnosti (RZ 6/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3421 5339 4 000 407 40 000,00 Dům dětí a mládeže Litovel - podpora\nčinnosti v roce 2023 (RZ 6/2023/RM)\nGymnázium Jana Opletala Litovel -\n3121 5339 4 000 000 15 000,00\npodpora činnosti mládežnického\npěveckého sboru (RZ 6/2023/RM)\n3429 5222 4 000 000 40 000,00 H anácká mozeka Litovel - podpora\nčinnosti v roce 2023 (RZ 6/2023/RM)\nHistorický spolek Kirri - jednorázová\n3429 5222 4 000 000 40 000,00 akce historického charakteru při\nzahájení turistické sezóny (RZ\n6/2023/RM)\nJunák - český skaut,středisko Šíp\n3429 5222 4 000 000 15 000,00\nLoštice - podpora činnosti v roce 2023\n(RZ 6/2023/RM)\nKlíč - centrum sociálních služeb -\n4359 5339 4 000 000 2 000,00\npodpora činnosti v roce 2023\n(RZ 6/2023/RM)\n4379 5222 4 000 000 3 000,00 Linka bezpečí Litovel - podpora\nčinnosti v roce 2023 (RZ 6/2023/RM)\n3419 5222 4 000 000 40 000,00 Motorsport Hlavinka-podpora činnosti\nv roce2023 (RZ 6/2023/RM)\nMuzejní společnost Litovelska -\n3429 5222 4 000 000 20 000,00\npodpora činnosti v roce 2023\n(RZ 6/2023/RM)\nMuzeum československých legií\n3429 5222 4 000 000 10 000,00\nOlomouc - podpora činnosti v roce\n2023 (RZ 6/2023/RM)\n3900 5222 4 000 000 10 000,00 Obec Cholina - provoz pošty Partner v\nCholině (RZ 6/2023/RM)\nOdborný léčebný ústav Paseka -\n3523 6359 4 000 000 40 000,00\npořízení vybavení ústavu\n(RZ 6/2023/RM)\n3541 5221 4 000 000 40 000,00 Společnost podané ruce - podpora\nčinnosti v roce 2023 (RZ 6/2023/RM)\nSpolečnost pro ranou péči,pobočka\n4371 5222 4 000 000 10 000,00\npro rodinu Olomouc - podpora\nčinnosti v roce 2023 (RZ 6/2023/RM)\nSpolek Gustava Frištenského -\n3429 5222 4 000 000 45 000,00 podpora činnosti v roce 2023\n(RZ 6/2023/RM)\n3429 5901 4 000 000 -4 000,00 Transfery dle rozhodnutí RM\n(RZ 7/2023/RM)\n3900 5492 310 2 040 000 4 000,00 Unčovice -akce pro děti = drakiáda\ndne 16.10.22 (RZ 7/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3429 5901 4 000 000 -4 000,00 Transfery dle rozhodnutí RM\n(RZ 8/2023/RM)\n3900 5492 310 2 040 000 4 000,00 Unčovice -akce pro děti = lampionový\nprůvod dne 12.11.22 (RZ 8/2023/RM)\nRZ 4//2023/RM\nNa účet města Litovel byla připsána platba od Hasičské vzájemné pojišťovny. Dle sdělení se jedná o pojistné\nplnění z pojistné události č. 2022/0702/0141, která vznikla 6.8.2022 (rozbité okno,hospoda Březové).\nRZ 5/2023/RM\nNa účet města Litovel byla připsána platba od Generali Česká pojišťovna,a.s. Dle sdělení se jedná o pojistné\nplnění z pojistné události č. 8472462, která vznikla 16.12.2022 (dopravní značka na budově pošty).\nRZ 6/2023/RM\nMěsto Litovel poskytlo finanční prostředky žadatelům, tj. spolkům, souborům, sociálním ústavům apod. na\npodporu činnosti v roce 2023.\nRZ 7/2023/RM\nMěsto Litovel poskytlo na žádost pana Š. finanční příspěvek na organizační zajištění drakiády a následného\nprogramu pro děti v Unčovicích.\nRZ 8/2023/RM\nMěsto Litovel poskytlo na žádost pana Š. finanční příspěvek na organizační zajištění lampionového průvodu a\nnásledného programu pro děti v Unčovicích.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 6.3.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

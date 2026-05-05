@@ -1,0 +1,303 @@
+{
+  "id": "RO/16/2024",
+  "number": 16,
+  "year": 2024,
+  "approval_date": "2024-09-12",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 13,
+    "type": "zasedání",
+    "date": "2024-09-12"
+  },
+  "source_resolutions": [
+    "ZM/4/13/2024"
+  ],
+  "budget_change_ids": [
+    "65/2024/ZM",
+    "66/2024/ZM",
+    "67/2024/ZM",
+    "68/2024/ZM",
+    "69/2024/ZM",
+    "70/2024/ZM",
+    "71/2024/ZM",
+    "72/2024/ZM",
+    "73/2024/ZM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "65/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "sběr a svoz kom. odpadu (RZ 65/2024/ZM"
+        },
+        {
+          "budget_change_id": "66/2024/ZM",
+          "raw_codes": [
+            "1334"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "odvody za odnětí půdy ze ZPF ( RZ 66/2024/ZM"
+        },
+        {
+          "budget_change_id": "67/2024/ZM",
+          "raw_codes": [
+            "1334"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "odvody za odnětí půdy ze ZPF (RZ 67/2024/ZM"
+        },
+        {
+          "budget_change_id": "68/2024/ZM",
+          "raw_codes": [
+            "1356"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "příjmy z úhrad za dobývání nerostů (RZ 68/2024/ZM"
+        },
+        {
+          "budget_change_id": "69/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "příjem z podílu na zisku - FCC Litovel (RZ 69/2024/ZM"
+        },
+        {
+          "budget_change_id": "70/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "příjem z podílu na zisku - FCC Litovel (RZ 70/2024/ZM"
+        },
+        {
+          "budget_change_id": "72/2024/ZM",
+          "raw_codes": [
+            "1381"
+          ],
+          "amount": "3 221,73",
+          "amount_value": 3221.73,
+          "description": "příjem z daně hazardních her (RZ 72/2024/ZM"
+        },
+        {
+          "budget_change_id": "72/2024/ZM",
+          "raw_codes": [
+            "1385"
+          ],
+          "amount": "947 276,96",
+          "amount_value": 947276.96,
+          "description": "příjem z dílčí daně z technických her (RZ 72/2024/ZM"
+        },
+        {
+          "budget_change_id": "72/2024/ZM",
+          "raw_codes": [
+            "1386"
+          ],
+          "amount": "404 691,36",
+          "amount_value": 404691.36,
+          "description": "příjem z daně hazardních her (RZ 72/2024/ZM"
+        },
+        {
+          "budget_change_id": "72/2024/ZM",
+          "raw_codes": [
+            "3412",
+            "2111",
+            "334"
+          ],
+          "amount": "732 101,52",
+          "amount_value": 732101.52,
+          "description": "příjem z poskytování služeb - koupaliště (RZ 72/2024/ZM"
+        },
+        {
+          "budget_change_id": "72/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "2142",
+            "0"
+          ],
+          "amount": "780 408,43",
+          "amount_value": 780408.43,
+          "description": "příjem z podílu na zisku - FCC Litovel (RZ 72/2024/ZM"
+        },
+        {
+          "budget_change_id": "73/2024/ZM",
+          "raw_codes": [
+            "6310",
+            "2141",
+            "0"
+          ],
+          "amount": "798 473,00",
+          "amount_value": 798473.0,
+          "description": "příjmy z úroků (RZ 73/2024/ZM"
+        },
+        {
+          "budget_change_id": "65/2024/ZM",
+          "raw_codes": [
+            "3722",
+            "5139",
+            "7000000"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "pořízení sběrných nádob (RZ 65/2024/ZM"
+        },
+        {
+          "budget_change_id": "66/2024/ZM",
+          "raw_codes": [
+            "1037",
+            "5169",
+            "7000781"
+          ],
+          "amount": "150 000,00",
+          "amount_value": 150000.0,
+          "description": "založení remízku Šargoun (RZ 66/2024/ZM"
+        },
+        {
+          "budget_change_id": "67/2024/ZM",
+          "raw_codes": [
+            "2333",
+            "5164",
+            "7000000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "revitalizace papírenské vody (RZ 67/2024/ZM"
+        },
+        {
+          "budget_change_id": "68/2024/ZM",
+          "raw_codes": [
+            "1014",
+            "5169",
+            "7000000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "ozdravování hosp. zvířat (RZ 68/2024/ZM"
+        },
+        {
+          "budget_change_id": "69/2024/ZM",
+          "raw_codes": [
+            "3726",
+            "6121",
+            "7000724"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "modernizace a rozšíření kompostárny (RZ 69/2024/ZM"
+        },
+        {
+          "budget_change_id": "70/2024/ZM",
+          "raw_codes": [
+            "3792",
+            "5169",
+            "7000000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "ekologická výchova a osvěta (RZ 70/2024/ZM"
+        },
+        {
+          "budget_change_id": "71/2024/ZM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "309",
+            "3003612"
+          ],
+          "amount": "-1 400 000,00",
+          "amount_value": -1400000.0,
+          "description": "Nasobůrky III/3732 MK - průtah, realizace (RZ 71/2024/ZM"
+        },
+        {
+          "budget_change_id": "71/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3003655"
+          ],
+          "amount": "1 400 000,00",
+          "amount_value": 1400000.0,
+          "description": "rekonstrukce prostoru před GJO (RZ 71/2024/ZM"
+        },
+        {
+          "budget_change_id": "72/2024/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "4000442"
+          ],
+          "amount": "2 867 700,00",
+          "amount_value": 2867700.0,
+          "description": "nová sportovní hala - PD (RZ 72/2024/ZM"
+        },
+        {
+          "budget_change_id": "73/2024/ZM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "3000000"
+          ],
+          "amount": "798 473,00",
+          "amount_value": 798473.0,
+          "description": "doplatek rozdílu mezi cenami směňovaných nemovitostí - Sochova vila (RZ 73/2024/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._16_2024_dne_12._zari_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 16/2024 schválené Zastupitelstvem města Litovel\ndne 12. září 2024.\nRozpočtové opatření bylo schváleno na 13. zasedání Zastupitelstva města Litovel dne 12. září 2024 na základě\nusnesení ZM/4/13/2024.\nZ měny v příjmech\nODPA POL UZ ORJ ORG Kč\n3722 2111 100 000,00 sběr a svoz kom. odpadu (RZ 65/2024/ZM)\n1334 150 000,00 odvody za odnětí půdy ze ZPF ( RZ 66/2024/ZM)\n1334 10 000,00 odvody za odnětí půdy ze ZPF (RZ 67/2024/ZM)\n1356 20 000,00 příjmy z úhrad za dobývání nerostů (RZ 68/2024/ZM)\n50 000,00 příjem z podílu na zisku - FCC Litovel (RZ\n3722 2142\n69/2024/ZM)\n35 000,00 příjem z podílu na zisku - FCC Litovel (RZ\n3722 2142\n70/2024/ZM)\n1381 3 221,73 příjem z daně hazardních her (RZ 72/2024/ZM)\n1385 947 276,96 příjem z dílčí daně z technických her (RZ 72/2024/ZM)\n1386 404 691,36 příjem z daně hazardních her (RZ 72/2024/ZM)\n732 101,52 příjem z poskytování služeb - koupaliště (RZ\n3412 2111 334\n72/2024/ZM)\n780 408,43 příjem z podílu na zisku - FCC Litovel (RZ\n3722 2142 0\n72/2024/ZM)\n6310 2141 0 798 473,00 příjmy z úroků (RZ 73/2024/ZM)\nZměny ve výdajích:\nODPA POL UZ ORJ ORG Kč\n3722 5139 7000000 100 000,00 pořízení sběrných nádob (RZ 65/2024/ZM)\n1037 5169 7000781 150 000,00 založení remízku Šargoun (RZ 66/2024/ZM)\n2333 5164 7000000 10 000,00 revitalizace papírenské vody (RZ 67/2024/ZM)\n1014 5169 7000000 20 000,00 ozdravování hosp. zvířat (RZ 68/2024/ZM)\n3726 6121 7000724 50 000,00 modernizace a rozšíření kompostárny (RZ 69/2024/ZM)\n3792 5169 7000000 35 000,00 ekologická výchova a osvěta (RZ 70/2024/ZM)\nNasobůrky III/3732 MK - průtah, realizace (RZ\n2219 6121 309 3003612 -1 400 000,00\n71/2024/ZM)\n3639 6121 3003655 1 400 000,00 rekonstrukce prostoru před GJO (RZ 71/2024/ZM)\n3412 6121 4000442 2 867 700,00 nová sportovní hala - PD (RZ 72/2024/ZM)\ndoplatek rozdílu mezi cenami směňovaných nemovitostí\n3639 6121 3000000 798 473,00\n- Sochova vila (RZ 73/2024/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 65/2024/ZM Pořízení sběrných nádob § 3722\nPořízení sběrných nádob o objemu 240 litrů na tříděný odpad – plast, BRKO. Pro financování této rozpočtové změny\nje navrženo použití příjmů z poskytování služeb v oblasti sběru a svozu komunálních odpadů.\nRZ 66/2024/ZM Solární sušárna kalů – kompenzační opatření – založení remízku Šargoun § 1037\nNa podzim bude město Litovel realizovat založení remízku na Šargouně (jedna z podmínek CHKO Litovelské\nPomoraví v souvislosti s výstavbou solární sušárny). V rámci aktualizace rozpočtu se náklady na realizaci tohoto\nprojektu zvýšily na 2,5 mil. Kč. Díky následnému výběrovému řízení výsledná cena bude činit 2 076 697 Kč. Přesto\nje potřeba zvýšit celkovou částku o oněch 150 000 Kč (náklady na výběrové řízení, stavební dozor apod.). Pro\nfinancování této rozpočtové změny je navrženo použití příjmů z odvodů za vynětí půdy ze ZPF.\nRZ 67/2024/ZM Revitalizace papírenské vody § 2333\nStavba tohoto díla je již ukončena a zkolaudována. Nyní se již pouze řeší se správcem toku Povodím Moravy zřízení\nslužebnosti a věcného břemene a tato částka by měla hradit tyto výdaje. Pro financování této rozpočtové změny je\nnavrženo použití příjmů z odvodů za vynětí půdy ze ZPF.\nRZ 68/2024/ZM Ozdravování hospodářských zvířat § 1014\nV současné době je vlivem vysokých teplot (stejně jako v roce 2023) potřeba přikrmovat labutě a provádět další\nopatření proti botulismu. Pro financování této rozpočtové změny je navrženo použití příjmů z úhrad za dobývání\nnerostů.\nRZ 69/2024/ZM Modernizace a rozšíření kompostárny § 3726\nJedná se o náklady na projektovou přípravu – zřízení nového odběrného místa v rámci ČEZ Distribuce apod.\nPro financování této rozpočtové změny je navrženo použití část příjmů z podílů na zisku od společnosti FCC.\nRZ 70/2024/ZM Ekologická výchova a osvěta § 3792\nJedná se o náklady na rozbor a analýzu směsného komunálního odpadu v Litovli. Pro financování této rozpočtové\nzměny je navrženo použití část příjmů z podílů na zisku od společnosti FCC.\nRZ 71/2024/ZM Rekonstrukce prostoru před GJO § 3639\nAkce \"Rekonstrukce prostoru před GJO\" byla vysoutěžena za 3,5 mil. Kč. Tato částka není schváleným rozpočtem\nkryta. Pro pokrytí nákladů na realizaci akce je odborem MHaSI navržena rozpočtová změna – přesun finančních\nprostředků z jiné akce odboru MHaSI.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 72/2024/ZM Nová sportovní hala - PD § 3412\nDne 6. 9. 2024 dorazilo na finanční odbor následující: „žádám o rozpočtovou změnu ve prospěch ORG 4 – OŠKS\nve výši 2.867.700 Kč na uhrazení PD pro zhotovení stavby nové sportovní haly. PD bude zpracována a doplněna\no vnitřní galerii pro veřejnost.“\nRZ 73/2024/ZM Sochova vila – finanční vyrovnání směňovaných nemovitostí § 3639\nV případě schválení chystané směnné smlouvy mezi Městem Litovel, ÚZSVM a HZS bude muset město Litovel\ndoplatit rozdíl mezi cenami směňovaných nemovitostí.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 27. 9. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/4/13/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1227/40/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "65/2024/ZM",
+        "66/2024/ZM",
+        "67/2024/ZM",
+        "68/2024/ZM",
+        "69/2024/ZM",
+        "70/2024/ZM",
+        "71/2024/ZM",
+        "72/2024/ZM",
+        "73/2024/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/4/13/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "65/2024/ZM",
+        "66/2024/ZM",
+        "67/2024/ZM",
+        "68/2024/ZM",
+        "69/2024/ZM",
+        "70/2024/ZM",
+        "71/2024/ZM",
+        "72/2024/ZM",
+        "73/2024/ZM"
+      ]
+    }
+  ]
+}

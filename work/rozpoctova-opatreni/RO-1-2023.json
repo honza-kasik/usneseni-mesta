@@ -1,0 +1,146 @@
+{
+  "id": "RO/1/2023",
+  "number": 1,
+  "year": 2023,
+  "approval_date": "2023-01-26",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 7,
+    "type": "schůzi",
+    "date": "2023-01-26"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "1/2023/RM",
+    "2/2023/RM",
+    "3/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "1/2023/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "4 400,00",
+          "amount_value": 4400.0,
+          "description": "Přijaté pojistné plnění (RZ 1/2023/RM"
+        },
+        {
+          "budget_change_id": "2/2023/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "237 600,00",
+          "amount_value": 237600.0,
+          "description": "Finanční příspěvek na výkon agendy SPOD (RZ 2/2023/RM"
+        },
+        {
+          "budget_change_id": "3/2023/RM",
+          "raw_codes": [
+            "4111",
+            "98008"
+          ],
+          "amount": "671 200,00",
+          "amount_value": 671200.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 3/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "1/2023/RM",
+          "raw_codes": [
+            "3639",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "4 400,00",
+          "amount_value": 4400.0,
+          "description": "Pojištění, škody na majetku, opravy (RZ 1/2023/RM"
+        },
+        {
+          "budget_change_id": "2/2023/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 566"
+          ],
+          "amount": "59 400,00",
+          "amount_value": 59400.0,
+          "description": "Výkon agendy SPOD (RZ 2/2023/RM"
+        },
+        {
+          "budget_change_id": "2/2023/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 536"
+          ],
+          "amount": "59 400,00",
+          "amount_value": 59400.0,
+          "description": "Výkon agendy SPOD (RZ 2/2023/RM"
+        },
+        {
+          "budget_change_id": "2/2023/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 568"
+          ],
+          "amount": "59 400,00",
+          "amount_value": 59400.0,
+          "description": "Výkon agendy SPOD (RZ 2/2023/RM"
+        },
+        {
+          "budget_change_id": "2/2023/RM",
+          "raw_codes": [
+            "4339",
+            "5169",
+            "13010",
+            "5 000 569"
+          ],
+          "amount": "59 400,00",
+          "amount_value": 59400.0,
+          "description": "Výkon agendy SPOD (RZ 2/2023/RM"
+        },
+        {
+          "budget_change_id": "3/2023/RM",
+          "raw_codes": [
+            "6118",
+            "5xxx",
+            "98008",
+            "10 000 000"
+          ],
+          "amount": "671 200,00",
+          "amount_value": 671200.0,
+          "description": "Výdaje na volby prezidenta ČR (RZ 3/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 2/2023/RM",
+      "text": "Na základě rozhodnutí Úřadu práce ČR – Krajská pobočka v Olomouci, dle zákona č. 359/1999 Sb. o sociálně- právní ochraně dětí, ve znění pozdějších předpisů byl městu Litovel přiznán státní příspěvek na výkon pěstounské péče na rok 2022, za účelem pokrytí nákladů na zajišťování pomoci osobám pečujícím, osobám v evidenci a svěřeným dětem, jakož i na provádění dohledu nad výkonem pěstounské péče."
+    },
+    {
+      "title": "Rozpočtová změna č. 3/2023/RM",
+      "text": "Na účet města Litovel byla připsána platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na úhradu výdajů vzniklých v souvislosti s konáním volby prezidenta České republiky."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._1_2023_schvalene_radou_mesta_litovel_dne_26._ledna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 1/2023 schválené Radou města Litovel dne 26.ledna 2023.\nRozpočtové opatření bylo schváleno na 7. schůzi Rady města Litovel dne 26.ledna 2023 na základě usnesení\n177/7/2023.\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\nPřijaté pojistné plnění\n6320 2322 4 400,00\n(RZ 1/2023/RM)\nFinanční příspěvek na výkon\n4116 13010 237 600,00\nagendy SPOD (RZ 2/2023/RM)\nPřijatá účelová neinvestiční dotace\n4111 98008 671 200,00\n(RZ 3/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPojištění, škody na majetku,\n3639 5171 3 003 559 4 400,00\nopravy (RZ 1/2023/RM)\nVýkon agendy SPOD\n4339 5169 13010 5 000 566 59 400,00\n(RZ 2/2023/RM)\nVýkon agendy SPOD\n4339 5169 13010 5 000 536 59 400,00\n(RZ 2/2023/RM)\nVýkon agendy SPOD\n4339 5169 13010 5 000 568 59 400,00\n(RZ 2/2023/RM)\nVýkon agendy SPOD\n4339 5169 13010 5 000 569 59 400,00\n(RZ 2/2023/RM)\nVýdaje na volby prezidenta ČR\n6118 5xxx 98008 10 000 000 671 200,00\n(RZ 3/2023/RM)\nRZ 1//2023/RM\nNa účet města Litovel byla připsána platba od Hasičské vzájemné pojišťovny. Dle sdělení se jedná o pojistné\nplnění z pojistné události č. 2022/0113/4333, která vznikla 13.12.2022 (altánek v parku – fasáda).\nRZ 2/2023/RM\nNa základě rozhodnutí Úřadu práce ČR – Krajská pobočka v Olomouci, dle zákona č. 359/1999 Sb. o sociálně-\nprávní ochraně dětí, ve znění pozdějších předpisů byl městu Litovel přiznán státní příspěvek na výkon pěstounské\npéče na rok 2022, za účelem pokrytí nákladů na zajišťování pomoci osobám pečujícím, osobám v evidenci a\nsvěřeným dětem, jakož i na provádění dohledu nad výkonem pěstounské péče.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 3/2023/RM\nNa účet města Litovel byla připsána platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na\núhradu výdajů vzniklých v souvislosti s konáním volby prezidenta České republiky.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 13.2.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

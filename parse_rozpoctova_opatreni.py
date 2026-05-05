@@ -54,7 +54,10 @@ RESOLUTION_RE = re.compile(r"\b(?:RM|ZM)/\d+/\d+/\d{4}\b")
 AMOUNT_RE = re.compile(r"(?<!\d)-?\d{1,3}(?:\s\d{3})*,\d{2}(?!\d)")
 AMOUNT_CELL_RE = re.compile(r"^-?\d{1,3}(?:\s\d{3})*,\d{2}$")
 
-NOTE_START_RE = re.compile(r"^Rozpočtová změna č\.\s+(.+)$", re.IGNORECASE | re.MULTILINE)
+NOTE_START_RE = re.compile(
+    r"^(?:Rozpočtová změna č\.\s+(?P<long>.+)|RZ\s+(?P<short>\d{1,4}\s*/\s*\d{4}\s*/\s*(?:RM|ZM)))\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
 
 MONTHS = {
     "ledna": "01",
@@ -97,6 +100,21 @@ TABLE_HEADER_WORDS = {
     "Kč",
     "Popis",
 }
+
+TABLE_HEADER_PREFIX_RE = re.compile(
+    r"^(?:§\s*)?(?:(?:SU|ODPA|POL|UZ|PJ|NÁSTROJ|MU|ORJ|ORG|Kč|Popis|§)\s+){2,}",
+    re.IGNORECASE,
+)
+
+CHROME_FRAGMENT_RE = re.compile(
+    r"(?:Město Litovel\s+)?IČO:?\s*\d[\d\s]*\s+ID datové schránky:\s*\S+\s+(?:e-?mail|email):\s*\S+"
+    r"|(?:Město Litovel\s+)?ID datové schránky:\s*\S+\s+(?:e-?mail|email):\s*\S+\s+IČO:?\s*\d[\d\s]*"
+    r"|č\.\s*účtu:\s*\S+\s+Tel\.:\s*\+?\d[\d\s]+\s+www\.\S+"
+    r"|Tel\.:\s*\+?\d[\d\s]+\s+www\.\S+\s+č\.\s*účtu:\s*\S+"
+    r"|Nám\.\s*Př\.\s*Otakara\s*778/1b"
+    r"|784\s*01\s*Litovel",
+    re.IGNORECASE,
+)
 
 
 def pdf_to_text(path: Path) -> str:
@@ -197,20 +215,19 @@ def find_amount_in_line(line: str):
 
 
 def text_without_repeated_chrome(text: str) -> str:
-    ignored_prefixes = (
-        "Město Litovel",
-        "Nám. Př. Otakara",
-        "784 01 Litovel",
-        "ID datové schránky:",
-        "IČO ",
-        "č. účtu:",
-    )
+    """Remove repeated municipal PDF header/footer fragments from extracted text.
+
+    Older PDFs often inject footer metadata in the middle of budget rows, and
+    pdfplumber occasionally merges that footer with the following row label
+    into a single line. Remove the chrome fragment but preserve any real row
+    text that follows it on the same line.
+    """
     lines = []
     for line in text.splitlines():
-        stripped = line.strip()
+        stripped = CHROME_FRAGMENT_RE.sub(" ", line).strip()
         if not stripped:
             continue
-        if any(stripped.startswith(prefix) for prefix in ignored_prefixes):
+        if stripped == "Město Litovel":
             continue
         lines.append(stripped)
     return "\n".join(lines)
@@ -218,9 +235,10 @@ def text_without_repeated_chrome(text: str) -> str:
 
 def clean_description(text: str) -> str:
     text = text_without_repeated_chrome(text)
+    text = TABLE_HEADER_PREFIX_RE.sub("", text).strip()
     text = re.sub(r"\bRZ\s+(\d+\s*/\s*\d{4}\s*/\s*(?:RM|ZM))", r"RZ \1", text, flags=re.IGNORECASE)
     text = re.sub(r"\s+", " ", text)
-    return text.strip(" -")
+    return text.strip(" -)")
 
 
 def extract_codes_and_description(chunk: str):
@@ -494,6 +512,12 @@ def row_description_key(section_type: str, row: dict):
 
 
 def extract_notes(text: str):
+    """Extract official explanatory notes for each RZ.
+
+    Newer PDFs label notes as `Rozpočtová změna č. 53/2026/RM`, while older
+    exports use the shorter standalone heading `RZ 13/2022/RM`. Support both
+    forms so official notes remain available for rendering across all years.
+    """
     notes = []
     matches = list(NOTE_START_RE.finditer(text))
     if not matches:
@@ -513,12 +537,30 @@ def extract_notes(text: str):
             if marker_pos != -1:
                 end = min(end, marker_pos)
 
+        note_id = match.group("long") or match.group("short") or ""
         notes.append({
-            "title": "Rozpočtová změna č. " + " ".join(match.group(1).split()),
+            "title": "Rozpočtová změna č. " + " ".join(note_id.split()),
             "text": clean_description(text[start:end]),
         })
 
     return notes
+
+
+def sanitize_parsed_content(sections: list[dict], notes: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Apply the same description cleanup across all parser branches.
+
+    Table-based extraction and text fallback do not always produce identical
+    intermediate strings. Run one final normalization pass so footer/header
+    fragments are removed consistently from row descriptions and note text.
+    """
+    for section in sections:
+        for row in section.get("rows") or []:
+            row["description"] = clean_description(row.get("description") or "")
+
+    for note in notes:
+        note["text"] = clean_description(note.get("text") or "")
+
+    return sections, notes
 
 
 def parse_opatreni(pdf_path: Path):
@@ -552,6 +594,7 @@ def parse_opatreni(pdf_path: Path):
     fallback_sections = extract_sections(text)
     sections = merge_fallback_sections(table_sections, fallback_sections)
     notes = extract_notes(text)
+    sections, notes = sanitize_parsed_content(sections, notes)
     budget_change_ids = sorted({
         row["budget_change_id"]
         for section in sections

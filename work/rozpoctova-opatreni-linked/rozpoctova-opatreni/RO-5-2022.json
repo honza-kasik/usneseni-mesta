@@ -1,0 +1,108 @@
+{
+  "id": "RO/5/2022",
+  "number": 5,
+  "year": 2022,
+  "approval_date": "2022-03-25",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "65/2022/ZM",
+    "66/2022/ZM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "65/2022/ZM",
+          "raw_codes": [
+            "6409",
+            "2329"
+          ],
+          "amount": "1 928 940,00",
+          "amount_value": 1928940.0,
+          "description": "Vratka finančních prostředků od FÚ (RZ 65/2022/ZM"
+        },
+        {
+          "budget_change_id": "65/2022/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "71 060,00",
+          "amount_value": 71060.0,
+          "description": "Příjmy z úroků (RZ 65/2022/ZM"
+        },
+        {
+          "budget_change_id": "66/2022/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "500 000,00",
+          "amount_value": 500000.0,
+          "description": "Příjmy z úroků (RZ 66/2022/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "65/2022/ZM",
+          "raw_codes": [
+            "6221",
+            "5901",
+            "16 000 000"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "Humanitární zahraniční pomoc přímá (RZ 65/2022/ZM"
+        },
+        {
+          "budget_change_id": "66/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "6451",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-2 700 000,00",
+          "amount_value": -2700000.0,
+          "description": "ZŠ Vítězná – Multimediální učebna – IROP – předfinancování - půjčka (RZ 66/2022/ZM"
+        },
+        {
+          "budget_change_id": "66/2022/ZM",
+          "raw_codes": [
+            "3113",
+            "6351",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "-300 000,00",
+          "amount_value": -300000.0,
+          "description": "ZŠ Vítězná – Multimediální učebna – IROP – předfinancování – příspěvek (RZ 66/2022/ZM"
+        },
+        {
+          "budget_change_id": "66/2022/ZM",
+          "raw_codes": [
+            "6221",
+            "5171",
+            "3 003 641"
+          ],
+          "amount": "3 500 000,00",
+          "amount_value": 3500000.0,
+          "description": "Humanitární zahraniční pomoc přímá (RZ 66/2022/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.5_2022_schvalene_zm_litovel_dne_25.brezna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 5/2022 schválené Zastupitelstvem města Litovel\ndne 25.března 2022\nRozpočtové opatření bylo schváleno na 31. zasedání Zastupitelstva města Litovel dne 25.března 2022 na\nzákladě usnesení ZM/3/31/2022 a ZM/4/31/2022.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nVratka finančních prostředků od FÚ\n6409 2329 1 928 940,00\n(RZ 65/2022/ZM)\n6310 2141 71 060,00 Příjmy z úroků (RZ 65/2022/ZM)\n6310 2141 500 000,00 Příjmy z úroků (RZ 66/2022/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nHumanitární zahraniční pomoc přímá\n6221 5901 16 000 000 2 000 000,00\n(RZ 65/2022/ZM)\nZŠ Vítězná – Multimediální učebna – IROP –\n3113 6451 45 4 000 000 -2 700 000,00\npředfinancování - půjčka (RZ 66/2022/ZM)\nZŠ Vítězná – Multimediální učebna – IROP –\n3113 6351 45 4 000 000 -300 000,00 předfinancování – příspěvek\n(RZ 66/2022/ZM)\nHumanitární zahraniční pomoc přímá\n6221 5171 3 003 641 3 500 000,00\n(RZ 66/2022/ZM)\nRZ 65/2022/ZM – Humanitární zahraniční pomoc přímá § 6221 – Krizové řízení\nUsnesením Vlády ČR č. 207 z roku 2022 ukládá vláda hejtmanům, aby ve spolupráci se starosty obcí s rozšířenou působností\nzajistili ubytovací kapacity pro uprchlíky z Ukrajiny. Vedení města Litovel, krizová skupina má vytipované objekty, které\nby přicházely do úvahy na nouzové ubytování uprchlíků. Město Litovel poskytlo finanční prostředky na řešení situace\nsouvisející s příchodem válečných uprchlíků z Ukrajiny.\nRZ 66/2022/ZM – Humanitární zahraniční pomoc přímá § 6221 – MHaSI\nMěsto Litovel řeší v rámci usnesení vlády č. 207 ubytovací kapacity pro uprchlíky z Ukrajiny. Záměrem vedení města je\nopravit ubytovací prostory v objektu Záložny, kde je 17 pokojů a 40 lůžek. Součástí oprav je zprovoznění topení, teplé a\nstudené vody, elektroinstalace, rekonstrukce sociálních zařízení, vybudování kuchyní vč. kuchyňské linky se spotřebiči\nv každém patře, technických místností v každém patře, oprava oken, podlahových krytin, výmalba a úprava vstupu do\nobjektu.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nV Litovli, 5.4.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": []
+}

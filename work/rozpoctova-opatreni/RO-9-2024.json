@@ -1,0 +1,219 @@
+{
+  "id": "RO/9/2024",
+  "number": 9,
+  "year": 2024,
+  "approval_date": "2024-05-16",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "36/2024/RM",
+    "37/2024/RM",
+    "38/2024/RM",
+    "39/2024/RM",
+    "40/2024/RM",
+    "41/2024/RM",
+    "42/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "36/2024/RM",
+          "raw_codes": [
+            "6310",
+            "5141",
+            "14 000 000"
+          ],
+          "amount": "-320 650,00",
+          "amount_value": -320650.0,
+          "description": "Úroky z přijatých úvěrů a půjček (RZ 36/2024/RM"
+        },
+        {
+          "budget_change_id": "36/2024/RM",
+          "raw_codes": [
+            "6112",
+            "5169",
+            "1 000 000"
+          ],
+          "amount": "320 650,00",
+          "amount_value": 320650.0,
+          "description": "Veřejnosprávní kontrola přísp.organizací (RZ 36/2024/RM"
+        },
+        {
+          "budget_change_id": "37/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 37/2024/RM"
+        },
+        {
+          "budget_change_id": "37/2024/RM",
+          "raw_codes": [
+            "3613",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "L.Z. - příspěvek na el.energii pro prodejnu potravin v Savíně (RZ 37/2024/RM"
+        },
+        {
+          "budget_change_id": "38/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 38/2024/RM"
+        },
+        {
+          "budget_change_id": "38/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "TJ Sokol Unčovice - dětský den (RZ 38/2024/RM"
+        },
+        {
+          "budget_change_id": "39/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 39/2024/RM"
+        },
+        {
+          "budget_change_id": "39/2024/RM",
+          "raw_codes": [
+            "4359",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "Zet-My, z.s. - příspěvek na činnost (RZ 39/2024/RM"
+        },
+        {
+          "budget_change_id": "40/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 40/2024/RM"
+        },
+        {
+          "budget_change_id": "40/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Junák-český skaut, středisko Šíp Loštice, z.s. - neinvestiční transfer (RZ 40/2024/RM"
+        },
+        {
+          "budget_change_id": "41/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 41/2024/RM"
+        },
+        {
+          "budget_change_id": "41/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Česká Asociace Skateboardingu - příspěvek na závod ČSP Junior Litovel (RZ 41/2024/RM"
+        },
+        {
+          "budget_change_id": "42/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 42/2024/RM"
+        },
+        {
+          "budget_change_id": "42/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 423"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "TJ TATRAN LITOVEL - organ. zajištění oslav 100. výročí založení (RZ 42/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 36/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 36/2024/RM řeší zajištění finančních prostředků na realizaci kontrol u zřízených",
+      "text": "příspěvkových organizací v roce 2024 dle nabídky společnosti AUDIT TEAM, s.r.o. Zajištění výkonu veřejnosprávní kontroly u zřízených příspěvkových organizací je jednou z povinností města Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 37/2024/RM",
+      "text": "Město Litovel poskytlo na základě požadavku Odboru školství a kultury dotaci na elektrickou energii pro prodejnu potravin v Savíně v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 38/2024/RM",
+      "text": "Město Litovel poskytlo dar TJ Sokol Unčovice, z.s. na organizační zajištění dětského dne, který se bude konat dne 15.června 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 39/2024/RM",
+      "text": "Město Litovel poskytlo dar spolku Zet-My, z.s. na podporu činnosti odlehčovací sociální služby v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 40/2024/RM",
+      "text": "Město Litovel poskytlo dotaci spolku Junák – český skaut, středisko Šíp Loštice, z.s. na uhrazení nájemného v budově Městského klubu."
+    },
+    {
+      "title": "Rozpočtová změna č. 41/2024/RM",
+      "text": "Město Litovel poskytlo dotaci spolku Česká asociace skateboardingu na organizační zajištění zastávky závodu Český skateboardový pohár Junior 2024, která se uskuteční 15. června 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 42/2024/RM",
+      "text": "Město Litovel poskytlo dotaci TJ TATRAN Litovel na organizační zajištění oslav 100.výročí založení kopané v Litovli, které se budou konat 22.června 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._9_2024_schvalene_radou_mesta_litovel_dne_16._kvetna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 9/2024 schválené Radou města Litovel\ndne 16. května 2024.\nRozpočtové opatření bylo schváleno na 35.schůzi Rady města Litovel dne 16. května 2024 na základě usnesení\n1011/35/2024, 1013/35/2024, 1014/35/2024, 1015/35/2024, 1023/35/2024 a 1044/35/2024.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nÚroky z přijatých úvěrů a půjček\n6310 5141 14 000 000 -320 650,00\n(RZ 36/2024/RM)\nVeřejnosprávní kontrola\n6112 5169 1 000 000 320 650,00\npřísp.organizací (RZ 36/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -10 000,00\n(RZ 37/2024/RM)\nL.Z. - příspěvek na el.energii pro\n3613 5222 311 4 000 000 10 000,00 prodejnu potravin v Savíně\n(RZ 37/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 38/2024/RM)\n3419 5222 310 4 000 000 3 000,00 TJ Sokol Unčovice - dětský den\n(RZ 38/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -4 000,00\n(RZ 39/2024/RM)\n4359 5222 4 000 000 4 000,00 Zet-My, z.s. - příspěvek na činnost\n(RZ 39/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -25 000,00\n(RZ 40/2024/RM)\nJunák-český skaut, středisko Šíp\n3429 5222 4 000 000 25 000,00 Loštice, z.s. - neinvestiční transfer\n(RZ 40/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -20 000,00\n(RZ 41/2024/RM)\nČeská Asociace Skateboardingu -\n3419 5222 4 000 000 20 000,00 příspěvek na závod ČSP Junior\nLitovel (RZ 41/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -20 000,00\n(RZ 42/2024/RM)\nTJ TATRAN LITOVEL - organ.\n3419 5222 4 000 423 20 000,00 zajištění oslav 100. výročí založení\n(RZ 42/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 36/2024/RM\nRozpočtová změna č. 36/2024/RM řeší zajištění finančních prostředků na realizaci kontrol u zřízených\npříspěvkových organizací v roce 2024 dle nabídky společnosti AUDIT TEAM, s.r.o. Zajištění výkonu\nveřejnosprávní kontroly u zřízených příspěvkových organizací je jednou z povinností města Litovel.\nRZ 37/2024/RM\nMěsto Litovel poskytlo na základě požadavku Odboru školství a kultury dotaci na elektrickou energii pro\nprodejnu potravin v Savíně v roce 2024.\nRZ 38/2024/RM\nMěsto Litovel poskytlo dar TJ Sokol Unčovice, z.s. na organizační zajištění dětského dne, který se bude konat\ndne 15.června 2024.\nRZ 39/2024/RM\nMěsto Litovel poskytlo dar spolku Zet-My, z.s. na podporu činnosti odlehčovací sociální služby v roce 2024.\nRZ 40/2024/RM\nMěsto Litovel poskytlo dotaci spolku Junák – český skaut, středisko Šíp Loštice, z.s. na uhrazení nájemného\nv budově Městského klubu.\nRZ 41/2024/RM\nMěsto Litovel poskytlo dotaci spolku Česká asociace skateboardingu na organizační zajištění zastávky závodu\nČeský skateboardový pohár Junior 2024, která se uskuteční 15. června 2024.\nRZ 42/2024/RM\nMěsto Litovel poskytlo dotaci TJ TATRAN Litovel na organizační zajištění oslav 100.výročí založení\nkopané v Litovli, které se budou konat 22.června 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 29. 5 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

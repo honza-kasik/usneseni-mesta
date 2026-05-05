@@ -1,0 +1,301 @@
+{
+  "id": "RO/4/2024",
+  "number": 4,
+  "year": 2024,
+  "approval_date": "2024-02-22",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "10/2024/RM",
+    "11/2024/RM",
+    "12/2024/RM",
+    "13/2024/RM",
+    "14/2024/RM",
+    "15/2024/RM",
+    "16/2024/RM",
+    "17/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "10/2024/RM",
+          "raw_codes": [
+            "4116",
+            "170515017",
+            "7 000 790"
+          ],
+          "amount": "110 653,00",
+          "amount_value": 110653.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 10/2024/RM"
+        },
+        {
+          "budget_change_id": "10/2024/RM",
+          "raw_codes": [
+            "4116",
+            "170115017",
+            "7 000 790"
+          ],
+          "amount": "23 237,00",
+          "amount_value": 23237.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 10/2024/RM"
+        },
+        {
+          "budget_change_id": "11/2024/RM",
+          "raw_codes": [
+            "4116",
+            "170529031",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "279 300,00",
+          "amount_value": 279300.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 11/2024/RM"
+        },
+        {
+          "budget_change_id": "11/2024/RM",
+          "raw_codes": [
+            "4116",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "112 756,00",
+          "amount_value": 112756.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 11/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "10/2024/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "133 890,00",
+          "amount_value": 133890.0,
+          "description": "Výsadba zeleně (RZ 10/2024/RM"
+        },
+        {
+          "budget_change_id": "11/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "170529031",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "279 300,00",
+          "amount_value": 279300.0,
+          "description": "Převod transferu příspěvkové organizaci (RZ 11/2024/RM"
+        },
+        {
+          "budget_change_id": "11/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5336",
+            "29015",
+            "41",
+            "14 000 000"
+          ],
+          "amount": "112 756,00",
+          "amount_value": 112756.0,
+          "description": "Převod transferu příspěvkové organizaci (RZ 11/2024/RM"
+        },
+        {
+          "budget_change_id": "12/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 12/2024/RM"
+        },
+        {
+          "budget_change_id": "12/2024/RM",
+          "raw_codes": [
+            "3599",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Zdravotní klaun - činnost v roce 2024 (RZ 12/2024/RM"
+        },
+        {
+          "budget_change_id": "13/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 13/2024/RM"
+        },
+        {
+          "budget_change_id": "13/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "305",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Březové - dotace na činnost spolku (RZ 13/2024/RM"
+        },
+        {
+          "budget_change_id": "14/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 14/2024/RM"
+        },
+        {
+          "budget_change_id": "14/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "301",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "SDH Myslechovice - dotace na činnost spolku (RZ 14/2024/RM"
+        },
+        {
+          "budget_change_id": "15/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 15/2024/RM"
+        },
+        {
+          "budget_change_id": "16/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 16/2024/RM"
+        },
+        {
+          "budget_change_id": "16/2024/RM",
+          "raw_codes": [
+            "3312",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "SOŠ Litovel - hudební minifestival (RZ 16/2024/RM"
+        },
+        {
+          "budget_change_id": "17/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 17/2024/RM"
+        },
+        {
+          "budget_change_id": "17/2024/RM",
+          "raw_codes": [
+            "5512",
+            "5222",
+            "307",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Chořelice - podpora místních spolků (RZ 17/2024/RM"
+        },
+        {
+          "budget_change_id": "15/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "310",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "TJ Sokol Unčovice - dotace na opravu a údržbu sport.areálu a činnost (RZ 15/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 10/2024/RM",
+      "text": "Na účet města Litovel byla připsána platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na realizaci projektu Liniové výsadby dřevin u Litovle v rámci Národního plánu obnovy."
+    },
+    {
+      "title": "Rozpočtová změna č. 11/2024/RM",
+      "text": "Na účet města Litovel byly připsány platby od Ministerstva zemědělství ČR. Dle Odboru životního prostředí a zemědělství Krajského úřadu Olomouckého kraje se jedná o finanční příspěvek pro Technické služby Litovel, příspěvkovou organizaci na obnovu, zajištění a výchovu lesních porostů do 40 let věku a na ekologické a k přírodě šetrné technologie při hospodaření v lesích."
+    },
+    {
+      "title": "Rozpočtová změna č. 12/2024/RM",
+      "text": "Město Litovel poskytlo dar společnosti Zdravotní klaun na podporu činnosti v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 13/2024/RM",
+      "text": "Město Litovel poskytlo SDH Březové dotaci na činnost spolku v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 14/2024/RM",
+      "text": "Město Litovel poskytlo spolku SH ČMS – Sboru dobrovolných hasičů Myslechovice dotaci na činnost spolku v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 15/2024/RM",
+      "text": "Město Litovel poskytlo dotaci TJ Sokol Unčovice na opravu a údržbu sportovního areálu a činnost tělovýchovné jednoty v roce 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 16/2024/RM",
+      "text": "Město Litovel poskytlo dotaci SOŠ Litovel na úhradu nákladů při konání minifestivalu amatérských skupin, který se bude konat dne 21.června 2024 ve dvoře SOŠ Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 17/2024/RM",
+      "text": "Město Litovel poskytlo dotaci spolku SH ČMS – Sboru dobrovolných hasičů Chořelice na činnost sboru v roce 2024 a na pořádání kulturních a společenských akcí v Chořelicích."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._4_2024_schvalene_radou_mesta_litovel_dne_22._unora_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 4/2024 schválené Radou města Litovel\ndne 22. února 2024.\nRozpočtové opatření bylo schváleno na 30.schůzi Rady města Litovel dne 22.února 2024 na základě usnesení\n832/30/2024, 833/30/2024, 834/30/2024, 835/30/2024, 836/30/2024, 837/30/2024 a 845/30/2024.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\n4116 170515017 7 000 790 110 653,00 Přijatá účelová neinvestiční dotace\n(RZ 10/2024/RM)\n4116 170115017 7 000 790 23 237,00 Přijatá účelová neinvestiční dotace\n(RZ 10/2024/RM)\n4116 170529031 41 14 000 000 279 300,00 Přijatá účelová neinvestiční dotace\n(RZ 11/2024/RM)\n4116 29015 41 14 000 000 112 756,00 Přijatá účelová neinvestiční dotace\n(RZ 11/2024/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3745 5169 7 000 000 133 890,00 Výsadba zeleně (RZ 10/2024/RM)\nPřevod transferu příspěvkové organizaci\n3639 5336 170529031 41 14 000 000 279 300,00\n(RZ 11/2024/RM)\nPřevod transferu příspěvkové organizaci\n3639 5336 29015 41 14 000 000 112 756,00\n(RZ 11/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 12/2024/RM)\nZdravotní klaun - činnost v roce 2024\n3599 5221 4 000 000 3 000,00\n(RZ 12/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 13/2024/RM)\nSDH Březové - dotace na činnost spolku\n5512 5222 305 4 000 000 5 000,00\n(RZ 13/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -10 000,00\n(RZ 14/2024/RM)\nSDH Myslechovice - dotace na činnost\n5512 5222 301 4 000 000 10 000,00\nspolku (RZ 14/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -20 000,00\n(RZ 15/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nTJ Sokol Unčovice - dotace na opravu a\n3419 5222 310 4 000 000 20 000,00 údržbu sport.areálu a činnost\n(RZ 15/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -25 000,00\n(RZ 16/2024/RM)\nSOŠ Litovel - hudební minifestival\n3312 5339 4 000 000 25 000,00\n(RZ 16/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -25 000,00\n(RZ 17/2024/RM)\nChořelice - podpora místních spolků\n5512 5222 307 4 000 000 25 000,00\n(RZ 17/2024/RM)\nRZ 10/2024/RM\nNa účet města Litovel byla připsána platba od Olomouckého kraje. Jedná se o účelovou neinvestiční dotaci na\nrealizaci projektu Liniové výsadby dřevin u Litovle v rámci Národního plánu obnovy.\nRZ 11/2024/RM\nNa účet města Litovel byly připsány platby od Ministerstva zemědělství ČR. Dle Odboru životního prostředí a\nzemědělství Krajského úřadu Olomouckého kraje se jedná o finanční příspěvek pro Technické služby Litovel,\npříspěvkovou organizaci na obnovu, zajištění a výchovu lesních porostů do 40 let věku a na ekologické a\nk přírodě šetrné technologie při hospodaření v lesích.\nRZ 12/2024/RM\nMěsto Litovel poskytlo dar společnosti Zdravotní klaun na podporu činnosti v roce 2024.\nRZ 13/2024/RM\nMěsto Litovel poskytlo SDH Březové dotaci na činnost spolku v roce 2024.\nRZ 14/2024/RM\nMěsto Litovel poskytlo spolku SH ČMS – Sboru dobrovolných hasičů Myslechovice dotaci na činnost spolku\nv roce 2024.\nRZ 15/2024/RM\nMěsto Litovel poskytlo dotaci TJ Sokol Unčovice na opravu a údržbu sportovního areálu a činnost\ntělovýchovné jednoty v roce 2024.\nRZ 16/2024/RM\nMěsto Litovel poskytlo dotaci SOŠ Litovel na úhradu nákladů při konání minifestivalu amatérských\nskupin, který se bude konat dne 21.června 2024 ve dvoře SOŠ Litovel.\nRZ 17/2024/RM\nMěsto Litovel poskytlo dotaci spolku SH ČMS – Sboru dobrovolných hasičů Chořelice na činnost sboru v\nroce 2024 a na pořádání kulturních a společenských akcí v Chořelicích.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 13. 3. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/845/30/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "10/2024/RM",
+        "11/2024/RM"
+      ]
+    }
+  ]
+}

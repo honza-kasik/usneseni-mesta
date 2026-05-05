@@ -1,0 +1,84 @@
+{
+  "id": "RO/8/2023",
+  "number": 8,
+  "year": 2023,
+  "approval_date": "2023-05-11",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 12,
+    "type": "schůzi",
+    "date": "2023-05-11"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "36/2023/RM",
+    "37/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "36/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-4 500,00",
+          "amount_value": -4500.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 36/2023/RM"
+        },
+        {
+          "budget_change_id": "36/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "303",
+            "4 000 000"
+          ],
+          "amount": "4 500,00",
+          "amount_value": 4500.0,
+          "description": "E.K.- organizační zajištění dětského dne Nová Ves (RZ 36/2023/RM"
+        },
+        {
+          "budget_change_id": "37/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle usnesení RM (RZ 37/2023/RM"
+        },
+        {
+          "budget_change_id": "37/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "311",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "SDH Savín - dar na organizační zajištění lampionového průvodu pro děti (RZ 37/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 36/2023/RM",
+      "text": "Město Litovel poskytlo na žádost paní E.K. dar na organizační zajištění dětského dne v Nové Vsi, který se uskuteční dne 3.6.2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 37/2023/RM",
+      "text": "Město Litovel poskytlo SDH Savín dar na organizační zajištění lampionového průvodu pro děti, který se konal 6.května 2023 v Savíně."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._8_2023_schvalene_radou_mesta_litovel_dne_11.kvetna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č.8/2023 schválené Radou města Litovel dne 11. května 2023.\nRozpočtové opatření bylo schváleno na 12. schůzi Rady města Litovel dne 11. května 2023 na základě usnesení\n365/12/2023 a 366/12/2023.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3429 5901 4 000 000 -4 500,00 Transfery dle rozhodnutí RM\n(RZ 36/2023/RM)\n3900 5492 303 4 000 000 4 500,00 E.K.- organizační zajištění dětského\ndne Nová Ves (RZ 36/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle usnesení RM\n(RZ 37/2023/RM)\nSDH Savín - dar na organizační\n3429 5222 311 4 000 000 5 000,00\nzajištění lampionového průvodu pro\nděti (RZ 37/2023/RM)\nRZ 36/2023/RM\nMěsto Litovel poskytlo na žádost paní E.K. dar na organizační zajištění dětského dne v Nové Vsi, který se\nuskuteční dne 3.6.2023.\nRZ 37/2023/RM\nMěsto Litovel poskytlo SDH Savín dar na organizační zajištění lampionového průvodu pro děti, který se konal\n6.května 2023 v Savíně.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 22.5.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

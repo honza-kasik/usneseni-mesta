@@ -1,0 +1,135 @@
+{
+  "id": "RO/18/2024",
+  "number": 18,
+  "year": 2024,
+  "approval_date": "2024-10-03",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 41,
+    "type": "schůzi",
+    "date": "2024-10-03"
+  },
+  "source_resolutions": [
+    "RM/1249/41/2024"
+  ],
+  "budget_change_ids": [
+    "89/2024/RM",
+    "90/2024/RM",
+    "91/2024/RM",
+    "92/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "90/2024/RM",
+          "raw_codes": [
+            "3429",
+            "2321"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Českomoravský štěrk a.s - dar na podporu kulturních akcí v místní části Nová Ves (RZ 90/2024/RM"
+        },
+        {
+          "budget_change_id": "89/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2",
+            "030",
+            "000",
+            "-"
+          ],
+          "amount": "38 335,00",
+          "amount_value": 38335.0,
+          "description": "§ Položka UZ ORJ ORG Částka Popis Místní části – nerozdělená částka (RZ 89/2024/RM"
+        },
+        {
+          "budget_change_id": "89/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5137",
+            "310",
+            "2",
+            "033",
+            "465",
+            "+"
+          ],
+          "amount": "12 500,00",
+          "amount_value": 12500.0,
+          "description": "Unčovice – drobná vydání KD(RZ 89/2024/RM"
+        },
+        {
+          "budget_change_id": "91/2024/RM",
+          "raw_codes": [
+            "2212",
+            "5169",
+            "3",
+            "003",
+            "463",
+            "-"
+          ],
+          "amount": "270 000,00",
+          "amount_value": 270000.0,
+          "description": "Nové dopravní značení dle požadavků, informační systém a vitríny (RZ 91/2024/RM"
+        },
+        {
+          "budget_change_id": "92/2024/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "45",
+            "4",
+            "000",
+            "000",
+            "-"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "ZŠ Vítězná – neinv. příps. zřízeným přísp org (RZ 92/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 89/2024/RM",
+      "text": "Rozpočtová změna na základě požadavku z odboru MHaSI ze dne 10. 9. 2024: „Faktura za přípravu PD přeložky CETIN v rámci revitalizace u Sokolovny Unčovice byla z důvodu časové tísně uhrazena z drobných vydání OV Unčovice. Akce má být hrazena z participativního rozpočtu, proto je nyní navržena rozpočtová změna, díky které dojde k narovnání stavu rozpočtu u místní části Unčovice.“"
+    },
+    {
+      "title": "Rozpočtová změna č. 90/2024/RM",
+      "text": "Rozpočtová změna na základě požadavku z odboru MHaSI ze dne 25. 9. 2024: „Rada města 27.6.2024 schválila uzavření Darovací smlouvy mezi městem Litovel a Českomoravským štěrkem a.s., kdy po jejím podpisu obdrželo město Litovel dar 30.000 Kč, určený na podporu kulturních akcí v místní části Nová Ves.“"
+    },
+    {
+      "title": "Rozpočtová změna č. 91/2024/RM",
+      "text": "Rozpočtová změna na základě požadavku z odboru MHaSI ze dne 25.9.2024: „Rozpočtová změna je nutná z toho důvodu, že na objektu zázemí sportovců v areálu tenisových kurtů byly reklamovány vady a nedodělky (nefunkční vstupní dveře a nedodaný zabezpečovací systém) a zhotovitel na oficiální výzvu k odstranění vad v dané lhůtě nereagoval, a proto je nutné postupovat dle čl. 10.3.5. Obchodních podmínek SOD, tj. že bude odstraněním vady pověřena třetí osoba s tím, že veškeré takto vzniklé náklady půjdou k tíži zhotovitele. Na základě výše uvedeného byli osloveni dodavatelé pro podání cenových nabídek na osazení nových dveří (kvůli zabezpečení objektu byla zvolena vyšší kvalita dveří, než byla uvedena v PD) a zabezpečovacího systému, kteří vyčíslili náklady na 270.000 Kč. Odstranění těchto vad a nedodělků je nutné pro bezproblémové fungování zázemí sportovců a možnost připojištění objektu ze strany uživatele.“"
+    },
+    {
+      "title": "Rozpočtová změna č. 92/2024/RM",
+      "text": "Dne 27.9. 2024 byla od vedoucího OŠKS doručena žádost od ředitele ZŠ Vítězná na změnu položky u části příspěvku pro ZŠ Vítězná: Žádám o převedení neinvestičního příspěvku ve výši 100 000,-- Kč na investiční příspěvek za účelem nákupu nové keramické pece a následně o schválení čerpání FI ve výši skutečných nákladů souvisejících s pořízením keramické pece. Náklady na pořízení keramické pece byly zahrnuty do rozpočtu školy na rok 2024."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._18_2024_dne_3._rijna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 18/2024 schválené Radou města Litovel\ndne 3. října 2024.\nRozpočtové opatření bylo schváleno na 41. schůzi Rady města Litovel dne 3. října 2024 na základě usnesení\nRM/1249/41/2024.\nZ měny v příjmech\n§ Položka UZ ORJ ORG Částka Popis\nČeskomoravský štěrk a.s - dar na podporu\n3429 2321 30 000,00 kulturních akcí v místní části Nová Ves (RZ\n90/2024/RM)\nZměny ve výdajích:\n§ Položka UZ ORJ ORG Částka Popis\nMístní části – nerozdělená částka (RZ\n3639 5901 2 030 000 - 38 335,00\n89/2024/RM)\nUnčovice – drobná vydání KD(RZ\n3392 5137 310 2 033 465 + 12 500,00\n89/2024/RM)\nUnčovice – drobná vydání KD (RZ\n3392 5139 310 2 033 465 + 10 000,00\n89/2024/RM)\nUnčovice – drobná vydání KD (RZ\n3392 5171 310 2 033 465 + 4 440,00\n89/2024/RM)\nUnčovice – drobná vydání KD(RZ\n3392 5169 310 2 033 465 + 11 395,00\n89/2024/RM)\nNová Ves – využití daru na podporu\nkulturních akcí - nákup materiálu, odměn\n3429 5139 303 2 030 000 + 30 000,00\napod. na dětské a kulturní akce (RZ\n90/2024/RM)\nNové dopravní značení dle požadavků,\n2212 5169 3 003 463 - 270 000,00 informační systém a vitríny (RZ\n91/2024/RM)\n3412 6121 3 003 617 + 270 000,00 Tenisové kurty Komárov (RZ 91/2024/RM)\nZŠ Vítězná – neinv. příps. zřízeným přísp org\n3113 5331 45 4 000 000 - 100 000,00\n(RZ 92/2024/RM)\nZŠ Vítězná – investiční transfery zřízeným\n3113 6351 45 4 000 000 + 100 000,00 přísp. org. – nová keramická pec (RZ\n92/2024/RM)\nRozpočtová změna č. 89/2024/RM\nRozpočtová změna na základě požadavku z odboru MHaSI ze dne 10. 9. 2024: „Faktura za přípravu PD přeložky\nCETIN v rámci revitalizace u Sokolovny Unčovice byla z důvodu časové tísně uhrazena z drobných vydání OV\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nUnčovice. Akce má být hrazena z participativního rozpočtu, proto je nyní navržena rozpočtová změna, díky které\ndojde k narovnání stavu rozpočtu u místní části Unčovice.“\nRozpočtová změna č. 90/2024/RM\nRozpočtová změna na základě požadavku z odboru MHaSI ze dne 25. 9. 2024: „Rada města 27.6.2024 schválila\nuzavření Darovací smlouvy mezi městem Litovel a Českomoravským štěrkem a.s., kdy po jejím podpisu obdrželo\nměsto Litovel dar 30.000 Kč, určený na podporu kulturních akcí v místní části Nová Ves.“\nRozpočtová změna č. 91/2024/RM\nRozpočtová změna na základě požadavku z odboru MHaSI ze dne 25.9.2024: „Rozpočtová změna je nutná z toho\ndůvodu, že na objektu zázemí sportovců v areálu tenisových kurtů byly reklamovány vady a nedodělky (nefunkční\nvstupní dveře a nedodaný zabezpečovací systém) a zhotovitel na oficiální výzvu k odstranění vad v dané lhůtě\nnereagoval, a proto je nutné postupovat dle čl. 10.3.5. Obchodních podmínek SOD, tj. že bude odstraněním vady\npověřena třetí osoba s tím, že veškeré takto vzniklé náklady půjdou k tíži zhotovitele. Na základě výše uvedeného\nbyli osloveni dodavatelé pro podání cenových nabídek na osazení nových dveří (kvůli zabezpečení objektu byla\nzvolena vyšší kvalita dveří, než byla uvedena v PD) a zabezpečovacího systému, kteří vyčíslili náklady na 270.000 Kč.\nOdstranění těchto vad a nedodělků je nutné pro bezproblémové fungování zázemí sportovců a možnost připojištění\nobjektu ze strany uživatele.“\nRozpočtová změna č. 92/2024/RM\nDne 27.9. 2024 byla od vedoucího OŠKS doručena žádost od ředitele ZŠ Vítězná na změnu položky u části příspěvku\npro ZŠ Vítězná: Žádám o převedení neinvestičního příspěvku ve výši 100 000,-- Kč na investiční příspěvek za účelem\nnákupu nové keramické pece a následně o schválení čerpání FI ve výši skutečných nákladů souvisejících s pořízením\nkeramické pece. Náklady na pořízení keramické pece byly zahrnuty do rozpočtu školy na rok 2024.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 18.10. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1249/41/2024",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/1249/41/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "89/2024/RM",
+        "90/2024/RM",
+        "91/2024/RM",
+        "92/2024/RM"
+      ]
+    }
+  ]
+}

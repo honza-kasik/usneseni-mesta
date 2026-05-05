@@ -33,7 +33,7 @@
           ],
           "amount": "17 605,73",
           "amount_value": 17605.73,
-          "description": "změna stavu finančních prostředků na BÚ (RZ 52/2025/ZM)"
+          "description": "změna stavu finančních prostředků na BÚ (RZ 52/2025/ZM"
         },
         {
           "budget_change_id": "53/2025/ZM",
@@ -42,7 +42,7 @@
           ],
           "amount": "600 000,00",
           "amount_value": 600000.0,
-          "description": "změna stavu finančních prostředků na BÚ (RZ 53/2025/ZM)"
+          "description": "změna stavu finančních prostředků na BÚ (RZ 53/2025/ZM"
         },
         {
           "budget_change_id": "55/2025/ZM",
@@ -51,7 +51,7 @@
           ],
           "amount": "370 000,00",
           "amount_value": 370000.0,
-          "description": "změna stavu finančních prostředků na BÚ (RZ 55/2025/ZM)"
+          "description": "změna stavu finančních prostředků na BÚ (RZ 55/2025/ZM"
         },
         {
           "budget_change_id": "56/2025/ZM",
@@ -60,25 +60,7 @@
           ],
           "amount": "10 656 182,60",
           "amount_value": 10656182.6,
-          "description": "změna stavu finančních prostředků na BÚ (RZ 56/2025/ZM)"
-        },
-        {
-          "budget_change_id": "53/2025/ZM",
-          "raw_codes": [
-            "811"
-          ],
-          "amount": "5 600 000,00",
-          "amount_value": 5600000.0,
-          "description": ") změna stavu finančních prostředků na BÚ (RZ 53/2025/ZM"
-        },
-        {
-          "budget_change_id": "55/2025/ZM",
-          "raw_codes": [
-            "811"
-          ],
-          "amount": "5 370 000,00",
-          "amount_value": 5370000.0,
-          "description": ") změna stavu finančních prostředků na BÚ (RZ 55/2025/ZM"
+          "description": "změna stavu finančních prostředků na BÚ (RZ 56/2025/ZM"
         }
       ]
     },
@@ -95,7 +77,7 @@
           ],
           "amount": "64 977,27",
           "amount_value": 64977.27,
-          "description": "Revúca - peněžitý dar - povodně (RZ 52/2025/ZM)"
+          "description": "Revúca - peněžitý dar - povodně (RZ 52/2025/ZM"
         },
         {
           "budget_change_id": "54/2025/ZM",
@@ -104,16 +86,7 @@
           ],
           "amount": "231 510,00",
           "amount_value": 231510.0,
-          "description": "Daň z příjmů právnických osob za obce (RZ 54/2025/ZM)"
-        },
-        {
-          "budget_change_id": "54/2025/ZM",
-          "raw_codes": [
-            "112"
-          ],
-          "amount": "2 231 510,00",
-          "amount_value": 2231510.0,
-          "description": ") Daň z příjmů právnických osob za obce (RZ 54/2025/ZM"
+          "description": "Daň z příjmů právnických osob za obce (RZ 54/2025/ZM"
         }
       ]
     },
@@ -132,7 +105,7 @@
           ],
           "amount": "82 583,00",
           "amount_value": 82583.0,
-          "description": "Víska - povodně - čištění vodního toku od naplavenin kukuřičného stonku (RZ 52/2025/ZM)"
+          "description": "Víska - povodně - čištění vodního toku od naplavenin kukuřičného stonku (RZ 52/2025/ZM"
         },
         {
           "budget_change_id": "53/2025/RM",
@@ -143,7 +116,7 @@
           ],
           "amount": "600 000,00",
           "amount_value": 600000.0,
-          "description": "TJ Vodní sporty Litovel - investiční transfer - PD (RZ 53/2025/RM)"
+          "description": "TJ Vodní sporty Litovel - investiční transfer - PD (RZ 53/2025/RM"
         },
         {
           "budget_change_id": "54/2025/ZM",
@@ -154,7 +127,7 @@
           ],
           "amount": "231 510,00",
           "amount_value": 231510.0,
-          "description": "Platby daní a poplatků (RZ 54/2025/ZM)"
+          "description": "Platby daní a poplatků (RZ 54/2025/ZM"
         },
         {
           "budget_change_id": "55/2025/ZM",
@@ -166,7 +139,7 @@
           ],
           "amount": "370 000,00",
           "amount_value": 370000.0,
-          "description": "Myslechovice - herní prvek dle požadavků OV (RZ 55/2025/ZM)"
+          "description": "Myslechovice - herní prvek dle požadavků OV (RZ 55/2025/ZM"
         },
         {
           "budget_change_id": "56/2025/ZM",
@@ -178,7 +151,7 @@
           ],
           "amount": "4 672 177,02",
           "amount_value": 4672177.02,
-          "description": "Technické služby Litovel - inv. transfery zřízeným přísp. org. - rekonstrukce AB (RZ 56/2025/ZM)"
+          "description": "Technické služby Litovel - inv. transfery zřízeným přísp. org. - rekonstrukce AB (RZ 56/2025/ZM"
         },
         {
           "budget_change_id": "56/2025/ZM",
@@ -190,7 +163,7 @@
           ],
           "amount": "5 984 005,58",
           "amount_value": 5984005.58,
-          "description": "Technické služby Litovel - inv. půjčené prostředky zřízeným přísp. org. - rekonstrukce AB (RZ 56/2025/ZM)"
+          "description": "Technické služby Litovel - inv. půjčené prostředky zřízeným přísp. org. - rekonstrukce AB (RZ 56/2025/ZM"
         }
       ]
     }

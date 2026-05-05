@@ -37,7 +37,7 @@
           ],
           "amount": "150 000,00",
           "amount_value": 150000.0,
-          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 67/2025/ZM)"
+          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 67/2025/ZM"
         },
         {
           "budget_change_id": "68/2025/ZM",
@@ -47,7 +47,7 @@
           ],
           "amount": "200 000,00",
           "amount_value": 200000.0,
-          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 68/2025/ZM)"
+          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 68/2025/ZM"
         },
         {
           "budget_change_id": "69/2025/ZM",
@@ -57,27 +57,7 @@
           ],
           "amount": "302 016,00",
           "amount_value": 302016.0,
-          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 69/2025/ZM)"
-        },
-        {
-          "budget_change_id": "68/2025/ZM",
-          "raw_codes": [
-            "231",
-            "811"
-          ],
-          "amount": "5 200 000,00",
-          "amount_value": 5200000.0,
-          "description": ") změna stavu finančních prostředků na bankovních účtech (RZ 68/2025/ZM"
-        },
-        {
-          "budget_change_id": "69/2025/ZM",
-          "raw_codes": [
-            "231",
-            "811"
-          ],
-          "amount": "5 302 016,00",
-          "amount_value": 5302016.0,
-          "description": ") změna stavu finančních prostředků na bankovních účtech (RZ 69/2025/ZM"
+          "description": "změna stavu finančních prostředků na bankovních účtech (RZ 69/2025/ZM"
         }
       ]
     },
@@ -93,7 +73,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 64/2025/ZM)"
+          "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 64/2025/ZM"
         },
         {
           "budget_change_id": "65/2025/ZM",
@@ -104,7 +84,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "sběr a svoz komunálních odpadů - příjmy z poskytování služeb (RZ 65/2025/ZM)"
+          "description": "sběr a svoz komunálních odpadů - příjmy z poskytování služeb (RZ 65/2025/ZM"
         },
         {
           "budget_change_id": "70/2025/ZM",
@@ -114,28 +94,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 70/2025/ZM)"
-        },
-        {
-          "budget_change_id": "65/2025/ZM",
-          "raw_codes": [
-            "231",
-            "3722",
-            "211"
-          ],
-          "amount": "1 300 000,00",
-          "amount_value": 1300000.0,
-          "description": ") sběr a svoz komunálních odpadů - příjmy z poskytování služeb (RZ 65/2025/ZM"
-        },
-        {
-          "budget_change_id": "70/2025/ZM",
-          "raw_codes": [
-            "231",
-            "133"
-          ],
-          "amount": "4 300 000,00",
-          "amount_value": 4300000.0,
-          "description": ") příjmy z odvodů za odnětí půdy ze ZPF (RZ 70/2025/ZM"
+          "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 70/2025/ZM"
         }
       ]
     },
@@ -153,7 +112,7 @@
           ],
           "amount": "-370 000,00",
           "amount_value": -370000.0,
-          "description": "úroky z úvěrů (RZ 62/2025/ZM)"
+          "description": "úroky z úvěrů (RZ 62/2025/ZM"
         },
         {
           "budget_change_id": "62/2025/ZM",
@@ -165,7 +124,7 @@
           ],
           "amount": "370 000,00",
           "amount_value": 370000.0,
-          "description": "Litovel - park pro psy (RZ 62/2025/ZM)"
+          "description": "Litovel - park pro psy (RZ 62/2025/ZM"
         },
         {
           "budget_change_id": "63/2025/ZM",
@@ -177,7 +136,7 @@
           ],
           "amount": "-1 161 600,00",
           "amount_value": -1161600.0,
-          "description": "FRNPPO - Hydrotechnické posouzení vlivu povodně na město (RZ 63/2025/ZM)"
+          "description": "FRNPPO - Hydrotechnické posouzení vlivu povodně na město (RZ 63/2025/ZM"
         },
         {
           "budget_change_id": "63/2025/ZM",
@@ -189,7 +148,7 @@
           ],
           "amount": "1 161 600,00",
           "amount_value": 1161600.0,
-          "description": "FRNPPO - Hydrotechnické posouzení vlivu povodně na město (RZ 63/2025/ZM)"
+          "description": "FRNPPO - Hydrotechnické posouzení vlivu povodně na město (RZ 63/2025/ZM"
         },
         {
           "budget_change_id": "64/2025/ZM",
@@ -201,7 +160,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "Haňovice - II. etapa - realizace záměru - váha, buňka, zázemí aj. (RZ 64/2025/ZM)"
+          "description": "Haňovice - II. etapa - realizace záměru - váha, buňka, zázemí aj. (RZ 64/2025/ZM"
         },
         {
           "budget_change_id": "65/2025/ZM",
@@ -213,7 +172,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "odpadové hospodářství - pořízení sběrných nádob, kontejnerů (RZ 65/2025/ZM)"
+          "description": "odpadové hospodářství - pořízení sběrných nádob, kontejnerů (RZ 65/2025/ZM"
         },
         {
           "budget_change_id": "66/2025/ZM",
@@ -226,7 +185,7 @@
           ],
           "amount": "-920 000,00",
           "amount_value": -920000.0,
-          "description": "Rozvadovice, Chořelice - odstranění zápachu na stokové síti (RZ 66/2025/ZM)"
+          "description": "Rozvadovice, Chořelice - odstranění zápachu na stokové síti (RZ 66/2025/ZM"
         },
         {
           "budget_change_id": "66/2025/ZM",
@@ -239,7 +198,7 @@
           ],
           "amount": "920 000,00",
           "amount_value": 920000.0,
-          "description": "Tři Dvory - workout (RZ 66/2025/ZM)"
+          "description": "Tři Dvory - workout (RZ 66/2025/ZM"
         },
         {
           "budget_change_id": "67/2025/ZM",
@@ -251,7 +210,7 @@
           ],
           "amount": "150 000,00",
           "amount_value": 150000.0,
-          "description": "transfery a dary dle rozhodnutí RM (RZ 67/2025/ZM)"
+          "description": "transfery a dary dle rozhodnutí RM (RZ 67/2025/ZM"
         },
         {
           "budget_change_id": "68/2025/ZM",
@@ -263,7 +222,7 @@
           ],
           "amount": "200 000,00",
           "amount_value": 200000.0,
-          "description": "Římskokatolická farnost Litovel - dotace- na oprava - výměna střešní krytiny na budově fary (RZ 68/2025/ZM)"
+          "description": "Římskokatolická farnost Litovel - dotace- na oprava - výměna střešní krytiny na budově fary (RZ 68/2025/ZM"
         },
         {
           "budget_change_id": "69/2025/ZM",
@@ -275,7 +234,7 @@
           ],
           "amount": "302 016,00",
           "amount_value": 302016.0,
-          "description": "Strategický plán rozvoje města (RZ 69/2025/ZM)"
+          "description": "Strategický plán rozvoje města (RZ 69/2025/ZM"
         },
         {
           "budget_change_id": "70/2025/ZM",
@@ -287,7 +246,7 @@
           ],
           "amount": "300 000,00",
           "amount_value": 300000.0,
-          "description": "veřejná zeleň - nákup služeb (RZ 70/2025/ZM)"
+          "description": "veřejná zeleň - nákup služeb (RZ 70/2025/ZM"
         }
       ]
     }

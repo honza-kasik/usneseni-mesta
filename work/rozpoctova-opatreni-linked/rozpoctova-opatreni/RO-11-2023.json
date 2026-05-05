@@ -1,0 +1,468 @@
+{
+  "id": "RO/11/2023",
+  "number": 11,
+  "year": 2023,
+  "approval_date": "2023-06-19",
+  "approved_by": "Zastupitelstvem města Litovel",
+  "organ": "ZM",
+  "meeting": {
+    "number": 5,
+    "type": "zasedání",
+    "date": "2023-06-19"
+  },
+  "source_resolutions": [
+    "ZM/6/5/2023"
+  ],
+  "budget_change_ids": [
+    "100/2023/ZM",
+    "101/2023/ZM",
+    "102/2023/ZM",
+    "103/2023/ZM",
+    "104/2023/ZM",
+    "105/2023/ZM",
+    "106/2023/ZM",
+    "107/2023/ZM",
+    "95/2023/ZM",
+    "96/2023/ZM",
+    "97/2023/ZM",
+    "98/2023/ZM",
+    "99/2023/ZM"
+  ],
+  "sections": [
+    {
+      "type": "financovani",
+      "label": "Změny ve financování",
+      "rows": [
+        {
+          "budget_change_id": "106/2023/ZM",
+          "raw_codes": [
+            "8113"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Krátkodobé přijaté půjčené prostř. (RZ 106/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "95/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Část z podílu na zisku od FCC Litovel, zisk bude rozdělen na valné hromadě společnosti 8.6.2023 (RZ 95/2023/ZM"
+        },
+        {
+          "budget_change_id": "96/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "2122",
+            "46"
+          ],
+          "amount": "187 550,00",
+          "amount_value": 187550.0,
+          "description": "Příjem z odvodů PO, platba od ZŠ Jungmannova na účet města Litovel 28.4.2023 (RZ 96/2023/ZM"
+        },
+        {
+          "budget_change_id": "97/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "387 200,00",
+          "amount_value": 387200.0,
+          "description": "Část z podílu na zisku od FCC Litovel, zisk bude rozdělen na valné hromadě společnosti 8.6.2023 (RZ 97/2023/ZM"
+        },
+        {
+          "budget_change_id": "98/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "70 000,00",
+          "amount_value": 70000.0,
+          "description": "Část z podílu na zisku od FCC Litovel, zisk bude rozdělen na valné hromadě společnosti 8.6.2023 (RZ 98/2023/ZM"
+        },
+        {
+          "budget_change_id": "99/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Část z podílu na zisku od FCC Litovel, zisk bude rozdělen na valné hromadě společnosti 8.6.2023 (RZ 99/2023/ZM"
+        },
+        {
+          "budget_change_id": "100/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Část z podílu na zisku od FCC Litovel, zisk bude rozdělen na valné hromadě společnosti 8.6.2023 (RZ 100/2023/ZM"
+        },
+        {
+          "budget_change_id": "100/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Sběr a svoz komunálních odpadů, příjmy z poskytování služeb (RZ 100/2023/ZM"
+        },
+        {
+          "budget_change_id": "101/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2142"
+          ],
+          "amount": "43 000,00",
+          "amount_value": 43000.0,
+          "description": "Část z podílu na zisku od FCC Litovel, zisk bude rozdělen na valné hromadě společnosti 8.6.2023 (RZ 101/2023/ZM"
+        },
+        {
+          "budget_change_id": "102/2023/ZM",
+          "raw_codes": [
+            "1356"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Příjmy z úhrad na dobývání nerostů (RZ 102/2023/ZM"
+        },
+        {
+          "budget_change_id": "103/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "2111"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Sběr a svoz komunálních odpadů, příjmy z poskytování služeb (RZ 103/2023/ZM"
+        },
+        {
+          "budget_change_id": "104/2023/ZM",
+          "raw_codes": [
+            "6330",
+            "4132"
+          ],
+          "amount": "804 060,00",
+          "amount_value": 804060.0,
+          "description": "Převody z ostatních vlastních fondů (RZ 104/2023/ZM"
+        },
+        {
+          "budget_change_id": "105/2023/ZM",
+          "raw_codes": [
+            "6330",
+            "4132"
+          ],
+          "amount": "5 509 823,00",
+          "amount_value": 5509823.0,
+          "description": "Převody z ostatních vlastních fondů (RZ 105/2023/ZM"
+        },
+        {
+          "budget_change_id": "106/2023/ZM",
+          "raw_codes": [
+            "1385"
+          ],
+          "amount": "4 000 000,00",
+          "amount_value": 4000000.0,
+          "description": "Příjem z dílčí daně z technických her (RZ 106/2023/ZM"
+        },
+        {
+          "budget_change_id": "106/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "3111"
+          ],
+          "amount": "3 000 000,00",
+          "amount_value": 3000000.0,
+          "description": "Příjmy z prodeje pozemků (RZ 106/2023/ZM"
+        },
+        {
+          "budget_change_id": "106/2023/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "2 000 000,00",
+          "amount_value": 2000000.0,
+          "description": "Příjmy z úroků (RZ 106/2023/ZM"
+        },
+        {
+          "budget_change_id": "107/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "3111"
+          ],
+          "amount": "3 300 000,00",
+          "amount_value": 3300000.0,
+          "description": "Příjmy z prodeje pozemků (RZ 107/2023/ZM"
+        },
+        {
+          "budget_change_id": "107/2023/ZM",
+          "raw_codes": [
+            "6310",
+            "2141"
+          ],
+          "amount": "61 985,00",
+          "amount_value": 61985.0,
+          "description": "Příjmy z úroků (RZ 107/2023/ZM"
+        },
+        {
+          "budget_change_id": "104/2023/ZM",
+          "raw_codes": [
+            "1031",
+            "232"
+          ],
+          "amount": "4 670 940,00",
+          "amount_value": 4670940.0,
+          "description": "Přijaté neinv. přísp. a náhr., platby od AOPK ČR za ztíž. lesní hospod. v lesích v maj. města na úz. CHKO Litov. Pomoraví (RZ 104/2023/ZM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "95/2023/ZM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "3 003 470"
+          ],
+          "amount": "350 000,00",
+          "amount_value": 350000.0,
+          "description": "Oprava povrchu hřiště c ul. Severní (RZ 95/2023/ZM"
+        },
+        {
+          "budget_change_id": "96/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "5169",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "187 550,00",
+          "amount_value": 187550.0,
+          "description": "Organizační zajištění výběrového řízení pro ZŠ Jungmannova (RZ 96/2023/ZM"
+        },
+        {
+          "budget_change_id": "97/2023/ZM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "4 000 444"
+          ],
+          "amount": "387 200,00",
+          "amount_value": 387200.0,
+          "description": "Osvětlení hřiště při ZŠ Vítězná (RZ 97/2023/ZM"
+        },
+        {
+          "budget_change_id": "98/2023/ZM",
+          "raw_codes": [
+            "1014",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "70 000,00",
+          "amount_value": 70000.0,
+          "description": "Ozdravování hospodářských zvířat (RZ 98/2023/ZM"
+        },
+        {
+          "budget_change_id": "99/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "5172",
+            "7 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Zpracování PD k vynětí půdy ze ZPF (RZ 99/2023/ZM"
+        },
+        {
+          "budget_change_id": "100/2023/ZM",
+          "raw_codes": [
+            "2333",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Úprava papírenské vody (RZ 100/2023/ZM"
+        },
+        {
+          "budget_change_id": "100/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Nákup biobagů (RZ 100/2023/ZM"
+        },
+        {
+          "budget_change_id": "101/2023/ZM",
+          "raw_codes": [
+            "2333",
+            "6121",
+            "7 000 776"
+          ],
+          "amount": "43 000,00",
+          "amount_value": 43000.0,
+          "description": "Úpravy na Radniční Moravě (RZ 101/2023/ZM"
+        },
+        {
+          "budget_change_id": "102/2023/ZM",
+          "raw_codes": [
+            "3725",
+            "6121",
+            "7 000 000"
+          ],
+          "amount": "75 000,00",
+          "amount_value": 75000.0,
+          "description": "Úpravy stanovišť na tříděný odpad (RZ 102/2023/ZM"
+        },
+        {
+          "budget_change_id": "103/2023/ZM",
+          "raw_codes": [
+            "3725",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Nádoby na tříděný odpad (RZ 103/2023/ZM"
+        },
+        {
+          "budget_change_id": "105/2023/ZM",
+          "raw_codes": [
+            "6409",
+            "5363",
+            "3 000 000"
+          ],
+          "amount": "5 509 823,00",
+          "amount_value": 5509823.0,
+          "description": "Odvod dle rozhodnutí MF ČR (RZ 105/2023/ZM"
+        },
+        {
+          "budget_change_id": "106/2023/ZM",
+          "raw_codes": [
+            "3113",
+            "51 69",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "12 000 000,00",
+          "amount_value": 12000000.0,
+          "description": "ZŠ Jungmannova - předfinancování dotační akce (RZ 106/2023/ZM"
+        },
+        {
+          "budget_change_id": "107/2023/ZM",
+          "raw_codes": [
+            "3639",
+            "6130",
+            "3 000 000"
+          ],
+          "amount": "3 361 985,00",
+          "amount_value": 3361985.0,
+          "description": "Výkup pozemků (RZ 107/2023/ZM"
+        },
+        {
+          "budget_change_id": "104/2023/ZM",
+          "raw_codes": [
+            "3722",
+            "6202",
+            "7",
+            "000",
+            "000"
+          ],
+          "amount": "1 475 000,00",
+          "amount_value": 1475000.0,
+          "description": "Příplatek k základnímu kapitálu SSOK (RZ 104/2023/ZM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 98/2023/ZM řeší navýšení rozpočtu z důvodu, že větší část finančních prostředků",
+      "text": "z plánovaného rozpočtu byla vynaložena na neplánovanou akci: Prevenci botulismu u vodní drůbeže (především labutí). Do konce roku se dají předpokládat další náklady např. likvidace holubů či hlodavců. RZ 99/2023/ZM Zpracování PD k vynětí půdy ze ZPF § 3639"
+    },
+    {
+      "title": "Rozpočtová změna č. 99/2023/ZM řeší navýšení rozpočtu na zpracování projektů nebo studií v souvislosti",
+      "text": "s ochranou ZPF (výpočet odvodů apod.). V současné době město Litovel řeší dvě lokality – dobývací prostor v k.ú. Haňovice a motokrosařský areál v Chořelicích. RZ 100/2023/ZM Úprava papírenské vody § 2333 + Nákup biobagů § 3722 Město Litovel poskytlo finanční prostředky na technickou úpravu části břehu u Papírenské vody řešené mimo projekt po dohodě města Litovel, stavebního dozoru a projektanta a také na nákup 300 ks biobagů (košíků na biologický odpad) do domácností na sídlištích, o které je mezi občany zájem. Cílem je zvýšit množství vytříděného odpadu na sídlištích. RZ 101/2023/ZM Úpravy na Radniční Moravě § 2333"
+    },
+    {
+      "title": "Rozpočtová změna č. 101/2023/ZM řeší navýšení rozpočtu o náklady spojené s inženýringem v souvislosti",
+      "text": "s přeložkou teplovodu na mostu v ul. Jungmannova. RZ 102/2023/ZM Úpravy stanovišť na tříděný odpad § 3725"
+    },
+    {
+      "title": "Rozpočtová změna č. 102/2023/ZM řeší navýšení rozpočtu na plánovanou rekonstrukci stanovišť ve Vísce,",
+      "text": "v Nasobůrkách a v Severní ulici. RZ 103/2023/ZM Nádoby na tříděný odpad § 3725 Město Litovel poskytlo finanční prostředky na pořízení kontejnerů na tříděný odpad, které jsou umístěny na stanovištích na tříděný odpad. RZ 104/2023/ZM Příplatek k základnímu kapitálu SSOK § 3722 ZML na svém 4. zasedání konané dne 20.4. 2023 schválilo pod bodem ZM/9/4/2023 vstup do projektu SSOOK na výstavbu dotřiďovací linky. Zároveň byl schválen příspěvek této společnosti ve výši 14.754.000 Kč po dobu šesti let. Výše uvedená částka je určena dle harmonogramu na rok 2023. RZ 105/2023/ZM Odvod dle rozhodnutí MF ČR § 6409 Město Litovel obdrželo rozhodnutí MF ČR ze dne 11. 5. 2023, kterým se zamítá odvolání města Litovel ze dne 14. 6. 2020 proti platebnímu výměru ze dne 15. 6. 2020 vydaném Úřadem Regionální rady regionu soudržnosti Střední Morava. Týká se to akce „Revitalizace historického centra města Litovel – náměstí Přemysla Otakara“, která byla realizována v letech 2014 – 2015. RZ 106/2023/ZM Základní škola Jungmannova- předfinancování dotační akce § 3113 Dne 1.2. rozhodl řídící výbor ITI OA o schválení projektu Základní školy Litovel, Jungmannova a rozhodl o vyčlenění alokace pro tento projekt v rámci IROP. Projekt Rekonstrukce družin a obnova IT vybavení v odborných pracovnách umožní škole rekonstrukci podlah, částečné úpravy rozvodů elektřiny a odpadu ve dvou družinách, celkem 6 místností včetně nábytku a vybavení pomůckami i IT technikou. Dále bude obnovena konektivita školy – nový server včetně software a všech jeho součástí a modernizace pomůcek ve všech odborných pracovnách. RZ 107/2023/ZM Výkup pozemků § 3639 Jedná se o nákup pozemků v lokalitě Pavlínka od společnosti NEORENT, a.s., celkem 11 parcel o celkové výměře 5 557 metrů čtverečných. Cena vychází ze smlouvy ze dne 14. 7. 2020 mezi městem Litovel a společností NEORENT, a.s."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c.11_2023_schvalene_zm_litovel_dne_19._cervna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 11/2023 schválené Zastupitelstvem města Litovel\ndne 19. června 2023.\nRozpočtové opatření bylo schváleno na 5. zasedání Zastupitelstva města Litovel dne 19. června 2023 na základě\nusnesení ZM/6/5/2023.\nZměny ve financování:\n§ POL UZ ORJ ORG Kč\nKrátkodobé přijaté půjčené prostř.\n8113 3 000 000,00\n(RZ 106/2023/ZM)\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nČást z podílu na zisku od FCC Litovel, zisk bude\n3722 2142 350 000,00 rozdělen na valné hromadě společnosti 8.6.2023\n(RZ 95/2023/ZM)\nPříjem z odvodů PO, platba od ZŠ Jungmannova\n3113 2122 46 187 550,00 na účet města Litovel 28.4.2023 (RZ\n96/2023/ZM)\nČást z podílu na zisku od FCC Litovel, zisk bude\n3722 2142 387 200,00 rozdělen na valné hromadě společnosti 8.6.2023\n(RZ 97/2023/ZM)\nČást z podílu na zisku od FCC Litovel, zisk bude\n3722 2142 70 000,00 rozdělen na valné hromadě společnosti 8.6.2023\n(RZ 98/2023/ZM)\nČást z podílu na zisku od FCC Litovel, zisk bude\n3722 2142 20 000,00 rozdělen na valné hromadě společnosti 8.6.2023\n(RZ 99/2023/ZM)\nČást z podílu na zisku od FCC Litovel, zisk bude\n3722 2142 60 000,00 rozdělen na valné hromadě společnosti 8.6.2023\n(RZ 100/2023/ZM)\nSběr a svoz komunálních odpadů, příjmy z\n3722 2111 75 000,00\nposkytování služeb (RZ 100/2023/ZM)\nČást z podílu na zisku od FCC Litovel, zisk bude\n3722 2142 43 000,00 rozdělen na valné hromadě společnosti 8.6.2023\n(RZ 101/2023/ZM)\nPříjmy z úhrad na dobývání nerostů\n1356 75 000,00\n(RZ 102/2023/ZM)\nSběr a svoz komunálních odpadů, příjmy z\n3722 2111 50 000,00\nposkytování služeb (RZ 103/2023/ZM)\nPřijaté neinv. přísp. a náhr., platby od AOPK ČR\n1031 2324 670 940,00 za ztíž. lesní hospod. v lesích v maj. města na úz.\nCHKO Litov. Pomoraví (RZ 104/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nPřevody z ostatních vlastních fondů\n6330 4132 804 060,00\n(RZ 104/2023/ZM)\nPřevody z ostatních vlastních fondů\n6330 4132 5 509 823,00\n(RZ 105/2023/ZM)\nPříjem z dílčí daně z technických her\n1385 4 000 000,00\n(RZ 106/2023/ZM)\n3639 3111 3 000 000,00 Příjmy z prodeje pozemků (RZ 106/2023/ZM)\n6310 2141 2 000 000,00 Příjmy z úroků (RZ 106/2023/ZM)\n3639 3111 3 300 000,00 Příjmy z prodeje pozemků (RZ 107/2023/ZM)\n6310 2141 61 985,00 Příjmy z úroků (RZ 107/2023/ZM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nOprava povrchu hřiště c ul. Severní\n3412 5171 3 003 470 350 000,00\n(RZ 95/2023/ZM)\nOrganizační zajištění výběrového řízení pro ZŠ\n3113 5169 46 4 000 000 187 550,00\nJungmannova (RZ 96/2023/ZM)\nOsvětlení hřiště při ZŠ Vítězná\n3412 6121 4 000 444 387 200,00\n(RZ 97/2023/ZM)\nOzdravování hospodářských zvířat\n1014 5169 7 000 000 70 000,00\n(RZ 98/2023/ZM)\nZpracování PD k vynětí půdy ze ZPF\n3639 5172 7 000 000 20 000,00\n(RZ 99/2023/ZM)\n2333 5169 7 000 000 60 000,00 Úprava papírenské vody (RZ 100/2023/ZM)\n3722 5139 7 000 000 75 000,00 Nákup biobagů (RZ 100/2023/ZM)\n2333 6121 7 000 776 43 000,00 Úpravy na Radniční Moravě (RZ 101/2023/ZM)\nÚpravy stanovišť na tříděný odpad\n3725 6121 7 000 000 75 000,00\n(RZ 102/2023/ZM)\n3725 5139 7 000 000 50 000,00 Nádoby na tříděný odpad (RZ 103/2023/ZM)\nPříplatek k základnímu kapitálu SSOK\n3722 6202 7 000 000 1 475 000,00\n(RZ 104/2023/ZM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nOdvod dle rozhodnutí MF ČR\n6409 5363 3 000 000 5 509 823,00\n(RZ 105/2023/ZM)\nZŠ Jungmannova - předfinancování dotační akce\n3113 51 69 46 4 000 000 12 000 000,00\n(RZ 106/2023/ZM)\n3639 6130 3 000 000 3 361 985,00 Výkup pozemků (RZ 107/2023/ZM)\nRZ 95/2023/ZM Oprava povrchu na sportovním Duhovém hřišti v ulici Severní § 3412\nMěsto Litovel poskytlo finanční prostředky na opravu povrchu z pryžové dlažby na sportovním Duhovém hřišti\nv ul. Severní. Původní dlažba je z roku 2004, je již nefunkční a rozpadá se.\nRZ 96/2023/ZM Organizační zajištění výběrového řízení pro ZŠ Jungmannova § 3113\nMěsto Litovel a ZŠ Jungmannova společně požádali o dotaci na rekonstrukci školních družin a doplnění ICT\nvybavení školy včetně konektivity ze dvou titulů – ITI a IROP. Obě žádosti byly úspěšné, po dohodě byla\npřijata dotace ITI. ZŠ Jungmannova nabídla, že všechna výběrová řízení uhradí ze svého rezervního fondu.\nZ procesních důvodů je nutné, aby objednávku vystavil zřizovatel a proto byly prostředky převedeny\nz investičního fondu školy do rozpočtu města Litovel a následně do rozpočtu odboru OŠKS.\nRZ 97/2023/ZM Dovybavení osvětlení rekonstruovaného hřiště při ZŠ Vítězná § 3412\nRM dne 20.4.2023 souhlasila se záměrem dovybavit rekonstruované hřiště u ZŠ Vítězná osvětlením.\nMěsto Litovel na dovybavení osvětlení poskytlo finanční prostředky.\nRZ 98/2023/ZM Ozdravování hospodářských zvířat… § 1014\nRozpočtová změna č. 98/2023/ZM řeší navýšení rozpočtu z důvodu, že větší část finančních prostředků\nz plánovaného rozpočtu byla vynaložena na neplánovanou akci: Prevenci botulismu u vodní drůbeže (především\nlabutí). Do konce roku se dají předpokládat další náklady např. likvidace holubů či hlodavců.\nRZ 99/2023/ZM Zpracování PD k vynětí půdy ze ZPF § 3639\nRozpočtová změna č. 99/2023/ZM řeší navýšení rozpočtu na zpracování projektů nebo studií v souvislosti\ns ochranou ZPF (výpočet odvodů apod.). V současné době město Litovel řeší dvě lokality – dobývací prostor\nv k.ú. Haňovice a motokrosařský areál v Chořelicích.\nRZ 100/2023/ZM Úprava papírenské vody § 2333 + Nákup biobagů § 3722\nMěsto Litovel poskytlo finanční prostředky na technickou úpravu části břehu u Papírenské vody řešené mimo\nprojekt po dohodě města Litovel, stavebního dozoru a projektanta a také na nákup 300 ks biobagů (košíků na\nbiologický odpad) do domácností na sídlištích, o které je mezi občany zájem. Cílem je zvýšit množství\nvytříděného odpadu na sídlištích.\nRZ 101/2023/ZM Úpravy na Radniční Moravě § 2333\nRozpočtová změna č. 101/2023/ZM řeší navýšení rozpočtu o náklady spojené s inženýringem v souvislosti\ns přeložkou teplovodu na mostu v ul. Jungmannova.\nRZ 102/2023/ZM Úpravy stanovišť na tříděný odpad § 3725\nRozpočtová změna č. 102/2023/ZM řeší navýšení rozpočtu na plánovanou rekonstrukci stanovišť ve Vísce,\nv Nasobůrkách a v Severní ulici.\nRZ 103/2023/ZM Nádoby na tříděný odpad § 3725\nMěsto Litovel poskytlo finanční prostředky na pořízení kontejnerů na tříděný odpad, které jsou umístěny na\nstanovištích na tříděný odpad.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 104/2023/ZM Příplatek k základnímu kapitálu SSOK § 3722\nZML na svém 4. zasedání konané dne 20.4. 2023 schválilo pod bodem ZM/9/4/2023 vstup do projektu SSOOK na\nvýstavbu dotřiďovací linky. Zároveň byl schválen příspěvek této společnosti ve výši 14.754.000 Kč po dobu šesti let.\nVýše uvedená částka je určena dle harmonogramu na rok 2023.\nRZ 105/2023/ZM Odvod dle rozhodnutí MF ČR § 6409\nMěsto Litovel obdrželo rozhodnutí MF ČR ze dne 11. 5. 2023, kterým se zamítá odvolání města Litovel ze dne\n14. 6. 2020 proti platebnímu výměru ze dne 15. 6. 2020 vydaném Úřadem Regionální rady regionu soudržnosti\nStřední Morava. Týká se to akce „Revitalizace historického centra města Litovel – náměstí Přemysla Otakara“,\nkterá byla realizována v letech 2014 – 2015.\nRZ 106/2023/ZM Základní škola Jungmannova- předfinancování dotační akce § 3113\nDne 1.2. rozhodl řídící výbor ITI OA o schválení projektu Základní školy Litovel, Jungmannova a rozhodl o vyčlenění\nalokace pro tento projekt v rámci IROP. Projekt Rekonstrukce družin a obnova IT vybavení v odborných pracovnách\numožní škole rekonstrukci podlah, částečné úpravy rozvodů elektřiny a odpadu ve dvou družinách, celkem 6 místností\nvčetně nábytku a vybavení pomůckami i IT technikou. Dále bude obnovena konektivita školy – nový server včetně\nsoftware a všech jeho součástí a modernizace pomůcek ve všech odborných pracovnách.\nRZ 107/2023/ZM Výkup pozemků § 3639\nJedná se o nákup pozemků v lokalitě Pavlínka od společnosti NEORENT, a.s., celkem 11 parcel o celkové\nvýměře 5 557 metrů čtverečných. Cena vychází ze smlouvy ze dne 14. 7. 2020 mezi městem Litovel a\nspolečností NEORENT, a.s.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 27. 6. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "ZM/6/5/2023",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/418/13/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "95/2023/ZM",
+        "96/2023/ZM",
+        "97/2023/ZM",
+        "98/2023/ZM",
+        "99/2023/ZM",
+        "100/2023/ZM",
+        "101/2023/ZM",
+        "102/2023/ZM",
+        "103/2023/ZM",
+        "104/2023/ZM",
+        "105/2023/ZM",
+        "106/2023/ZM"
+      ]
+    },
+    {
+      "resolution_id": "RM/435/13/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "107/2023/ZM"
+      ]
+    },
+    {
+      "resolution_id": "ZM/6/5/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "95/2023/ZM",
+        "96/2023/ZM",
+        "97/2023/ZM",
+        "98/2023/ZM",
+        "99/2023/ZM",
+        "100/2023/ZM",
+        "101/2023/ZM",
+        "102/2023/ZM",
+        "103/2023/ZM",
+        "104/2023/ZM",
+        "105/2023/ZM",
+        "106/2023/ZM",
+        "107/2023/ZM"
+      ]
+    }
+  ]
+}

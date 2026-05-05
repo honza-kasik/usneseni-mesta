@@ -27,7 +27,7 @@
           ],
           "amount": "107 380,75",
           "amount_value": 107380.75,
-          "description": "příjem z daně z příjmů FO(RZ 92/2025/ZM)"
+          "description": "příjem z daně z příjmů FO(RZ 92/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -39,7 +39,7 @@
           ],
           "amount": "190 626,74",
           "amount_value": 190626.74,
-          "description": "SFŽP ČR - neinv. přijaté transfery se SF - vodovod Savín (RZ 94/2025/ZM)"
+          "description": "SFŽP ČR - neinv. přijaté transfery se SF - vodovod Savín (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -51,7 +51,7 @@
           ],
           "amount": "-17 234 531,30",
           "amount_value": -17234531.3,
-          "description": "SFŽP ČR - inv. přijaté transfery se SF - vodovod Savín (RZ 94/2025/ZM)"
+          "description": "SFŽP ČR - inv. přijaté transfery se SF - vodovod Savín (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -61,7 +61,7 @@
           ],
           "amount": "834 342,94",
           "amount_value": 834342.94,
-          "description": "MŽP ČR - neinv. dotace - Savín + Nová Ves - splašková kanalizace (RZ 95/2025/ZM)"
+          "description": "MŽP ČR - neinv. dotace - Savín + Nová Ves - splašková kanalizace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -71,7 +71,7 @@
           ],
           "amount": "-36 231 176,03",
           "amount_value": -36231176.03,
-          "description": "MŽP ČR - inv. dotace - Savín + Nová Ves - splašková kanalizace (RZ 95/2025/ZM)"
+          "description": "MŽP ČR - inv. dotace - Savín + Nová Ves - splašková kanalizace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "96/2025/ZM",
@@ -82,7 +82,7 @@
           ],
           "amount": "-10 483 032,00",
           "amount_value": -10483032.0,
-          "description": "MV ČR - inv. účel. dotace - Zajitění kyberbezpečnosti MěÚ Litovel (RZ 96/2025/ZM)"
+          "description": "MV ČR - inv. účel. dotace - Zajitění kyberbezpečnosti MěÚ Litovel (RZ 96/2025/ZM"
         },
         {
           "budget_change_id": "97/2025/ZM",
@@ -91,16 +91,7 @@
           ],
           "amount": "156 574,00",
           "amount_value": 156574.0,
-          "description": "příjem z daně z příjmů FO vybírané srážkou podle zvláštní sazby daně (RZ 97/2025/ZM)"
-        },
-        {
-          "budget_change_id": "97/2025/ZM",
-          "raw_codes": [
-            "111"
-          ],
-          "amount": "3 156 574,00",
-          "amount_value": 3156574.0,
-          "description": ") příjem z daně z příjmů FO vybírané srážkou podle zvláštní sazby daně (RZ 97/2025/ZM"
+          "description": "příjem z daně z příjmů FO vybírané srážkou podle zvláštní sazby daně (RZ 97/2025/ZM"
         }
       ]
     },
@@ -118,7 +109,7 @@
           ],
           "amount": "107 380,75",
           "amount_value": 107380.75,
-          "description": "ZŠ Jungmannova - neinvestiční příspěvek (RZ 92/2025/ZM)"
+          "description": "ZŠ Jungmannova - neinvestiční příspěvek (RZ 92/2025/ZM"
         },
         {
           "budget_change_id": "93/2025/ZM",
@@ -129,7 +120,7 @@
           ],
           "amount": "1 240 000,00",
           "amount_value": 1240000.0,
-          "description": "revitalizace sportovního areálu Sokolovny v Litovli (RZ 93/2025/ZM)"
+          "description": "revitalizace sportovního areálu Sokolovny v Litovli (RZ 93/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -142,7 +133,7 @@
           ],
           "amount": "-480 000,00",
           "amount_value": -480000.0,
-          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -155,7 +146,7 @@
           ],
           "amount": "480 000,00",
           "amount_value": 480000.0,
-          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -168,7 +159,7 @@
           ],
           "amount": "190 626,74",
           "amount_value": 190626.74,
-          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -181,7 +172,7 @@
           ],
           "amount": "-17 234 531,30",
           "amount_value": -17234531.3,
-          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -194,7 +185,7 @@
           ],
           "amount": "99 767,92",
           "amount_value": 99767.92,
-          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -207,7 +198,7 @@
           ],
           "amount": "1 563 032,82",
           "amount_value": 1563032.82,
-          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM)"
+          "description": "Vodovod Savín - dotace (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -220,7 +211,7 @@
           ],
           "amount": "-483 337,00",
           "amount_value": -483337.0,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -233,7 +224,7 @@
           ],
           "amount": "-480 000,01",
           "amount_value": -480000.01,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -246,7 +237,7 @@
           ],
           "amount": "483 337,00",
           "amount_value": 483337.0,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -259,7 +250,7 @@
           ],
           "amount": "480 000,01",
           "amount_value": 480000.01,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -272,7 +263,7 @@
           ],
           "amount": "400 964,67",
           "amount_value": 400964.67,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -285,7 +276,7 @@
           ],
           "amount": "-18 115 588,02",
           "amount_value": -18115588.02,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -298,7 +289,7 @@
           ],
           "amount": "-18 115 588,01",
           "amount_value": -18115588.01,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -311,7 +302,7 @@
           ],
           "amount": "163 737,27",
           "amount_value": 163737.27,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -324,7 +315,7 @@
           ],
           "amount": "3 303 900,47",
           "amount_value": 3303900.47,
-          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM)"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "96/2025/ZM",
@@ -336,7 +327,7 @@
           ],
           "amount": "-10 483 032,00",
           "amount_value": -10483032.0,
-          "description": "Zajištění kyber. bezpečnosti MěÚ Litovel - dotace (RZ 96/2025/ZM)"
+          "description": "Zajištění kyber. bezpečnosti MěÚ Litovel - dotace (RZ 96/2025/ZM"
         },
         {
           "budget_change_id": "96/2025/ZM",
@@ -348,7 +339,7 @@
           ],
           "amount": "6 440 800,00",
           "amount_value": 6440800.0,
-          "description": "Zajištění kyber. bezpečnosti MěÚ Litovel - dotace (RZ 96/2025/ZM)"
+          "description": "Zajištění kyber. bezpečnosti MěÚ Litovel - dotace (RZ 96/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -363,7 +354,7 @@
           ],
           "amount": "378 194,67",
           "amount_value": 378194.67,
-          "description": ") Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
+          "description": "Savín + Nová Ves - splašková kanalizace - dotace (RZ 95/2025/ZM"
         }
       ]
     },
@@ -378,7 +369,7 @@
           ],
           "amount": "1 240 000,00",
           "amount_value": 1240000.0,
-          "description": "dlouhodobé úvěry (RZ 93/2025/ZM)"
+          "description": "dlouhodobé úvěry (RZ 93/2025/ZM"
         },
         {
           "budget_change_id": "94/2025/ZM",
@@ -387,7 +378,7 @@
           ],
           "amount": "1 662 800,74",
           "amount_value": 1662800.74,
-          "description": "změna stavu fin. prostředků na BÚ (RZ 94/2025/ZM)"
+          "description": "změna stavu fin. prostředků na BÚ (RZ 94/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -396,7 +387,7 @@
           ],
           "amount": "-55 183,60",
           "amount_value": -55183.6,
-          "description": "změna stavu fin. prostředků na BÚ (RZ 95/2025/ZM)"
+          "description": "změna stavu fin. prostředků na BÚ (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "95/2025/ZM",
@@ -405,7 +396,7 @@
           ],
           "amount": "3 467 637,74",
           "amount_value": 3467637.74,
-          "description": "změna stavu fin. prostředků na BÚ (RZ 95/2025/ZM)"
+          "description": "změna stavu fin. prostředků na BÚ (RZ 95/2025/ZM"
         },
         {
           "budget_change_id": "96/2025/ZM",
@@ -414,7 +405,7 @@
           ],
           "amount": "6 440 800,00",
           "amount_value": 6440800.0,
-          "description": "změna stavu fin. prostředků na BÚ (RZ 96/2025/ZM)"
+          "description": "změna stavu fin. prostředků na BÚ (RZ 96/2025/ZM"
         }
       ]
     }

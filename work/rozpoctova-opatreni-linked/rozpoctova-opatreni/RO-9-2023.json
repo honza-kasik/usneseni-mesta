@@ -1,0 +1,375 @@
+{
+  "id": "RO/9/2023",
+  "number": 9,
+  "year": 2023,
+  "approval_date": "2023-06-01",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 13,
+    "type": "schůzi",
+    "date": "2023-06-01"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "38/2023/RM",
+    "39/2023/RM",
+    "40/2023/RM",
+    "41/2023/RM",
+    "42/2023/RM",
+    "43/2023/RM",
+    "44/2023/RM",
+    "45/2023/RM",
+    "46/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "40/2023/RM",
+          "raw_codes": [
+            "4116",
+            "13024"
+          ],
+          "amount": "2 837 200,00",
+          "amount_value": 2837200.0,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 40/2023/RM"
+        },
+        {
+          "budget_change_id": "41/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143533092"
+          ],
+          "amount": "458 381,13",
+          "amount_value": 458381.13,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 41/2023/RM"
+        },
+        {
+          "budget_change_id": "41/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143133092"
+          ],
+          "amount": "138 974,87",
+          "amount_value": 138974.87,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 41/2023/RM"
+        },
+        {
+          "budget_change_id": "42/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143533092"
+          ],
+          "amount": "2 466 819,23",
+          "amount_value": 2466819.23,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 42/2023/RM"
+        },
+        {
+          "budget_change_id": "42/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143133092"
+          ],
+          "amount": "747 905,77",
+          "amount_value": 747905.77,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 42/2023/RM"
+        },
+        {
+          "budget_change_id": "43/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143533092"
+          ],
+          "amount": "556 337,20",
+          "amount_value": 556337.2,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 43/2023/RM"
+        },
+        {
+          "budget_change_id": "43/2023/RM",
+          "raw_codes": [
+            "4116",
+            "143133092"
+          ],
+          "amount": "168 673,80",
+          "amount_value": 168673.8,
+          "description": "Přijatá účelová neinvestiční dotace (RZ 43/2023/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "38/2023/RM",
+          "raw_codes": [
+            "3392",
+            "6121",
+            "306",
+            "2 030 000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Víska - úprava plochy před KD (RZ 38/2023/RM"
+        },
+        {
+          "budget_change_id": "38/2023/RM",
+          "raw_codes": [
+            "2119",
+            "6121",
+            "306",
+            "2 030 306"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Víska - parkovací místa podél silnice včetně prostoru před KD (RZ 38/2023/RM"
+        },
+        {
+          "budget_change_id": "39/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5154",
+            "310",
+            "3 003 465"
+          ],
+          "amount": "-26 000,00",
+          "amount_value": -26000.0,
+          "description": "Sokolovna Unčovice - elektrická energie (RZ 39/2023/RM"
+        },
+        {
+          "budget_change_id": "39/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "302",
+            "3 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Chudobín - místnosti OV - opravy a udržování (RZ 39/2023/RM"
+        },
+        {
+          "budget_change_id": "39/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5171",
+            "307",
+            "3 000 000"
+          ],
+          "amount": "11 000,00",
+          "amount_value": 11000.0,
+          "description": "Chořelice - místnosti OV - opravy a udržování (RZ 39/2023/RM"
+        },
+        {
+          "budget_change_id": "40/2023/RM",
+          "raw_codes": [
+            "6171",
+            "5xxx",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "2 837 200,00",
+          "amount_value": 2837200.0,
+          "description": "Výkon agendy SPOD (RZ 40/2023/RM"
+        },
+        {
+          "budget_change_id": "41/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5336",
+            "143133092",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "138 974,87",
+          "amount_value": 138974.87,
+          "description": "Převod účelové neinvestiční dotace PO (RZ 41/2023/RM"
+        },
+        {
+          "budget_change_id": "42/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143533092",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "2 466 819,23",
+          "amount_value": 2466819.23,
+          "description": "Převod účelové neinvestiční dotace PO (RZ 42/2023/RM"
+        },
+        {
+          "budget_change_id": "42/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5336",
+            "143133092",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "747 905,77",
+          "amount_value": 747905.77,
+          "description": "Převod účelové neinvestiční dotace PO (RZ 42/2023/RM"
+        },
+        {
+          "budget_change_id": "43/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5336",
+            "143533092",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "556 337,20",
+          "amount_value": 556337.2,
+          "description": "Převod účelové neinvestiční dotace PO (RZ 43/2023/RM"
+        },
+        {
+          "budget_change_id": "43/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5336",
+            "143133092",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "168 673,80",
+          "amount_value": 168673.8,
+          "description": "Převod účelové neinvestiční dotace PO (RZ 43/2023/RM"
+        },
+        {
+          "budget_change_id": "44/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-15 000,00",
+          "amount_value": -15000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 44/2023/RM"
+        },
+        {
+          "budget_change_id": "44/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5222",
+            "308",
+            "4 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Tři Dvory - činnost Čarodějnického spolku v roce 2023 (RZ 44/2023/RM¨"
+        },
+        {
+          "budget_change_id": "45/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 45/2023/RM"
+        },
+        {
+          "budget_change_id": "45/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5229",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Závody malých motocyklů (RZ 45/2023/RM"
+        },
+        {
+          "budget_change_id": "46/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "Příspěvky dle rozhodnutí ZML a RML (RZ 46/2023/RM"
+        },
+        {
+          "budget_change_id": "46/2023/RM",
+          "raw_codes": [
+            "3419",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "Hanácký jezdecký klub - podpora činnosti v roce 2023 (RZ 46/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 38/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 38/2023/RM řeší na základě požadavku odboru MHaSI a OV Víska rozšíření projektové",
+      "text": "dokumentace na úpravu předprostoru u KD i na podélná parkovací místa po pravé straně při vjezdu do Vísky. Z důvodu rozšíření je potřeba přesunout finanční prostředky na odpovídající § a ORG."
+    },
+    {
+      "title": "Rozpočtová změna č. 39/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 39/2023/RM řeší dle požadavku MHaSI přesun finančních prostředků na pokrytí nákladů",
+      "text": "pro budoucí opravy v místnostech OV Chudobín a Chořelice."
+    },
+    {
+      "title": "Rozpočtová změna č. 40/2023/RM",
+      "text": "Město Litovel obdrželo od MPSV ČR účelovou neinvestiční dotaci ze státního rozpočtu na financování výkonu přenesené působnosti v oblasti sociálně-právní ochrany dětí na rok 2023. Finanční prostředky byly použity na výkon agendy SPOD jako jsou mzdové náklady, sociální a zdravotní pojištění, školení a vzdělávání, teplo, el.energie, voda a PHM."
+    },
+    {
+      "title": "Rozpočtová změna č. 41/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky. Dle rozpočtového opatření, které město Litovel obdrželo se jedná o účelovou neinvestiční dotaci pro Mateřskou školu G.Frištenského na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů."
+    },
+    {
+      "title": "Rozpočtová změna č. 42/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky. Dle rozpočtového opatření, které město Litovel obdrželo se jedná o účelovou neinvestiční dotaci pro Základní školu Litovel, Jungmannova 655 na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů."
+    },
+    {
+      "title": "Rozpočtová změna č. 43/2023/RM",
+      "text": "Na účet města Litovel byly připsány finanční prostředky. Dle rozpočtového opatření, které město Litovel obdrželo se jedná o účelovou neinvestiční dotaci pro Mateřskou školu, Gemerská na realizaci projektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů."
+    },
+    {
+      "title": "Rozpočtová změna č. 44/2023/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek Čarodějnickému spolku Tři Dvory na činnost v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 45/2023/RM",
+      "text": "Město Litovel poskytlo na žádost pana J.H. dar na organizační zajištění závodů malých motocyklů, které se konaly 27. května 2023 v Unčovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 46/2023/RM",
+      "text": "M ěsto Litovel poskytlo finanční příspěvek Hanáckému jezdeckému klubu na podporu činnosti v roce 2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._9_2023_schvalene_radou_mesta_litovel_dne_1._cervna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č.9/2023 schválené Radou města Litovel dne 1. června 2023.\nRozpočtové opatření bylo schváleno na 13. schůzi Rady města Litovel dne 1. června 2023 na základě\nusnesení 399/13/2023, 400/13/2023, 401/13/2023 a 417/13/2023.\nZměny v příjmech:\nPOL UZ ORJ ORG Kč\n4116 13024 2 837 200,00 Přijatá účelová neinvestiční dotace\n(RZ 40/2023/RM)\n4116 143533092 458 381,13 Přijatá účelová neinvestiční dotace\n(RZ 41/2023/RM)\n4116 143133092 138 974,87 Přijatá účelová neinvestiční dotace\n(RZ 41/2023/RM)\n4116 143533092 2 466 819,23 Přijatá účelová neinvestiční dotace\n(RZ 42/2023/RM)\n4116 143133092 747 905,77 Přijatá účelová neinvestiční dotace\n(RZ 42/2023/RM)\n4116 143533092 556 337,20 Přijatá účelová neinvestiční dotace\n(RZ 43/2023/RM)\n4116 143133092 168 673,80 Přijatá účelová neinvestiční dotace\n(RZ 43/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\n3392 6121 306 2 030 000 -100 000,00 Víska - úprava plochy před KD\n(RZ 38/2023/RM)\nVíska - parkovací místa podél\n2119 6121 306 2 030 306 100 000,00\nsilnice včetně prostoru před KD\n(RZ 38/2023/RM)\n3412 5154 310 3 003 465 -26 000,00 Sokolovna Unčovice - elektrická\nenergie (RZ 39/2023/RM)\n3429 5171 302 3 000 000 15 000,00 Chudobín - místnosti OV - opravy\na udržování (RZ 39/2023/RM)\n3429 5171 307 3 000 000 11 000,00 Chořelice - místnosti OV - opravy\na udržování (RZ 39/2023/RM)\nVýkon agendy SPOD\n6171 5xxx 13024 5 000 000 2 837 200,00\n(RZ 40/2023/RM)\n3111 5336 143533092 49 4 000 000 458 381,13 Převod účelové neinvestiční dotace\nPO (RZ 41/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n3111 5336 143133092 49 4 000 000 138 974,87 Převod účelové neinvestiční dotace\nPO (RZ 41/2023/RM)\n3113 5336 143533092 46 4 000 000 2 466 819,23 Převod účelové neinvestiční dotace\nPO (RZ 42/2023/RM)\n3113 5336 143133092 46 4 000 000 747 905,77 Převod účelové neinvestiční dotace\nPO (RZ 42/2023/RM)\n3111 5336 143533092 48 4 000 000 556 337,20 Převod účelové neinvestiční dotace\nPO (RZ 43/2023/RM)\n3111 5336 143133092 48 4 000 000 168 673,80 Převod účelové neinvestiční dotace\nPO (RZ 43/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -15 000,00\n(RZ 44/2023/RM)\nTři Dvory - činnost\n3900 5222 308 4 000 000 15 000,00 Čarodějnického spolku v roce 2023\n(RZ 44/2023/RM¨)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -5 000,00\n(RZ 45/2023/RM)\nZávody malých motocyklů\n3429 5229 4 000 000 5 000,00\n(RZ 45/2023/RM)\nPříspěvky dle rozhodnutí ZML a\n3429 5901 4 000 000 -25 000,00\nRML (RZ 46/2023/RM)\nHanácký jezdecký klub - podpora\n3419 5222 4 000 000 25 000,00 činnosti v roce 2023\n(RZ 46/2023/RM)\nRZ 38/2023/RM\nRozpočtová změna č. 38/2023/RM řeší na základě požadavku odboru MHaSI a OV Víska rozšíření projektové\ndokumentace na úpravu předprostoru u KD i na podélná parkovací místa po pravé straně při vjezdu do Vísky.\nZ důvodu rozšíření je potřeba přesunout finanční prostředky na odpovídající § a ORG.\nRZ 39/2023/RM\nRozpočtová změna č. 39/2023/RM řeší dle požadavku MHaSI přesun finančních prostředků na pokrytí nákladů\npro budoucí opravy v místnostech OV Chudobín a Chořelice.\nRZ 40/2023/RM\nMěsto Litovel obdrželo od MPSV ČR účelovou neinvestiční dotaci ze státního rozpočtu na financování výkonu\npřenesené působnosti v oblasti sociálně-právní ochrany dětí na rok 2023. Finanční prostředky byly použity na\nvýkon agendy SPOD jako jsou mzdové náklady, sociální a zdravotní pojištění, školení a vzdělávání, teplo,\nel.energie, voda a PHM.\nRZ 41/2023/RM\nNa účet města Litovel byly připsány finanční prostředky. Dle rozpočtového opatření, které město Litovel\nobdrželo se jedná o účelovou neinvestiční dotaci pro Mateřskou školu G.Frištenského na realizaci projektu\nv rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 42/2023/RM\nNa účet města Litovel byly připsány finanční prostředky. Dle rozpočtového opatření, které město Litovel\nobdrželo se jedná o účelovou neinvestiční dotaci pro Základní školu Litovel, Jungmannova 655 na realizaci\nprojektu v rámci Operačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování\nnákladů.\nRZ 43/2023/RM\nNa účet města Litovel byly připsány finanční prostředky. Dle rozpočtového opatření, které město Litovel\nobdrželo se jedná o účelovou neinvestiční dotaci pro Mateřskou školu, Gemerská na realizaci projektu v rámci\nOperačního programu Jan Amos Komenský – projekty využívající zjednodušené vykazování nákladů.\nRZ 44/2023/RM\nMěsto Litovel poskytlo finanční příspěvek Čarodějnickému spolku Tři Dvory na činnost v roce 2023.\nRZ 45/2023/RM\nMěsto Litovel poskytlo na žádost pana J.H. dar na organizační zajištění závodů malých motocyklů, které\nse konaly 27. května 2023 v Unčovicích.\nRZ 46/2023/RM\nM ěsto Litovel poskytlo finanční příspěvek Hanáckému jezdeckému klubu na podporu činnosti v roce 2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 14. 6. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/417/13/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "38/2023/RM",
+        "39/2023/RM",
+        "40/2023/RM",
+        "41/2023/RM",
+        "42/2023/RM",
+        "43/2023/RM"
+      ]
+    }
+  ]
+}

@@ -36,7 +36,7 @@
           ],
           "amount": "10 536,00",
           "amount_value": 10536.0,
-          "description": "přijaté pojistné plnění (RZ 39/2025/RM)"
+          "description": "přijaté pojistné plnění (RZ 39/2025/RM"
         },
         {
           "budget_change_id": "40/2025/RM",
@@ -46,7 +46,7 @@
           ],
           "amount": "12 689,00",
           "amount_value": 12689.0,
-          "description": "přijaté pojistné plnění (RZ 40/2025/RM)"
+          "description": "přijaté pojistné plnění (RZ 40/2025/RM"
         },
         {
           "budget_change_id": "41/2025/RM",
@@ -57,7 +57,7 @@
           ],
           "amount": "3 280 000,00",
           "amount_value": 3280000.0,
-          "description": "účelová neinvestiční dotace - Pomoc domácnostem postiženým povodní (RZ 41/2025/RM)"
+          "description": "účelová neinvestiční dotace - Pomoc domácnostem postiženým povodní (RZ 41/2025/RM"
         }
       ]
     },
@@ -74,7 +74,7 @@
           ],
           "amount": "10 536,00",
           "amount_value": 10536.0,
-          "description": "silnice - pojistné události - škody na majetku (RZ 39/2025/RM)"
+          "description": "silnice - pojistné události - škody na majetku (RZ 39/2025/RM"
         },
         {
           "budget_change_id": "40/2025/RM",
@@ -85,7 +85,7 @@
           ],
           "amount": "12 689,00",
           "amount_value": 12689.0,
-          "description": "místní správa - opravy a udržování (RZ 40/2025/RM)"
+          "description": "místní správa - opravy a udržování (RZ 40/2025/RM"
         },
         {
           "budget_change_id": "41/2025/RM",
@@ -98,7 +98,7 @@
           ],
           "amount": "3 280 000,00",
           "amount_value": 3280000.0,
-          "description": "Pomoc domácnostem postiženým povodní - transfery příjemcům dotace (RZ 41/2025/RM)"
+          "description": "Pomoc domácnostem postiženým povodní - transfery příjemcům dotace (RZ 41/2025/RM"
         },
         {
           "budget_change_id": "42/2025/RM",
@@ -109,7 +109,7 @@
           ],
           "amount": "-220 000,00",
           "amount_value": -220000.0,
-          "description": "Městská policie - prázdninový pobyt dětí (RZ 42/2025/RM)"
+          "description": "Městská policie - prázdninový pobyt dětí (RZ 42/2025/RM"
         },
         {
           "budget_change_id": "42/2025/RM",
@@ -120,7 +120,7 @@
           ],
           "amount": "220 000,00",
           "amount_value": 220000.0,
-          "description": "DDM Litovel - prázdninový pobyt dětí (RZ 42/2025/RM)"
+          "description": "DDM Litovel - prázdninový pobyt dětí (RZ 42/2025/RM"
         },
         {
           "budget_change_id": "43/2025/RM",
@@ -131,7 +131,7 @@
           ],
           "amount": "-3 000,00",
           "amount_value": -3000.0,
-          "description": "transfery dle rozhodnutí RM (RZ 43/2025/RM)"
+          "description": "transfery dle rozhodnutí RM (RZ 43/2025/RM"
         },
         {
           "budget_change_id": "43/2025/RM",
@@ -142,7 +142,7 @@
           ],
           "amount": "3 000,00",
           "amount_value": 3000.0,
-          "description": "Zdravotní klaun, o.p.s. - dar na podporu činnosti (RZ 43/2025/RM)"
+          "description": "Zdravotní klaun, o.p.s. - dar na podporu činnosti (RZ 43/2025/RM"
         },
         {
           "budget_change_id": "44/2025/RM",
@@ -153,7 +153,7 @@
           ],
           "amount": "-10 000,00",
           "amount_value": -10000.0,
-          "description": "transfery dle rozhodnutí RM (RZ 44/2025/RM)"
+          "description": "transfery dle rozhodnutí RM (RZ 44/2025/RM"
         },
         {
           "budget_change_id": "44/2025/RM",
@@ -164,7 +164,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "obec Cholina - dar na provoz Pošty Partner v Cholině v roce 2025 (RZ 44/2025/RM)"
+          "description": "obec Cholina - dar na provoz Pošty Partner v Cholině v roce 2025 (RZ 44/2025/RM"
         }
       ]
     }

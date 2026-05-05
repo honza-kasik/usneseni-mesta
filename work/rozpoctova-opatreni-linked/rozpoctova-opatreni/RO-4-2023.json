@@ -1,0 +1,180 @@
+{
+  "id": "RO/4/2023",
+  "number": 4,
+  "year": 2023,
+  "approval_date": "2023-03-09",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 9,
+    "type": "schůzi",
+    "date": "2023-03-09"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "10/2023/RM",
+    "11/2023/RM",
+    "12/2023/RM",
+    "13/2023/RM",
+    "14/2023/RM",
+    "9/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "10/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 10/2023/RM"
+        },
+        {
+          "budget_change_id": "10/2023/RM",
+          "raw_codes": [
+            "3599",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Společnost Zdravotní klaun,o.p.s. - podpora činnosti v roce 2023 (RZ 10/2023/RM"
+        },
+        {
+          "budget_change_id": "11/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 11/2023/RM"
+        },
+        {
+          "budget_change_id": "11/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "Hanácký petanque klub - podpora činnosti v roce 2023 (RZ 11/2023/RM"
+        },
+        {
+          "budget_change_id": "12/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-10 000,00",
+          "amount_value": -10000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 12/2023/RM"
+        },
+        {
+          "budget_change_id": "12/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "ZO Českého svazu zahrádkářů - oprava a vybavení klubovny a podpora činnosti v roce 2023 (RZ 12/2023/RM"
+        },
+        {
+          "budget_change_id": "13/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-12 000,00",
+          "amount_value": -12000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 13/2023/RM"
+        },
+        {
+          "budget_change_id": "13/2023/RM",
+          "raw_codes": [
+            "3599",
+            "5221",
+            "4 000 000"
+          ],
+          "amount": "12 000,00",
+          "amount_value": 12000.0,
+          "description": "Nejste sami -mobilní hospic - podpora činnosti v roce 2023 (RZ 13/2023/RM"
+        },
+        {
+          "budget_change_id": "14/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 14/2023/RM"
+        },
+        {
+          "budget_change_id": "14/2023/RM",
+          "raw_codes": [
+            "3312",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "SOŠ Litovel -dotace na organizaci minifestivalu amatérských hudebních skupin (RZ 14/2023/RM"
+        },
+        {
+          "budget_change_id": "9/2023/RM",
+          "raw_codes": [],
+          "amount": "34 448,00",
+          "amount_value": 34448.0,
+          "description": "Požární ochrana – opravy a udržování 5511 5171 15 000 000 34.448,00 (RZ 9/2023/R ORJ ORG Kč Požární ochrana – opravy a udržování 5511 5171 15 000 000 34.448,00 (RZ 9/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 10/2023/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek společnosti Zdravotní klaun o.p.s. na podporu činnosti v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 11/2023/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek Hanáckému petanque klubu na podporu činnosti v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 12/2023/RM",
+      "text": "Město Litovel poskytlo na žádost Základní organizace Českého zahrádkářského svazu Litovel finanční podporu na opravu a vybavení klubovny a na výstavní činnost v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 13/2023/RM",
+      "text": "Město Litovel poskytlo na žádost mobilního hospice Nejste sami finanční příspěvek na podporu činnosti v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 14/2023/RM",
+      "text": "Na žádost ředitele SOŠ Litovel poskytlo město Litovel finanční prostředky na organizační náklady minifestivalu amatérských hudebních skupin, který se bude konat dne 23.června 2023 ve dvoře školy."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._4_2023_schvalene_radou_mesta_litovel_dne_9.brezna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 4/2023 schválené Radou města Litovel dne 9. března 2023.\nRozpočtové opatření bylo schváleno na 9. schůzi Rady města Litovel dne 9. března 2023 na základě usnesení\n217/9/2023,218/9/2023,220/9/2023,221/9/2023,222/9/2023 a 237/9/2023.\nZ měny v příjmech:\nPOL UZ ORJ ORG Kč\n6320 2322 34.448,00 Přijaté pojistné plnění (RZ 9/2023/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPožární ochrana – opravy a udržování\n5511 5171 15 000 000 34.448,00\n(RZ 9/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 10/2023/RM)\nSpolečnost Zdravotní klaun,o.p.s. -\n3599 5221 4 000 000 3 000,00 podpora činnosti v roce 2023\n(RZ 10/2023/RM)\n3429 5901 4 000 000 -3 000,00\nTransfery dle rozhodnutí RM\n(RZ 11/2023/RM)\nHanácký petanque klub - podpora činnosti\n3429 5222 4 000 000 3 000,00\nv roce 2023 (RZ 11/2023/RM)\n3429 5901 4 000 000 -10 000,00\nTransfery dle rozhodnutí RM\n(RZ 12/2023/RM)\nZO Českého svazu zahrádkářů - oprava a\n3429 5222 4 000 000 10 000,00 vybavení klubovny a podpora činnosti v\nroce 2023 (RZ 12/2023/RM)\n3429 5901 4 000 000 -12 000,00\nTransfery dle rozhodnutí RM\n(RZ 13/2023/RM)\nNejste sami -mobilní hospic - podpora\n3599 5221 4 000 000 12 000,00\nčinnosti v roce 2023 (RZ 13/2023/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -20 000,00\n(RZ 14/2023/RM)\nSOŠ Litovel -dotace na organizaci\n3312 5339 4 000 000 20 000,00 minifestivalu amatérských hudebních\nskupin (RZ 14/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 9//2023/RM\nNa účet města Litovel byla připsaná platba od Kooperativa pojišťovny, a.s. Jedná se o pojistné plnění z pojistné\nudálosti, která vznikla 15.12.2022 (poškozený semafor pro výjezd vozidel HZS na Dukelské ulici v Litovli).\nRZ 10/2023/RM\nMěsto Litovel poskytlo finanční příspěvek společnosti Zdravotní klaun o.p.s. na podporu činnosti v roce 2023.\nRZ 11/2023/RM\nMěsto Litovel poskytlo finanční příspěvek Hanáckému petanque klubu na podporu činnosti v roce 2023.\nRZ 12/2023/RM\nMěsto Litovel poskytlo na žádost Základní organizace Českého zahrádkářského svazu Litovel finanční podporu\nna opravu a vybavení klubovny a na výstavní činnost v roce 2023.\nRZ 13/2023/RM\nMěsto Litovel poskytlo na žádost mobilního hospice Nejste sami finanční příspěvek na podporu činnosti v roce\n2023.\nRZ 14/2023/RM\nNa žádost ředitele SOŠ Litovel poskytlo město Litovel finanční prostředky na organizační náklady minifestivalu\namatérských hudebních skupin, který se bude konat dne 23.června 2023 ve dvoře školy.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 28.3.2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/237/9/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "9/2023/RM"
+      ]
+    }
+  ]
+}

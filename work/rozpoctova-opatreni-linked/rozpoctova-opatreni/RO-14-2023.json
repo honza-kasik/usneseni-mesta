@@ -1,0 +1,212 @@
+{
+  "id": "RO/14/2023",
+  "number": 14,
+  "year": 2023,
+  "approval_date": "2023-08-10",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 18,
+    "type": "schůzi",
+    "date": "2023-08-10"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "73/2023/RM",
+    "74/2023/RM",
+    "75/2023/RM",
+    "76/2023/RM",
+    "77/2023/RM",
+    "78/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "73/2023/RM",
+          "raw_codes": [
+            "3412",
+            "6121",
+            "305",
+            "2 030 305"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Březové - veřejné WC na hřišti, dokončení PD+ realizace (RZ 73/2023/RM"
+        },
+        {
+          "budget_change_id": "74/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "309",
+            "2 030 000"
+          ],
+          "amount": "120 000,00",
+          "amount_value": 120000.0,
+          "description": "Nasobůrky - oprava parketu u KD (RZ 74/2023/RM"
+        },
+        {
+          "budget_change_id": "75/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 75/2023/RM"
+        },
+        {
+          "budget_change_id": "75/2023/RM",
+          "raw_codes": [
+            "4359",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Zet-My, z.s. - příspěvek na činnost (RZ 75/2023/RM"
+        },
+        {
+          "budget_change_id": "76/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 76/2023/RM"
+        },
+        {
+          "budget_change_id": "76/2023/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "V.J. - zveřejnění studentských projektů (RZ 76/2023/RM"
+        },
+        {
+          "budget_change_id": "77/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-16 000,00",
+          "amount_value": -16000.0,
+          "description": "Dary a příspěvky dle rozhodnutí ZML a RML (RZ 77/2023/RM"
+        },
+        {
+          "budget_change_id": "77/2023/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "16 000,00",
+          "amount_value": 16000.0,
+          "description": "Neinvestiční transfer pro skautský oddíl (RZ 77/2023/RM"
+        },
+        {
+          "budget_change_id": "78/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 78/2023/RM"
+        },
+        {
+          "budget_change_id": "78/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "ADETO, z.s. - neinv.transfer (RZ 78/2023/RM"
+        },
+        {
+          "budget_change_id": "73/2023/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "308",
+            "2",
+            "033",
+            "457"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Tři Dvory - rekonstrukce místní komunikace – realizace (RZ 73/20213/RM) Březové - veřejné WC na hřišti, 3412 6121 305 2 030 305 100 000,00 dokončení PD+ realizace (RZ 73/2023/RM"
+        },
+        {
+          "budget_change_id": "74/2023/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "308",
+            "2",
+            "033",
+            "457"
+          ],
+          "amount": "-120 000,00",
+          "amount_value": -120000.0,
+          "description": "Tři Dvory - rekonstrukce místní komunikace - realizace (RZ 74/20213/RM) Nasobůrky - oprava parketu u KD 3392 5171 309 2 030 000 120 000,00 (RZ 74/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 73/2023/RM",
+      "text": "Město Litovel poskytlo na základě požadavku z odboru MHaSI finanční prostředky na realizaci veřejného WC na hřišti v místní části Březové. Rozpočtová změna řeší přesun finančních prostředků na odpovídající §, ORJ a ORG."
+    },
+    {
+      "title": "Rozpočtová změna č. 74/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 74/2023/RM řeší na základě požadavku odboru MHaSI přesun finančních prostředků na",
+      "text": "opravu parketu u KD v Nasobůrkách."
+    },
+    {
+      "title": "Rozpočtová změna č. 75/2023/RM",
+      "text": "Město Litovel poskytlo dar spolku Zet-My, z.s. na podporu činnosti odlehčovací sociální služby v roce 2023."
+    },
+    {
+      "title": "Rozpočtová změna č. 76/2023/RM",
+      "text": "Město Litovel poskytlo dotaci ve výši 50.000 Kč na úhradu nákladů spojených s organizačním zajištěním vystavení studentských projektů možného využití bývalých skladových prostor v ul. B. Němcové v Litovli na náměstí Př. Otakara a následně v prostorách bývalé VDP."
+    },
+    {
+      "title": "Rozpočtová změna č. 77/2023/RM",
+      "text": "Město Litovel poskytlo dotaci spolku Junák-český skaut, z.s. na uhrazení nájemného v budově Městského klubu."
+    },
+    {
+      "title": "Rozpočtová změna č. 78/2023/RM",
+      "text": "Město Litovel poskytlo spolku ADETO,z.s. dar na úhradu nákladů spojených s akcí „Noc literatury 2023“, která se bude konat 20.-22.září 2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._14_2023_schvalene_radou_mesta_litovel_dne_10._srpna_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 14/2023 schválené Radou města Litovel\ndne 10. srpna 2023.\nRozpočtové opatření bylo schváleno na 18. schůzi Rady města Litovel dne 10.srpna 2023 na základě usnesení\n518/18/2023,519/18/2023,530/18/2023,537/18/2023 a 538/18/2023.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nTři Dvory - rekonstrukce místní\n2212 6121 308 2 033 457 -100 000,00 komunikace – realizace\n(RZ 73/20213/RM)\nBřezové - veřejné WC na hřišti,\n3412 6121 305 2 030 305 100 000,00 dokončení PD+ realizace\n(RZ 73/2023/RM)\nTři Dvory - rekonstrukce místní\n2212 6121 308 2 033 457 -120 000,00 komunikace - realizace\n(RZ 74/20213/RM)\nNasobůrky - oprava parketu u KD\n3392 5171 309 2 030 000 120 000,00\n(RZ 74/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 75/2023/RM)\n4359 5222 4 000 000 5 000,00 Zet-My, z.s. - příspěvek na činnost\n(RZ 75/2023/RM)\n3429 5901 4 000 000 -50 000,00 Transfery dle rozhodnutí RM\n(RZ 76/2023/RM)\n3900 5492 4 000 000 50 000,00 V.J. - zveřejnění studentských projektů\n(RZ 76/2023/RM)\n3429 5901 4 000 000 -16 000,00 Dary a příspěvky dle rozhodnutí ZML a\nRML (RZ 77/2023/RM)\n3421 5222 4 000 000 16 000,00 Neinvestiční transfer pro skautský oddíl\n(RZ 77/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 78/2023/RM)\n3429 5222 4 000 000 5 000,00 ADETO, z.s. - neinv.transfer\n(RZ 78/2023/RM)\nRZ 73/2023/RM\nMěsto Litovel poskytlo na základě požadavku z odboru MHaSI finanční prostředky na realizaci veřejného WC\nna hřišti v místní části Březové. Rozpočtová změna řeší přesun finančních prostředků na odpovídající §, ORJ a ORG.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 74/2023/RM\nRozpočtová změna č. 74/2023/RM řeší na základě požadavku odboru MHaSI přesun finančních prostředků na\nopravu parketu u KD v Nasobůrkách.\nRZ 75/2023/RM\nMěsto Litovel poskytlo dar spolku Zet-My, z.s. na podporu činnosti odlehčovací sociální služby v roce 2023.\nRZ 76/2023/RM\nMěsto Litovel poskytlo dotaci ve výši 50.000 Kč na úhradu nákladů spojených s organizačním zajištěním\nvystavení studentských projektů možného využití bývalých skladových prostor v ul. B. Němcové v Litovli\nna náměstí Př. Otakara a následně v prostorách bývalé VDP.\nRZ 77/2023/RM\nMěsto Litovel poskytlo dotaci spolku Junák-český skaut, z.s. na uhrazení nájemného v budově Městského klubu.\nRZ 78/2023/RM\nMěsto Litovel poskytlo spolku ADETO,z.s. dar na úhradu nákladů spojených s akcí „Noc literatury 2023“,\nkterá se bude konat 20.-22.září 2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nLitovli, 23. 8. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/530/18/2023",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "73/2023/RM",
+        "74/2023/RM"
+      ]
+    }
+  ]
+}

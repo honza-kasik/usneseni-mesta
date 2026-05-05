@@ -1,0 +1,254 @@
+{
+  "id": "RO/11/2022",
+  "number": 11,
+  "year": 2022,
+  "approval_date": "2022-06-23",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 78,
+    "type": "schůzi",
+    "date": "2022-06-23"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "69/2022/RM",
+    "70/2022/RM",
+    "71/2022/RM",
+    "72/2022/RM",
+    "73/2022/RM",
+    "74/2022/RM",
+    "75/2022/RM",
+    "76/2022/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "69/2022/RM",
+          "raw_codes": [
+            "4122",
+            "582"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Účelová neinvestiční dotace pro Městský klub (RZ 69/2022/RM"
+        },
+        {
+          "budget_change_id": "70/2022/RM",
+          "raw_codes": [
+            "4116",
+            "13010"
+          ],
+          "amount": "49 000,00",
+          "amount_value": 49000.0,
+          "description": "Finanční příspěvek na výkon agendy SPOD (RZ 70/2022/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "69/2022/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "582",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Převod účelové neinvestiční dotace na Služby TIC Litovel 2022 (RZ 69/2022/RM"
+        },
+        {
+          "budget_change_id": "70/2022/RM",
+          "raw_codes": [
+            "4339",
+            "5xxx",
+            "13010",
+            "5 000 xxx"
+          ],
+          "amount": "49 000,00",
+          "amount_value": 49000.0,
+          "description": "Výkon agendy SPOD (RZ 70/2022/RM"
+        },
+        {
+          "budget_change_id": "71/2022/RM",
+          "raw_codes": [
+            "3312",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "-7 000,00",
+          "amount_value": -7000.0,
+          "description": "Transfer pro SOŠ – hudební minifestival (RZ 71/2022/RM"
+        },
+        {
+          "budget_change_id": "71/2022/RM",
+          "raw_codes": [
+            "3122",
+            "5339",
+            "4 000 000"
+          ],
+          "amount": "7 000,00",
+          "amount_value": 7000.0,
+          "description": "Transfer pro SOŠ – hudební minifestival (RZ 71/2022/RM"
+        },
+        {
+          "budget_change_id": "72/2022/RM",
+          "raw_codes": [
+            "3612",
+            "5152",
+            "5 000 561"
+          ],
+          "amount": "-59 000,00",
+          "amount_value": -59000.0,
+          "description": "Společné prostory v DPS. (RZ 72/2022/RM"
+        },
+        {
+          "budget_change_id": "72/2022/RM",
+          "raw_codes": [
+            "3632",
+            "5811",
+            "5 000 560"
+          ],
+          "amount": "59 000,00",
+          "amount_value": 59000.0,
+          "description": "Úhrada pohřebného za sociálně slabé občany (RZ 72/2022/RM"
+        },
+        {
+          "budget_change_id": "73/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-7 280,00",
+          "amount_value": -7280.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 73/2022/RM"
+        },
+        {
+          "budget_change_id": "73/2022/RM",
+          "raw_codes": [
+            "3900",
+            "5492",
+            "2 040 000"
+          ],
+          "amount": "7 280,00",
+          "amount_value": 7280.0,
+          "description": "dary obyvatelstvu (RZ 73/2022/RM"
+        },
+        {
+          "budget_change_id": "74/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-6 000,00",
+          "amount_value": -6000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 74/2022/RM"
+        },
+        {
+          "budget_change_id": "74/2022/RM",
+          "raw_codes": [
+            "3421",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "6 000,00",
+          "amount_value": 6000.0,
+          "description": "Mažoretky Linetbells Litovel (RZ 74/2022/RM"
+        },
+        {
+          "budget_change_id": "75/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "307",
+            "2 040 000"
+          ],
+          "amount": "-50 000,00",
+          "amount_value": -50000.0,
+          "description": "Chořelice - podpora místních spolků (RZ 75/2022/RM"
+        },
+        {
+          "budget_change_id": "75/2022/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "307",
+            "2 040 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Chořelice - podpora místních spolků (RZ 75/2022/RM"
+        },
+        {
+          "budget_change_id": "76/2022/RM",
+          "raw_codes": [
+            "3111",
+            "5171",
+            "4000000"
+          ],
+          "amount": "-169 400,00",
+          "amount_value": -169400.0,
+          "description": "Opravy a rekonstrukce (RZ 76/2022/RM"
+        },
+        {
+          "budget_change_id": "76/2022/RM",
+          "raw_codes": [
+            "3141",
+            "6121",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "169 400,00",
+          "amount_value": 169400.0,
+          "description": "ŠJ - PD na rekonstrukci 1.NP (RZ 76/2022/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 69/2022/RM",
+      "text": "Město Litovel obdrželo účelovou neinvestiční dotaci od Olomouckého kraje. Finanční prostředky jsou určeny pro Městský klub Litovel na částečnou úhradu výdajů na „Služby TIC Litovel 2022“."
+    },
+    {
+      "title": "Rozpočtová změna č. 70/2022/RM",
+      "text": "Město Litovel obdrželo na základě rozhodnutí Úřadu práce ČR - Krajská pobočka v Olomouci státní příspěvek na výkon pěstounské péče na rok 2022. Příspěvek je určen na zvyšování dovednosti v oblasti výchovy a péče o dítě, dětské pobytové tábory apod."
+    },
+    {
+      "title": "Rozpočtová změna č. 71/2022/RM",
+      "text": "Rozpočtová změna 71/2022/RM řeší správné zatřídění na příslušný § u neinvestičního transferu pro SOŠ Litovel na hudební minifestival."
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2022/RM",
+      "text": "Město Litovel na návrh vedoucího Odboru sociálního a správního navýšilo rozpočtové prostředky na sociální pohřby pro sociálně slabé občany."
+    },
+    {
+      "title": "Rozpočtová změna č. 73/2022/RM",
+      "text": "Město Litovel poskytlo na žádost pana S. finanční příspěvek pro účast dcery na MS ve zpracování textu na PC, které se bude konat v holandském Maastrichtu."
+    },
+    {
+      "title": "Rozpočtová změna č. 74/2022/RM",
+      "text": "Město Litovel na žádost paní P. poskytlo finanční příspěvek na podporu dua mažoretek, které se zúčastní MS v Chorvatsku."
+    },
+    {
+      "title": "Rozpočtová změna č. 75/2022/RM",
+      "text": "Město Litovel poskytlo finanční příspěvek organizaci SDH Chořelice na činnost v roce 2022."
+    },
+    {
+      "title": "Rozpočtová změna č. 76/2022/RM",
+      "text": "Město Litovel poskytlo finanční prostředky na PD na rekonstrukci 1.NP ve Školní jídelně. V budově ŠJ je nevyhovující sociální zázemí (šatny, sprchy a WC) pro zaměstnance. Pro bezpečnější uskladnění polotovarů chtějí vybavit jídelnu mrazícím boxem."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._11_2022_schvalene_radou_mesta_litovel_dne_23.cervna_2022.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 11/2022 schválené Radou města Litovel dne 23.června 2022.\nRozpočtové opatření bylo schváleno na 78. schůzi Rady města Litovel dne 23. června 2022 na základě usnesení\n2621/78,2622/78,2623/78,2629/78 a 2636/78.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace pro\n4122 582 30 000,00\nMěstský klub (RZ 69/2022/RM)\nFinanční příspěvek na výkon agendy\n4116 13010 49 000,00\nSPOD (RZ 70/2022/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nPřevod účelové neinvestiční dotace na\n3392 5336 582 44 4 000 000 30 000,00 Služby TIC Litovel 2022\n(RZ 69/2022/RM)\nVýkon agendy SPOD\n4339 5xxx 13010 5 000 xxx 49 000,00\n(RZ 70/2022/RM)\nTransfer pro SOŠ – hudební\n3312 5339 4 000 000 -7 000,00\nminifestival (RZ 71/2022/RM)\nTransfer pro SOŠ – hudební\n3122 5339 4 000 000 7 000,00\nminifestival (RZ 71/2022/RM)\nSpolečné prostory v DPS.\n3612 5152 5 000 561 -59 000,00\n(RZ 72/2022/RM)\nÚhrada pohřebného za sociálně slabé\n3632 5811 5 000 560 59 000,00\nobčany (RZ 72/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -7 280,00\n(RZ 73/2022/RM)\n3900 5492 2 040 000 7 280,00 dary obyvatelstvu (RZ 73/2022/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -6 000,00\n(RZ 74/2022/RM)\nMažoretky Linetbells Litovel\n3421 5222 4 000 000 6 000,00\n(RZ 74/2022/RM)\nChořelice - podpora místních spolků\n3429 5901 307 2 040 000 -50 000,00\n(RZ 75/2022/RM)\nChořelice - podpora místních spolků\n3429 5222 307 2 040 000 50 000,00\n(RZ 75/2022/RM)\nOpravy a rekonstrukce\n3111 5171 4000000 -169 400,00\n(RZ 76/2022/RM)\nŠJ - PD na rekonstrukci 1.NP\n3141 6121 50 4 000 000 169 400,00\n(RZ 76/2022/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 69/2022/RM\nMěsto Litovel obdrželo účelovou neinvestiční dotaci od Olomouckého kraje. Finanční prostředky jsou určeny pro\nMěstský klub Litovel na částečnou úhradu výdajů na „Služby TIC Litovel 2022“.\nRZ 70/2022/RM\nMěsto Litovel obdrželo na základě rozhodnutí Úřadu práce ČR - Krajská pobočka v Olomouci státní příspěvek\nna výkon pěstounské péče na rok 2022. Příspěvek je určen na zvyšování dovednosti v oblasti výchovy a péče o\ndítě, dětské pobytové tábory apod.\nRZ 71/2022/RM\nRozpočtová změna 71/2022/RM řeší správné zatřídění na příslušný § u neinvestičního transferu pro SOŠ Litovel\nna hudební minifestival.\nRZ 72/2022/RM\nMěsto Litovel na návrh vedoucího Odboru sociálního a správního navýšilo rozpočtové prostředky na sociální\npohřby pro sociálně slabé občany.\nRZ 73/2022/RM\nMěsto Litovel poskytlo na žádost pana S. finanční příspěvek pro účast dcery na MS ve zpracování textu na PC,\nkteré se bude konat v holandském Maastrichtu.\nRZ 74/2022/RM\nMěsto Litovel na žádost paní P. poskytlo finanční příspěvek na podporu dua mažoretek, které se zúčastní MS\nv Chorvatsku.\nRZ 75/2022/RM\nMěsto Litovel poskytlo finanční příspěvek organizaci SDH Chořelice na činnost v roce 2022.\nRZ 76/2022/RM\nMěsto Litovel poskytlo finanční prostředky na PD na rekonstrukci 1.NP ve Školní jídelně. V budově ŠJ je\nnevyhovující sociální zázemí (šatny, sprchy a WC) pro zaměstnance. Pro bezpečnější uskladnění polotovarů chtějí\nvybavit jídelnu mrazícím boxem.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\npřijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 11.7.2022\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

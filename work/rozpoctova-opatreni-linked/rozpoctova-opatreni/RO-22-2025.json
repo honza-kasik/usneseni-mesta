@@ -36,7 +36,7 @@
           ],
           "amount": "-320,16",
           "amount_value": -320.16,
-          "description": "MK ČR - účel. dotaceTritius (RZ 166/2025/RM)"
+          "description": "MK ČR - účel. dotaceTritius (RZ 166/2025/RM"
         },
         {
           "budget_change_id": "168/2025/RM",
@@ -46,7 +46,7 @@
           ],
           "amount": "305 711,49",
           "amount_value": 305711.49,
-          "description": "MPSV ČR - SPOD (RZ 168/2025/RM)"
+          "description": "MPSV ČR - SPOD (RZ 168/2025/RM"
         },
         {
           "budget_change_id": "170/2025/RM",
@@ -57,7 +57,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "Ol. kraj - účel. dar pro JSDH Savín a Tři Dvory (RZ 170/2025/RM)"
+          "description": "Ol. kraj - účel. dar pro JSDH Savín a Tři Dvory (RZ 170/2025/RM"
         },
         {
           "budget_change_id": "170/2025/RM",
@@ -68,17 +68,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "Ol. kraj - účel. dar pro JSDH Savín a Tři Dvory (RZ 170/2025/RM)"
-        },
-        {
-          "budget_change_id": "168/2025/RM",
-          "raw_codes": [
-            "4116",
-            "130"
-          ],
-          "amount": "24 305 711,49",
-          "amount_value": 24305711.49,
-          "description": ") MPSV ČR - SPOD (RZ 168/2025/RM"
+          "description": "Ol. kraj - účel. dar pro JSDH Savín a Tři Dvory (RZ 170/2025/RM"
         }
       ]
     },
@@ -96,7 +86,7 @@
           ],
           "amount": "-6 755,00",
           "amount_value": -6755.0,
-          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM)"
+          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM"
         },
         {
           "budget_change_id": "163/2025/RM",
@@ -108,7 +98,7 @@
           ],
           "amount": "-14 200,00",
           "amount_value": -14200.0,
-          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM)"
+          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM"
         },
         {
           "budget_change_id": "163/2025/RM",
@@ -120,7 +110,7 @@
           ],
           "amount": "-7 804,00",
           "amount_value": -7804.0,
-          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM)"
+          "description": "Tři Dvory - drobná vydání OV + opravy + DPP (RZ 163/2025/RM"
         },
         {
           "budget_change_id": "163/2025/RM",
@@ -132,7 +122,7 @@
           ],
           "amount": "28 759,00",
           "amount_value": 28759.0,
-          "description": "Tři Dvory - workout - lavička (RZ 163/2025/RM)"
+          "description": "Tři Dvory - workout - lavička (RZ 163/2025/RM"
         },
         {
           "budget_change_id": "164/2025/RM",
@@ -143,7 +133,7 @@
           ],
           "amount": "260 000,00",
           "amount_value": 260000.0,
-          "description": "OŽP - čištění odpadního zatrubněného kanálu u Uničovského rybníka (RZ 164/2025/RM)"
+          "description": "OŽP - čištění odpadního zatrubněného kanálu u Uničovského rybníka (RZ 164/2025/RM"
         },
         {
           "budget_change_id": "164/2025/RM",
@@ -154,7 +144,7 @@
           ],
           "amount": "-260 000,00",
           "amount_value": -260000.0,
-          "description": "úroky z přijatých úvěrů a půjček (RZ 164/2025/RM)"
+          "description": "úroky z přijatých úvěrů a půjček (RZ 164/2025/RM"
         },
         {
           "budget_change_id": "165/2025/RM",
@@ -165,7 +155,7 @@
           ],
           "amount": "-10 000,00",
           "amount_value": -10000.0,
-          "description": "úroky z přijatých úvěrů a půjček (RZ 165/2025/RM)"
+          "description": "úroky z přijatých úvěrů a půjček (RZ 165/2025/RM"
         },
         {
           "budget_change_id": "165/2025/RM",
@@ -176,7 +166,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "OŽP - pořízení plomb pro výkon státní správy myslivosti (RZ 165/2025/RM)"
+          "description": "OŽP - pořízení plomb pro výkon státní správy myslivosti (RZ 165/2025/RM"
         },
         {
           "budget_change_id": "166/2025/RM",
@@ -188,7 +178,7 @@
           ],
           "amount": "-320,16",
           "amount_value": -320.16,
-          "description": "Městská knihovna - čerpání účel dotace - Tritius (RZ 166/2025/RM)"
+          "description": "Městská knihovna - čerpání účel dotace - Tritius (RZ 166/2025/RM"
         },
         {
           "budget_change_id": "167/2025/RM",
@@ -200,7 +190,7 @@
           ],
           "amount": "-106 280,00",
           "amount_value": -106280.0,
-          "description": "Unčovice - revitalizace veřejných ploch u Sokolovny (RZ 167/2025/RM)"
+          "description": "Unčovice - revitalizace veřejných ploch u Sokolovny (RZ 167/2025/RM"
         },
         {
           "budget_change_id": "167/2025/RM",
@@ -212,7 +202,7 @@
           ],
           "amount": "106 280,00",
           "amount_value": 106280.0,
-          "description": "Unčovice - Sokolovna - renovace místnosti (RZ 167/2025/RM)"
+          "description": "Unčovice - Sokolovna - renovace místnosti (RZ 167/2025/RM"
         },
         {
           "budget_change_id": "168/2025/RM",
@@ -224,7 +214,7 @@
           ],
           "amount": "285 711,49",
           "amount_value": 285711.49,
-          "description": "SPOD (RZ 168/2025/RM)"
+          "description": "SPOD (RZ 168/2025/RM"
         },
         {
           "budget_change_id": "169/2025/RM",
@@ -235,7 +225,7 @@
           ],
           "amount": "-506 990,00",
           "amount_value": -506990.0,
-          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 169/2025/RM)"
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 169/2025/RM"
         },
         {
           "budget_change_id": "169/2025/RM",
@@ -246,7 +236,7 @@
           ],
           "amount": "-369 046,00",
           "amount_value": -369046.0,
-          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 169/2025/RM)"
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 169/2025/RM"
         },
         {
           "budget_change_id": "169/2025/RM",
@@ -258,7 +248,7 @@
           ],
           "amount": "876 036,00",
           "amount_value": 876036.0,
-          "description": "Nasobůrky - rekonstrukce místní komunikace za hřištěm (RZ 169/2025/RM)"
+          "description": "Nasobůrky - rekonstrukce místní komunikace za hřištěm (RZ 169/2025/RM"
         },
         {
           "budget_change_id": "170/2025/RM",
@@ -271,7 +261,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "JSDH Savín - dar od Ol. kraje - čerpání (RZ 170/2025/RM)"
+          "description": "JSDH Savín - dar od Ol. kraje - čerpání (RZ 170/2025/RM"
         },
         {
           "budget_change_id": "170/2025/RM",
@@ -284,7 +274,7 @@
           ],
           "amount": "10 000,00",
           "amount_value": 10000.0,
-          "description": "JSDH Tři Dvory - dar od Ol. kraje - čerpání (RZ 170/2025/RM)"
+          "description": "JSDH Tři Dvory - dar od Ol. kraje - čerpání (RZ 170/2025/RM"
         },
         {
           "budget_change_id": "168/2025/RM",
@@ -298,7 +288,7 @@
           ],
           "amount": "20 000,00",
           "amount_value": 20000.0,
-          "description": ") SPOD (RZ 168/2025/RM"
+          "description": "SPOD (RZ 168/2025/RM"
         }
       ]
     }

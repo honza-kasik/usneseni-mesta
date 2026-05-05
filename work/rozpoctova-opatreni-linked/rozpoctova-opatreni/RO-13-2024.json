@@ -1,0 +1,609 @@
+{
+  "id": "RO/13/2024",
+  "number": 13,
+  "year": 2024,
+  "approval_date": "2024-08-01",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": null,
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "61/2024/RM",
+    "62/2024/RM",
+    "63/2024/RM",
+    "64/2024/RM",
+    "65/2024/RM",
+    "66/2024/RM",
+    "67/2024/RM",
+    "68/2024/RM",
+    "69/2024/RM",
+    "70/2024/RM",
+    "71/2024/RM",
+    "72/2024/RM",
+    "73/2024/RM",
+    "74/2024/RM",
+    "75/2024/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "4116",
+            "13024"
+          ],
+          "amount": "2 775 300,00",
+          "amount_value": 2775300.0,
+          "description": "Účelová neinvestiční dotace (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "62/2024/RM",
+          "raw_codes": [
+            "4116",
+            "13015"
+          ],
+          "amount": "405 110,00",
+          "amount_value": 405110.0,
+          "description": "Účelová neinvestiční dotace (RZ 62/2024/RM"
+        },
+        {
+          "budget_change_id": "63/2024/RM",
+          "raw_codes": [
+            "4122",
+            "640",
+            "9 000 917"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Účelová neinvestiční dotace (RZ 63/2024/RM"
+        },
+        {
+          "budget_change_id": "64/2024/RM",
+          "raw_codes": [
+            "4222",
+            "416",
+            "308",
+            "15 000 000"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "Účelová investiční dotace (RZ 64/2024/RM"
+        },
+        {
+          "budget_change_id": "67/2024/RM",
+          "raw_codes": [
+            "4216",
+            "149517519",
+            "3 003 557"
+          ],
+          "amount": "-5 456 967,53",
+          "amount_value": -5456967.53,
+          "description": "Účelová investiční dotace z MMR (RZ 67/2024/RM"
+        },
+        {
+          "budget_change_id": "70/2024/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "3 933,00",
+          "amount_value": 3933.0,
+          "description": "Přijaté pojistné plnění (RZ 70/2024/RM"
+        },
+        {
+          "budget_change_id": "71/2024/RM",
+          "raw_codes": [
+            "4122",
+            "555",
+            "4 000 436"
+          ],
+          "amount": "93 000,00",
+          "amount_value": 93000.0,
+          "description": "Účelová neinvestiční dotace (RZ 71/2024/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "1 942 200,00",
+          "amount_value": 1942200.0,
+          "description": "Výkon agendy SPOD - mzdové náklady (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "470 000,00",
+          "amount_value": 470000.0,
+          "description": "Výkon agendy SPOD -sociál. pojištění (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5032",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "250 000,00",
+          "amount_value": 250000.0,
+          "description": "Výkon agendy SPOD -zdrav. pojištění (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5167",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "50 000,00",
+          "amount_value": 50000.0,
+          "description": "Výkon agendy SPOD - školení a vzdělávání (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5152",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "15 000,00",
+          "amount_value": 15000.0,
+          "description": "Výkon agendy SPOD - teplo (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5154",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Výkon agendy SPOD - el. energie (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5151",
+            "13024",
+            "5 000 000"
+          ],
+          "amount": "3 100,00",
+          "amount_value": 3100.0,
+          "description": "Výkon agendy SPOD - studená voda (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "62/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5011",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "310 110,00",
+          "amount_value": 310110.0,
+          "description": "Výkon sociální práce- mzdové náklady (RZ 62/2024/RM"
+        },
+        {
+          "budget_change_id": "62/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5031",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "60 000,00",
+          "amount_value": 60000.0,
+          "description": "Výkon sociální práce- sociál. pojištění (RZ 62/2024/RM"
+        },
+        {
+          "budget_change_id": "62/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5032",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Výkon sociální práce- zdrav. pojištění (RZ 62/2024/RM"
+        },
+        {
+          "budget_change_id": "63/2024/RM",
+          "raw_codes": [
+            "2223",
+            "5137",
+            "640",
+            "9 000 917"
+          ],
+          "amount": "35 000,00",
+          "amount_value": 35000.0,
+          "description": "Čerpání účelové neinvestiční dotace (RZ 63/2024/RM"
+        },
+        {
+          "budget_change_id": "64/2024/RM",
+          "raw_codes": [
+            "5512",
+            "6123",
+            "416",
+            "308",
+            "15 000 000"
+          ],
+          "amount": "600 000,00",
+          "amount_value": 600000.0,
+          "description": "Čerpání účelové investiční dotace (RZ 64/2024/RM"
+        },
+        {
+          "budget_change_id": "65/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-1 812,00",
+          "amount_value": -1812.0,
+          "description": "Myslechovice - drobná vydání KD (RZ 65/2024/RM"
+        },
+        {
+          "budget_change_id": "65/2024/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "301",
+            "2 033 630"
+          ],
+          "amount": "1 812,00",
+          "amount_value": 1812.0,
+          "description": "Myslechovice - úprava návsi - PD, zeleň, přeložka ČEZ (RZ 65/2024/RM"
+        },
+        {
+          "budget_change_id": "66/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-232 221,00",
+          "amount_value": -232221.0,
+          "description": "Místní části - nerozdělená částka (RZ 66/2024/RM"
+        },
+        {
+          "budget_change_id": "66/2024/RM",
+          "raw_codes": [
+            "3421",
+            "6122",
+            "302",
+            "2 033 470"
+          ],
+          "amount": "232 221,00",
+          "amount_value": 232221.0,
+          "description": "Chudobín - nový herní prvek (RZ 66/2024/RM"
+        },
+        {
+          "budget_change_id": "67/2024/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "149517519",
+            "309",
+            "3 003 557"
+          ],
+          "amount": "-5 456 967,53",
+          "amount_value": -5456967.53,
+          "description": "Litovel, Nasobůrky - smíšená stezka (RZ 67/2024/RM"
+        },
+        {
+          "budget_change_id": "68/2024/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1 003 115"
+          ],
+          "amount": "-10 580,00",
+          "amount_value": -10580.0,
+          "description": "Region Moravská cesta (RZ 68/2024/RM"
+        },
+        {
+          "budget_change_id": "68/2024/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1 003 111"
+          ],
+          "amount": "-8 140,00",
+          "amount_value": -8140.0,
+          "description": "Mikroregion Litovelsko (RZ 68/2024/RM"
+        },
+        {
+          "budget_change_id": "68/2024/RM",
+          "raw_codes": [
+            "6409",
+            "5329",
+            "1 004 125"
+          ],
+          "amount": "-2 592,00",
+          "amount_value": -2592.0,
+          "description": "Sdružení obcí střední Moravy (RZ 68/2024/RM"
+        },
+        {
+          "budget_change_id": "68/2024/RM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "21 312,00",
+          "amount_value": 21312.0,
+          "description": "Nespecifikované rezervy (RZ 68/2024/RM"
+        },
+        {
+          "budget_change_id": "69/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "2 030 000"
+          ],
+          "amount": "-14 157,00",
+          "amount_value": -14157.0,
+          "description": "Místní části - nerozdělená částka (RZ 69/2024/RM"
+        },
+        {
+          "budget_change_id": "69/2024/RM",
+          "raw_codes": [
+            "2212",
+            "6121",
+            "301",
+            "2 033 652"
+          ],
+          "amount": "14 157,00",
+          "amount_value": 14157.0,
+          "description": "Myslechovice - komunikace pro nové RD - PD (RZ 69/2024/RM"
+        },
+        {
+          "budget_change_id": "70/2024/RM",
+          "raw_codes": [
+            "3639",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "3 933,00",
+          "amount_value": 3933.0,
+          "description": "Oprava poškozeného označníku kanalizace (RZ 70/2024/RM"
+        },
+        {
+          "budget_change_id": "71/2024/RM",
+          "raw_codes": [
+            "3319",
+            "5169",
+            "555",
+            "4 000 436"
+          ],
+          "amount": "93 000,00",
+          "amount_value": 93000.0,
+          "description": "Čerpání účelové neinvestiční dotace (RZ 71/2024/RM"
+        },
+        {
+          "budget_change_id": "72/2024/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-11 374,00",
+          "amount_value": -11374.0,
+          "description": "Myslechovice - drobné vydání KD (RZ 72/2024/RM"
+        },
+        {
+          "budget_change_id": "72/2024/RM",
+          "raw_codes": [
+            "3639",
+            "6121",
+            "301",
+            "2030 000"
+          ],
+          "amount": "11 374,00",
+          "amount_value": 11374.0,
+          "description": "Myslechovice- pořízení stožárů na náves (RZ 72/2024/RM"
+        },
+        {
+          "budget_change_id": "73/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 73/2024/RM"
+        },
+        {
+          "budget_change_id": "73/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "310",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "T.R. - dar na organizační zajištění turnaje v malé kopané (RZ 73/2024/RM"
+        },
+        {
+          "budget_change_id": "74/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 000,00",
+          "amount_value": -2000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 74/2024/RM"
+        },
+        {
+          "budget_change_id": "74/2024/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "2 000,00",
+          "amount_value": 2000.0,
+          "description": "S.D. -zajištění závodu pro děti (RZ 74/2024/RM"
+        },
+        {
+          "budget_change_id": "75/2024/RM",
+          "raw_codes": [
+            "3543",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "4 000,00",
+          "amount_value": 4000.0,
+          "description": "NA KOLE DĚTEM - organizační zajištění cyklistické akce (RZ 75/2024/RM"
+        },
+        {
+          "budget_change_id": "61/2024/RM",
+          "raw_codes": [
+            "6171",
+            "5156",
+            "13024",
+            "5",
+            "000",
+            "000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Výkon agendy SPOD – PHM (RZ 61/2024/RM"
+        },
+        {
+          "budget_change_id": "75/2024/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "-4 000,00",
+          "amount_value": -4000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 75/2024/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 61/2024/RM",
+      "text": "Na účet města Litovel v ČNB byly připsány finanční prostředky od MPSV ČR. Jedná se o finanční prostředky na financování výkonu přenesené působnosti v oblasti sociálně-právní ochrany dětí na rok 2024. Výkon této agendy zabezpečuje odbor sociální a správní."
+    },
+    {
+      "title": "Rozpočtová změna č. 62/2024/RM",
+      "text": "Na účet města Litovel v ČNB byly připsány finanční prostředky od MPSV ČR. Jedná se o dotaci na výkon sociální práce, kterou zajišťuje odbor sociální a správní."
+    },
+    {
+      "title": "Rozpočtová změna č. 63/2024/RM",
+      "text": "Na účet města Litovel v KB byly připsány finanční prostředky od Olomouckého kraje, které jsou určeny na částečnou úhradu výdajů na akci „Litovel – pořízení nového vybavení na dětské dopravní hřiště“."
+    },
+    {
+      "title": "Rozpočtová změna č. 64/2024/RM",
+      "text": "Na účet města Litovel v KB byly připsány finanční prostředky od Olomouckého kraje, které jsou určeny na částečnou úhradu výdajů na pořízení dopravního prostředku pro jednotku sboru dobrovolných hasičů Litovel – Tři Dvory."
+    },
+    {
+      "title": "Rozpočtová změna č. 65/2024/RM",
+      "text": "Rozpočtová změna řeší na základě požadavku z odboru MHaSI narovnání stavu položky participativního rozpočtu na úpravu návsi v Myslechovicích, ze kterého bylo uhrazeno krmivo pro koi kapry na návsi v Myslechovicích. Pro narovnání stavu participativního rozpočtu je potřeba přesun finančních prostředků z drobných vydání zpět k úpravě návsi.“"
+    },
+    {
+      "title": "Rozpočtová změna č. 66/2024/RM",
+      "text": "Město Litovel na žádost odboru MHaSI a požadavku OV Chudobín poskytlo finanční prostředky na pořízení herního prvku včetně dopadové plochy."
+    },
+    {
+      "title": "Rozpočtová změna č. 67/2024/RM",
+      "text": "Na jednání ZM dne 18. 4. 2024 byla schválena RZ 48/2024/ZM týkající se přijaté investiční dotace na realizaci akce Litovel – Nasobůrky – smíšená stezka v profilu II/635. V červenci obdržel finanční odbor změnové rozhodnutí o poskytnutí dotace, ve kterém došlo k aktualizaci realizačních termínů a částek celkových nákladů a dotace po vysoutěžení akce. Na základě této skutečnosti bylo potřeba provést rozpočtovou změnu, která tuto aktualizaci u poskytnutých dotačních prostředků promítne do rozpočtu města."
+    },
+    {
+      "title": "Rozpočtová změna č. 68/2024/RM",
+      "text": "Ve schváleném rozpočtu na rok 2024 byly vyčleněny prostředky pro Sdružení obcí střední Moravy, Mikroregion Litovelsko a Region Moravská cesta. V průběhu prvního pololetí proběhl převod finančních prostředků jednotlivým subjektům. RZ řeší úpravu rozpočtu dle skutečného stavu a uvolnění nečerpaných prostředků."
+    },
+    {
+      "title": "Rozpočtová změna č. 69/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 69/2024/RM řeší dle požadavku MHaSI přesun finančních prostředků určených pro",
+      "text": "pokrytí nákladů na zpracování soupisu prací a výkazu výměr v rámci připravované PD rekonstrukce komunikace pro nové RD v Myslechovicích na odpovídající §."
+    },
+    {
+      "title": "Rozpočtová změna č. 70/2024/RM",
+      "text": "Město Litovel obdrželo na účet v KB finanční prostředky od Kooperativa pojišťovny, a.s. Jedná se o pojistné plnění z pojistné události ze dne 8.4.2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 71/2024/RM",
+      "text": "Město Litovel obdrželo na účet v KB finanční prostředky od Olomouckého kraje, které jsou určeny na částečnou úhradu výdajů na akci „Litovelské slavnosti 2024 v rámci Dnů evropského dědictví“."
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2024/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 72/2024/RM řeší dle požadavku MHaSI přesun finančních prostředků určených na drobná",
+      "text": "vydání v Kulturním domě Myslechovice na pořízení stožárů na návsi v Myslechovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 73/2024/RM",
+      "text": "Město Litovel poskytlo dar p. T.R. z Unčovic na organizační zajištění 21. ročníku turnaje v malé kopané, který se uskutečnil 2.8.2024 v Unčovicích."
+    },
+    {
+      "title": "Rozpočtová změna č. 74/2024/RM",
+      "text": "Město Litovel poskytlo dar p. S.D. z Litovle na organizační zajištění 2. ročníku cyklistického závodu pro děti Novosadská pětistovka, který se uskutečnil 3. srpna 2024."
+    },
+    {
+      "title": "Rozpočtová změna č. 75/2024/RM",
+      "text": "Město Litovel poskytlo dar nadačnímu fondu Josefa Zimovčáka Na kole dětem na organizační zajištění 4. ročníku akce Na kole dětem z Litovle po Hané, která se uskutečnila 27. července 2024 v Litovli."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._13_2024_dne_1._srpna_2024.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 13/2024 schválené Radou města Litovel\ndne 1. srpna 2024.\nRozpočtové opatření bylo schváleno na 38.schůzi Rady města Litovel dne 1. srpna 2024 na základě usnesení\n1144/38/2024, 1145/38/2024, 1146/38/2024, 1162/38/2024 a 1163/38/2024.\nZměny v příjmech:\n§ POL UZ ORJ ORG Kč\nÚčelová neinvestiční dotace\n4116 13024 2 775 300,00\n(RZ 61/2024/RM)\nÚčelová neinvestiční dotace\n4116 13015 405 110,00\n(RZ 62/2024/RM)\nÚčelová neinvestiční dotace\n4122 640 9 000 917 35 000,00\n(RZ 63/2024/RM)\nÚčelová investiční dotace\n4222 416 308 15 000 000 600 000,00\n(RZ 64/2024/RM)\nÚčelová investiční dotace z MMR\n4216 149517519 3 003 557 -5 456 967,53\n(RZ 67/2024/RM)\n6320 2322 3 933,00 Přijaté pojistné plnění (RZ 70/2024/RM)\nÚčelová neinvestiční dotace\n4122 555 4 000 436 93 000,00\n(RZ 71/2024/RM)\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nVýkon agendy SPOD - mzdové náklady\n6171 5011 13024 5 000 000 1 942 200,00\n(RZ 61/2024/RM)\nVýkon agendy SPOD -sociál. pojištění\n6171 5031 13024 5 000 000 470 000,00\n(RZ 61/2024/RM)\nVýkon agendy SPOD -zdrav. pojištění\n6171 5032 13024 5 000 000 250 000,00\n(RZ 61/2024/RM)\nVýkon agendy SPOD - školení a\n6171 5167 13024 5 000 000 50 000,00\nvzdělávání (RZ 61/2024/RM)\nVýkon agendy SPOD - teplo\n6171 5152 13024 5 000 000 15 000,00\n(RZ 61/2024/RM)\nVýkon agendy SPOD - el. energie\n6171 5154 13024 5 000 000 35 000,00\n(RZ 61/2024/RM)\nVýkon agendy SPOD – PHM\n6171 5156 13024 5 000 000 10 000,00\n(RZ 61/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVýkon agendy SPOD - studená voda\n6171 5151 13024 5 000 000 3 100,00\n(RZ 61/2024/RM)\nVýkon sociální práce- mzdové náklady\n6171 5011 13015 5 000 000 310 110,00\n(RZ 62/2024/RM)\nVýkon sociální práce- sociál. pojištění\n6171 5031 13015 5 000 000 60 000,00\n(RZ 62/2024/RM)\nVýkon sociální práce- zdrav. pojištění\n6171 5032 13015 5 000 000 35 000,00\n(RZ 62/2024/RM)\nČerpání účelové neinvestiční dotace\n2223 5137 640 9 000 917 35 000,00\n(RZ 63/2024/RM)\nČerpání účelové investiční dotace\n5512 6123 416 308 15 000 000 600 000,00\n(RZ 64/2024/RM)\nMyslechovice - drobná vydání KD\n3392 5171 301 2 030 000 -1 812,00\n(RZ 65/2024/RM)\nMyslechovice - úprava návsi - PD, zeleň,\n3639 6121 301 2 033 630 1 812,00\npřeložka ČEZ (RZ 65/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -232 221,00\n(RZ 66/2024/RM)\nChudobín - nový herní prvek\n3421 6122 302 2 033 470 232 221,00\n(RZ 66/2024/RM)\nLitovel, Nasobůrky - smíšená stezka\n2219 6121 149517519 309 3 003 557 -5 456 967,53\n(RZ 67/2024/RM)\n6409 5329 1 003 115 -10 580,00 Region Moravská cesta (RZ 68/2024/RM)\n6409 5329 1 003 111 -8 140,00 Mikroregion Litovelsko (RZ 68/2024/RM)\nSdružení obcí střední Moravy\n6409 5329 1 004 125 -2 592,00\n(RZ 68/2024/RM)\nNespecifikované rezervy\n6409 5901 1 000 000 21 312,00\n(RZ 68/2024/RM)\nMístní části - nerozdělená částka\n3639 5901 2 030 000 -14 157,00\n(RZ 69/2024/RM)\nMyslechovice - komunikace pro nové RD -\n2212 6121 301 2 033 652 14 157,00\nPD (RZ 69/2024/RM)\nOprava poškozeného označníku kanalizace\n3639 5171 3 003 559 3 933,00\n(RZ 70/2024/RM)\nČerpání účelové neinvestiční dotace\n3319 5169 555 4 000 436 93 000,00\n(RZ 71/2024/RM)\nMyslechovice - drobné vydání KD\n3392 5171 301 2 030 000 -11 374,00\n(RZ 72/2024/RM)\nMyslechovice- pořízení stožárů na náves\n3639 6121 301 2030 000 11 374,00\n(RZ 72/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -3 000,00\n(RZ 73/2024/RM)\nT.R. - dar na organizační zajištění turnaje\n3419 5492 310 4 000 000 3 000,00\nv malé kopané (RZ 73/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -2 000,00\n(RZ 74/2024/RM)\nS.D. -zajištění závodu pro děti\n3419 5492 4 000 000 2 000,00\n(RZ 74/2024/RM)\nTransfery dle rozhodnutí RM\n3429 5901 4 000 000 -4 000,00\n(RZ 75/2024/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nNA KOLE DĚTEM - organizační zajištění\n3543 5222 4 000 000 4 000,00\ncyklistické akce (RZ 75/2024/RM)\nRZ 61/2024/RM\nNa účet města Litovel v ČNB byly připsány finanční prostředky od MPSV ČR. Jedná se o finanční prostředky\nna financování výkonu přenesené působnosti v oblasti sociálně-právní ochrany dětí na rok 2024. Výkon této\nagendy zabezpečuje odbor sociální a správní.\nRZ 62/2024/RM\nNa účet města Litovel v ČNB byly připsány finanční prostředky od MPSV ČR. Jedná se o dotaci na výkon\nsociální práce, kterou zajišťuje odbor sociální a správní.\nRZ 63/2024/RM\nNa účet města Litovel v KB byly připsány finanční prostředky od Olomouckého kraje, které jsou určeny na\nčástečnou úhradu výdajů na akci „Litovel – pořízení nového vybavení na dětské dopravní hřiště“.\nRZ 64/2024/RM\nNa účet města Litovel v KB byly připsány finanční prostředky od Olomouckého kraje, které jsou určeny na\nčástečnou úhradu výdajů na pořízení dopravního prostředku pro jednotku sboru dobrovolných hasičů Litovel –\nTři Dvory.\nRZ 65/2024/RM\nRozpočtová změna řeší na základě požadavku z odboru MHaSI narovnání stavu položky participativního\nrozpočtu na úpravu návsi v Myslechovicích, ze kterého bylo uhrazeno krmivo pro koi kapry na návsi v\nMyslechovicích. Pro narovnání stavu participativního rozpočtu je potřeba přesun finančních prostředků z\ndrobných vydání zpět k úpravě návsi.“\nRZ 66/2024/RM\nMěsto Litovel na žádost odboru MHaSI a požadavku OV Chudobín poskytlo finanční prostředky na\npořízení herního prvku včetně dopadové plochy.\nRZ 67/2024/RM\nNa jednání ZM dne 18. 4. 2024 byla schválena RZ 48/2024/ZM týkající se přijaté investiční dotace na realizaci\nakce Litovel – Nasobůrky – smíšená stezka v profilu II/635. V červenci obdržel finanční odbor změnové\nrozhodnutí o poskytnutí dotace, ve kterém došlo k aktualizaci realizačních termínů a částek celkových nákladů\na dotace po vysoutěžení akce. Na základě této skutečnosti bylo potřeba provést rozpočtovou změnu, která tuto\naktualizaci u poskytnutých dotačních prostředků promítne do rozpočtu města.\nRZ 68/2024/RM\nVe schváleném rozpočtu na rok 2024 byly vyčleněny prostředky pro Sdružení obcí střední Moravy, Mikroregion\nLitovelsko a Region Moravská cesta. V průběhu prvního pololetí proběhl převod finančních prostředků\njednotlivým subjektům. RZ řeší úpravu rozpočtu dle skutečného stavu a uvolnění nečerpaných prostředků.\nRZ 69/2024/RM\nRozpočtová změna č. 69/2024/RM řeší dle požadavku MHaSI přesun finančních prostředků určených pro\npokrytí nákladů na zpracování soupisu prací a výkazu výměr v rámci připravované PD rekonstrukce\nkomunikace pro nové RD v Myslechovicích na odpovídající §.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 70/2024/RM\nMěsto Litovel obdrželo na účet v KB finanční prostředky od Kooperativa pojišťovny, a.s. Jedná se o pojistné\nplnění z pojistné události ze dne 8.4.2024.\nRZ 71/2024/RM\nMěsto Litovel obdrželo na účet v KB finanční prostředky od Olomouckého kraje, které jsou určeny na částečnou\núhradu výdajů na akci „Litovelské slavnosti 2024 v rámci Dnů evropského dědictví“.\nRZ 72/2024/RM\nRozpočtová změna č. 72/2024/RM řeší dle požadavku MHaSI přesun finančních prostředků určených na drobná\nvydání v Kulturním domě Myslechovice na pořízení stožárů na návsi v Myslechovicích.\nRZ 73/2024/RM\nMěsto Litovel poskytlo dar p. T.R. z Unčovic na organizační zajištění 21. ročníku turnaje v malé kopané, který\nse uskutečnil 2.8.2024 v Unčovicích.\nRZ 74/2024/RM\nMěsto Litovel poskytlo dar p. S.D. z Litovle na organizační zajištění 2. ročníku cyklistického závodu pro\nděti Novosadská pětistovka, který se uskutečnil 3. srpna 2024.\nRZ 75/2024/RM\nMěsto Litovel poskytlo dar nadačnímu fondu Josefa Zimovčáka Na kole dětem na organizační zajištění\n4. ročníku akce Na kole dětem z Litovle po Hané, která se uskutečnila 27. července 2024 v Litovli.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při\npořizování do IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem\nzáměrů přijatých schvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 14. 8. 2024\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/1162/38/2024",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "61/2024/RM",
+        "62/2024/RM",
+        "63/2024/RM",
+        "64/2024/RM",
+        "65/2024/RM",
+        "66/2024/RM",
+        "67/2024/RM",
+        "68/2024/RM",
+        "69/2024/RM",
+        "70/2024/RM",
+        "71/2024/RM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": "RO/19/2023",
+  "number": 19,
+  "year": 2023,
+  "approval_date": "2023-11-02",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 24,
+    "type": "schůzi",
+    "date": "2023-11-02"
+  },
+  "source_resolutions": [],
+  "budget_change_ids": [
+    "104/2023/RM",
+    "105/2023/RM",
+    "106/2023/RM",
+    "107/2023/RM",
+    "108/2023/RM",
+    "109/2023/RM",
+    "110/2023/RM"
+  ],
+  "sections": [
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "104/2023/RM",
+          "raw_codes": [
+            "3613",
+            "5171",
+            "4 000 000"
+          ],
+          "amount": "-39 313,00",
+          "amount_value": -39313.0,
+          "description": "ŠKS - Nebytové hospodářství- opravy/rekonstrukce dle požadavků ředitelů organizací (RZ 104/2023/RM"
+        },
+        {
+          "budget_change_id": "104/2023/RM",
+          "raw_codes": [
+            "3111",
+            "6122",
+            "4 000 440"
+          ],
+          "amount": "39 313,00",
+          "amount_value": 39313.0,
+          "description": "ŠKS -CMŠ Svatojánek - vchodový videotelefon (RZ 104/2023/RM"
+        },
+        {
+          "budget_change_id": "105/2023/RM",
+          "raw_codes": [
+            "2212",
+            "5169",
+            "3 003 463"
+          ],
+          "amount": "-26 030,00",
+          "amount_value": -26030.0,
+          "description": "Nové dopravní značení dle požadavků, informační systém a vitríny (RZ 105/2023/RM"
+        },
+        {
+          "budget_change_id": "105/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "305",
+            "3 000 000"
+          ],
+          "amount": "17 900,00",
+          "amount_value": 17900.0,
+          "description": "Kulturní domy - ostatní služby a revize (RZ 105/2023/RM"
+        },
+        {
+          "budget_change_id": "105/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5169",
+            "306",
+            "3 000 000"
+          ],
+          "amount": "8 130,00",
+          "amount_value": 8130.0,
+          "description": "Kulturní domy - ostatní služby a revize (RZ 105/2023/RM"
+        },
+        {
+          "budget_change_id": "106/2023/RM",
+          "raw_codes": [
+            "3319",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-26 434,00",
+          "amount_value": -26434.0,
+          "description": "Ostatní záležitosti odboru školství (opravy hřišť a budov, posudky, audity, projekty a ostatní výdaje) (RZ 106/2023/RM"
+        },
+        {
+          "budget_change_id": "106/2023/RM",
+          "raw_codes": [
+            "3613",
+            "6121",
+            "4 000 408"
+          ],
+          "amount": "26 434,00",
+          "amount_value": 26434.0,
+          "description": "ŠKS - SOŠ Litovel - výměna svítidel (RZ 106/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "1039",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "-2 395,00",
+          "amount_value": -2395.0,
+          "description": "Lesní hospodářství a myslivost - materiál (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "1039",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "-13 537,00",
+          "amount_value": -13537.0,
+          "description": "Lesní hospodářství a myslivost - služby (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "2341",
+            "6121",
+            "7 000 725"
+          ],
+          "amount": "-52 000,00",
+          "amount_value": -52000.0,
+          "description": "Oprava Olomouckého rybníka (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "3722",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "67 932,00",
+          "amount_value": 67932.0,
+          "description": "Svoz komunálního odpadu (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "1014",
+            "5169",
+            "7 000 700"
+          ],
+          "amount": "-191 760,00",
+          "amount_value": -191760.0,
+          "description": "Příspěvek města na řešení komáří kalamity (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "1037",
+            "5169",
+            "7 000 781"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Solární sušárna kalů - kompenzační opatření - založení remízku Šargoun (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "107/2023/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "291 760,00",
+          "amount_value": 291760.0,
+          "description": "Odborné ošetření a výsadba dřevin (RZ 107/2023/RM"
+        },
+        {
+          "budget_change_id": "108/2023/RM",
+          "raw_codes": [
+            "3412",
+            "5171",
+            "1 000 334"
+          ],
+          "amount": "100 000,00",
+          "amount_value": 100000.0,
+          "description": "Koupaliště Litovel - běžné výdaje (RZ 108/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "1 000 000"
+          ],
+          "amount": "-4 004 000,00",
+          "amount_value": -4004000.0,
+          "description": "Rezerva na řešení zásobování energiemi (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "46",
+            "4 000 000"
+          ],
+          "amount": "173 000,00",
+          "amount_value": 173000.0,
+          "description": "ZŠ Jungmannova - neinvestiční příspěvek (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "3113",
+            "5331",
+            "45",
+            "4 000 000"
+          ],
+          "amount": "2 800 000,00",
+          "amount_value": 2800000.0,
+          "description": "ZŠ Vítězná- neinvestiční příspěvek (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "48",
+            "4 000 000"
+          ],
+          "amount": "300 000,00",
+          "amount_value": 300000.0,
+          "description": "MŠ Gemerská- neinvestiční příspěvek (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "3111",
+            "5331",
+            "49",
+            "4 000 000"
+          ],
+          "amount": "200 000,00",
+          "amount_value": 200000.0,
+          "description": "MŠ Frištenského- neinvestiční příspěvek (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "3141",
+            "5331",
+            "50",
+            "4 000 000"
+          ],
+          "amount": "131 000,00",
+          "amount_value": 131000.0,
+          "description": "ŠJ Studentů- neinvestiční příspěvek (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "109/2023/RM",
+          "raw_codes": [
+            "3392",
+            "5331",
+            "44",
+            "4 000 000"
+          ],
+          "amount": "400 000,00",
+          "amount_value": 400000.0,
+          "description": "Městský klub- neinvestiční příspěvek (RZ 109/2023/RM"
+        },
+        {
+          "budget_change_id": "110/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "Transfery dle rozhodnutí RM (RZ 110/2023/RM"
+        },
+        {
+          "budget_change_id": "110/2023/RM",
+          "raw_codes": [
+            "3429",
+            "5222",
+            "4 000 000"
+          ],
+          "amount": "5 000,00",
+          "amount_value": 5000.0,
+          "description": "Charita-zakoupení drob. předmětů pro děti v rámci lampionového průvodu (RZ 110/2023/RM"
+        },
+        {
+          "budget_change_id": "108/2023/RM",
+          "raw_codes": [
+            "6409",
+            "5901",
+            "14",
+            "000",
+            "000"
+          ],
+          "amount": "-100 000,00",
+          "amount_value": -100000.0,
+          "description": "Vratky přeplatků minulých období (RZ 108/2023/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 104/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 104/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků",
+      "text": "určených na opravy a rekonstrukce nebytového hospodářství na pořízení vchodového videotelefonu v CMŠ Svatojánek."
+    },
+    {
+      "title": "Rozpočtová změna č. 105/2023/RM",
+      "text": "Město Litovel poskytlo dle požadavku z odboru MHaSI finanční prostředky předsedům OV Březové a OV Víska na úklid kulturních domů v těchto místních částech."
+    },
+    {
+      "title": "Rozpočtová změna č. 106/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 106/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků",
+      "text": "z položky rezerv určených na ostatní záležitosti kultury na výměnu svítidel na SOŠ Litovel."
+    },
+    {
+      "title": "Rozpočtová změna č. 107/2023/RM",
+      "text": "Město Litovel poskytlo dle požadavku odboru OŽP finanční prostředky na odborné ošetření a výsadbu dřevin a to přesunem části prostředků rozpočtovaných na činnosti související s odborem životního prostředí."
+    },
+    {
+      "title": "Rozpočtová změna č. 108/2023/RM",
+      "text": ""
+    },
+    {
+      "title": "Rozpočtová změna č. 108/2023/RM řeší přesun finanční prostředků na pokrytí předpokládaných",
+      "text": "dobíhajících výdajů za provozování městského koupaliště v letošním roce a také přípravu na sezónu 2024 jako je zajištění servisu čerpadel a nerezového rozdělovače v technickém zázemí koupaliště dle aktuální akční cenové nabídky."
+    },
+    {
+      "title": "Rozpočtová změna č. 109/2023/RM",
+      "text": "V souladu s usnesením ZM číslo 7/2022 z 8.12.2022 je RM zmocněna k provádění rozpočtových opatření souvisejících s čerpáním finanční rezervy běžných výdajů pro příspěvkové organizace zřízené městem Litovel. Rozpočtová změna č. 109/2023/RM řeší na základě požadavku z odboru ŠKS a požadavku ředitelek jednotlivých příspěvkových organizací navýšení provozních příspěvků na řešení výdajů na energie."
+    },
+    {
+      "title": "Rozpočtová změna č. 110/2023/RM",
+      "text": "Město Litovel poskytlo dar Charitě Šternberk na zakoupení drobných předmětů pro děti v rámci pořádání lampionového průvodu, který se bude konat 16. listopadu 2023."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._19_2023_schvalene_radou_mesta_litovel_dne_2.listopadu_2023.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 19/2023 schválené Radou města Litovel\ndne 2.listopadu 2023.\nRozpočtové opatření bylo schváleno na 24. schůzi Rady města Litovel dne 2. listopadu 2023 na základě usnesení\n654/24/2023 a 669/24/2023.\nZměny ve výdajích:\n§ POL UZ ORJ ORG Kč\nŠKS - Nebytové hospodářství-\n3613 5171 4 000 000 -39 313,00 opravy/rekonstrukce dle požadavků\nředitelů organizací (RZ 104/2023/RM)\nŠKS -CMŠ Svatojánek - vchodový\n3111 6122 4 000 440 39 313,00\nvideotelefon (RZ 104/2023/RM)\nNové dopravní značení dle požadavků,\n2212 5169 3 003 463 -26 030,00 informační systém a vitríny\n(RZ 105/2023/RM)\nKulturní domy - ostatní služby a\n3392 5169 305 3 000 000 17 900,00\nrevize (RZ 105/2023/RM)\nKulturní domy - ostatní služby a\n3392 5169 306 3 000 000 8 130,00\nrevize (RZ 105/2023/RM)\nOstatní záležitosti odboru školství\n(opravy hřišť a budov, posudky,\n3319 5901 4 000 000 -26 434,00\naudity, projekty a ostatní výdaje)\n(RZ 106/2023/RM)\nŠKS - SOŠ Litovel - výměna svítidel\n3613 6121 4 000 408 26 434,00\n(RZ 106/2023/RM)\n1039 5139 7 000 000 -2 395,00 Lesní hospodářství a myslivost -\nmateriál (RZ 107/2023/RM)\n1039 5169 7 000 000 -13 537,00 Lesní hospodářství a myslivost -\nslužby (RZ 107/2023/RM)\n2341 6121 7 000 725 -52 000,00 Oprava Olomouckého rybníka\n(RZ 107/2023/RM)\n3722 5169 7 000 000 67 932,00 Svoz komunálního odpadu\n(RZ 107/2023/RM)\n1014 5169 7 000 700 -191 760,00 Příspěvek města na řešení komáří\nkalamity (RZ 107/2023/RM)\nSolární sušárna kalů - kompenzační\n1037 5169 7 000 781 -100 000,00 opatření - založení remízku Šargoun\n(RZ 107/2023/RM)\n3745 5169 7 000 000 291 760,00 Odborné ošetření a výsadba dřevin\n(RZ 107/2023/RM)\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\n6409 5901 14 000 000 -100 000,00 Vratky přeplatků minulých období\n(RZ 108/2023/RM)\n3412 5171 1 000 334 100 000,00 Koupaliště Litovel - běžné výdaje\n(RZ 108/2023/RM)\n6409 5901 1 000 000 -4 004 000,00 Rezerva na řešení zásobování\nenergiemi (RZ 109/2023/RM)\n3113 5331 46 4 000 000 173 000,00 ZŠ Jungmannova - neinvestiční\npříspěvek (RZ 109/2023/RM)\n3113 5331 45 4 000 000 2 800 000,00 ZŠ Vítězná- neinvestiční příspěvek\n(RZ 109/2023/RM)\n3111 5331 48 4 000 000 300 000,00 MŠ Gemerská- neinvestiční příspěvek\n(RZ 109/2023/RM)\n3111 5331 49 4 000 000 200 000,00 MŠ Frištenského- neinvestiční\npříspěvek (RZ 109/2023/RM)\n3141 5331 50 4 000 000 131 000,00 ŠJ Studentů- neinvestiční příspěvek\n(RZ 109/2023/RM)\n3392 5331 44 4 000 000 400 000,00 Městský klub- neinvestiční příspěvek\n(RZ 109/2023/RM)\n3429 5901 4 000 000 -5 000,00 Transfery dle rozhodnutí RM\n(RZ 110/2023/RM)\nCharita-zakoupení drob. předmětů pro\n3429 5222 4 000 000 5 000,00 děti v rámci lampionového průvodu\n(RZ 110/2023/RM)\nRZ 104/2023/RM\nRozpočtová změna č. 104/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků\nurčených na opravy a rekonstrukce nebytového hospodářství na pořízení vchodového videotelefonu v\nCMŠ Svatojánek.\nRZ 105/2023/RM\nMěsto Litovel poskytlo dle požadavku z odboru MHaSI finanční prostředky předsedům OV Březové a\nOV Víska na úklid kulturních domů v těchto místních částech.\nRZ 106/2023/RM\nRozpočtová změna č. 106/2023/RM řeší na základě požadavku z odboru ŠKS přesun finančních prostředků\nz položky rezerv určených na ostatní záležitosti kultury na výměnu svítidel na SOŠ Litovel.\nRZ 107/2023/RM\nMěsto Litovel poskytlo dle požadavku odboru OŽP finanční prostředky na odborné ošetření a výsadbu\ndřevin a to přesunem části prostředků rozpočtovaných na činnosti související s odborem životního prostředí.\nRZ 108/2023/RM\nRozpočtová změna č. 108/2023/RM řeší přesun finanční prostředků na pokrytí předpokládaných\ndobíhajících výdajů za provozování městského koupaliště v letošním roce a také přípravu na sezónu 2024\njako je zajištění servisu čerpadel a nerezového rozdělovače v technickém zázemí koupaliště dle aktuální\nakční cenové nabídky.\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRZ 109/2023/RM\nV souladu s usnesením ZM číslo 7/2022 z 8.12.2022 je RM zmocněna k provádění rozpočtových opatření\nsouvisejících s čerpáním finanční rezervy běžných výdajů pro příspěvkové organizace zřízené městem\nLitovel. Rozpočtová změna č. 109/2023/RM řeší na základě požadavku z odboru ŠKS a požadavku\nředitelek jednotlivých příspěvkových organizací navýšení provozních příspěvků na řešení výdajů na energie.\nRZ 110/2023/RM\nMěsto Litovel poskytlo dar Charitě Šternberk na zakoupení drobných předmětů pro děti v rámci pořádání\nlampionového průvodu, který se bude konat 16. listopadu 2023.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování\ndo IS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů\np řijatých schvalujícím orgánem.\nZpracovala: Jarmila Lakomá\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli, 14. 11. 2023\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nMěsto Litovel\nIČO: 00299138 ID datové schránky: 4rub4s3 Email: sekretariat@mestolitovel.cz\nč. účtu: 3620811/0100 Tel.: +420 585 153 111 www.litovel.eu"
+}

@@ -32,7 +32,7 @@
           ],
           "amount": "-1 500,00",
           "amount_value": -1500.0,
-          "description": "transfery dle rozhodnuí RM (RZ 1/2025/RM)"
+          "description": "transfery dle rozhodnuí RM (RZ 1/2025/RM"
         },
         {
           "budget_change_id": "1/2025/RM",
@@ -44,7 +44,7 @@
           ],
           "amount": "1 500,00",
           "amount_value": 1500.0,
-          "description": "SH ČMS - Sbor dobrovolných hasičů Nasobůrky - dar na úhradu nákladů spojených s rozsvěcováním vánočního stromu v Nasobůrkách dne 30.11.2024 (RZ 1/2025/RM)"
+          "description": "SH ČMS - Sbor dobrovolných hasičů Nasobůrky - dar na úhradu nákladů spojených s rozsvěcováním vánočního stromu v Nasobůrkách dne 30.11.2024 (RZ 1/2025/RM"
         },
         {
           "budget_change_id": "2/2025/RM",
@@ -55,7 +55,7 @@
           ],
           "amount": "-2 500,00",
           "amount_value": -2500.0,
-          "description": "transfery dle rozhodnutí RM (RZ 2/2025/RM)"
+          "description": "transfery dle rozhodnutí RM (RZ 2/2025/RM"
         },
         {
           "budget_change_id": "2/2025/RM",
@@ -67,7 +67,7 @@
           ],
           "amount": "2 500,00",
           "amount_value": 2500.0,
-          "description": "H.Z.K. - dar na organizační zajištění dětského maškarního plesu, který se koná 12.1.2025 (RZ 2/2025/RM)"
+          "description": "H.Z.K. - dar na organizační zajištění dětského maškarního plesu, který se koná 12.1.2025 (RZ 2/2025/RM"
         }
       ]
     }
@@ -84,5 +84,13 @@
   ],
   "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._1_2025_dne_9.ledna_2025.pdf",
   "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 1/2025 schválené Radou města Litovel\ndne 9. ledna 2025\nRozpočtové opatření bylo schváleno na 45. schůzi Rady města Litovel dne 9. ledna 2025 na základě usnesení\nRM/1391/45/2025 a RM/1405/45/2025.\nZměny ve výdajích:\n§ POL UZ MU ORJ ORG Kč\n3429 5901 4 000 000 -1 500,00 transfery dle rozhodnuí RM (RZ 1/2025/RM)\nSH ČMS - Sbor dobrovolných hasičů Nasobůrky -\ndar na úhradu nákladů spojených s rozsvěcováním\n3429 5222 309 4 000 000 1 500,00\nvánočního stromu v Nasobůrkách dne 30.11.2024\n(RZ 1/2025/RM)\n3429 5901 4 000 000 -2 500,00 transfery dle rozhodnutí RM (RZ 2/2025/RM)\nH.Z.K. - dar na organizační zajištění dětského\n3900 5492 309 4 000 000 2 500,00 maškarního plesu, který se koná 12.1.2025 (RZ\n2/2025/RM)\nRozpočtová změna č. 1/2025/RM\nDar poskytnutý na základě žádosti.\nRozpočtová změna č. 2/2025/RM\nDar poskytnutý na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 16.1.2025\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
-  "resolution_links": []
+  "resolution_links": [
+    {
+      "resolution_id": "RM/2268/72/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "1/2025/RM"
+      ]
+    }
+  ]
 }

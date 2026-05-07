@@ -34461,20 +34461,7 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [
-      {
-        "budget_change_id": "1/2025/RM",
-        "opatreni_id": "RO/1/2025",
-        "plain_title": "SH ČMS - Sbor dobrovolných hasičů Nasobůrky - dar na úhradu nákladů spojených s rozsvěcováním vánočního stromu v Nasobůrkách dne 30.11.2024",
-        "affected_place": "Sbor dobrovolných hasičů Nasobůrky",
-        "source": "text",
-        "match": "direct",
-        "section_types": [
-          "vydaje"
-        ],
-        "row_count": 2
-      }
-    ],
+    "budget_change_links": [],
     "budget_opatreni_approved": []
   },
   {

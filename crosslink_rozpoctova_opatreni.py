@@ -44,9 +44,19 @@ BUDGET_CHANGE_RANGE_RE = re.compile(
     re.IGNORECASE,
 )
 
+DIRECTIVE_REFERENCE_BEFORE_RE = re.compile(
+    r"(?:sm[eě]rnic[ei]|sm[eě]rnice\s+\w+)\s+(?:č\.?\s*)?$",
+    re.IGNORECASE,
+)
+
 
 def normalize_budget_change_id(value: str) -> str:
     return re.sub(r"\s+", "", value.upper())
+
+
+def is_directive_reference_context(text: str, match_start: int) -> bool:
+    before = text[max(0, match_start - 40):match_start]
+    return bool(DIRECTIVE_REFERENCE_BEFORE_RE.search(before))
 
 
 def parse_resolution_id(value: str):
@@ -102,6 +112,8 @@ def extract_budget_change_mentions(text: str, known_ids: set[str]):
                 mentions[budget_change_id] = "range"
 
     for match in BUDGET_CHANGE_ID_RE.finditer(text):
+        if is_directive_reference_context(text, match.start()):
+            continue
         budget_change_id = normalize_budget_change_id(match.group("id"))
         if budget_change_id not in known_ids:
             continue

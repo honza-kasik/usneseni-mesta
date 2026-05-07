@@ -33525,7 +33525,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2234/72/2026",
@@ -33584,7 +33589,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2235/72/2026",
@@ -33620,7 +33630,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2236/72/2026",
@@ -33648,7 +33663,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2237/72/2026",
@@ -33878,8 +33898,100 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "83/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "sportovní hala - záloha za dodávky plynu",
+        "affected_place": "sportovní hala / záloha za dodávky plynu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "84/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "celoplošná deratizace",
+        "affected_place": "celoplošná deratizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "85/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK",
+        "affected_place": "ZŠ Vítězná",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "86/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "Chořelice - čištění dešťové kanalizace",
+        "affected_place": "Chořelice / čištění dešťové kanalizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "87/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "Chořelice - sanace a oprava kaple - PD",
+        "affected_place": "Chořelice / sanace a oprava kaple",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "88/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "MŠMT ČR - účelová neinv. dotace pro",
+        "affected_place": "účelová neinv. dotace pro",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "89/2026/RM",
+        "opatreni_id": "RO/8/2026",
+        "plain_title": "MZe ČR - finanční příspěvek pro TS Litovel na",
+        "affected_place": "MZe ČR",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/8/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2249/72/2026",

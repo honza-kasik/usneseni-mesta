@@ -35762,6 +35762,670 @@
     "plain_title": "Zet-My, z.s. - dar na podporu činnosti odlehčovací služby",
     "affected_place": "Zet-My, z.s"
   },
+  "83/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "-32 100,00",
+        "amount_value": -32100.0,
+        "description": "nová obchodní společnost na správu sportovišť – vyrovnávací platba (RZ 83/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "32 100,00",
+        "amount_value": 32100.0,
+        "description": "sportovní hala - záloha za dodávky plynu (RZ 83/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "sportovní hala - záloha za dodávky plynu",
+    "affected_place": "sportovní hala / záloha za dodávky plynu"
+  },
+  "84/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "-2 400,00",
+        "amount_value": -2400.0,
+        "description": "DSO Region Moravská cesta - příspěvek na komáry (RZ 84/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "2 400,00",
+        "amount_value": 2400.0,
+        "description": "celoplošná deratizace (RZ 84/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "celoplošná deratizace",
+    "affected_place": "celoplošná deratizace"
+  },
+  "85/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "-59 314,64",
+        "amount_value": -59314.64,
+        "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 85/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "-17 983,36",
+        "amount_value": -17983.36,
+        "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 85/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "59 314,64",
+        "amount_value": 59314.64,
+        "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 85/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "17 983,36",
+        "amount_value": 17983.36,
+        "description": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK (RZ 85/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "ZŠ Vítězná - vratka dotace na realizaci projektu v rámci OP JAK",
+    "affected_place": "ZŠ Vítězná"
+  },
+  "86/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "-100 000,00",
+        "amount_value": -100000.0,
+        "description": "Chořelice - rezerva (RZ 86/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "100 000,00",
+        "amount_value": 100000.0,
+        "description": "Chořelice - čištění dešťové kanalizace (RZ 86/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "Chořelice - čištění dešťové kanalizace",
+    "affected_place": "Chořelice / čištění dešťové kanalizace"
+  },
+  "87/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "-24 200,00",
+        "amount_value": -24200.0,
+        "description": "Chořelice - rezerva (RZ 87/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "24 200,00",
+        "amount_value": 24200.0,
+        "description": "Chořelice - sanace a oprava kaple - PD (RZ 87/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "Chořelice - sanace a oprava kaple - PD",
+    "affected_place": "Chořelice / sanace a oprava kaple"
+  },
+  "88/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "90,00",
+        "amount_value": 90.0,
+        "description": "MŠMT ČR - účelová neinv. dotace pro ZŠ a MŠ Nasobůrky na realizaci projektu v rámci OP JAK (RZ 88/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "90,00",
+        "amount_value": 90.0,
+        "description": "MŠMT ČR - účelová neinv. dotace pro ŽŠ a MŠ Nasobůrky na realizaci projektu v rámci OP JAK - převod dotace příjemci (RZ 88/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "MŠMT ČR - účelová neinv. dotace pro",
+    "affected_place": "účelová neinv. dotace pro"
+  },
+  "89/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 2,
+        "amount": "302 600,00",
+        "amount_value": 302600.0,
+        "description": "MZe ČR - finanční příspěvek pro TS Litovel na obnovu lesních porostů do 40 let věku (RZ 89/2026/RM"
+      },
+      {
+        "section_type": "prijmy",
+        "row_number": 3,
+        "amount": "75 655,00",
+        "amount_value": 75655.0,
+        "description": "MZe ČR - finanční příspěvek pro TS Litovel na ekologické a k přírodě šetrné technologie při hospodaření v lesích (RZ 89/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "75 655,00",
+        "amount_value": 75655.0,
+        "description": "MZe ČR - finanční příspěvek pro TS Litovel na ekologické a k přírodě šetrné technologie při hospodaření v lesích - převod dotace příjemci (RZ 89/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 57,
+        "amount": "302 600,00",
+        "amount_value": 302600.0,
+        "description": "MZe ČR - finanční příspěvek pro TS Litovel na obnovu lesních porostů do 40 let věku - převod dotace příjemci (RZ 89/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2248/72/2026"
+    ],
+    "plain_title": "MZe ČR - finanční příspěvek pro TS Litovel na",
+    "affected_place": "MZe ČR"
+  },
+  "90/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 15,
+        "amount": "-37 500,00",
+        "amount_value": -37500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 90/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 16,
+        "amount": "7 500,00",
+        "amount_value": 7500.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Chořelice - dotace na zajištění kultur. a společ. života v Chořelicích v roce 2026 (RZ 90/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 17,
+        "amount": "30 000,00",
+        "amount_value": 30000.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Chořelice - dotace na podporu hasičského sportu v Chořelicích v roce 2026 (RZ 90/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "SH ČMS - Sbor dobrovolných hasičů Chořelice - dotace na zajištění kultur. a společ. života v Chořelicích v roce 2026",
+    "affected_place": "Sbor dobrovolných hasičů Chořelice"
+  },
+  "91/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 18,
+        "amount": "-10 000,00",
+        "amount_value": -10000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 91/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 19,
+        "amount": "10 000,00",
+        "amount_value": 10000.0,
+        "description": "Ing. K.A. - dotace na zajištění kulturního a společenského života v Chudobíně v roce 2026 (RZ 91/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "Ing. K.A. - dotace na zajištění kulturního a společenského života v Chudobíně v roce 2026",
+    "affected_place": "Ing. K.A"
+  },
+  "92/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 20,
+        "amount": "-24 500,00",
+        "amount_value": -24500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 92/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 21,
+        "amount": "17 500,00",
+        "amount_value": 17500.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Myslechovice - dotace na zajištění kultur. a společ. života v Myslechovicích v roce 2026 (RZ 92/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 22,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Myslechovice - dotace na podporu hasičského sportu v Myslechovicích v roce 2026 (RZ 92/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "SH ČMS - Sbor dobrovolných hasičů Myslechovice - dotace na zajištění kultur. a společ. života v Myslechovicích v roce 2026",
+    "affected_place": "Sbor dobrovolných hasičů Myslechovice"
+  },
+  "93/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 23,
+        "amount": "-17 500,00",
+        "amount_value": -17500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 93/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 24,
+        "amount": "17 500,00",
+        "amount_value": 17500.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Nasobůrky - dotace na zajištění kultur. a společ. života v Nasobůrkách v roce 2026 (RZ 93/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "SH ČMS - Sbor dobrovolných hasičů Nasobůrky - dotace na zajištění kultur. a společ. života v Nasobůrkách v roce 2026",
+    "affected_place": "Sbor dobrovolných hasičů Nasobůrky"
+  },
+  "94/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 25,
+        "amount": "-22 500,00",
+        "amount_value": -22500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 94/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 26,
+        "amount": "22 500,00",
+        "amount_value": 22500.0,
+        "description": "Mgr. E.K. - dotace na zajištění kultur. a společ. života v Nové Vsi v roce 2026 (RZ 94/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "Mgr. E.K. - dotace na zajištění kultur. a společ. života v Nové Vsi v roce 2026",
+    "affected_place": "Mgr. E.K"
+  },
+  "95/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 27,
+        "amount": "-17 500,00",
+        "amount_value": -17500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 95/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 28,
+        "amount": "17 500,00",
+        "amount_value": 17500.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Savín - dotace na zajištění kultur. a společ. života v Savíně v roce 2026 (RZ 95/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "SH ČMS - Sbor dobrovolných hasičů Savín - dotace na zajištění kultur. a společ. života v Savíně v roce 2026",
+    "affected_place": "Sbor dobrovolných hasičů Savín"
+  },
+  "96/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 29,
+        "amount": "-17 500,00",
+        "amount_value": -17500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 96/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 58,
+        "amount": "17 500,00",
+        "amount_value": 17500.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Tři Dvory - dotace na zajištění kultur. a společ. života ve Třech Dvorech v roce 2026 (RZ 96/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "SH ČMS - Sbor dobrovolných hasičů Tři Dvory - dotace na zajištění kultur. a společ. života ve Třech Dvorech v roce 2026",
+    "affected_place": "Sbor dobrovolných hasičů Tři Dvory"
+  },
+  "97/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 30,
+        "amount": "-12 500,00",
+        "amount_value": -12500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 97/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 31,
+        "amount": "12 500,00",
+        "amount_value": 12500.0,
+        "description": "Ing. T.R. - dotace na zajištění kultur. a společ. života v Unčovicích v roce 2026 (RZ 97/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "Ing. T.R. - dotace na zajištění kultur. a společ. života v Unčovicích v roce 2026",
+    "affected_place": "Ing. T.R"
+  },
+  "98/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 32,
+        "amount": "-17 500,00",
+        "amount_value": -17500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 98/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 33,
+        "amount": "17 500,00",
+        "amount_value": 17500.0,
+        "description": "J.K. - dotace na zajištění kult. a společ. života prostř. ČČK v Březovém v roce 2026 (RZ 98/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "J.K. - dotace na zajištění kult. a společ. života prostř. ČČK v Březovém v roce 2026",
+    "affected_place": "zajištění kult. a společ. života prostř. ČČK v Březovém v roce 2026"
+  },
+  "99/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 34,
+        "amount": "-2 500,00",
+        "amount_value": -2500.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 99/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 35,
+        "amount": "2 500,00",
+        "amount_value": 2500.0,
+        "description": "SH ČMS - Sbor dobrovolných hasičů Víska - dar na podporu hasičského sportu ve Vísce v roce 2026 (RZ 99/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "SH ČMS - Sbor dobrovolných hasičů Víska - dar na podporu hasičského sportu ve Vísce v roce 2026",
+    "affected_place": "Sbor dobrovolných hasičů Víska"
+  },
+  "100/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 36,
+        "amount": "-7 000,00",
+        "amount_value": -7000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 100/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 37,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "J.P. - dotace na činnost družstva malé kopané v roce 2026 - Rozvadovice (RZ 100/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "J.P. - dotace na činnost družstva malé kopané v roce 2026 - Rozvadovice",
+    "affected_place": "malé kopané v roce 2026 / Rozvadovice"
+  },
+  "101/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 38,
+        "amount": "-10 000,00",
+        "amount_value": -10000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 101/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 39,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "D.K. - dotace na činnost družstva malé kopané v roce 2026 - Chořelice (RZ 101/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 40,
+        "amount": "3 000,00",
+        "amount_value": 3000.0,
+        "description": "D.K. - dotace na org. zajištění 24. ročníku memoriálu manželů Štýbnarových - Chořelice (RZ 101/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "D.K. - dotace na činnost družstva malé kopané v roce 2026 - Chořelice",
+    "affected_place": "malé kopané v roce 2026 / Chořelice"
+  },
+  "102/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 41,
+        "amount": "-7 000,00",
+        "amount_value": -7000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 102/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 42,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "M.Š. - dotace na činnost družstva malé kopané v roce 2026 - Litovel (RZ 102/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "M.Š. - dotace na činnost družstva malé kopané v roce 2026 - Litovel",
+    "affected_place": "malé kopané v roce 2026 / Litovel"
+  },
+  "103/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 43,
+        "amount": "-7 000,00",
+        "amount_value": -7000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 103/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 44,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "J.Š. - dotace na činnost družstva malé kopané v roce 2026 - Chudobín (RZ 103/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "J.Š. - dotace na činnost družstva malé kopané v roce 2026 - Chudobín",
+    "affected_place": "malé kopané v roce 2026 / Chudobín"
+  },
+  "104/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 45,
+        "amount": "-7 000,00",
+        "amount_value": -7000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 104/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 46,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "P.Č. - dotace na činnost družstva malé kopané v roce 2026 - Nová Ves (RZ 104/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "P.Č. - dotace na činnost družstva malé kopané v roce 2026 - Nová Ves",
+    "affected_place": "malé kopané v roce 2026 / Nová Ves"
+  },
+  "105/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 47,
+        "amount": "-7 000,00",
+        "amount_value": -7000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 105/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 48,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "FC NASA, z.s. - dotace na činnost družstva malé kopané v roce 2026 - Nasobůrky (RZ 105/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "FC NASA, z.s. - dotace na činnost družstva malé kopané v roce 2026 - Nasobůrky",
+    "affected_place": "FC NASA, z.s / malé kopané v roce 2026"
+  },
+  "106/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 49,
+        "amount": "-7 000,00",
+        "amount_value": -7000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 106/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 50,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "M.H. - dotace na činnost družstva malé kopané v roce 2026 - Nová Ves (RZ 106/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "M.H. - dotace na činnost družstva malé kopané v roce 2026 - Nová Ves",
+    "affected_place": "malé kopané v roce 2026 / Nová Ves"
+  },
+  "107/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 51,
+        "amount": "7 000,00",
+        "amount_value": 7000.0,
+        "description": "T.R. - dotace na činnost družstva malé kopané v roce 2026 - Unčovice (RZ 107/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 52,
+        "amount": "3 000,00",
+        "amount_value": 3000.0,
+        "description": "T.R. - dotace na org. zajištění 16. ročníku nohejbal. turnaje - Unčovice (RZ 107/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 59,
+        "amount": "-10 000,00",
+        "amount_value": -10000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 107/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "T.R. - dotace na činnost družstva malé kopané v roce 2026 - Unčovice",
+    "affected_place": "malé kopané v roce 2026 / Unčovice"
+  },
+  "108/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 53,
+        "amount": "-10 000,00",
+        "amount_value": -10000.0,
+        "description": "transfery dle rozhodnutí ZML a RML (RZ 108/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 54,
+        "amount": "10 000,00",
+        "amount_value": 10000.0,
+        "description": "TriBike Academy z.s. - dotace na org. zajištění Májového běhu 2026 v Litovli, který se uskuteční v neděli 3. května 2026 (RZ 108/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "TriBike Academy z.s. - dotace na org. zajištění Májového běhu 2026 v Litovli, který se uskuteční v neděli 3. května 2026",
+    "affected_place": "TriBike Academy z.s"
+  },
+  "109/2026/RM": {
+    "opatreni_id": "RO/8/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 55,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "transfery dle rozhodnutí RML a ZML (RZ 109/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 56,
+        "amount": "5 000,00",
+        "amount_value": 5000.0,
+        "description": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v chorvatském Hvaru, který se uskuteční počátkem října 2026 (RZ 109/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v chorvatském Hvaru, který se uskuteční počátkem října 2026",
+    "affected_place": "dar na účast na Mistrovství světa v překážkovém závodě Spartan v chorvatském Hvaru, který se uskuteční počátkem října 2026"
+  },
   "1/2026/ZM": {
     "opatreni_id": "RO/1/2026",
     "rows": [

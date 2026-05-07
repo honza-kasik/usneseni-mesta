@@ -29,6 +29,15 @@ class CrosslinkRozpoctovaOpatreniTest(unittest.TestCase):
         self.assertEqual(mentions["60/2026/RM"], "range")
         self.assertEqual(mentions["194/2025/RM"], "direct")
 
+    def test_ignores_city_directive_number_that_looks_like_budget_change_id(self):
+        mentions = extract_budget_change_mentions(
+            "souhlasí s výběrem dodavatele automatického WC modulu typu CWC R110 "
+            "v režimu výjimky ze směrnice RM č. 1/2025/RM čl. 4 odst. 3.",
+            {"1/2025/RM"},
+        )
+
+        self.assertEqual(mentions, {})
+
     def test_resolves_unique_year_typo(self):
         by_id = {
             "RM/2139/69/2026": {},

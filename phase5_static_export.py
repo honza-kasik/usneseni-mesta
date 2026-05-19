@@ -34,7 +34,7 @@ from static_export import (
 BASE_URL = "https://litovle.cz"
 
 
-def write_sitemap(urls: List[str], output_root: Path) -> None:
+def write_sitemap(urls: List[str], output_root: Path, filename: str = "sitemap-usneseni.xml") -> None:
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
@@ -46,7 +46,7 @@ def write_sitemap(urls: List[str], output_root: Path) -> None:
         lines.append("  </url>")
 
     lines.append("</urlset>")
-    (output_root / "sitemap.xml").write_text("\n".join(lines), encoding="utf-8")
+    (output_root / filename).write_text("\n".join(lines), encoding="utf-8")
 
 
 def main() -> None:
@@ -57,6 +57,11 @@ def main() -> None:
         "--opatreni",
         type=Path,
         help="Adresář s propojenými JSON rozpočtových opatření; výchozí je sourozenec inputu rozpoctova-opatreni/",
+    )
+    parser.add_argument(
+        "--sitemap-filename",
+        default="sitemap-usneseni.xml",
+        help="Název sitemap souboru pro generované stránky usnesení.",
     )
     args = parser.parse_args()
 
@@ -134,7 +139,7 @@ def main() -> None:
         for opatreni in opatreni_list:
             sitemap_urls.append(write_ro_page(opatreni, args.output))
 
-    write_sitemap(sitemap_urls, args.output)
+    write_sitemap(sitemap_urls, args.output, args.sitemap_filename)
 
     print("PHASE 5 complete ✔")
     print(f"Resolutions: {len(data)}")

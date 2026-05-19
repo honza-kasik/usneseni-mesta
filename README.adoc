@@ -334,9 +334,9 @@ Vytváří:
 
 - jednotlivé stránky usnesení,
 - roční indexy,
-- `sitemap.xml`.
+- `sitemap-usneseni.xml` pro generované stránky usnesení.
 
-Negeneruje hlavní stránku `/usneseni/` (ta existuje ručně).
+Negeneruje hlavní stránku `/usneseni/` (ta existuje ručně). Nepřepisuje hlavní `sitemap.xml`; sitemap index má vlastnit web nebo projekt, který statický export publikuje.
 
 === Vstup
 
@@ -352,7 +352,7 @@ export/
       {slug}/
         index.html   ← stránka jednotlivého usnesení
       index.html     ← roční přehled
-  sitemap.xml
+  sitemap-usneseni.xml
 ----
 
 === Použití
@@ -361,6 +361,8 @@ export/
 ----
 python phase5_static_export.py --input phase4_dir/usneseni.json --output export_dir/
 ----
+
+Název sitemap souboru lze změnit volbou `--sitemap-filename`, výchozí hodnota je `sitemap-usneseni.xml`.
 
 == Phase 7 – Propojení rozpočtových opatření s usneseními
 

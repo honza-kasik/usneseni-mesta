@@ -8,6 +8,7 @@ from phase5_static_export import (
     ro_slug_from_id,
     rz_anchor,
     write_ro_index,
+    write_sitemap,
     write_year_index,
     write_ro_page,
 )
@@ -24,6 +25,22 @@ class StaticExportRozpoctovaOpatreniTest(unittest.TestCase):
     def test_ro_slug_and_rz_anchor(self):
         self.assertEqual(ro_slug_from_id("RO/6/2026"), "RO-6-2026")
         self.assertEqual(rz_anchor("53/2026/RM"), "rz-53-2026-rm")
+
+    def test_write_sitemap_uses_usneseni_filename_by_default(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            main_sitemap = output / "sitemap.xml"
+            main_sitemap.write_text("main sitemap index", encoding="utf-8")
+
+            write_sitemap(["/usneseni/2026/"], output)
+
+            sitemap = output / "sitemap-usneseni.xml"
+            self.assertTrue(sitemap.exists())
+            self.assertEqual("main sitemap index", main_sitemap.read_text(encoding="utf-8"))
+            self.assertIn(
+                "<loc>https://litovle.cz/usneseni/2026/</loc>",
+                sitemap.read_text(encoding="utf-8"),
+            )
 
     def test_resolution_budget_links_point_to_ro_and_rz_anchor(self):
         html = render_budget_links_section({

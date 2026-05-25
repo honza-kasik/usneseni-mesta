@@ -1,0 +1,25 @@
+{
+  "id": "RM/2282/73/2026",
+  "datum": "2026-05-14",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 10.221 Kč paní G. T. na úhradu nákladů na veterinární péči v roce 2026."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí daru mezi městem Litovel a paní G. T. v předloženém znění\na rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "10.221 Kč"
+  ]
+}

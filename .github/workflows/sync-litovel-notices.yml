@@ -25,12 +25,12 @@ jobs:
 
     steps:
       - name: Checkout usneseni-mesta
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: usneseni-mesta
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -61,7 +61,7 @@ jobs:
 
       - name: Checkout litovle.cz
         if: steps.scan.outputs.found == 'true' && steps.scan.outputs.dry_run != 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: honza-kasik/litovle.cz
           token: ${{ secrets.LITOVLE_CZ_PAT }}
@@ -127,7 +127,7 @@ jobs:
 
       - name: Create usneseni-mesta pull request
         if: steps.scan.outputs.found == 'true' && steps.scan.outputs.dry_run != 'true'
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: usneseni-mesta
@@ -136,13 +136,14 @@ jobs:
           title: Sync Litovel notices
           commit-message: Sync Litovel notices
           body: ${{ steps.pr_body.outputs.body }}
+          reviewers: honza-kasik
           add-paths: |
             resources
             work
 
       - name: Create litovle.cz pull request
         if: steps.scan.outputs.found == 'true' && steps.scan.outputs.dry_run != 'true'
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.LITOVLE_CZ_PAT }}
           path: litovle.cz
@@ -151,3 +152,4 @@ jobs:
           title: Sync Litovel notices
           commit-message: Sync generated Litovel notice export
           body: ${{ steps.pr_body.outputs.body }}
+          reviewers: honza-kasik

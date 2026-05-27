@@ -137,7 +137,7 @@ při parsování usnesení přeskočí.
 
 == Automatická synchronizace úřední desky
 
-GitHub Actions workflow `Sync Litovel notices` denně kontroluje aktuální
+GitHub Actions workflow `Synchronizace úřední desky` denně kontroluje aktuální
 oznámení na úřední desce Litovle a hledá nové dokumenty:
 
 - výpisy usnesení rady nebo zastupitelstva,
@@ -146,11 +146,30 @@ oznámení na úřední desce Litovle a hledá nové dokumenty:
 Nové PDF uloží do `resources/`, naparsuje jen nově stažené soubory, přegeneruje
 navazující data a připraví jeden pull request v tomto repozitáři a jeden pull
 request v `honza-kasik/litovle.cz`. Workflow lze spustit i ručně přes
-`workflow_dispatch`; volba `dry_run` pouze vypíše, co by se stáhlo.
+`workflow_dispatch`; volba `dry_run` pouze vypíše, co by se stáhlo. Pokud
+automatický běh selže, workflow založí nebo okomentuje issue přiřazenou správci.
 
 Pro pull request do `litovle.cz` musí být v tomto repozitáři nastavený secret
 `LITOVLE_CZ_PAT` s oprávněním zapisovat obsah a vytvářet pull requesty v
 `honza-kasik/litovle.cz`.
+
+=== Ruční zpracování PDF
+
+Pokud automatická synchronizace selže například kvůli ochraně webu, lze z
+mobilního GitHub rozhraní použít workflow `Zpracování ručně přidaného PDF`.
+
+Nejjednodušší postup:
+
+1. stáhnout PDF ručně v prohlížeči,
+2. přiložit PDF do GitHub issue nebo komentáře,
+3. zkopírovat URL přílohy,
+4. spustit workflow `Zpracování ručně přidaného PDF`,
+5. vyplnit `document_type`, `pdf_url`, případně `target_filename` a
+   `resolution_target`.
+
+Workflow PDF uloží do správného adresáře v `resources/`, naparsuje jej,
+přegeneruje návazná data a připraví pull requesty v obou repozitářích.
+Alternativně lze vyplnit `pdf_path`, pokud už je PDF v repozitáři.
 
 == Phase 1 – Parsování PDF
 

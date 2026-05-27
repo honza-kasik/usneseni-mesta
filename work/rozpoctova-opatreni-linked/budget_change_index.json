@@ -36424,6 +36424,376 @@
     "plain_title": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v chorvatském Hvaru, který se uskuteční počátkem října 2026",
     "affected_place": "dar na účast na Mistrovství světa v překážkovém závodě Spartan v chorvatském Hvaru, který se uskuteční počátkem října 2026"
   },
+  "110/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "11 422,00",
+        "amount_value": 11422.0,
+        "description": "přijaté pojistné plnění (RZ 110/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "11 422,00",
+        "amount_value": 11422.0,
+        "description": "OŽP - kontejnery na odpad (RZ 110/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "přijaté pojistné plnění",
+    "affected_place": ""
+  },
+  "111/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 2,
+        "amount": "198 300,00",
+        "amount_value": 198300.0,
+        "description": "MPSV ČR - dotace na výkon SPOD (RZ 111/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "198 300,00",
+        "amount_value": 198300.0,
+        "description": "SPOD (RZ 111/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "MPSV ČR - dotace na výkon SPOD",
+    "affected_place": "výkon SPOD"
+  },
+  "112/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v choravatském Hvaru, který se uskuteční počátkem října 2026 (RZ 112/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "5 000,00",
+        "amount_value": 5000.0,
+        "description": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v choravatském Hvaru, který se uskuteční počátkem října 2026 (RZ 112/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v choravatském Hvaru, který se uskuteční počátkem října 2026",
+    "affected_place": "dar na účast na Mistrovství světa v překážkovém závodě Spartan v choravatském Hvaru, který se uskuteční počátkem října 2026"
+  },
+  "113/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "-172 530,00",
+        "amount_value": -172530.0,
+        "description": "Unčovice - hřiště - workout (RZ 113/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "172 530,00",
+        "amount_value": 172530.0,
+        "description": "Unčovice - dětské hřiště - dopadová plocha pod stávající prvek (RZ 113/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "Unčovice - dětské hřiště - dopadová plocha pod stávající prvek",
+    "affected_place": "Unčovice / dětské hřiště"
+  },
+  "114/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "-36 300,00",
+        "amount_value": -36300.0,
+        "description": "výkupy pozemků, znalecké posudky, kolky, .... (RZ 114/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "36 300,00",
+        "amount_value": 36300.0,
+        "description": "Bioplynová stanice - PD (RZ 114/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "Bioplynová stanice - PD",
+    "affected_place": "Bioplynová stanice"
+  },
+  "115/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "-90 000,00",
+        "amount_value": -90000.0,
+        "description": "Savín - rezerva (RZ 115/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "90 000,00",
+        "amount_value": 90000.0,
+        "description": "Savín - KD - stoly (RZ 115/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "Savín - KD - stoly",
+    "affected_place": "Savín / stoly"
+  },
+  "116/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "-100 000,00",
+        "amount_value": -100000.0,
+        "description": "Savín - rezerva (RZ 116/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "100 000,00",
+        "amount_value": 100000.0,
+        "description": "Savín - KD - oprava pódia (RZ 116/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "Savín - KD - oprava pódia",
+    "affected_place": "Savín / oprava pódia"
+  },
+  "117/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "-25 000,00",
+        "amount_value": -25000.0,
+        "description": "Savín - rezerva (RZ 117/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "25 000,00",
+        "amount_value": 25000.0,
+        "description": "Savín - lavičky na veřejné prostranství (RZ 117/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "Savín - lavičky na veřejné prostranství",
+    "affected_place": "Savín / lavičky na veřejné prostranství"
+  },
+  "118/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 15,
+        "amount": "-118 641,00",
+        "amount_value": -118641.0,
+        "description": "Unčovice - rezerva (RZ 118/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 16,
+        "amount": "118 641,00",
+        "amount_value": 118641.0,
+        "description": "Unčovice - Sokolovna - venkovní hydroizolace (RZ 118/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2295/73/2026"
+    ],
+    "plain_title": "Unčovice - Sokolovna - venkovní hydroizolace",
+    "affected_place": "Unčovice / Sokolovna"
+  },
+  "119/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 17,
+        "amount": "-4 000,00",
+        "amount_value": -4000.0,
+        "description": "transfery, dary a příspěvky dle rozhodnutí ZML a RML (RZ 119/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 18,
+        "amount": "4 000,00",
+        "amount_value": 4000.0,
+        "description": "D.J. - dar na uhrazení nákladů při organizaci benefičního sportovního dne pro K.V., který se uskuteční 20. června 2026 (RZ 119/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "D.J. - dar na uhrazení nákladů při organizaci benefičního sportovního dne pro K.V., který se uskuteční 20. června 2026",
+    "affected_place": "dar na uhrazení nákladů při organizaci benefičního sportovního dne pro K.V., který se uskuteční 20. června 2026"
+  },
+  "120/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 19,
+        "amount": "-10 000,00",
+        "amount_value": -10000.0,
+        "description": "transfery, dary a příspěvky dle rozhodnutí ZML a RML (RZ 120/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 30,
+        "amount": "10 000,00",
+        "amount_value": 10000.0,
+        "description": "TJ Sokol Litovel - dotace na organizační zajištění přehlídky ochotnických divadelních souborů, který se bude konat 27. a 28. 11. 2026 (RZ 120/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "TJ Sokol Litovel - dotace na organizační zajištění přehlídky ochotnických divadelních souborů, který se bude konat 27. a 28. 11. 2026",
+    "affected_place": "TJ Sokol Litovel"
+  },
+  "121/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 20,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "transfery, dary a příspěvky dle rozhodnutí ZML a RML (RZ 121/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 21,
+        "amount": "5 000,00",
+        "amount_value": 5000.0,
+        "description": "S.J. - dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026 (RZ 121/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "S.J. - dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026",
+    "affected_place": "dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026"
+  },
+  "122/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 22,
+        "amount": "-10 000,00",
+        "amount_value": -10000.0,
+        "description": "transfery, dary a příspěvky dle rozhodnutí ZML a RML (RZ 122/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 23,
+        "amount": "10 000,00",
+        "amount_value": 10000.0,
+        "description": "L.Z. - dotace na provozní náklady prodejny potravin v Savíně v roce 2026 (RZ 122/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "L.Z. - dotace na provozní náklady prodejny potravin v Savíně v roce 2026",
+    "affected_place": "provozní náklady prodejny potravin v Savíně v roce 2026"
+  },
+  "123/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 24,
+        "amount": "-10 221,00",
+        "amount_value": -10221.0,
+        "description": "celoplošná deratizace (RZ 123/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 25,
+        "amount": "10 221,00",
+        "amount_value": 10221.0,
+        "description": "G.T. - dar na úhradu nákladů na veterinární péči v roce 2026 (RZ 123/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "G.T. - dar na úhradu nákladů na veterinární péči v roce 2026",
+    "affected_place": "dar na úhradu nákladů na veterinární péči v roce 2026"
+  },
+  "124/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 26,
+        "amount": "-80 000,00",
+        "amount_value": -80000.0,
+        "description": "celoplošná deratizace (RZ 124/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 27,
+        "amount": "80 000,00",
+        "amount_value": 80000.0,
+        "description": "Kitt & Café Toullavý ráj z.s - dotace na podporu činnosti spolku (RZ 124/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "Kitt & Café Toullavý ráj z.s - dotace na podporu činnosti spolku",
+    "affected_place": "Kitt & Café Toullavý ráj z.s / podporu činnosti spolku"
+  },
+  "125/2026/RM": {
+    "opatreni_id": "RO/9/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 28,
+        "amount": "-59 800,00",
+        "amount_value": -59800.0,
+        "description": "transfery, dary, příspěvky dle rozhodnutí ZMLa RML (RZ 125/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 29,
+        "amount": "59 800,00",
+        "amount_value": 59800.0,
+        "description": "POST BELLUM, z.ú. - smlouva o spolupráci \"Příběhy našich sousedů\" (RZ 125/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "POST BELLUM, z.ú. - smlouva o spolupráci \"Příběhy našich sousedů\"",
+    "affected_place": "POST BELLUM, z.ú"
+  },
   "1/2026/ZM": {
     "opatreni_id": "RO/1/2026",
     "rows": [

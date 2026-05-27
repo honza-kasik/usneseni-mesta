@@ -34653,7 +34653,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2278/73/2026",
@@ -34699,7 +34704,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/228/9/2023",
@@ -34745,7 +34755,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2281/73/2026",
@@ -34773,7 +34788,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2282/73/2026",
@@ -34801,7 +34821,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2283/73/2026",
@@ -34829,7 +34854,12 @@
     ],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2284/73/2026",
@@ -35025,7 +35055,12 @@
     "amounts": [],
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2294/73/2026",
@@ -35066,8 +35101,124 @@
     "references_out": [],
     "amounts": [],
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "110/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "přijaté pojistné plnění",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "111/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "MPSV ČR - dotace na výkon SPOD",
+        "affected_place": "výkon SPOD",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "112/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "T.M. - dar na účast na Mistrovství světa v překážkovém závodě Spartan v choravatském Hvaru, který se uskuteční počátkem října 2026",
+        "affected_place": "dar na účast na Mistrovství světa v překážkovém závodě Spartan v choravatském Hvaru, který se uskuteční počátkem října 2026",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "113/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "Unčovice - dětské hřiště - dopadová plocha pod stávající prvek",
+        "affected_place": "Unčovice / dětské hřiště",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "114/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "Bioplynová stanice - PD",
+        "affected_place": "Bioplynová stanice",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "115/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "Savín - KD - stoly",
+        "affected_place": "Savín / stoly",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "116/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "Savín - KD - oprava pódia",
+        "affected_place": "Savín / oprava pódia",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "117/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "Savín - lavičky na veřejné prostranství",
+        "affected_place": "Savín / lavičky na veřejné prostranství",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "118/2026/RM",
+        "opatreni_id": "RO/9/2026",
+        "plain_title": "Unčovice - Sokolovna - venkovní hydroizolace",
+        "affected_place": "Unčovice / Sokolovna",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/9/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2296/73/2026",

@@ -132,6 +132,23 @@ při parsování usnesení přeskočí.
 |Pouze zobrazí příkazy, nespustí je
 |===
 
+== Automatická synchronizace úřední desky
+
+GitHub Actions workflow `Sync Litovel notices` denně kontroluje aktuální
+oznámení na úřední desce Litovle a hledá nové dokumenty:
+
+- výpisy usnesení rady nebo zastupitelstva,
+- rozpočtová opatření.
+
+Nové PDF uloží do `resources/`, naparsuje jen nově stažené soubory, přegeneruje
+navazující data a připraví jeden pull request v tomto repozitáři a jeden pull
+request v `honza-kasik/litovle.cz`. Workflow lze spustit i ručně přes
+`workflow_dispatch`; volba `dry_run` pouze vypíše, co by se stáhlo.
+
+Pro pull request do `litovle.cz` musí být v tomto repozitáři nastavený secret
+`LITOVLE_CZ_PAT` s oprávněním zapisovat obsah a vytvářet pull requesty v
+`honza-kasik/litovle.cz`.
+
 == Phase 1 – Parsování PDF
 
 Parsování PDF s usneseními Rady nebo Zastupitelstva města Litovel.

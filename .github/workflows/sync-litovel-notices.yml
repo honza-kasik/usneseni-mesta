@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pull-requests: write
 
 concurrency:
@@ -153,3 +154,34 @@ jobs:
           commit-message: Sync generated Litovel notice export
           body: ${{ steps.pr_body.outputs.body }}
           reviewers: honza-kasik
+
+      - name: Create failure issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          existing=$(gh issue list \
+            --state open \
+            --assignee honza-kasik \
+            --search "Synchronizace úřední desky selhala in:title" \
+            --json number \
+            --jq '.[0].number // empty' 2>/dev/null || true)
+
+          body=$(mktemp)
+          {
+            echo "Automatická synchronizace úřední desky selhala."
+            echo
+            echo "Běh workflow: $RUN_URL"
+            echo
+            echo "Pokud web Litovle vyžaduje ruční kontrolu, stáhni PDF ručně, přilož ho do issue/komentáře a spusť workflow \`Zpracování ručně přidaného PDF\` s URL přílohy."
+          } > "$body"
+
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file "$body" || true
+          else
+            gh issue create \
+              --title "Synchronizace úřední desky selhala" \
+              --body-file "$body" \
+              --assignee honza-kasik || true
+          fi

@@ -1,0 +1,193 @@
+name: Zpracování ručně přidaného PDF
+
+on:
+  workflow_dispatch:
+    inputs:
+      document_type:
+        description: Druh dokumentu v PDF
+        required: true
+        type: choice
+        options:
+          - resolution
+          - budget_change
+      pdf_path:
+        description: Cesta k PDF v repozitáři, např. resources/rm/rm_74_26.pdf
+        required: false
+        default: ""
+        type: string
+      pdf_url:
+        description: URL ručně staženého PDF, např. GitHub attachment URL
+        required: false
+        default: ""
+        type: string
+      target_filename:
+        description: Název souboru pro pdf_url, prázdné = odvodit z URL/hlaviček
+        required: false
+        default: ""
+        type: string
+      resolution_target:
+        description: Kam uložit usnesení při použití pdf_url
+        required: true
+        default: rm
+        type: choice
+        options:
+          - rm
+          - zastupitelstvo
+      dry_run:
+        description: Jen ověřit vstupy bez parsování a pull requestů
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: manual-litovel-pdf
+  cancel-in-progress: false
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout usneseni-mesta
+        uses: actions/checkout@v5
+        with:
+          path: usneseni-mesta
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: usneseni-mesta/requirements.txt
+
+      - name: Install dependencies
+        working-directory: usneseni-mesta
+        run: python -m pip install -r requirements.txt
+
+      - name: Prepare manual PDF
+        id: prepare
+        working-directory: usneseni-mesta
+        env:
+          DOCUMENT_TYPE: ${{ inputs.document_type }}
+          PDF_PATH: ${{ inputs.pdf_path }}
+          PDF_URL: ${{ inputs.pdf_url }}
+          TARGET_FILENAME: ${{ inputs.target_filename }}
+          RESOLUTION_TARGET: ${{ inputs.resolution_target }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args=(
+            --document-type "$DOCUMENT_TYPE"
+            --pdf-path "$PDF_PATH"
+            --pdf-url "$PDF_URL"
+            --target-filename "$TARGET_FILENAME"
+            --resolution-target "$RESOLUTION_TARGET"
+            --manifest .litovel-manual-manifest.json
+            --pr-body .litovel-manual-pr-body.md
+          )
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python tools/prepare_manual_pdf.py "${args[@]}"
+
+      - name: Stop after dry run
+        if: steps.prepare.outputs.dry_run == 'true'
+        run: echo "Dry run finished. No parsing or pull requests were created."
+
+      - name: Checkout litovle.cz
+        if: steps.prepare.outputs.dry_run != 'true'
+        uses: actions/checkout@v5
+        with:
+          repository: honza-kasik/litovle.cz
+          token: ${{ secrets.LITOVLE_CZ_PAT }}
+          path: litovle.cz
+
+      - name: Parse PDF and regenerate export
+        if: steps.prepare.outputs.dry_run != 'true'
+        working-directory: usneseni-mesta
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+          import sys
+          from pathlib import Path
+
+          manifest = json.loads(Path(".litovel-manual-manifest.json").read_text(encoding="utf-8"))
+          item = manifest["downloaded"][0]
+          path = item["path"]
+          if item["kind"] == "budget_change":
+              subprocess.run(
+                  [sys.executable, "parse_rozpoctova_opatreni.py", path, "work/rozpoctova-opatreni"],
+                  check=True,
+              )
+          elif item["kind"] == "resolution":
+              subprocess.run(
+                  [sys.executable, "phase1_parse_pdf.py", path, "work/phase1"],
+                  check=True,
+              )
+          else:
+              raise SystemExit(f"Unknown manual document kind: {item['kind']}")
+
+          subprocess.run(
+              [
+                  sys.executable,
+                  "pipeline.py",
+                  "--pdf",
+                  "resources",
+                  "--ro-pdf",
+                  "resources/rozpoctova-opatreni",
+                  "--workdir",
+                  "work",
+                  "--export",
+                  "../litovle.cz",
+                  "--from-phase",
+                  "3",
+                  "--to-phase",
+                  "9",
+              ],
+              check=True,
+          )
+          PY
+
+      - name: Build pull request body output
+        if: steps.prepare.outputs.dry_run != 'true'
+        id: pr_body
+        working-directory: usneseni-mesta
+        run: |
+          {
+            echo "body<<EOF"
+            cat .litovel-manual-pr-body.md
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Create usneseni-mesta pull request
+        if: steps.prepare.outputs.dry_run != 'true'
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: usneseni-mesta
+          branch: manual-litovel-pdf/${{ github.run_id }}
+          delete-branch: true
+          title: Zpracování ručně přidaného PDF
+          commit-message: Process manually supplied Litovel PDF
+          body: ${{ steps.pr_body.outputs.body }}
+          reviewers: honza-kasik
+          add-paths: |
+            resources
+            work
+
+      - name: Create litovle.cz pull request
+        if: steps.prepare.outputs.dry_run != 'true'
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.LITOVLE_CZ_PAT }}
+          path: litovle.cz
+          branch: manual-litovel-pdf/${{ github.run_id }}
+          delete-branch: true
+          title: Zpracování ručně přidaného PDF
+          commit-message: Sync generated export for manually supplied PDF
+          body: ${{ steps.pr_body.outputs.body }}
+          reviewers: honza-kasik

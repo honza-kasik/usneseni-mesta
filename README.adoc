@@ -1,8 +1,9 @@
 = Parsování usnesení města Litovel
-:toc:
-:toclevels: 2
 
 image:https://github.com/honza-kasik/usneseni-mesta/actions/workflows/sync-litovel-notices.yml/badge.svg[Synchronizace úřední desky,link=https://github.com/honza-kasik/usneseni-mesta/actions/workflows/sync-litovel-notices.yml]
+
+:toc:
+:toclevels: 2
 
 Pipeline pro deterministické zpracování usnesení Rady a Zastupitelstva města Litovel.
 

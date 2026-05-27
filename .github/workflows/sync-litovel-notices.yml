@@ -1,4 +1,4 @@
-name: Sync Litovel notices
+name: Synchronizace úřední desky
 
 on:
   workflow_dispatch:

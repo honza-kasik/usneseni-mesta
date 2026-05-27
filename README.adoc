@@ -2,6 +2,8 @@
 :toc:
 :toclevels: 2
 
+image:https://github.com/honza-kasik/usneseni-mesta/actions/workflows/sync-litovel-notices.yml/badge.svg[Synchronizace úřední desky,link=https://github.com/honza-kasik/usneseni-mesta/actions/workflows/sync-litovel-notices.yml]
+
 Pipeline pro deterministické zpracování usnesení Rady a Zastupitelstva města Litovel.
 
 Cílem je:

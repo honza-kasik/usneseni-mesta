@@ -111,7 +111,7 @@ def split_usneseni(text: str):
 
 # ---------- PARSE JEDNOHO USNESENÍ ----------
 
-def parse_usneseni(block: str, datum: str, organ: str):
+def parse_usneseni(block: str, datum: str, organ: str, extra: dict | None = None):
     m = ID_RE.search(block)
     if not m:
         return None
@@ -119,12 +119,15 @@ def parse_usneseni(block: str, datum: str, organ: str):
     uid = m.group(1)
     body = block[m.end():].strip()
 
-    return {
+    record = {
         "id": uid,
         "datum": datum,
         "organ": organ,
         "text_raw": body
     }
+    if extra:
+        record.update(extra)
+    return record
 
 
 # ---------- ULOŽENÍ ----------
@@ -154,39 +157,50 @@ def detect_organ_from_id(text: str):
     return None, None
 
 
+def parse_text(text: str, extra: dict | None = None) -> tuple[list[dict], str | None]:
+    clean_text = normalize_text(text)
+
+    datum = parse_cz_date(clean_text)
+    if not datum:
+        return [], "chybí datum"
+
+    blocks = split_usneseni(clean_text)
+    if not blocks:
+        return [], "žádná usnesení"
+
+    organ, prefix = detect_organ_from_id(clean_text)
+    if not organ:
+        return [], "neznámý orgán"
+
+    usneseni = []
+    for block in blocks:
+        usn = parse_usneseni(block, datum, organ, extra)
+        if usn:
+            usneseni.append(usn)
+
+    if not usneseni:
+        return [], "žádná usnesení"
+    return usneseni, None
+
+
 def process_pdf(pdf_path: Path, out_dir: Path, failures: list):
     print(f"📄 {pdf_path}")
 
     raw_text = pdf_to_text(pdf_path)
-    clean_text = normalize_text(raw_text)
-
-    datum = parse_cz_date(clean_text)
-    if not datum:
-        print("   ❌ nenalezeno datum")
-        failures.append((pdf_path, "chybí datum"))
+    usneseni, error = parse_text(raw_text)
+    if error:
+        if error == "chybí datum":
+            print("   ❌ nenalezeno datum")
+        elif error == "žádná usnesení":
+            print("   ❌ žádná usnesení")
+        failures.append((pdf_path, error))
         return 0
 
-    blocks = split_usneseni(clean_text)
-    if not blocks:
-        print("   ❌ žádná usnesení")
-        failures.append((pdf_path, "žádná usnesení"))
-        return 0
-
-    organ, prefix = detect_organ_from_id(clean_text)
-    if not organ:
-        failures.append((pdf_path, "neznámý orgán"))
-        return 0
-
-    count = 0
-    for block in blocks:
-        usn = parse_usneseni(block, datum, organ)
-        if not usn:
-            continue
+    for usn in usneseni:
         save_usneseni(usn, out_dir)
-        count += 1
 
-    print(f"   → {count} usnesení ({datum})")
-    return count
+    print(f"   → {len(usneseni)} usnesení ({usneseni[0]['datum']})")
+    return len(usneseni)
 
 # ---------- MAIN ----------
 

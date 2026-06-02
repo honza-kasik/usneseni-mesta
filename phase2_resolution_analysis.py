@@ -122,12 +122,13 @@ ACTION_NORMALIZATION = {
     "projednala": "projednává",
 }
 
-REF_EXPLICIT_RE = re.compile(r"RM/\d+/\d+/\d+")
+REF_EXPLICIT_RE = re.compile(r"\b(?:RM|ZM)/\d+/\d+/\d+\b")
 REF_IMPLICIT_RE = re.compile(r"\b\d{1,4}/\d{1,3}\b")
 AMOUNT_RE = re.compile(r"\b\d{1,3}(?:[ .]\d{3})*\s*Kč\b")
 
 #Najdi konec řádku (\n), po kterém NÁSLEDUJE slovo začínající malým písmenem.
 TAIL_LINE_RE = re.compile(r"\n(?=[a-záčďéěíňóřšťúůýž])")
+CORE_RAW_KEYS = {"id", "datum", "organ", "text_raw"}
 
 
 # ============================================================
@@ -268,6 +269,14 @@ def dedupe_refs(refs):
         seen[r["raw"]] = r
     return list(seen.values())
 
+
+def provenance_fields(raw):
+    return {
+        key: value
+        for key, value in raw.items()
+        if key not in CORE_RAW_KEYS
+    }
+
 # ============================================================
 # CORE
 # ============================================================
@@ -296,7 +305,7 @@ def process_usneseni(raw):
             norm = normalize_amount_text(it["text"])
             amounts.update(extract_amounts(norm))
 
-        return {
+        parsed = {
             "id": raw["id"],
             "datum": raw.get("datum"),
             "organ": organ,
@@ -307,6 +316,8 @@ def process_usneseni(raw):
             "references_out": dedupe_refs(refs),
             "amounts": sorted(amounts)
         }
+        parsed.update(provenance_fields(raw))
+        return parsed
 
     # ========================================================
     # TYP A: globální akce + výčet předmětu
@@ -329,7 +340,7 @@ def process_usneseni(raw):
         refs.extend(extract_refs(tail))
         norm = normalize_amount_text(tail)
         amounts.update(extract_amounts(norm))
-    return {
+    parsed = {
         "id": raw["id"],
         "datum": raw.get("datum"),
         "organ": organ,
@@ -340,6 +351,8 @@ def process_usneseni(raw):
         "references_out": dedupe_refs(refs),
         "amounts": sorted(amounts)
     }
+    parsed.update(provenance_fields(raw))
+    return parsed
 
 
 # ============================================================

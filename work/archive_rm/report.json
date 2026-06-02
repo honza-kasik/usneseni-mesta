@@ -1,0 +1,213 @@
+{
+  "total_links": 326,
+  "metadata_quality": {
+    "total_items": 326,
+    "items_with_date": 325,
+    "items_without_date": 1,
+    "items_with_meeting_no": 325,
+    "items_without_meeting_no": 1,
+    "items_with_year_inferred_from_section": 1,
+    "items_with_year_inferred_from_title": 0,
+    "items_with_year_inferred_from_date": 325,
+    "items_without_year": 0
+  },
+  "by_period": {
+    "2006-2010": 79,
+    "2010-2014": 78,
+    "2014-2018": 85,
+    "2018-2022": 84
+  },
+  "by_kind": {
+    "usneseni": 326
+  },
+  "by_file_type": {
+    "doc": 153,
+    "pdf": 173
+  },
+  "by_status": {
+    "downloaded": 326
+  },
+  "period_year": [
+    {
+      "period": "2006-2010",
+      "year": "2006",
+      "usneseni": 5,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2007",
+      "usneseni": 22,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2008",
+      "usneseni": 19,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2009",
+      "usneseni": 18,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2010",
+      "usneseni": 15,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2010",
+      "usneseni": 3,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2011",
+      "usneseni": 21,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2012",
+      "usneseni": 17,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2013",
+      "usneseni": 19,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2014",
+      "usneseni": 18,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2014",
+      "usneseni": 5,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2015",
+      "usneseni": 21,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2016",
+      "usneseni": 20,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2017",
+      "usneseni": 19,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2018",
+      "usneseni": 20,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2018",
+      "usneseni": 3,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2019",
+      "usneseni": 20,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2020",
+      "usneseni": 23,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2021",
+      "usneseni": 21,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2022",
+      "usneseni": 17,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    }
+  ],
+  "duplicates": {
+    "duplicate_archive_url": [],
+    "duplicate_resolved_file_url": [],
+    "duplicate_generated_id": [],
+    "same_title_different_url": []
+  },
+  "text_quality": {
+    "text_ok": 326
+  },
+  "documents_with_text": 326,
+  "documents_without_text": 0,
+  "documents_without_date": [
+    "RM-archive-2012-38-usneseni"
+  ],
+  "documents_without_date_by_reason": {
+    "meeting_only_historical_title": 1
+  },
+  "short_text_threshold": 200,
+  "suspiciously_short_text": [],
+  "errors": [],
+  "report_title": "Archiv RM Litovel - report"
+}

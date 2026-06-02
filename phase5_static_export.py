@@ -110,6 +110,8 @@ def main() -> None:
             by_meeting_meta[key] = {
                 "organ": resolution.get("organ"),
                 "datum": resolution.get("datum"),
+                "term_id": resolution.get("term_id"),
+                "term_label": resolution.get("term_label"),
             }
 
         meeting_slug = f"{org}-{meeting}"

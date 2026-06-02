@@ -210,6 +210,12 @@ def write_resolution(
         f'cislo: "{rid}"\n'
         f'organ: "{resolution.get("organ", "")}"\n'
         f'datum: "{resolution.get("datum", "")}"\n'
+    )
+    if resolution.get("term_id"):
+        frontmatter += f'term_id: "{resolution.get("term_id")}"\n'
+    if resolution.get("term_label"):
+        frontmatter += f'term_label: "{resolution.get("term_label")}"\n'
+    frontmatter += (
         f"permalink: {permalink}\n"
         "---\n\n"
     )
@@ -335,16 +341,24 @@ def write_meeting_index(
     target_dir.mkdir(parents=True, exist_ok=True)
 
     organ = meta.get("organ", "")
-    datum = meta.get("datum", "")
+    datum = meta.get("datum") or ""
+    term_label = meta.get("term_label") or ""
+    meta_parts = [datum]
+    if term_label:
+        meta_parts.append(term_label)
+    meta_parts.append(f"{len(entries)} usnesení")
+
     lines = [
         "---",
         "layout: usneseni_meeting",
         f"title: {organ} – schůze {meeting} ({year})",
+        *([f'term_id: "{meta.get("term_id")}"'] if meta.get("term_id") else []),
+        *([f'term_label: "{term_label}"'] if term_label else []),
         f"permalink: /usneseni/{year}/{slug}/",
         "---",
         "",
         f"<h1>{organ}: {meeting}. schůze</h1>",
-        f'<p class="usn-meta">{datum} • {len(entries)} usnesení</p>',
+        f'<p class="usn-meta">{html.escape(" • ".join(meta_parts))}</p>',
         "",
         '<ul class="usn-results">',
     ]

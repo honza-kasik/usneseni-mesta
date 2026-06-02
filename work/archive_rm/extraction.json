@@ -1,0 +1,2936 @@
+{
+  "RM-archive-2006-1-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2006-1-usneseni.txt",
+    "text_chars": 8592,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2006-2-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2006-2-usneseni.txt",
+    "text_chars": 7727,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2006-3-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2006-3-usneseni.txt",
+    "text_chars": 24135,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2006-4-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2006-4-usneseni.txt",
+    "text_chars": 817,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2006-5-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2006-5-usneseni.txt",
+    "text_chars": 10671,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-6-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-6-usneseni.txt",
+    "text_chars": 874,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-7-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-7-usneseni.txt",
+    "text_chars": 7156,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-8-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-8-usneseni.txt",
+    "text_chars": 24864,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-9-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-9-usneseni.txt",
+    "text_chars": 2177,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-10-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-10-usneseni.txt",
+    "text_chars": 612,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-11-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-11-usneseni.txt",
+    "text_chars": 11436,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-12-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-12-usneseni.txt",
+    "text_chars": 15920,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-13-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-13-usneseni.txt",
+    "text_chars": 16418,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-14-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-14-usneseni.txt",
+    "text_chars": 18382,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-15-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-15-usneseni.txt",
+    "text_chars": 20131,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-16-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-16-usneseni.txt",
+    "text_chars": 17290,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-17-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-17-usneseni.txt",
+    "text_chars": 16129,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-19-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-19-usneseni.txt",
+    "text_chars": 10986,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-21-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-21-usneseni.txt",
+    "text_chars": 14889,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-22-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-22-usneseni.txt",
+    "text_chars": 10806,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-23-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-23-usneseni.txt",
+    "text_chars": 17589,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-24-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-24-usneseni.txt",
+    "text_chars": 16151,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-25-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-25-usneseni.txt",
+    "text_chars": 2744,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-26-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-26-usneseni.txt",
+    "text_chars": 17456,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-27-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-27-usneseni.txt",
+    "text_chars": 503,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-28-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-28-usneseni.txt",
+    "text_chars": 19102,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2007-29-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2007-29-usneseni.txt",
+    "text_chars": 14039,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-30-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-30-usneseni.txt",
+    "text_chars": 7213,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-31-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-31-usneseni.txt",
+    "text_chars": 14691,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-32-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-32-usneseni.txt",
+    "text_chars": 20722,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-33-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-33-usneseni.txt",
+    "text_chars": 18833,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-34-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-34-usneseni.txt",
+    "text_chars": 17895,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-35-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-35-usneseni.txt",
+    "text_chars": 23871,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-36-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-36-usneseni.txt",
+    "text_chars": 15523,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-37-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-37-usneseni.txt",
+    "text_chars": 26646,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-38-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-38-usneseni.txt",
+    "text_chars": 20924,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-39-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-39-usneseni.txt",
+    "text_chars": 12726,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-40-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-40-usneseni.txt",
+    "text_chars": 2014,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-41-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-41-usneseni.txt",
+    "text_chars": 609,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-42-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-42-usneseni.txt",
+    "text_chars": 14186,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-43-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-43-usneseni.txt",
+    "text_chars": 16468,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-44-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-44-usneseni.txt",
+    "text_chars": 14728,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-46-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-46-usneseni.txt",
+    "text_chars": 22930,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-48-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-48-usneseni.txt",
+    "text_chars": 11397,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-49-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-49-usneseni.txt",
+    "text_chars": 13210,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2008-50-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2008-50-usneseni.txt",
+    "text_chars": 16045,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-51-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-51-usneseni.txt",
+    "text_chars": 15382,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-52-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-52-usneseni.txt",
+    "text_chars": 722,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-53-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-53-usneseni.txt",
+    "text_chars": 15171,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-54-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-54-usneseni.txt",
+    "text_chars": 11391,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-55-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-55-usneseni.txt",
+    "text_chars": 8751,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-56-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-56-usneseni.txt",
+    "text_chars": 21274,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-57-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-57-usneseni.txt",
+    "text_chars": 20015,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-58-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-58-usneseni.txt",
+    "text_chars": 18251,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-59-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-59-usneseni.txt",
+    "text_chars": 19186,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-60-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-60-usneseni.txt",
+    "text_chars": 16893,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-61-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-61-usneseni.txt",
+    "text_chars": 20395,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-62-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-62-usneseni.txt",
+    "text_chars": 22362,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-63-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-63-usneseni.txt",
+    "text_chars": 9617,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-64-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-64-usneseni.txt",
+    "text_chars": 27189,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-65-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-65-usneseni.txt",
+    "text_chars": 26627,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-66-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-66-usneseni.txt",
+    "text_chars": 14776,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-67-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-67-usneseni.txt",
+    "text_chars": 17560,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2009-68-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2009-68-usneseni.txt",
+    "text_chars": 21064,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-unknown-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-unknown-usneseni.txt",
+    "text_chars": 21278,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-69-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-69-usneseni.txt",
+    "text_chars": 6472,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-70-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-70-usneseni.txt",
+    "text_chars": 19612,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-71-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-71-usneseni.txt",
+    "text_chars": 24861,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-72-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-72-usneseni.txt",
+    "text_chars": 12878,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-73-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-73-usneseni.txt",
+    "text_chars": 37562,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-74-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-74-usneseni.txt",
+    "text_chars": 26994,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-76-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-76-usneseni.txt",
+    "text_chars": 22869,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-77-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-77-usneseni.txt",
+    "text_chars": 20876,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-78-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-78-usneseni.txt",
+    "text_chars": 13989,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-79-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-79-usneseni.txt",
+    "text_chars": 16389,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-80-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-80-usneseni.txt",
+    "text_chars": 15225,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-81-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-81-usneseni.txt",
+    "text_chars": 17848,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-82-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-82-usneseni.txt",
+    "text_chars": 10014,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-83-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-83-usneseni.txt",
+    "text_chars": 12409,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-1-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-1-usneseni.txt",
+    "text_chars": 15241,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-2-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-2-usneseni.txt",
+    "text_chars": 10968,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2010-3-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2010-3-usneseni.txt",
+    "text_chars": 7993,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-4-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-4-usneseni.txt",
+    "text_chars": 4389,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-5-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-5-usneseni.txt",
+    "text_chars": 10247,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-6-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-6-usneseni.txt",
+    "text_chars": 11590,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-7-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-7-usneseni.txt",
+    "text_chars": 11099,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-8-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-8-usneseni.txt",
+    "text_chars": 17112,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-9-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-9-usneseni.txt",
+    "text_chars": 1430,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-10-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-10-usneseni.txt",
+    "text_chars": 16992,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-11-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-11-usneseni.txt",
+    "text_chars": 10771,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-12-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-12-usneseni.txt",
+    "text_chars": 648,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-13-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-13-usneseni.txt",
+    "text_chars": 18893,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-14-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-14-usneseni.txt",
+    "text_chars": 12225,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-15-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-15-usneseni.txt",
+    "text_chars": 12191,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-16-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-16-usneseni.txt",
+    "text_chars": 12526,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-17-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-17-usneseni.txt",
+    "text_chars": 7741,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-18-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-18-usneseni.txt",
+    "text_chars": 8377,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-19-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-19-usneseni.txt",
+    "text_chars": 10810,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-20-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-20-usneseni.txt",
+    "text_chars": 425,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-21-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-21-usneseni.txt",
+    "text_chars": 10629,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-22-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-22-usneseni.txt",
+    "text_chars": 353,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-23-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-23-usneseni.txt",
+    "text_chars": 10485,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2011-24-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2011-24-usneseni.txt",
+    "text_chars": 7227,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-25-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-25-usneseni.txt",
+    "text_chars": 13745,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-26-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-26-usneseni.txt",
+    "text_chars": 9970,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-27-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-27-usneseni.txt",
+    "text_chars": 14995,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-28-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-28-usneseni.txt",
+    "text_chars": 19912,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-29-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-29-usneseni.txt",
+    "text_chars": 12122,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-30-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-30-usneseni.txt",
+    "text_chars": 12712,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-31-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-31-usneseni.txt",
+    "text_chars": 17043,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-32-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-32-usneseni.txt",
+    "text_chars": 9787,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-33-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-33-usneseni.txt",
+    "text_chars": 3001,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-34-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-34-usneseni.txt",
+    "text_chars": 18273,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-35-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-35-usneseni.txt",
+    "text_chars": 9315,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-36-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-36-usneseni.txt",
+    "text_chars": 12148,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-37-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-37-usneseni.txt",
+    "text_chars": 9562,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-38-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-38-usneseni.txt",
+    "text_chars": 10799,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-39-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-39-usneseni.txt",
+    "text_chars": 8248,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-40-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-40-usneseni.txt",
+    "text_chars": 11601,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2012-41-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2012-41-usneseni.txt",
+    "text_chars": 7868,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-42-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-42-usneseni.txt",
+    "text_chars": 6743,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-43-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-43-usneseni.txt",
+    "text_chars": 1775,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-44-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-44-usneseni.txt",
+    "text_chars": 17701,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-45-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-45-usneseni.txt",
+    "text_chars": 9081,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-46-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-46-usneseni.txt",
+    "text_chars": 16170,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-47-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-47-usneseni.txt",
+    "text_chars": 24715,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-48-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-48-usneseni.txt",
+    "text_chars": 23966,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-49-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-49-usneseni.txt",
+    "text_chars": 17092,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-50-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-50-usneseni.txt",
+    "text_chars": 15987,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-51-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-51-usneseni.txt",
+    "text_chars": 7161,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-52-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-52-usneseni.txt",
+    "text_chars": 2063,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-53-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-53-usneseni.txt",
+    "text_chars": 12631,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-54-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-54-usneseni.txt",
+    "text_chars": 6975,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-55-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-55-usneseni.txt",
+    "text_chars": 10956,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-56-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-56-usneseni.txt",
+    "text_chars": 13148,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-57-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-57-usneseni.txt",
+    "text_chars": 11601,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-58-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-58-usneseni.txt",
+    "text_chars": 12556,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-59-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-59-usneseni.txt",
+    "text_chars": 15750,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2013-60-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2013-60-usneseni.txt",
+    "text_chars": 7615,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-61-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-61-usneseni.txt",
+    "text_chars": 3745,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-62-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-62-usneseni.txt",
+    "text_chars": 6116,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-63-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-63-usneseni.txt",
+    "text_chars": 11254,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-64-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-64-usneseni.txt",
+    "text_chars": 8221,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-65-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-65-usneseni.txt",
+    "text_chars": 12549,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-66-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-66-usneseni.txt",
+    "text_chars": 614,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-67-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-67-usneseni.txt",
+    "text_chars": 18216,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-68-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-68-usneseni.txt",
+    "text_chars": 24562,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-69-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-69-usneseni.txt",
+    "text_chars": 17418,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-70-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-70-usneseni.txt",
+    "text_chars": 16233,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-71-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-71-usneseni.txt",
+    "text_chars": 4011,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-72-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-72-usneseni.txt",
+    "text_chars": 11781,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-73-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-73-usneseni.txt",
+    "text_chars": 15356,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-74-usneseni": {
+    "method": "antiword",
+    "text_path": "work/archive_rm/text/RM-archive-2014-74-usneseni.txt",
+    "text_chars": 10035,
+    "chars_per_page": null,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-75-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-75-usneseni.txt",
+    "text_chars": 7625,
+    "chars_per_page": 3812.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-76-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-76-usneseni.txt",
+    "text_chars": 13932,
+    "chars_per_page": 3483.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-77-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-77-usneseni.txt",
+    "text_chars": 363,
+    "chars_per_page": 363.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-78-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-78-usneseni.txt",
+    "text_chars": 5273,
+    "chars_per_page": 2636.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-1-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-1-usneseni.txt",
+    "text_chars": 1856,
+    "chars_per_page": 1856.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-2-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-2-usneseni.txt",
+    "text_chars": 14206,
+    "chars_per_page": 3551.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-3-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-3-usneseni.txt",
+    "text_chars": 789,
+    "chars_per_page": 789.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-4-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-4-usneseni.txt",
+    "text_chars": 8348,
+    "chars_per_page": 2782.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2014-5-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2014-5-usneseni.txt",
+    "text_chars": 7786,
+    "chars_per_page": 2595.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-6-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-6-usneseni.txt",
+    "text_chars": 4805,
+    "chars_per_page": 2402.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-7-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-7-usneseni.txt",
+    "text_chars": 12466,
+    "chars_per_page": 4155.333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-8-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-8-usneseni.txt",
+    "text_chars": 7890,
+    "chars_per_page": 3945.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-9-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-9-usneseni.txt",
+    "text_chars": 22686,
+    "chars_per_page": 4537.2,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-10-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-10-usneseni.txt",
+    "text_chars": 16016,
+    "chars_per_page": 4004.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-11-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-11-usneseni.txt",
+    "text_chars": 18398,
+    "chars_per_page": 3679.6,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-12-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-12-usneseni.txt",
+    "text_chars": 7497,
+    "chars_per_page": 3748.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-13-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-13-usneseni.txt",
+    "text_chars": 10604,
+    "chars_per_page": 3534.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-14-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-14-usneseni.txt",
+    "text_chars": 8347,
+    "chars_per_page": 2782.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-15-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-15-usneseni.txt",
+    "text_chars": 11161,
+    "chars_per_page": 3720.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-16-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-16-usneseni.txt",
+    "text_chars": 2352,
+    "chars_per_page": 2352.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-17-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-17-usneseni.txt",
+    "text_chars": 14088,
+    "chars_per_page": 3522.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-18-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-18-usneseni.txt",
+    "text_chars": 1463,
+    "chars_per_page": 1463.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-19-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-19-usneseni.txt",
+    "text_chars": 7518,
+    "chars_per_page": 3759.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-20-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-20-usneseni.txt",
+    "text_chars": 9318,
+    "chars_per_page": 3106.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-21-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-21-usneseni.txt",
+    "text_chars": 8987,
+    "chars_per_page": 4493.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-22-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-22-usneseni.txt",
+    "text_chars": 6537,
+    "chars_per_page": 3268.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-23-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-23-usneseni.txt",
+    "text_chars": 508,
+    "chars_per_page": 508.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-24-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-24-usneseni.txt",
+    "text_chars": 10351,
+    "chars_per_page": 3450.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-25-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-25-usneseni.txt",
+    "text_chars": 8004,
+    "chars_per_page": 2668.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2015-26-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2015-26-usneseni.txt",
+    "text_chars": 1106,
+    "chars_per_page": 1106.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-27-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-27-usneseni.txt",
+    "text_chars": 2469,
+    "chars_per_page": 2469.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-28-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-28-usneseni.txt",
+    "text_chars": 12034,
+    "chars_per_page": 4011.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-29-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-29-usneseni.txt",
+    "text_chars": 6690,
+    "chars_per_page": 3345.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-30-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-30-usneseni.txt",
+    "text_chars": 432,
+    "chars_per_page": 432.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-31-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-31-usneseni.txt",
+    "text_chars": 15961,
+    "chars_per_page": 3990.25,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-32-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-32-usneseni.txt",
+    "text_chars": 9845,
+    "chars_per_page": 3281.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-33-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-33-usneseni.txt",
+    "text_chars": 13727,
+    "chars_per_page": 4575.666666666667,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-34-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-34-usneseni.txt",
+    "text_chars": 657,
+    "chars_per_page": 657.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-35-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-35-usneseni.txt",
+    "text_chars": 9068,
+    "chars_per_page": 3022.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-36-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-36-usneseni.txt",
+    "text_chars": 4686,
+    "chars_per_page": 2343.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-37-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-37-usneseni.txt",
+    "text_chars": 9331,
+    "chars_per_page": 3110.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-38-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-38-usneseni.txt",
+    "text_chars": 20719,
+    "chars_per_page": 4143.8,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-39-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-39-usneseni.txt",
+    "text_chars": 20269,
+    "chars_per_page": 4053.8,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-40-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-40-usneseni.txt",
+    "text_chars": 8725,
+    "chars_per_page": 2908.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-41-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-41-usneseni.txt",
+    "text_chars": 10935,
+    "chars_per_page": 3645.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-42-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-42-usneseni.txt",
+    "text_chars": 8801,
+    "chars_per_page": 4400.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-43-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-43-usneseni.txt",
+    "text_chars": 11941,
+    "chars_per_page": 3980.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-44-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-44-usneseni.txt",
+    "text_chars": 11261,
+    "chars_per_page": 3753.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-45-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-45-usneseni.txt",
+    "text_chars": 16033,
+    "chars_per_page": 4008.25,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2016-46-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2016-46-usneseni.txt",
+    "text_chars": 7351,
+    "chars_per_page": 3675.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-47-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-47-usneseni.txt",
+    "text_chars": 5090,
+    "chars_per_page": 2545.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-48-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-48-usneseni.txt",
+    "text_chars": 22055,
+    "chars_per_page": 4411.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-49-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-49-usneseni.txt",
+    "text_chars": 592,
+    "chars_per_page": 592.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-50-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-50-usneseni.txt",
+    "text_chars": 11804,
+    "chars_per_page": 3934.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-51-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-51-usneseni.txt",
+    "text_chars": 10037,
+    "chars_per_page": 3345.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-52-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-52-usneseni.txt",
+    "text_chars": 16410,
+    "chars_per_page": 4102.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-53-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-53-usneseni.txt",
+    "text_chars": 10391,
+    "chars_per_page": 3463.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-54-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-54-usneseni.txt",
+    "text_chars": 12356,
+    "chars_per_page": 4118.666666666667,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-55-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-55-usneseni.txt",
+    "text_chars": 16731,
+    "chars_per_page": 4182.75,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-56-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-56-usneseni.txt",
+    "text_chars": 8475,
+    "chars_per_page": 2825.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-57-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-57-usneseni.txt",
+    "text_chars": 848,
+    "chars_per_page": 848.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-58-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-58-usneseni.txt",
+    "text_chars": 10936,
+    "chars_per_page": 3645.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-59-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-59-usneseni.txt",
+    "text_chars": 9929,
+    "chars_per_page": 3309.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-60-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-60-usneseni.txt",
+    "text_chars": 9116,
+    "chars_per_page": 3038.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-61-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-61-usneseni.txt",
+    "text_chars": 4638,
+    "chars_per_page": 2319.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-62-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-62-usneseni.txt",
+    "text_chars": 8827,
+    "chars_per_page": 2942.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-63-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-63-usneseni.txt",
+    "text_chars": 10065,
+    "chars_per_page": 3355.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-64-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-64-usneseni.txt",
+    "text_chars": 10522,
+    "chars_per_page": 3507.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2017-65-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2017-65-usneseni.txt",
+    "text_chars": 11127,
+    "chars_per_page": 3709.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-66-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-66-usneseni.txt",
+    "text_chars": 5738,
+    "chars_per_page": 2869.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-67-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-67-usneseni.txt",
+    "text_chars": 15122,
+    "chars_per_page": 3780.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-68-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-68-usneseni.txt",
+    "text_chars": 16236,
+    "chars_per_page": 4059.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-69-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-69-usneseni.txt",
+    "text_chars": 7859,
+    "chars_per_page": 3929.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-70-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-70-usneseni.txt",
+    "text_chars": 8551,
+    "chars_per_page": 2850.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-71-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-71-usneseni.txt",
+    "text_chars": 10787,
+    "chars_per_page": 3595.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-72-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-72-usneseni.txt",
+    "text_chars": 823,
+    "chars_per_page": 823.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-73-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-73-usneseni.txt",
+    "text_chars": 15707,
+    "chars_per_page": 3926.75,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-74-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-74-usneseni.txt",
+    "text_chars": 10799,
+    "chars_per_page": 3599.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-75-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-75-usneseni.txt",
+    "text_chars": 1040,
+    "chars_per_page": 1040.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-76-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-76-usneseni.txt",
+    "text_chars": 10432,
+    "chars_per_page": 3477.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-77-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-77-usneseni.txt",
+    "text_chars": 13784,
+    "chars_per_page": 1969.142857142857,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-78-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-78-usneseni.txt",
+    "text_chars": 759,
+    "chars_per_page": 759.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-79-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-79-usneseni.txt",
+    "text_chars": 15421,
+    "chars_per_page": 1927.625,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-80-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-80-usneseni.txt",
+    "text_chars": 18784,
+    "chars_per_page": 2087.1111111111113,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-81-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-81-usneseni.txt",
+    "text_chars": 16195,
+    "chars_per_page": 2024.375,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-82-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-82-usneseni.txt",
+    "text_chars": 1220,
+    "chars_per_page": 1220.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-83-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-83-usneseni.txt",
+    "text_chars": 13324,
+    "chars_per_page": 2220.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-84-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-84-usneseni.txt",
+    "text_chars": 1746,
+    "chars_per_page": 1746.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-85-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-85-usneseni.txt",
+    "text_chars": 15170,
+    "chars_per_page": 1896.25,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-1-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-1-usneseni.txt",
+    "text_chars": 6143,
+    "chars_per_page": 1535.75,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-2-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-2-usneseni.txt",
+    "text_chars": 11471,
+    "chars_per_page": 1911.8333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2018-3-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2018-3-usneseni.txt",
+    "text_chars": 22109,
+    "chars_per_page": 2210.9,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-4-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-4-usneseni.txt",
+    "text_chars": 8485,
+    "chars_per_page": 1697.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-5-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-5-usneseni.txt",
+    "text_chars": 1556,
+    "chars_per_page": 1556.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-6-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-6-usneseni.txt",
+    "text_chars": 22576,
+    "chars_per_page": 2052.3636363636365,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-7-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-7-usneseni.txt",
+    "text_chars": 12888,
+    "chars_per_page": 1841.142857142857,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-8-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-8-usneseni.txt",
+    "text_chars": 12203,
+    "chars_per_page": 1743.2857142857142,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-9-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-9-usneseni.txt",
+    "text_chars": 23283,
+    "chars_per_page": 2116.6363636363635,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-10-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-10-usneseni.txt",
+    "text_chars": 14398,
+    "chars_per_page": 1799.75,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-11-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-11-usneseni.txt",
+    "text_chars": 12789,
+    "chars_per_page": 1827.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-12-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-12-usneseni.txt",
+    "text_chars": 12885,
+    "chars_per_page": 1840.7142857142858,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-13-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-13-usneseni.txt",
+    "text_chars": 431,
+    "chars_per_page": 431.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-14-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-14-usneseni.txt",
+    "text_chars": 18078,
+    "chars_per_page": 2259.75,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-15-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-15-usneseni.txt",
+    "text_chars": 20364,
+    "chars_per_page": 2036.4,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-16-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-16-usneseni.txt",
+    "text_chars": 10301,
+    "chars_per_page": 2060.2,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-17-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-17-usneseni.txt",
+    "text_chars": 9251,
+    "chars_per_page": 1850.2,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-18-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-18-usneseni.txt",
+    "text_chars": 10770,
+    "chars_per_page": 2154.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-19-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-19-usneseni.txt",
+    "text_chars": 542,
+    "chars_per_page": 542.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-20-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-20-usneseni.txt",
+    "text_chars": 574,
+    "chars_per_page": 574.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-21-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-21-usneseni.txt",
+    "text_chars": 8852,
+    "chars_per_page": 1770.4,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-22-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-22-usneseni.txt",
+    "text_chars": 12466,
+    "chars_per_page": 1780.857142857143,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2019-23-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2019-23-usneseni.txt",
+    "text_chars": 16032,
+    "chars_per_page": 2004.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-24-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-24-usneseni.txt",
+    "text_chars": 12495,
+    "chars_per_page": 2499.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-25-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-25-usneseni.txt",
+    "text_chars": 2105,
+    "chars_per_page": 1052.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-26-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-26-usneseni.txt",
+    "text_chars": 19787,
+    "chars_per_page": 1978.7,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-27-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-27-usneseni.txt",
+    "text_chars": 2022,
+    "chars_per_page": 1011.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-28-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-28-usneseni.txt",
+    "text_chars": 20568,
+    "chars_per_page": 2056.8,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-29-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-29-usneseni.txt",
+    "text_chars": 22691,
+    "chars_per_page": 2062.818181818182,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-30-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-30-usneseni.txt",
+    "text_chars": 532,
+    "chars_per_page": 532.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-31-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-31-usneseni.txt",
+    "text_chars": 10973,
+    "chars_per_page": 1828.8333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-32-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-32-usneseni.txt",
+    "text_chars": 813,
+    "chars_per_page": 813.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-33-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-33-usneseni.txt",
+    "text_chars": 48197,
+    "chars_per_page": 2677.6111111111113,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-34-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-34-usneseni.txt",
+    "text_chars": 11913,
+    "chars_per_page": 1985.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-35-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-35-usneseni.txt",
+    "text_chars": 367,
+    "chars_per_page": 367.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-36-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-36-usneseni.txt",
+    "text_chars": 16834,
+    "chars_per_page": 2104.25,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-37-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-37-usneseni.txt",
+    "text_chars": 14434,
+    "chars_per_page": 2405.6666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-38-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-38-usneseni.txt",
+    "text_chars": 13939,
+    "chars_per_page": 1991.2857142857142,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-39-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-39-usneseni.txt",
+    "text_chars": 11026,
+    "chars_per_page": 2205.2,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-40-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-40-usneseni.txt",
+    "text_chars": 15412,
+    "chars_per_page": 2201.714285714286,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-41-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-41-usneseni.txt",
+    "text_chars": 10143,
+    "chars_per_page": 2028.6,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-42-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-42-usneseni.txt",
+    "text_chars": 344,
+    "chars_per_page": 344.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-43-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-43-usneseni.txt",
+    "text_chars": 11181,
+    "chars_per_page": 1863.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-44-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-44-usneseni.txt",
+    "text_chars": 9015,
+    "chars_per_page": 1803.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-45-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-45-usneseni.txt",
+    "text_chars": 1343,
+    "chars_per_page": 1343.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2020-46-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2020-46-usneseni.txt",
+    "text_chars": 11969,
+    "chars_per_page": 1994.8333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-47-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-47-usneseni.txt",
+    "text_chars": 21677,
+    "chars_per_page": 2408.5555555555557,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-48-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-48-usneseni.txt",
+    "text_chars": 8848,
+    "chars_per_page": 1769.6,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-49-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-49-usneseni.txt",
+    "text_chars": 13263,
+    "chars_per_page": 1894.7142857142858,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-50-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-50-usneseni.txt",
+    "text_chars": 11813,
+    "chars_per_page": 2362.6,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-51-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-51-usneseni.txt",
+    "text_chars": 573,
+    "chars_per_page": 573.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-52-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-52-usneseni.txt",
+    "text_chars": 15159,
+    "chars_per_page": 2165.5714285714284,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-53-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-53-usneseni.txt",
+    "text_chars": 11805,
+    "chars_per_page": 1967.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-54-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-54-usneseni.txt",
+    "text_chars": 13789,
+    "chars_per_page": 2298.1666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-55-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-55-usneseni.txt",
+    "text_chars": 16145,
+    "chars_per_page": 2018.125,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-56-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-56-usneseni.txt",
+    "text_chars": 572,
+    "chars_per_page": 572.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-57-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-57-usneseni.txt",
+    "text_chars": 2406,
+    "chars_per_page": 1203.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-58-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-58-usneseni.txt",
+    "text_chars": 12938,
+    "chars_per_page": 2156.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-59-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-59-usneseni.txt",
+    "text_chars": 10599,
+    "chars_per_page": 1766.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-60-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-60-usneseni.txt",
+    "text_chars": 8375,
+    "chars_per_page": 2093.75,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-61-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-61-usneseni.txt",
+    "text_chars": 12206,
+    "chars_per_page": 2034.3333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-62-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-62-usneseni.txt",
+    "text_chars": 624,
+    "chars_per_page": 624.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-63-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-63-usneseni.txt",
+    "text_chars": 7877,
+    "chars_per_page": 1969.25,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-64-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-64-usneseni.txt",
+    "text_chars": 13694,
+    "chars_per_page": 2282.3333333333335,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-65-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-65-usneseni.txt",
+    "text_chars": 703,
+    "chars_per_page": 703.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-66-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-66-usneseni.txt",
+    "text_chars": 8422,
+    "chars_per_page": 2105.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2021-67-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2021-67-usneseni.txt",
+    "text_chars": 11156,
+    "chars_per_page": 1859.3333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-68-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-68-usneseni.txt",
+    "text_chars": 8021,
+    "chars_per_page": 2005.25,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-69-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-69-usneseni.txt",
+    "text_chars": 20137,
+    "chars_per_page": 2517.125,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-70-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-70-usneseni.txt",
+    "text_chars": 12747,
+    "chars_per_page": 2124.5,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-71-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-71-usneseni.txt",
+    "text_chars": 22084,
+    "chars_per_page": 2208.4,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-72-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-72-usneseni.txt",
+    "text_chars": 12637,
+    "chars_per_page": 2106.1666666666665,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-73-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-73-usneseni.txt",
+    "text_chars": 952,
+    "chars_per_page": 952.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-74-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-74-usneseni.txt",
+    "text_chars": 10855,
+    "chars_per_page": 1809.1666666666667,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-75-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-75-usneseni.txt",
+    "text_chars": 9612,
+    "chars_per_page": 1922.4,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-76-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-76-usneseni.txt",
+    "text_chars": 512,
+    "chars_per_page": 512.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-77-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-77-usneseni.txt",
+    "text_chars": 17704,
+    "chars_per_page": 1967.111111111111,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-78-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-78-usneseni.txt",
+    "text_chars": 11651,
+    "chars_per_page": 1941.8333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-79-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-79-usneseni.txt",
+    "text_chars": 2126,
+    "chars_per_page": 2126.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-80-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-80-usneseni.txt",
+    "text_chars": 11471,
+    "chars_per_page": 1911.8333333333333,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-81-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-81-usneseni.txt",
+    "text_chars": 15856,
+    "chars_per_page": 2265.1428571428573,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-82-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-82-usneseni.txt",
+    "text_chars": 11338,
+    "chars_per_page": 2267.6,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-83-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-83-usneseni.txt",
+    "text_chars": 11370,
+    "chars_per_page": 2274.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  },
+  "RM-archive-2022-84-usneseni": {
+    "method": "pdf_text",
+    "text_path": "work/archive_rm/text/RM-archive-2022-84-usneseni.txt",
+    "text_chars": 364,
+    "chars_per_page": 364.0,
+    "has_text": true,
+    "quality_flag": "text_ok",
+    "error": null
+  }
+}

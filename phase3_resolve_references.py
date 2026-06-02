@@ -28,77 +28,102 @@ from pathlib import Path
 from collections import defaultdict, Counter
 import re
 
+from election_terms import apply_term_metadata, load_terms
+
 
 ID_RE = re.compile(r"^(RM|ZM)/(\d+)/(\d+)/(\d+)$")
 
 def parse_id(id_str):
     """
-    RM/1962/65/2025 -> (1962, 65, 2025)
+    RM/1962/65/2025 -> (RM, 1962, 65, 2025)
     """
     m = ID_RE.match(id_str)
     if not m:
         return None
 
-    _, num, schuze, rok = m.groups()
-    return int(num), int(schuze), int(rok)
+    org, num, schuze, rok = m.groups()
+    return org, int(num), int(schuze), int(rok)
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("-i", "--input", type=Path, required=True)
-    ap.add_argument("-o", "--output", type=Path, required=True)
-    ap.add_argument("-v", "--verbose", action="store_true")
-    args = ap.parse_args()
+def resolution_sort_key(record):
+    parsed = parse_id(record.get("id", ""))
+    if not parsed:
+        return ("", "", 0, "")
+    _org, _num, _meeting, year = parsed
+    return (record.get("datum") or f"{year}-12-31", record.get("id") or "")
 
-    args.output.mkdir(parents=True, exist_ok=True)
 
-    # ======================================================
-    # 1️⃣ Načtení všech usnesení
-    # ======================================================
+def source_allows_candidate(source, candidate):
+    source_date = source.get("datum")
+    candidate_date = candidate.get("datum")
+    if source_date and candidate_date:
+        return candidate_date <= source_date
 
-    usneseni = []
-    by_key = defaultdict(list)  # (num, schuze) -> [ (rok, id) ]
+    source_parsed = parse_id(source.get("id", ""))
+    candidate_parsed = parse_id(candidate.get("id", ""))
+    if not source_parsed or not candidate_parsed:
+        return False
+    return candidate_parsed[3] <= source_parsed[3]
 
-    for p in sorted(args.input.glob("*.json")):
-        data = json.loads(p.read_text(encoding="utf-8"))
-        if not isinstance(data, dict):
-            continue
 
-        resolution_id = data.get("id")
-        if not resolution_id:
-            continue
+def resolve_implicit_reference(raw, source, by_key):
+    source_parsed = parse_id(source.get("id", ""))
+    if not source_parsed:
+        return None, "invalid_source"
+    source_org, _source_num, _source_meeting, _source_year = source_parsed
 
-        parsed = parse_id(resolution_id)
+    try:
+        num, schuze = map(int, raw.split("/"))
+    except ValueError:
+        return None, "invalid_raw"
+
+    candidates = [
+        candidate
+        for candidate in by_key.get((source_org, num, schuze), [])
+        if source_allows_candidate(source, candidate)
+    ]
+    if not candidates:
+        return None, "no_candidate"
+
+    candidates = sorted(candidates, key=resolution_sort_key)
+    latest_key = resolution_sort_key(candidates[-1])
+    latest = [candidate for candidate in candidates if resolution_sort_key(candidate) == latest_key]
+    if len(latest) > 1:
+        return None, "ambiguous"
+    return latest[0]["id"], None
+
+
+def build_resolution_indexes(usneseni):
+    by_key = defaultdict(list)  # (org, num, schuze) -> [resolution]
+    for data in usneseni:
+        parsed = parse_id(data.get("id", ""))
         if not parsed:
             continue
+        org, num, schuze, _rok = parsed
+        by_key[(org, num, schuze)].append(data)
 
-        num, schuze, rok = parsed
-        usneseni.append(data)
-        by_key[(num, schuze)].append((rok, resolution_id))
+    for key in by_key:
+        by_key[key].sort(key=resolution_sort_key)
+    return by_key
 
-    # seřaď kandidáty podle roku (vzestupně)
-    for k in by_key:
-        by_key[k].sort()
 
-    if args.verbose:
-        print(f"Načteno usnesení: {len(usneseni)}")
+def process_resolutions(usneseni, terms=None):
+    for data in usneseni:
+        apply_term_metadata(data, terms)
 
-    # ======================================================
-    # 2️⃣ Rozřešení references_out
-    # ======================================================
+    by_key = build_resolution_indexes(usneseni)
 
     refs_index = {}
     unresolved = []
+    ambiguous = []
     resolved_count = 0
 
     for u in usneseni:
         uid = u["id"]
         u["references_in"] = []
 
-        parsed_self = parse_id(uid)
-        if not parsed_self:
+        if not parse_id(uid):
             continue
-        _, _, self_year = parsed_self
 
         for r in u.get("references_out", []):
             raw = r["raw"]
@@ -110,31 +135,15 @@ def main():
                 resolved_count += 1
                 continue
 
-            # implicitní reference
-            try:
-                num, schuze = map(int, raw.split("/"))
-            except ValueError:
-                unresolved.append((uid, raw))
-                continue
-
-            candidates = by_key.get((num, schuze), [])
-            # vezmi nejbližší předchozí (rok <= aktuální)
-            chosen = None
-            for rok, cid in reversed(candidates):
-                if rok <= self_year:
-                    chosen = cid
-                    break
-
+            chosen, reason = resolve_implicit_reference(raw, u, by_key)
             if chosen:
                 r["resolved"] = chosen
                 refs_index[(uid, raw)] = chosen
                 resolved_count += 1
+            elif reason == "ambiguous":
+                ambiguous.append((uid, raw))
             else:
                 unresolved.append((uid, raw))
-
-    # ======================================================
-    # 3️⃣ Vytvoření references_in
-    # ======================================================
 
     by_id = {u["id"]: u for u in usneseni}
 
@@ -152,17 +161,53 @@ def main():
                 "action": next(iter(u["actions"]), None)
             })
 
-    # ======================================================
-    # 4️⃣ Statistiky
-    # ======================================================
-
     stats = {
         "total_usneseni": len(usneseni),
         "refs_total": sum(len(u.get("references_out", [])) for u in usneseni),
         "refs_resolved": resolved_count,
         "refs_unresolved": len(unresolved),
-        "unresolved_refs": unresolved
+        "refs_ambiguous": len(ambiguous),
+        "unresolved_refs": unresolved,
+        "ambiguous_refs": ambiguous,
     }
+    return usneseni, refs_index, stats
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-i", "--input", type=Path, required=True)
+    ap.add_argument("-o", "--output", type=Path, required=True)
+    ap.add_argument("--terms", type=Path, help="Volitelný JSON se seznamem volebních období.")
+    ap.add_argument("-v", "--verbose", action="store_true")
+    args = ap.parse_args()
+
+    args.output.mkdir(parents=True, exist_ok=True)
+
+    # ======================================================
+    # 1️⃣ Načtení všech usnesení
+    # ======================================================
+
+    usneseni = []
+    for p in sorted(args.input.glob("*.json")):
+        data = json.loads(p.read_text(encoding="utf-8"))
+        if not isinstance(data, dict):
+            continue
+
+        resolution_id = data.get("id")
+        if not resolution_id:
+            continue
+
+        parsed = parse_id(resolution_id)
+        if not parsed:
+            continue
+
+        usneseni.append(data)
+
+    if args.verbose:
+        print(f"Načteno usnesení: {len(usneseni)}")
+
+    terms = load_terms(args.terms)
+    usneseni, refs_index, stats = process_resolutions(usneseni, terms)
 
     # ======================================================
     # 5️⃣ Výstupy
@@ -192,6 +237,7 @@ def main():
     print(f"Reference celkem: {stats['refs_total']}")
     print(f"Rozřešeno       : {stats['refs_resolved']}")
     print(f"Nerozřešeno     : {stats['refs_unresolved']}")
+    print(f"Nejednoznačné   : {stats['refs_ambiguous']}")
 
 
 if __name__ == "__main__":

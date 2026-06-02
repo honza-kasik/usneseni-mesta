@@ -168,11 +168,54 @@ def run_phase1_recursive(
     return True
 
 
+def default_archive_roots(workdir: Path) -> list[Path]:
+    return [
+        root
+        for root in (workdir / "archive_rm", workdir / "archive_zm")
+        if root.exists()
+    ]
+
+
+def run_archive_current_promotion(
+    archive_roots: list[Path],
+    phase1: Path,
+    workdir: Path,
+    dry_run: bool,
+) -> bool:
+    roots = [root for root in archive_roots if root.exists()]
+    if not roots:
+        info("Žádné archivní zdroje pro promotion do současných usnesení")
+        return True
+
+    cmd = [
+        sys.executable,
+        "tools/archive_promote_current.py",
+        "--output",
+        str(phase1),
+        "--report",
+        str(workdir / "archive_current_promoted.json"),
+    ]
+    for root in roots:
+        cmd.extend(["--archive-root", str(root)])
+
+    if dry_run:
+        info("DRY RUN: " + " ".join(str(c) for c in cmd))
+        return True
+
+    return run_phase("Archivní usnesení ve formátu současné pipeline", cmd)
+
+
 # ──────────────────────────────────────────────
 # Definice fází
 # ──────────────────────────────────────────────
 
-def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Path) -> list[dict]:
+def build_phases(
+    pdf_dir: Path,
+    ro_pdf_dir: Path,
+    workdir: Path,
+    export_dir: Path,
+    terms: Path | None = None,
+) -> list[dict]:
     """
     Vrátí seznam fází. Každá fáze je slovník:
       number  – číslo fáze (int)
@@ -227,7 +270,7 @@ def build_phases(pdf_dir: Path, ro_pdf_dir: Path, workdir: Path, export_dir: Pat
                 sys.executable, "phase3_resolve_references.py",
                 "--input", str(phase3),
                 "--output", str(phase4),
-            ],
+            ] + (["--terms", str(terms)] if terms else []),
             "output_check": lambda: (phase4 / "usneseni.json").exists(),
             "output_hint": str(phase4 / "usneseni.json"),
         },
@@ -337,6 +380,23 @@ def main():
         "--dry-run", action="store_true",
         help="Pouze zobraz příkazy, nespouštěj je"
     )
+    ap.add_argument(
+        "--archive-root",
+        type=Path,
+        action="append",
+        dest="archive_roots",
+        help="Archivní pracovní adresář pro promotion současného formátu. Lze opakovat.",
+    )
+    ap.add_argument(
+        "--no-archive-current",
+        action="store_true",
+        help="Nepřidávat moderně strukturovaná archivní usnesení do současné pipeline.",
+    )
+    ap.add_argument(
+        "--terms",
+        type=Path,
+        help="Volitelný JSON se seznamem volebních období pro fázi resolvování referencí.",
+    )
     args = ap.parse_args()
 
     if not (1 <= args.from_phase <= 9 and 1 <= args.to_phase <= 9):
@@ -355,7 +415,11 @@ def main():
             failure(f"Adresář s PDF neexistuje: {args.pdf}")
             sys.exit(1)
 
-    phases = build_phases(args.pdf, args.ro_pdf, args.workdir, args.export)
+    if args.terms and not args.terms.exists():
+        failure(f"Soubor volebních období neexistuje: {args.terms}")
+        sys.exit(1)
+
+    phases = build_phases(args.pdf, args.ro_pdf, args.workdir, args.export, args.terms)
     selected = [p for p in phases if args.from_phase <= p["number"] <= args.to_phase]
 
     if any(p.get("requires_ro_pdf") for p in selected) and not args.ro_pdf.exists():
@@ -386,6 +450,14 @@ def main():
                 args.dry_run,
                 exclude=[args.ro_pdf],
             )
+            if ok and not args.no_archive_current:
+                archive_roots = args.archive_roots or default_archive_roots(args.workdir)
+                ok = run_archive_current_promotion(
+                    archive_roots,
+                    args.workdir / "phase1",
+                    args.workdir,
+                    args.dry_run,
+                )
         else:
             cmd = phase["cmd"]()
             if args.dry_run:

@@ -101,6 +101,8 @@ work/phase3/      ← výstup fáze 3
 work/phase4/      ← výstup fáze 4
 work/rozpoctova-opatreni/        ← výstup fáze 2
 work/rozpoctova-opatreni-linked/ ← výstup fáze 7
+work/archive_rm/  ← pracovní data historického archivu rady města
+work/archive_zm/  ← pracovní data historického archivu zastupitelstva
 export/assets/usneseni/    ← výstup fáze 5
 export/assets/usneseni/ro/ ← výstup fáze 8
 export/           ← výstup fáze 6 nebo 9
@@ -133,6 +135,21 @@ při parsování usnesení přeskočí.
 
 |`--dry-run`
 |Pouze zobrazí příkazy, nespustí je
+
+|`--archive-root DIR`
+|Archivní pracovní adresář s `archive_documents.json` a `extraction.json`.
+Moderně strukturovaná archivní usnesení se při fázi 1 doplní do `work/phase1`.
+Volbu lze opakovat. Pokud není uvedena, použijí se existující
+`work/archive_rm` a `work/archive_zm`.
+
+|`--no-archive-current`
+|Vypne doplnění archivních dokumentů ve formátu současných usnesení do hlavní
+pipeline.
+
+|`--terms FILE`
+|Volitelný JSON seznam volebních období pro fázi resolvování referencí.
+Používá se k doplnění `term_id` a `term_label` do usnesení a exportovaných
+stránek.
 |===
 
 == Automatická synchronizace úřední desky
@@ -174,6 +191,24 @@ Alternativně lze vyplnit `pdf_path`, pokud už je PDF v repozitáři.
 == Phase 1 – Parsování PDF
 
 Parsování PDF s usneseními Rady nebo Zastupitelstva města Litovel.
+
+Při spuštění přes `pipeline.py` se po běžném parsování PDF může doplnit také
+moderní část archivu. Dokumenty z archivu, které v extrahovaném textu obsahují
+bloky `Číslo: RM/.../.../...` nebo `Číslo: ZM/.../.../...`, se zapíší jako
+běžné Phase 1 záznamy a projdou současnou pipeline. Starší archivní dokumenty
+bez tohoto formátu zůstávají v samostatném archivním zpracování.
+
+Hranice mezi současnou a archivní větví je tedy formát dat, ne původní stránka:
+záznamy s kanonickým ID `RM/.../.../...` nebo `ZM/.../.../...` patří do
+současné pipeline, archivní větev zůstává fallbackem pro starší nebo nejisté
+dokumenty.
+
+Samostatné zpracování historického archivu je popsané v
+`docs/archive-zm.md`. Veřejný archiv se exportuje pod `/usneseni/archiv/` jako
+přehled podle roku, orgánu a schůze. Dokumenty, které splitter bezpečně rozdělí,
+mají přehledovou stránku schůze se seznamem jednotlivých archivních usnesení.
+Nerozdělené dokumenty zůstávají jako fallback detail a jejich počet se zobrazuje
+jen v souhrnu archivní stránky.
 
 === Vstup
 
@@ -325,6 +360,22 @@ Resolvované reference:
 - jsou doplněny do nového klíče `references_in`,
 - vztah je oboustranný.
 
+Implicitní reference se resolvují v rámci stejného orgánu (`RM` odkazuje na
+`RM`, `ZM` na `ZM`) a pouze na kandidáty, které nejsou datem později než
+zdrojové usnesení. To chrání odkazy po volbách, kdy se číslování schůzí a
+usnesení začne znovu od 1.
+
+Fáze zároveň doplňuje metadata volebního období (`term_id`, `term_label`).
+Výchozí hranice lze přepsat volbou `--terms`:
+
+[source,json]
+----
+[
+  {"id": "2022-2026", "label": "Volební období 2022-2026", "start": "2022-09-24", "end": "2026-10-10"},
+  {"id": "2026-2030", "label": "Volební období 2026-2030", "start": "2026-10-10", "end": null}
+]
+----
+
 Na závěr jsou vypsány statistiky do konzole.
 
 === Vstup
@@ -342,11 +393,16 @@ Na závěr jsou vypsány statistiky do konzole.
 [source,bash]
 ----
 python phase3_resolve_references.py --input phase3_dir/ --output phase4_dir/
+python phase3_resolve_references.py --input phase3_dir/ --output phase4_dir/ --terms terms.json
 ----
 
 == Phase 5 – Vytvoření indexu usnesení
 
 Vytvoří index pro fulltextové vyhledávání.
+
+Veřejné vyhledávání na webu načítá podle výchozího nastavení posledních 5 let,
+aby první dotaz nestahoval celý historický archiv. Explicitní výběr roků v URL
+nebo ve filtru toto omezení přepíše.
 
 === Vstup
 

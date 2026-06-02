@@ -1,0 +1,568 @@
+{
+  "total_links": 262,
+  "metadata_quality": {
+    "total_items": 262,
+    "items_with_date": 171,
+    "items_without_date": 91,
+    "items_with_meeting_no": 247,
+    "items_without_meeting_no": 15,
+    "items_with_year_inferred_from_section": 91,
+    "items_with_year_inferred_from_title": 0,
+    "items_with_year_inferred_from_date": 171,
+    "items_without_year": 0
+  },
+  "by_period": {
+    "1998-2002": 31,
+    "2002-2006": 37,
+    "2006-2010": 33,
+    "2010-2014": 36,
+    "2014-2018": 52,
+    "2018-2022": 73
+  },
+  "by_kind": {
+    "hlasovani": 55,
+    "hlasovani_aklamaci": 5,
+    "usneseni": 202
+  },
+  "by_file_type": {
+    "doc": 134,
+    "pdf": 114,
+    "unknown": 14
+  },
+  "by_status": {
+    "downloaded": 262
+  },
+  "period_year": [
+    {
+      "period": "1998-2002",
+      "year": "2002",
+      "usneseni": 31,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2002-2006",
+      "year": "2002",
+      "usneseni": 2,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2002-2006",
+      "year": "2003",
+      "usneseni": 9,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2002-2006",
+      "year": "2004",
+      "usneseni": 11,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2002-2006",
+      "year": "2005",
+      "usneseni": 7,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2002-2006",
+      "year": "2006",
+      "usneseni": 8,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2006",
+      "usneseni": 3,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2007",
+      "usneseni": 7,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2008",
+      "usneseni": 6,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2009",
+      "usneseni": 9,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2006-2010",
+      "year": "2010",
+      "usneseni": 8,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2010",
+      "usneseni": 3,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2011",
+      "usneseni": 8,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2012",
+      "usneseni": 11,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2013",
+      "usneseni": 8,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2010-2014",
+      "year": "2014",
+      "usneseni": 6,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2014",
+      "usneseni": 2,
+      "hlasovani": 0,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2015",
+      "usneseni": 10,
+      "hlasovani": 2,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2016",
+      "usneseni": 6,
+      "hlasovani": 6,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2017",
+      "usneseni": 7,
+      "hlasovani": 7,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2014-2018",
+      "year": "2018",
+      "usneseni": 6,
+      "hlasovani": 6,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2018",
+      "usneseni": 3,
+      "hlasovani": 3,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2019",
+      "usneseni": 9,
+      "hlasovani": 9,
+      "hlasovani_aklamaci": 1,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2020",
+      "usneseni": 8,
+      "hlasovani": 8,
+      "hlasovani_aklamaci": 0,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2021",
+      "usneseni": 8,
+      "hlasovani": 8,
+      "hlasovani_aklamaci": 2,
+      "unknown": 0
+    },
+    {
+      "period": "2018-2022",
+      "year": "2022",
+      "usneseni": 6,
+      "hlasovani": 6,
+      "hlasovani_aklamaci": 2,
+      "unknown": 0
+    }
+  ],
+  "duplicates": {
+    "duplicate_archive_url": [
+      {
+        "value": "https://www.litovel.eu/filemanager/files/38627.doc",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2009-17-usneseni",
+          "ZM-archive-2009-18-usneseni"
+        ],
+        "titles": [
+          "Usnesení z 17. zasedání zastupitelstva města ze dne 26. února 2009",
+          "Usnesení z 18. zasedání zastupitelstva města ze dne 30. dubna 2009"
+        ]
+      }
+    ],
+    "duplicate_resolved_file_url": [
+      {
+        "value": "https://www.litovel.eu/filemanager/files/38627.doc",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2009-17-usneseni",
+          "ZM-archive-2009-18-usneseni"
+        ],
+        "titles": [
+          "Usnesení z 17. zasedání zastupitelstva města ze dne 26. února 2009",
+          "Usnesení z 18. zasedání zastupitelstva města ze dne 30. dubna 2009"
+        ]
+      }
+    ],
+    "duplicate_generated_id": [],
+    "same_title_different_url": [
+      {
+        "title": "Hlasování",
+        "count": 15,
+        "ids": [
+          "ZM-archive-2015-unknown-hlasovani-32f277e0",
+          "ZM-archive-2015-unknown-hlasovani",
+          "ZM-archive-2016-unknown-hlasovani-ac988fea",
+          "ZM-archive-2016-unknown-hlasovani-cf51268a",
+          "ZM-archive-2016-unknown-hlasovani-2be6b1be",
+          "ZM-archive-2016-unknown-hlasovani-f89b0129",
+          "ZM-archive-2016-unknown-hlasovani-d42ddc9f",
+          "ZM-archive-2016-unknown-hlasovani",
+          "ZM-archive-2017-unknown-hlasovani-f4b91cfa",
+          "ZM-archive-2017-unknown-hlasovani-9c72b91c",
+          "ZM-archive-2017-unknown-hlasovani-44fd56a6",
+          "ZM-archive-2017-unknown-hlasovani-4c4e10e0",
+          "ZM-archive-2017-unknown-hlasovani-fc1c7b4e",
+          "ZM-archive-2017-unknown-hlasovani-94c537ca",
+          "ZM-archive-2017-unknown-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=197813",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=202967",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=211191",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=223890",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=246613",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=264029",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=270226",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=276206",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=281566",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=283744",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=289997",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=293407",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=297884",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=352061",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=362446"
+        ]
+      },
+      {
+        "title": "Hlasování z 26. ZML",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2018-26-hlasovani",
+          "ZM-archive-2021-26-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=1658481",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=370616"
+        ]
+      },
+      {
+        "title": "Hlasování z 27. ZML",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2018-27-hlasovani",
+          "ZM-archive-2021-27-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=1736290",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=377433"
+        ]
+      },
+      {
+        "title": "Hlasování z 28. ZML",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2018-28-hlasovani",
+          "ZM-archive-2021-28-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=1782121",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=379346"
+        ]
+      },
+      {
+        "title": "Hlasování z 29. ZML",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2018-29-hlasovani",
+          "ZM-archive-2022-29-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=1858598",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=388471"
+        ]
+      },
+      {
+        "title": "Hlasování z 30. ZML",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2018-30-hlasovani",
+          "ZM-archive-2022-30-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=1915964",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=392379"
+        ]
+      },
+      {
+        "title": "Hlasování z 31. ZML",
+        "count": 2,
+        "ids": [
+          "ZM-archive-2018-31-hlasovani",
+          "ZM-archive-2022-31-hlasovani"
+        ],
+        "archive_urls": [
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=1982463",
+          "https://www.litovel.eu/filemanager/pdf-viewer/html5/flipbook_new.inc.php?app=2065&fileID=398863"
+        ]
+      }
+    ]
+  },
+  "text_quality": {
+    "empty_text": 49,
+    "extraction_failed": 14,
+    "text_ok": 199
+  },
+  "documents_with_text": 199,
+  "documents_without_text": 63,
+  "documents_without_date": [
+    "ZM-archive-2002-1-usneseni-2eb77b3c",
+    "ZM-archive-2002-2-usneseni-ee47e73d",
+    "ZM-archive-2002-3-usneseni",
+    "ZM-archive-2002-4-usneseni",
+    "ZM-archive-2002-5-usneseni",
+    "ZM-archive-2002-6-usneseni",
+    "ZM-archive-2002-7-usneseni",
+    "ZM-archive-2002-8-usneseni",
+    "ZM-archive-2002-9-usneseni",
+    "ZM-archive-2002-10-usneseni",
+    "ZM-archive-2002-11-usneseni",
+    "ZM-archive-2002-12-usneseni",
+    "ZM-archive-2002-13-usneseni",
+    "ZM-archive-2002-14-usneseni",
+    "ZM-archive-2002-15-usneseni",
+    "ZM-archive-2002-16-usneseni",
+    "ZM-archive-2002-17-usneseni",
+    "ZM-archive-2002-18-usneseni",
+    "ZM-archive-2002-19-usneseni",
+    "ZM-archive-2002-20-usneseni",
+    "ZM-archive-2002-21-usneseni",
+    "ZM-archive-2002-22-usneseni",
+    "ZM-archive-2002-23-usneseni",
+    "ZM-archive-2002-24-usneseni",
+    "ZM-archive-2002-25-usneseni",
+    "ZM-archive-2002-26-usneseni",
+    "ZM-archive-2002-27-usneseni",
+    "ZM-archive-2002-28-usneseni",
+    "ZM-archive-2002-29-usneseni",
+    "ZM-archive-2002-30-usneseni",
+    "ZM-archive-2002-31-usneseni",
+    "ZM-archive-2015-unknown-hlasovani-32f277e0",
+    "ZM-archive-2015-unknown-hlasovani",
+    "ZM-archive-2016-unknown-hlasovani-ac988fea",
+    "ZM-archive-2016-unknown-hlasovani-cf51268a",
+    "ZM-archive-2016-unknown-hlasovani-2be6b1be",
+    "ZM-archive-2016-unknown-hlasovani-f89b0129",
+    "ZM-archive-2016-unknown-hlasovani-d42ddc9f",
+    "ZM-archive-2016-unknown-hlasovani",
+    "ZM-archive-2017-unknown-hlasovani-f4b91cfa",
+    "ZM-archive-2017-unknown-hlasovani-9c72b91c",
+    "ZM-archive-2017-unknown-hlasovani-44fd56a6",
+    "ZM-archive-2017-unknown-hlasovani-4c4e10e0",
+    "ZM-archive-2017-unknown-hlasovani-fc1c7b4e",
+    "ZM-archive-2017-unknown-hlasovani-94c537ca",
+    "ZM-archive-2017-unknown-hlasovani",
+    "ZM-archive-2018-26-hlasovani",
+    "ZM-archive-2018-27-hlasovani",
+    "ZM-archive-2018-28-hlasovani",
+    "ZM-archive-2018-29-hlasovani",
+    "ZM-archive-2018-30-hlasovani",
+    "ZM-archive-2018-31-hlasovani",
+    "ZM-archive-2018-1-hlasovani",
+    "ZM-archive-2018-2-hlasovani",
+    "ZM-archive-2018-3-hlasovani",
+    "ZM-archive-2019-4-hlasovani",
+    "ZM-archive-2019-5-hlasovani",
+    "ZM-archive-2019-6-hlasovani",
+    "ZM-archive-2019-7-hlasovani",
+    "ZM-archive-2019-8-hlasovani",
+    "ZM-archive-2019-8-hlasovani-aklamaci",
+    "ZM-archive-2019-9-hlasovani",
+    "ZM-archive-2019-10-hlasovani",
+    "ZM-archive-2019-11-hlasovani",
+    "ZM-archive-2019-12-hlasovani",
+    "ZM-archive-2020-13-hlasovani",
+    "ZM-archive-2020-14-hlasovani",
+    "ZM-archive-2020-15-hlasovani",
+    "ZM-archive-2020-16-hlasovani",
+    "ZM-archive-2020-17-hlasovani",
+    "ZM-archive-2020-18-hlasovani",
+    "ZM-archive-2020-19-hlasovani",
+    "ZM-archive-2020-20-hlasovani",
+    "ZM-archive-2021-21-hlasovani",
+    "ZM-archive-2021-21-hlasovani-aklamaci",
+    "ZM-archive-2021-22-hlasovani",
+    "ZM-archive-2021-23-hlasovani",
+    "ZM-archive-2021-24-hlasovani",
+    "ZM-archive-2021-25-hlasovani",
+    "ZM-archive-2021-26-hlasovani",
+    "ZM-archive-2021-26-hlasovani-aklamaci",
+    "ZM-archive-2021-27-hlasovani",
+    "ZM-archive-2021-28-hlasovani",
+    "ZM-archive-2022-29-hlasovani",
+    "ZM-archive-2022-30-hlasovani",
+    "ZM-archive-2022-30-hlasovani-aklamaci",
+    "ZM-archive-2022-31-hlasovani",
+    "ZM-archive-2022-32-hlasovani",
+    "ZM-archive-2022-33-hlasovani",
+    "ZM-archive-2022-33-hlasovani-aklamaci",
+    "ZM-archive-2022-34-hlasovani"
+  ],
+  "documents_without_date_by_reason": {
+    "generic_voting_title": 15,
+    "meeting_only_historical_title": 31,
+    "no_date_in_title": 45
+  },
+  "short_text_threshold": 200,
+  "suspiciously_short_text": [],
+  "errors": [
+    {
+      "id": "ZM-archive-2019-5-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2019-7-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2019-8-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2019-9-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2019-11-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2019-12-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2020-13-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2020-14-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2020-16-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2020-17-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2020-19-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2020-20-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2021-21-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    },
+    {
+      "id": "ZM-archive-2021-23-hlasovani",
+      "stage": "extract",
+      "error": "Unsupported file type: unknown"
+    }
+  ],
+  "report_title": "Archiv ZM Litovel - report"
+}

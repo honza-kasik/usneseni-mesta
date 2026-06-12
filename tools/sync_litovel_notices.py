@@ -222,7 +222,7 @@ def target_filename(notice: Notice, attachment: Attachment) -> str:
     if notice.kind == "budget_change":
         return budget_filename(notice.title, attachment.label)
     label = attachment.label
-    if label and len(label) <= 80:
+    if label and len(label) <= 80 and parse_resolution_key(label):
         return slugify_pdf_name(label)
     return slugify_pdf_name(notice.title)
 
@@ -302,7 +302,11 @@ def request_session() -> requests.Session:
 def fetch_text(session: requests.Session, url: str) -> str:
     response = session.get(url, timeout=30)
     response.raise_for_status()
-    response.encoding = response.encoding or "utf-8"
+    content_type = response.headers.get("Content-Type", "")
+    if "charset=" not in content_type.lower():
+        response.encoding = "utf-8"
+    elif not response.encoding:
+        response.encoding = "utf-8"
     return response.text
 
 

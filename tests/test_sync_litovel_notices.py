@@ -3,10 +3,12 @@ import unittest
 from pathlib import Path
 
 from tools.sync_litovel_notices import (
+    Attachment,
     Notice,
     budget_filename,
     existing_budget_keys,
     existing_resolution_keys,
+    fetch_text,
     parse_attachments,
     parse_notice_board,
     target_filename,
@@ -62,6 +64,28 @@ DETAIL_HTML = """
 
 
 class SyncLitovelNoticesTest(unittest.TestCase):
+    def test_fetch_text_defaults_charsetless_html_to_utf8(self):
+        class FakeResponse:
+            headers = {"Content-Type": "text/html"}
+            encoding = "ISO-8859-1"
+            content = "Výpis usnesení ze 75. schůze".encode("utf-8")
+
+            def raise_for_status(self):
+                pass
+
+            @property
+            def text(self):
+                return self.content.decode(self.encoding)
+
+        class FakeSession:
+            def get(self, url, timeout):
+                return FakeResponse()
+
+        self.assertEqual(
+            fetch_text(FakeSession(), "https://www.litovel.eu/cs/urad/uredni-deska/aktualni-oznameni.html"),
+            "Výpis usnesení ze 75. schůze",
+        )
+
     def test_parse_notice_board_keeps_only_resolution_and_budget_rows(self):
         notices = parse_notice_board(NOTICE_BOARD_HTML, "https://www.litovel.eu/cs/urad/uredni-deska/aktualni-oznameni.html")
 
@@ -92,6 +116,23 @@ class SyncLitovelNoticesTest(unittest.TestCase):
         filename = target_filename(notice, parse_attachments(DETAIL_HTML, "https://example.test/detail")[0])
 
         self.assertEqual(filename, "rozpoctove_opatreni_c._9_2026_dne_14._kvetna_2026.pdf")
+
+    def test_target_filename_uses_resolution_title_for_generic_attachment_label(self):
+        notice = Notice(
+            kind="resolution",
+            key="RM/75/2026",
+            title="Výpis usnesení ze 75. schůze Rady města Litovel, konané dne 10. června 2026",
+            detail_url="https://example.test/detail",
+            posted="",
+            source="",
+            notice_type="",
+        )
+        attachment = Attachment(url="https://example.test/file.pdf", label="Výpis usnesení")
+
+        self.assertEqual(
+            target_filename(notice, attachment),
+            "vypis_usneseni_ze_75._schuze_rady_mesta_litovel_konane_dne_10._cervna_2026.pdf",
+        )
 
     def test_budget_filename_handles_numeric_notice_dates(self):
         self.assertEqual(

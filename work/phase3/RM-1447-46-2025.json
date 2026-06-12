@@ -17,7 +17,13 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "ZM/17/16/2024",
+      "type": "explicit",
+      "resolved": "ZM/17/16/2024"
+    }
+  ],
   "amounts": [
     "100.000 Kč"
   ]

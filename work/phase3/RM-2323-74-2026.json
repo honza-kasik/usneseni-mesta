@@ -1,0 +1,34 @@
+{
+  "id": "RM/2323/74/2026",
+  "datum": "2026-06-04",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel revokovat usnesení ZM/7/22/2025/b."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit předložená Pravidla prodeje pozemků města Litovel –\nlokalita Pavlínka."
+    },
+    {
+      "label": "c",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit předložený Záměr zveřejnění prodeje pozemků parc.č. 838/1,\n838/5 + 842/5 a 802 + 803, v k.ú. Litovel, za minimální cenu 2.800 Kč/m2 vč. DPH, za účelem výstavby tří\nrodinných domů."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "ZM/7/22/2025",
+      "type": "explicit",
+      "resolved": "ZM/7/22/2025"
+    }
+  ],
+  "amounts": [
+    "2.800 Kč"
+  ]
+}

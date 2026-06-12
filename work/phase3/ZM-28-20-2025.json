@@ -18,7 +18,13 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "ZM/8/19/2025",
+      "type": "explicit",
+      "resolved": "ZM/8/19/2025"
+    }
+  ],
   "amounts": [
     "58 Kč"
   ]

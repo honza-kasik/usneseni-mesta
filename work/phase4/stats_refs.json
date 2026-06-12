@@ -1,7 +1,9 @@
 {
-  "total_usneseni": 2679,
-  "refs_total": 47,
-  "refs_resolved": 47,
+  "total_usneseni": 2731,
+  "refs_total": 67,
+  "refs_resolved": 67,
   "refs_unresolved": 0,
-  "unresolved_refs": []
+  "refs_ambiguous": 0,
+  "unresolved_refs": [],
+  "ambiguous_refs": []
 }

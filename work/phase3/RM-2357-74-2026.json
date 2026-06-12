@@ -1,0 +1,22 @@
+{
+  "id": "RM/2357/74/2026",
+  "datum": "2026-06-04",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "doporučuje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "doporučuje Zastupitelstvu města Litovel souhlasit s podáním žaloby a pokračováním v soudním řízení\npopsaném v důvodové zprávě."
+    },
+    {
+      "label": "b",
+      "text": "doporučuje Zastupitelstvu města Litovel schválit rozpočtovou změnu dle přílohy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

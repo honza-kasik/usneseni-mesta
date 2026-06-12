@@ -17,7 +17,13 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "ZM/5/16/2024",
+      "type": "explicit",
+      "resolved": "ZM/5/16/2024"
+    }
+  ],
   "amounts": [
     "37.708.000 Kč"
   ]

@@ -1,0 +1,34 @@
+{
+  "id": "RM/2324/74/2026",
+  "datum": "2026-06-04",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení přijaté na 72. schůzi rady města, konané dne 23. dubna 2026, č. usn. RM/2262/72/2026."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje předloženou Smlouvu o nájmu pozemku (SML/0135/2026/MH), uzavřenou na základě zveřejněného\nzáměru (v souladu s přijatým usnesením rady č. RM/2187/70/2026), mezi městem Litovel a nájemcem, p. M. D.\nBřezové, na pronájem části pozemku parc.č. 367, o výměře 77 m2, zahrada, v k.ú. Unčovice, s účinností od 15. 6.\n2026, (dlážděná plocha před hostincem Březové) - pro provoz venkovní restaurační zahrádky, v souvislosti\ns provozem hostince v objektu č.p. 12, Březové."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "RM/2262/72/2026",
+      "type": "explicit",
+      "resolved": "RM/2262/72/2026"
+    },
+    {
+      "raw": "RM/2187/70/2026",
+      "type": "explicit",
+      "resolved": "RM/2187/70/2026"
+    }
+  ],
+  "amounts": []
+}

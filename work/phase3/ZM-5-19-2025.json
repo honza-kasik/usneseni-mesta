@@ -26,7 +26,18 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "ZM/7/15/2024",
+      "type": "explicit",
+      "resolved": "ZM/7/15/2024"
+    },
+    {
+      "raw": "ZM/6/10/2024",
+      "type": "explicit",
+      "resolved": "ZM/6/10/2024"
+    }
+  ],
   "amounts": [
     "3.300 Kč"
   ]

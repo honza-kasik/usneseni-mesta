@@ -18,6 +18,12 @@
     }
   ],
   "tail": null,
-  "references_out": [],
+  "references_out": [
+    {
+      "raw": "ZM/10/5/2023",
+      "type": "explicit",
+      "resolved": "ZM/10/5/2023"
+    }
+  ],
   "amounts": []
 }

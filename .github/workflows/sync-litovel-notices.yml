@@ -130,7 +130,7 @@ jobs:
         if: steps.scan.outputs.found == 'true' && steps.scan.outputs.dry_run != 'true'
         uses: peter-evans/create-pull-request@v8
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.LITOVLE_CZ_PAT }}
           path: usneseni-mesta
           branch: litovel-notice-sync/${{ github.run_id }}
           delete-branch: true
@@ -159,6 +159,7 @@ jobs:
         if: failure()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           existing=$(gh issue list \

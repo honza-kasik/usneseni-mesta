@@ -1,0 +1,22 @@
+{
+  "id": "RM/2335/74/2026",
+  "datum": "2026-06-04",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje předloženou Smlouvu o převodu práv a povinností stavebníka mezi městem Litovel\na DOUBRAVA.NET s.r.o., IČ 04911113, při realizaci akce Rekonstrukce Svatojánského mostu v Litovli."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje předloženou Smlouvu o realizaci překládky sítě elektronické komunikace mezi městem Litovel\na DOUBRAVA.NET s.r.o., IČ 04911113, při realizaci akce Rekonstrukce Svatojánského mostu v Litovli."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -137,7 +137,7 @@ jobs:
           title: Sync Litovel notices
           commit-message: Sync Litovel notices
           body: ${{ steps.pr_body.outputs.body }}
-          assignees: honza-kasik
+          reviewers: honza-kasik
           add-paths: |
             resources
             work
@@ -153,7 +153,7 @@ jobs:
           title: Sync Litovel notices
           commit-message: Sync generated Litovel notice export
           body: ${{ steps.pr_body.outputs.body }}
-          assignees: honza-kasik
+          reviewers: honza-kasik
 
       - name: Create failure issue
         if: failure()

@@ -136,6 +136,8 @@ jobs:
           delete-branch: true
           title: Sync Litovel notices
           commit-message: Sync Litovel notices
+          author: robot-honza <293300540+robot-honza@users.noreply.github.com>
+          committer: robot-honza <293300540+robot-honza@users.noreply.github.com>
           body: ${{ steps.pr_body.outputs.body }}
           reviewers: honza-kasik
           add-paths: |
@@ -152,6 +154,8 @@ jobs:
           delete-branch: true
           title: Sync Litovel notices
           commit-message: Sync generated Litovel notice export
+          author: robot-honza <293300540+robot-honza@users.noreply.github.com>
+          committer: robot-honza <293300540+robot-honza@users.noreply.github.com>
           body: ${{ steps.pr_body.outputs.body }}
           reviewers: honza-kasik
 

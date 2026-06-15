@@ -39060,7 +39060,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/10/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2331/74/2026",
@@ -39090,7 +39095,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/10/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2332/74/2026",
@@ -39504,8 +39514,87 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "126/2026/RM",
+        "opatreni_id": "RO/10/2026",
+        "plain_title": "Aktivní Litovel s.r.o. - odhady obvyklého nájemného",
+        "affected_place": "Aktivní Litovel s.r.o / odhady obvyklého nájemného",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "127/2026/RM",
+        "opatreni_id": "RO/10/2026",
+        "plain_title": "S.J. - dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026",
+        "affected_place": "dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "128/2026/RM",
+        "opatreni_id": "RO/10/2026",
+        "plain_title": "Sportovní hala - vyúčtování dodávky plynu",
+        "affected_place": "Sportovní hala / vyúčtování dodávky plynu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "129/2026/RM",
+        "opatreni_id": "RO/10/2026",
+        "plain_title": "přijaté pojistné plnění",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "130/2026/RM",
+        "opatreni_id": "RO/10/2026",
+        "plain_title": "Chořelice - čištění dešťové kanalizace",
+        "affected_place": "Chořelice / čištění dešťové kanalizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "131/2026/RM",
+        "opatreni_id": "RO/10/2026",
+        "plain_title": "Savín - doplnění VO podél silnice III. tř. č. 37312 (od bus zastávky po obec) - PD",
+        "affected_place": "Savín",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/10/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2352/74/2026",

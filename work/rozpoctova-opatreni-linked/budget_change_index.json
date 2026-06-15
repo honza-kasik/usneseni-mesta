@@ -36794,6 +36794,194 @@
     "plain_title": "POST BELLUM, z.ú. - smlouva o spolupráci \"Příběhy našich sousedů\"",
     "affected_place": "POST BELLUM, z.ú"
   },
+  "126/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "-21 780,00",
+        "amount_value": -21780.0,
+        "description": "OKSK - rezerva (RZ 126/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "21 780,00",
+        "amount_value": 21780.0,
+        "description": "Aktivní Litovel s.r.o. - odhady obvyklého nájemného (RZ 126/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2351/74/2026"
+    ],
+    "plain_title": "Aktivní Litovel s.r.o. - odhady obvyklého nájemného",
+    "affected_place": "Aktivní Litovel s.r.o / odhady obvyklého nájemného"
+  },
+  "127/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "S.J. - dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026 (RZ 127/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "5 000,00",
+        "amount_value": 5000.0,
+        "description": "S.J. - dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026 (RZ 127/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2351/74/2026"
+    ],
+    "plain_title": "S.J. - dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026",
+    "affected_place": "dar na uhrazení nákladů při účasti na studentském projektu \"PřesBar 2026\" v červnu 2026"
+  },
+  "128/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "-1 800,00",
+        "amount_value": -1800.0,
+        "description": "Nová obchodní společnost na správu sportovišť (RZ 128/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "1 800,00",
+        "amount_value": 1800.0,
+        "description": "Sportovní hala - vyúčtování dodávky plynu (RZ 128/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2351/74/2026"
+    ],
+    "plain_title": "Sportovní hala - vyúčtování dodávky plynu",
+    "affected_place": "Sportovní hala / vyúčtování dodávky plynu"
+  },
+  "129/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "5 400,00",
+        "amount_value": 5400.0,
+        "description": "přijaté pojistné plnění (RZ 129/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "5 400,00",
+        "amount_value": 5400.0,
+        "description": "pojistné události - škody na majetku (RZ 129/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2351/74/2026"
+    ],
+    "plain_title": "přijaté pojistné plnění",
+    "affected_place": ""
+  },
+  "130/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "-214 000,00",
+        "amount_value": -214000.0,
+        "description": "Chořelice - rezerva (RZ 130/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "214 000,00",
+        "amount_value": 214000.0,
+        "description": "Chořelice - čištění dešťové kanalizace (RZ 130/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2351/74/2026"
+    ],
+    "plain_title": "Chořelice - čištění dešťové kanalizace",
+    "affected_place": "Chořelice / čištění dešťové kanalizace"
+  },
+  "131/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "-116 160,00",
+        "amount_value": -116160.0,
+        "description": "Savín - rezerva (RZ 131/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "116 160,00",
+        "amount_value": 116160.0,
+        "description": "Savín - doplnění VO podél silnice III. tř. č. 37312 (od bus zastávky po obec) - PD (RZ 131/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2351/74/2026"
+    ],
+    "plain_title": "Savín - doplnění VO podél silnice III. tř. č. 37312 (od bus zastávky po obec) - PD",
+    "affected_place": "Savín"
+  },
+  "132/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "-3 000,00",
+        "amount_value": -3000.0,
+        "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 132/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "3 000,00",
+        "amount_value": 3000.0,
+        "description": "Český svaz chovatelů, z. s., Klub chovatelů králíků belgických obrů . dar na organizační zajištění výstavy králíků belgických obrů, která se uskuteční v listopadu 2026 (RZ 132/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "Český svaz chovatelů, z. s., Klub chovatelů králíků belgických obrů . dar na organizační zajištění výstavy králíků belgických obrů, která se uskuteční v listopadu 2026",
+    "affected_place": "Český svaz chovatelů, z. s., Klub chovatelů králíků belgických obrů . dar na organizační zajištění výstavy králíků belgických obrů, která se uskuteční v listopadu 2026"
+  },
+  "133/2026/RM": {
+    "opatreni_id": "RO/10/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "-11 000,00",
+        "amount_value": -11000.0,
+        "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 133/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 15,
+        "amount": "11 000,00",
+        "amount_value": 11000.0,
+        "description": "I.V. - dotace na pronájem sportovní haly a venkovních sportovišť při pořádání krajských sportovních her seniorů (RZ 133/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "I.V. - dotace na pronájem sportovní haly a venkovních sportovišť při pořádání krajských sportovních her seniorů",
+    "affected_place": "pronájem sportovní haly a venkovních sportovišť při pořádání krajských sportovních her seniorů"
+  },
   "1/2026/ZM": {
     "opatreni_id": "RO/1/2026",
     "rows": [

@@ -1,0 +1,23 @@
+{
+  "id": "ZM/21/26/2026",
+  "datum": "2026-06-04",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s podáním žaloby a pokračováním v soudním řízení popsaném v důvodové zprávě."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje rozpočtovou změnu dle přílohy."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

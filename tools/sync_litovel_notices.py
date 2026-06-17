@@ -121,6 +121,8 @@ def notice_kind(title: str, notice_type: str) -> str | None:
         return "budget_change"
     if "vypis" in folded_title and "usneseni" in folded_title:
         return "resolution"
+    if "usneseni" in folded_title and ("zasedani" in folded_title or "schuze" in folded_title):
+        return "resolution"
     if "vypis z usneseni" in folded_type and "usneseni" in folded_title:
         return "resolution"
     return None

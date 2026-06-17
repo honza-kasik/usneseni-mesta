@@ -39,6 +39,15 @@ NOTICE_BOARD_HTML = """
     <td>Výpis z usnesení</td>
   </tr>
   <tr>
+    <td>ZM/1/26/2026</td>
+    <td class="nowrap">16.6.2026-16.7.2026</td>
+    <td>
+      <a href="/redakce/index.php?detail_claim=290917&amp;">Usnesení z 26. zasedání Zastupitelstva města Litovel ze dne 4.6.2026</a>
+    </td>
+    <td>MěÚ Litovel - Kancelář tajemníka</td>
+    <td>-----</td>
+  </tr>
+  <tr>
     <td>31Nc 1901/2026</td>
     <td class="nowrap">30.4.2026-1.6.2026</td>
     <td><a href="/redakce/index.php?detail_claim=285701&amp;">Usnesení, veřejná vyhláška, o určení data smrti</a></td>
@@ -89,8 +98,8 @@ class SyncLitovelNoticesTest(unittest.TestCase):
     def test_parse_notice_board_keeps_only_resolution_and_budget_rows(self):
         notices = parse_notice_board(NOTICE_BOARD_HTML, "https://www.litovel.eu/cs/urad/uredni-deska/aktualni-oznameni.html")
 
-        self.assertEqual([notice.kind for notice in notices], ["budget_change", "resolution"])
-        self.assertEqual([notice.key for notice in notices], ["RO/9/2026", "RM/73/2026"])
+        self.assertEqual([notice.kind for notice in notices], ["budget_change", "resolution", "resolution"])
+        self.assertEqual([notice.key for notice in notices], ["RO/9/2026", "RM/73/2026", "ZM/26/2026"])
         self.assertEqual(
             notices[0].detail_url,
             "https://www.litovel.eu/redakce/index.php?detail_claim=288585&",

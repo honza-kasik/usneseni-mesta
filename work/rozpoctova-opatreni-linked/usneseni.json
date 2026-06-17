@@ -62600,6 +62600,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/1/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "ověřovatele zápisu.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/1/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -63051,6 +63069,41 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/10/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "schvaluje převedení části činnosti příspěvkové organizace Základní škola Litovel, Vítězná 1250, 784 01\nLitovel v rozsahu provozu plaveckého bazénu (včetně zajištění plaveckého výcviku), provozu kryté\nsportovní haly a venkovního hřiště (činnost uvedená ve zřizovací listině v čl. IV. odst. 1 písm. ad c) in fine\na písm. ad e), a převedení části činnosti města Litovel v rozsahu provozu sportovního areálu Sokolovny na\nspolečnost Aktivní Litovel s.r.o. s účinností od 1. 7. 2026, kterou jejich provozem od uvedeného data\npověřuje."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření Smlouvy o zajištění služby obecného hospodářského zájmu se společností Aktivní\nLitovel s.r.o. v předloženém znění."
+      },
+      {
+        "label": "c",
+        "text": "vyhrazuje si rozhodnutí o uzavření nájemní smlouvy mezi městem Litovel a společností Aktivní Litovel\ns.r.o. v předloženém znění a tuto smlouvu schvaluje s tím, že vyhrazení si pravomoci zastupitelstvo činí\njednorázově ve vztahu k uzavření smlouvy v souvislosti se schvalováním smlouvy o zajištění služby OHZ,\npřípadné pozdější změny smlouvy zůstávají nadále v kompetenci rady města."
+      },
+      {
+        "label": "d",
+        "text": "schvaluje dodatek č. 5 ke zřizovací listině Základní školy Litovel, Vítězná 1250, 784 01 Litovel, včetně\njejího úplného aktuálního znění v předložené podobě."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/10/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -63438,6 +63491,33 @@
     ],
     "subject": "Smlouvu o návratné finanční výpomoci uzavíranou mezi městem Litovel\nna straně poskytovatele a DSO Regionem Moravská cesta na straně příjemce v předloženém znění.",
     "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/11/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí informaci o výsledku kontroly dotační akce 14615371 – TJ TATRAN LITOVEL, z.s. –\nvýstavba nové kuželny."
+      },
+      {
+        "label": "b",
+        "text": "deklaruje vůli spolupodpořit TJ TATRAN LITOVEL, z.s. v řešení popsané situace, a to v rozsahu, který\nbude v souladu s platnými právními předpisy a možnostmi města."
+      }
+    ],
     "tail": null,
     "references_out": [],
     "amounts": [],
@@ -64556,6 +64636,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/12/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "adresný záměr zřízení práva stavby na pozemku parc.č. 856/81 k.ú. Litovel\nv předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/12/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -64988,6 +65086,26 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/13/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "prodej pozemků parc.č. 50/1, trvalý travní porost, o výměře 180 m2, parc.č.\n50/2, ostatní plocha/jiná plocha, o výměře 1 146 m2, parc.č. 51/4, zahrada, o výměře 9 387 m2 a parc.č. 51/9, ostatní\nplocha/zeleň, o výměře 2 180 m2, celkem 12 893 m2, vše k.ú. Chudobín, ROYAL V.I.P. s.r.o., IČ 29292123, za\núčelem zřízení občanské vybavenosti pro bezbariérové bydlení pro seniory včetně služeb a zdravotního zázemí.\nCena bude stanovena dle znaleckého posudku, v případě nižší ceny je minimální cena stanovena na 500 Kč/m2 +\nDPH. Veškeré vedlejší náklady hradí kupující.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "500 Kč"
+    ],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/13/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -65389,6 +65507,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/14/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "předloženou Darovací smlouvu mezi městem Litovel, jako obdarovaným,\na Olomouckým krajem, jako dárcem, jejímž předmětem je darování pozemků parc.č. 253/34, 253/35, 253/36,\n253/37, 253/38 a 253/39, vše k.ú. Nasobůrky, po dokončení akce „Smíšená stezka v profilu II/635 – Litovel,\nNasobůrky“.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/14/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -65698,6 +65834,24 @@
       "souhlasí"
     ],
     "subject": "s poskytnutím příslibu spolufinancování stavby nové loděnice v Litovli\nk případně získané dotaci Spolku TJ VS Litovel, z. s. Předpokládaná výše spolufinancování je 7,2 mil. Kč. Způsob\na podmínky spolufinancování a nakládání se vzniklým majetkem budou řešeny smluvně.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/15/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "stahuje bod"
+    ],
+    "subject": "13. 5. z programu jednání.",
     "items": [],
     "tail": null,
     "references_out": [],
@@ -66057,6 +66211,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/16/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "informaci Olomouckého kraje o budoucím využití bývalého\ndětského domova na ulici Husova 645/5 v Litovli, v majetku Olomouckého kraje a přilehlých pozemků\nparc.č. 77 a 76/2, k.ú. Litovel, v majetku města Litovel.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/16/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -66358,6 +66530,27 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/17/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "předloženou Kupní smlouvu mezi manželi G. a B. T., jako prodávajícími,\na městem Litovel, jako kupujícím, jejímž předmětem je koupě pozemku parc.č. 1811/14, o výměře 157 m2, ostatní\nplocha/ostatní komunikace, v k.ú. Litovel, za cenu 500 Kč/m2 vč. DPH, tj. 78 500 Kč. Vedlejší náklady hradí\nkupující.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "500 Kč",
+      "78 500 Kč"
+    ],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/17/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -66648,6 +66841,46 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/18/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "revokuje",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "revokuje usnesení ZM/7/22/2025/b."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje předložená Pravidla prodeje pozemků města Litovel – lokalita Pavlínka."
+      },
+      {
+        "label": "c",
+        "text": "schvaluje předložený Záměr zveřejnění prodeje pozemků parc.č. 838/1, 838/5 + 842/5 a 802 + 803, v k.ú.\nLitovel, za minimální cenu 2 800 Kč/m2 vč. DPH, za účelem výstavby tří rodinných domů."
+      }
+    ],
+    "tail": null,
+    "references_out": [
+      {
+        "raw": "ZM/7/22/2025",
+        "type": "explicit",
+        "resolved": "ZM/7/22/2025"
+      }
+    ],
+    "amounts": [
+      "2 800 Kč"
+    ],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/18/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -66916,6 +67149,24 @@
       "bere na vědomí"
     ],
     "subject": "informace o postupu přípravy napojení nemovitostí v místní části\nSavín na budovaný vodovodní řad.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/19/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Darovací smlouvy mezi městem Litovel na straně dárce\na Hasičským záchranným sborem Olomouckého kraje na straně obdarovaného, v předloženém znění.",
     "items": [],
     "tail": null,
     "references_out": [],
@@ -67360,6 +67611,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/2/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "doplněný program jednání včetně zařazení návrhu A. H. a stahuje bod\n13. 2.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/2/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -67612,6 +67881,40 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/20/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "schvaluje poskytnutí dotace ve výši 20 000 Kč pro taneční skupinu Kaster, která funguje pod Domem dětí\na mládeže, na účast na Grandfinále konaném dne 31. 5. 2026 v Praze."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a Domem dětí a mládeže Litovel\nv předloženém znění a rozpočtovou změnu týkající se této dotace."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [
+      "20 000 Kč"
+    ],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/11/2026",
+        "source": "ro_header"
+      }
+    ]
+  },
+  {
     "id": "ZM/20/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -67764,6 +68067,39 @@
     "references_in": [],
     "budget_change_links": [],
     "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/21/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje",
+      "souhlasí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "souhlasí s podáním žaloby a pokračováním v soudním řízení popsaném v důvodové zprávě."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje rozpočtovou změnu dle přílohy."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/11/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/21/5/2023",
@@ -67932,6 +68268,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/22/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "podání souhrnného návrhu na poskytnutí odměn členům ZML\na spolupracujícím občanům, dle důvodové zprávy, v termínu do 30. 9. 2026, kdy bude zároveň ukončena činnost\nkomisí a výborů, vyjma předsedy kontrolního a finančního výboru.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/22/5/2023",
     "datum": "2023-06-19",
     "organ": "Zastupitelstvo města Litovel",
@@ -68013,6 +68367,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/23/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "předložený Závěrečný účet Mikroregionu Litovelsko za rok 2025\na Účetní závěrku za rok 2025.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/24/11/2024",
     "datum": "2024-04-18",
     "organ": "Zastupitelstvo města Litovel",
@@ -68038,6 +68410,24 @@
       "souhlasí"
     ],
     "subject": "se záměrem „Intenzifikace kalového hospodářství ČOV Litovel s výstavbou\nbioplynové stanice“ a ukládá vedení města zahájit kroky k realizaci.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/24/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "informace o možnostech řešení situace domu na ul. 1. máje\nz důvodové zprávy.",
     "items": [],
     "tail": null,
     "references_out": [],
@@ -68095,6 +68485,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/25/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "deleguje"
+    ],
+    "subject": "jako zástupce města na valnou hromadu společnosti Servisní společnost\nodpady Olomouckého kraje, a.s., IČO 07686501, se sídlem Jeremenkova 1191/40a, Hodolany, 779 00 Olomouc,\nkterá se bude konat dne 12. 6. 2026, místostarostu města, Mgr. Lubomíra Brozu.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/26/20/2025",
     "datum": "2025-06-24",
     "organ": "Zastupitelstvo města Litovel",
@@ -68102,6 +68510,24 @@
       "bere na vědomí"
     ],
     "subject": "Závěrečný účet DSO Region Moravská cesta za rok 2024.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/26/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "stahuje bod"
+    ],
+    "subject": "navržený A. H. z programu jednání.",
     "items": [],
     "tail": null,
     "references_out": [],
@@ -68872,6 +69298,45 @@
       {
         "label": "d",
         "text": "bere na vědomí předložené zápisy z osadních výborů."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/3/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí kontrolu usnesení z 25. zasedání Zastupitelstva města Litovel."
+      },
+      {
+        "label": "b",
+        "text": "bere na vědomí zápis z jednání Kontrolního výboru ze dne 27. 5. 2026."
+      },
+      {
+        "label": "c",
+        "text": "bere na vědomí zápis z jednání Finančního výboru ze dne 1. 6. 2026."
+      },
+      {
+        "label": "d",
+        "text": "bere na vědomí předložené zápisy z osadních výborů."
+      },
+      {
+        "label": "e",
+        "text": "bere na vědomí zápis ze zasedání dozorčí rady společnosti Aktivní Litovel s.r.o. ze dne 13. 5. 2026."
       }
     ],
     "tail": null,
@@ -71324,6 +71789,24 @@
     ]
   },
   {
+    "id": "ZM/4/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "zprávu o činnosti Městské policie Litovel za rok 2025.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/4/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -72552,6 +73035,24 @@
       "21.000 Kč",
       "500 Kč"
     ],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/5/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí"
+    ],
+    "subject": "přehled o zjištěné trestné činnosti za rok 2025 ve srovnání s rokem\n2024.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
@@ -74313,6 +74814,287 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/6/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí důvodovou zprávu včetně příloh."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje dle důvodové zprávy a příloh rozpočtové změny 62/2026/ZM až 80/2026/ZM."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "62/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Úprava příjmů dle skutečnosti",
+        "affected_place": "Úprava příjmů dle skutečnosti",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "63/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "převody z ostatních vl. fondů",
+        "affected_place": "převody z ostatních vl. fondů",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "64/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Daň z příjmů PO v případech, kdy poplatníkem je obec …",
+        "affected_place": "Daň z příjmů PO v případech, kdy poplatníkem je obec …",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "65/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "oprava historické hasičské stříkačky",
+        "affected_place": "oprava historické hasičské stříkačky",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "66/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "PD - výsadba krajinných prvků - kompenzační opatření",
+        "affected_place": "výsadba krajinných prvků / kompenzační opatření",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "67/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Litovel - nová studna pro zahr. osadu II. Pavlínka",
+        "affected_place": "Litovel",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "68/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Litovel - veřejné WC - platební terminál",
+        "affected_place": "Litovel / veřejné WC",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "69/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Tři Dvory - nová lávka přes Třídvorku - PD",
+        "affected_place": "Tři Dvory / nová lávka přes Třídvorku",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "70/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "LITOVEL - OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR)",
+        "affected_place": "OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR)",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "71/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "LITOVEL - STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA) - ÚVĚR",
+        "affected_place": "STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA)",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "72/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Litovel - Smart WC do parku Míru",
+        "affected_place": "Litovel / Smart WC do parku Míru",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "73/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Koupaliště - materiál",
+        "affected_place": "Koupaliště / materiál",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "74/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Savín - splašková kanalizace - nájmy",
+        "affected_place": "Savín / splašková kanalizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "75/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Dne 11.5.2026 požádal odbor MH a SI o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "76/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "KŘ - čištění a monitoring kanalizace",
+        "affected_place": "čištění a monitoring kanalizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "77/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Rozpočtová změna týkající se pojistného plnění od Hasičské vzájemné pojišťovny, a. s. související s povodní v září 2024",
+        "affected_place": "Rozpočtová změna týkající se pojistného plnění od Hasičské vzájemné pojišťovny, a. s. související s povodní v září 2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "78/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "AKTIVNÍ LITOVEL S.R.O",
+        "affected_place": "AKTIVNÍ LITOVEL S.R.O",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "79/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "rekonstrukce recepce sportovní haly Vítězná a bazénu",
+        "affected_place": "rekonstrukce recepce sportovní haly Vítězná a bazénu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "80/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "modernizace a rozšíření kompostárny",
+        "affected_place": "modernizace a rozšíření kompostárny",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/11/2026",
+        "source": "ro_header"
+      }
+    ]
+  },
+  {
     "id": "ZM/6/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -75176,6 +75958,10 @@
       {
         "from": "RM/2323/74/2026",
         "action": "doporučuje"
+      },
+      {
+        "from": "ZM/18/26/2026",
+        "action": "revokuje"
       }
     ],
     "budget_change_links": [],
@@ -75250,6 +76036,38 @@
     ],
     "subject": "s úpravou Pravidel prodeje pozemků města Litovel – lokalita Pavlínka II.\netapa ve směru umožnění financování hypotečním úvěrem a ukládá odboru MH SI předložit návrh upravených\npravidel na příštím zastupitelstvu k projednání a schválení.",
     "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/7/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí důvodovou zprávu k předloženému materiálu včetně příloh."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje závěrečný účet města Litovel za rok 2025 a souhlasí s celoročním hospodařením, a to bez výhrad."
+      },
+      {
+        "label": "c",
+        "text": "schvaluje účetní závěrku města Litovel k 31. 12. 2025."
+      }
+    ],
     "tail": null,
     "references_out": [],
     "amounts": [],
@@ -75828,6 +76646,34 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/8/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "bere na vědomí",
+      "schvaluje"
+    ],
+    "subject": null,
+    "items": [
+      {
+        "label": "a",
+        "text": "bere na vědomí důvodovou zprávu včetně příloh."
+      },
+      {
+        "label": "b",
+        "text": "schvaluje střednědobý výhled rozpočtu města Litovel na období 2027–2030."
+      }
+    ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/8/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -76239,6 +77085,24 @@
       "schvaluje"
     ],
     "subject": "přijetí dotace na základě Rozhodnutí o poskytnutí dotace z Operačního\nprogramu Životního prostředí 2021 - 2027 na projekt „Instalace fotovoltaické elektrárny na ČOV ve městě Litovel“\ns reg. číslem: CZ.05.01.02/01/22_011/0001420 vč. spolufinancování akce, v předloženém znění.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/9/26/2026",
+    "datum": "2026-06-04",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "Strategický plán rozvoje města Litovel na období 2026–2036\nv předloženém znění a současně pověřuje vedení města prioritizováním a správou aktivit specifikovaných v Akčním\nplánu.",
     "items": [],
     "tail": null,
     "references_out": [],

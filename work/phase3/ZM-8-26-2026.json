@@ -1,0 +1,23 @@
+{
+  "id": "ZM/8/26/2026",
+  "datum": "2026-06-04",
+  "organ": "Zastupitelstvo města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje střednědobý výhled rozpočtu města Litovel na období 2027–2030."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

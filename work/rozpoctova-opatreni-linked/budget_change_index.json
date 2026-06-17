@@ -38731,6 +38731,604 @@
     "plain_title": "DSO Region Moravská cesta - předfinancování projektu MOSPREMA 2.0. - NFV",
     "affected_place": "DSO Region Moravská cesta"
   },
+  "62/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "183 547,71",
+        "amount_value": 183547.71,
+        "description": "příjmy z odvodů za odnětí půdy ze ZPF (RZ 62/2026/ZM"
+      },
+      {
+        "section_type": "prijmy",
+        "row_number": 2,
+        "amount": "411 912,01",
+        "amount_value": 411912.01,
+        "description": "příjmy z úhrad za dobývání nerostů a popl. za geolog. práci (RZ 62/2026/ZM"
+      },
+      {
+        "section_type": "prijmy",
+        "row_number": 3,
+        "amount": "9 505,76",
+        "amount_value": 9505.76,
+        "description": "ostatní příjmy z vlastní činnosti (RZ 62/2026/ZM"
+      },
+      {
+        "section_type": "prijmy",
+        "row_number": 4,
+        "amount": "240 206,57",
+        "amount_value": 240206.57,
+        "description": "příjem z pronájmu nebo pachtu movitých věcí (RZ 62/2026/ZM"
+      },
+      {
+        "section_type": "prijmy",
+        "row_number": 5,
+        "amount": "1 200,00",
+        "amount_value": 1200.0,
+        "description": "příjem z prodeje kr. a drobného dl. nein. majetku (RZ 62/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 1,
+        "amount": "-846 372,05",
+        "amount_value": -846372.05,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 62/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Úprava příjmů dle skutečnosti",
+    "affected_place": "Úprava příjmů dle skutečnosti"
+  },
+  "63/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 6,
+        "amount": "4 397 778,00",
+        "amount_value": 4397778.0,
+        "description": "převody z ostatních vl. fondů (RZ 63/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 2,
+        "amount": "-4 397 778,00",
+        "amount_value": -4397778.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 63/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "převody z ostatních vl. fondů",
+    "affected_place": "převody z ostatních vl. fondů"
+  },
+  "64/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 7,
+        "amount": "483 630,00",
+        "amount_value": 483630.0,
+        "description": "Daň z příjmů PO v případech, kdy poplatníkem je obec …. (RZ 64/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "483 630,00",
+        "amount_value": 483630.0,
+        "description": "Daň z příjmů za obce (RZ 64/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Daň z příjmů PO v případech, kdy poplatníkem je obec …",
+    "affected_place": "Daň z příjmů PO v případech, kdy poplatníkem je obec …"
+  },
+  "65/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "250 000,00",
+        "amount_value": 250000.0,
+        "description": "oprava historické hasičské stříkačky (RZ 65/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 3,
+        "amount": "250 000,00",
+        "amount_value": 250000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 65/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "oprava historické hasičské stříkačky",
+    "affected_place": "oprava historické hasičské stříkačky"
+  },
+  "66/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "236 000,00",
+        "amount_value": 236000.0,
+        "description": "PD - výsadba krajinných prvků - kompenzační opatření (RZ 66/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 4,
+        "amount": "236 000,00",
+        "amount_value": 236000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 66/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "PD - výsadba krajinných prvků - kompenzační opatření",
+    "affected_place": "výsadba krajinných prvků / kompenzační opatření"
+  },
+  "67/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "110 000,00",
+        "amount_value": 110000.0,
+        "description": "Litovel - nová studna pro zahr. osadu II. Pavlínka (RZ 67/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 5,
+        "amount": "110 000,00",
+        "amount_value": 110000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 67/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Litovel - nová studna pro zahr. osadu II. Pavlínka",
+    "affected_place": "Litovel"
+  },
+  "68/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "135 000,00",
+        "amount_value": 135000.0,
+        "description": "Litovel - veřejné WC - platební terminál (RZ 68/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 6,
+        "amount": "135 000,00",
+        "amount_value": 135000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 68/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Litovel - veřejné WC - platební terminál",
+    "affected_place": "Litovel / veřejné WC"
+  },
+  "69/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "325 490,00",
+        "amount_value": 325490.0,
+        "description": "Tři Dvory - nová lávka přes Třídvorku - PD (RZ 69/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 7,
+        "amount": "325 490,00",
+        "amount_value": 325490.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 69/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Tři Dvory - nová lávka přes Třídvorku - PD",
+    "affected_place": "Tři Dvory / nová lávka přes Třídvorku"
+  },
+  "70/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "5 000 000,00",
+        "amount_value": 5000000.0,
+        "description": "LITOVEL - OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR) (RZ 70/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "1 000 000,00",
+        "amount_value": 1000000.0,
+        "description": "LITOVEL - OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR) (RZ 70/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 8,
+        "amount": "6 000 000,00",
+        "amount_value": 6000000.0,
+        "description": "dlouhodobě přijaté půjčené prostředky (RZ 70/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "LITOVEL - OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR)",
+    "affected_place": "OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR)"
+  },
+  "71/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "4 500 000,00",
+        "amount_value": 4500000.0,
+        "description": "LITOVEL - STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA) - ÚVĚR (RZ 71/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 29,
+        "amount": "700 000,00",
+        "amount_value": 700000.0,
+        "description": "Litovel - stavební úpravy a změna v užívání 1. NP a zateplení BD (Poděbradova) - prostředky města (RZ 71/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 9,
+        "amount": "4 500 000,00",
+        "amount_value": 4500000.0,
+        "description": "dlouhodobě přijaté půjčené prostředky (RZ 71/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 10,
+        "amount": "700 000,00",
+        "amount_value": 700000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 71/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "LITOVEL - STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA) - ÚVĚR",
+    "affected_place": "STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA)"
+  },
+  "72/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "700 000,00",
+        "amount_value": 700000.0,
+        "description": "Litovel - Smart WC do parku Míru (RZ 72/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 11,
+        "amount": "700 000,00",
+        "amount_value": 700000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 72/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Litovel - Smart WC do parku Míru",
+    "affected_place": "Litovel / Smart WC do parku Míru"
+  },
+  "73/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "150 000,00",
+        "amount_value": 150000.0,
+        "description": "Koupaliště - materiál (RZ 73/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "100 000,00",
+        "amount_value": 100000.0,
+        "description": "Koupaliště - nákup ostatních služeb (RZ 73/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 12,
+        "amount": "250 000,00",
+        "amount_value": 250000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 73/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Koupaliště - materiál",
+    "affected_place": "Koupaliště / materiál"
+  },
+  "74/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "30 000,00",
+        "amount_value": 30000.0,
+        "description": "Savín - splašková kanalizace - nájmy (RZ 74/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "520 000,00",
+        "amount_value": 520000.0,
+        "description": "Savín - vodovod - nájmy (RZ 74/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 13,
+        "amount": "550 000,00",
+        "amount_value": 550000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 74/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Savín - splašková kanalizace - nájmy",
+    "affected_place": "Savín / splašková kanalizace"
+  },
+  "75/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 15,
+        "amount": "-20 000 000,00",
+        "amount_value": -20000000.0,
+        "description": "UNČOVICE - REKONSTRUKCE KOMUNIKACE ZÁPAD + DEŠŤOVÁ KANALIZACE (ÚVĚR) (RZ 75/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 16,
+        "amount": "9 800 000,00",
+        "amount_value": 9800000.0,
+        "description": "UNČOVICE - REKONSTRUKCE KOMUNIKACE ZÁPAD (ÚVĚR) (RZ 75/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 17,
+        "amount": "10 200 000,00",
+        "amount_value": 10200000.0,
+        "description": "UNČOVICE - DEŠŤOVÁ KANALIZACE (ÚVĚR) (RZ 75/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 18,
+        "amount": "3 000 000,00",
+        "amount_value": 3000000.0,
+        "description": "UNČOVICE - DEŠŤOVÁ KANALIZACE (ÚVĚR) (RZ 75/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 14,
+        "amount": "3 000 000,00",
+        "amount_value": 3000000.0,
+        "description": "dlouhodobě přijaté půjčené prostředky (RZ 75/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Dne 11.5.2026 požádal odbor MH a SI o rozpočtovou změnu",
+    "affected_place": ""
+  },
+  "76/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 19,
+        "amount": "300 000,00",
+        "amount_value": 300000.0,
+        "description": "KŘ - čištění a monitoring kanalizace (RZ 76/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 15,
+        "amount": "300 000,00",
+        "amount_value": 300000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 76/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "KŘ - čištění a monitoring kanalizace",
+    "affected_place": "čištění a monitoring kanalizace"
+  },
+  "77/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 8,
+        "amount": "578 229,00",
+        "amount_value": 578229.0,
+        "description": "přijaté pojistné plnění (RZ 77/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 20,
+        "amount": "226 108,00",
+        "amount_value": 226108.0,
+        "description": "TJ Tatran Litovel - pojistné plnění - povodeň (RZ 77/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 21,
+        "amount": "75 146,43",
+        "amount_value": 75146.43,
+        "description": "Hasičská zbrojnice Tři Dvory - oprava podlah v garážích - povodeň (RZ 77/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 16,
+        "amount": "-276 974,57",
+        "amount_value": -276974.57,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 77/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "Rozpočtová změna týkající se pojistného plnění od Hasičské vzájemné pojišťovny, a. s. související s povodní v září 2024",
+    "affected_place": "Rozpočtová změna týkající se pojistného plnění od Hasičské vzájemné pojišťovny, a. s. související s povodní v září 2024"
+  },
+  "78/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 22,
+        "amount": "-2 000 000,00",
+        "amount_value": -2000000.0,
+        "description": "ZŠ VÍTĚZNÁ - NEINVESTIČNÍ PŘÍSPĚVEK NA PROVOZ HALY A BAZÉNU (RZ 78/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 23,
+        "amount": "2 000 000,00",
+        "amount_value": 2000000.0,
+        "description": "AKTIVNÍ LITOVEL S.R.O. (RZ 78/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "AKTIVNÍ LITOVEL S.R.O",
+    "affected_place": "AKTIVNÍ LITOVEL S.R.O"
+  },
+  "79/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 24,
+        "amount": "290 000,00",
+        "amount_value": 290000.0,
+        "description": "rekonstrukce recepce sportovní haly Vítězná a bazénu (RZ 79/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 17,
+        "amount": "290 000,00",
+        "amount_value": 290000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 79/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "rekonstrukce recepce sportovní haly Vítězná a bazénu",
+    "affected_place": "rekonstrukce recepce sportovní haly Vítězná a bazénu"
+  },
+  "80/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 25,
+        "amount": "75 000,00",
+        "amount_value": 75000.0,
+        "description": "modernizace a rozšíření kompostárny (RZ 80/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 18,
+        "amount": "75 000,00",
+        "amount_value": 75000.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech … (RZ 80/2026/ZM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2352/74/2026"
+    ],
+    "plain_title": "modernizace a rozšíření kompostárny",
+    "affected_place": "modernizace a rozšíření kompostárny"
+  },
+  "81/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 26,
+        "amount": "-20 000,00",
+        "amount_value": -20000.0,
+        "description": "Transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 81/2026/ZM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 27,
+        "amount": "20 000,00",
+        "amount_value": 20000.0,
+        "description": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze (RZ 81/2026/ZM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze",
+    "affected_place": "DDM Litovel"
+  },
+  "82/2026/ZM": {
+    "opatreni_id": "RO/11/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 28,
+        "amount": "275 492,00",
+        "amount_value": 275492.0,
+        "description": "soudní poplatek (RZ 82/2026/ZM"
+      },
+      {
+        "section_type": "financovani",
+        "row_number": 19,
+        "amount": "275 492,00",
+        "amount_value": 275492.0,
+        "description": "změna stavu krátkodobých prostředků na bankovních účtech ... (RZ 82/2026/ZM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "soudní poplatek",
+    "affected_place": "soudní poplatek"
+  },
   "22/2027/RM": {
     "opatreni_id": "RO/5/2024",
     "rows": [

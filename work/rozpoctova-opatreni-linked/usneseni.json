@@ -39621,7 +39621,255 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "62/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Úprava příjmů dle skutečnosti",
+        "affected_place": "Úprava příjmů dle skutečnosti",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "63/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "převody z ostatních vl. fondů",
+        "affected_place": "převody z ostatních vl. fondů",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "64/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Daň z příjmů PO v případech, kdy poplatníkem je obec …",
+        "affected_place": "Daň z příjmů PO v případech, kdy poplatníkem je obec …",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "65/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "oprava historické hasičské stříkačky",
+        "affected_place": "oprava historické hasičské stříkačky",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "66/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "PD - výsadba krajinných prvků - kompenzační opatření",
+        "affected_place": "výsadba krajinných prvků / kompenzační opatření",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "67/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Litovel - nová studna pro zahr. osadu II. Pavlínka",
+        "affected_place": "Litovel",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "68/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Litovel - veřejné WC - platební terminál",
+        "affected_place": "Litovel / veřejné WC",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "69/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Tři Dvory - nová lávka přes Třídvorku - PD",
+        "affected_place": "Tři Dvory / nová lávka přes Třídvorku",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "70/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "LITOVEL - OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR)",
+        "affected_place": "OPRAVA SVATOJÁNSKÉHO MOSTU (ÚVĚR)",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "71/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "LITOVEL - STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA) - ÚVĚR",
+        "affected_place": "STAVEBNÍ ÚPRAVY A ZMĚNA V UŽÍVÁNÍ 1. NP A ZATEPLENÍ BD (PODĚBRADOVA)",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "72/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Litovel - Smart WC do parku Míru",
+        "affected_place": "Litovel / Smart WC do parku Míru",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "73/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Koupaliště - materiál",
+        "affected_place": "Koupaliště / materiál",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "74/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Savín - splašková kanalizace - nájmy",
+        "affected_place": "Savín / splašková kanalizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "75/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Dne 11.5.2026 požádal odbor MH a SI o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 5
+      },
+      {
+        "budget_change_id": "76/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "KŘ - čištění a monitoring kanalizace",
+        "affected_place": "čištění a monitoring kanalizace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "77/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "Rozpočtová změna týkající se pojistného plnění od Hasičské vzájemné pojišťovny, a. s. související s povodní v září 2024",
+        "affected_place": "Rozpočtová změna týkající se pojistného plnění od Hasičské vzájemné pojišťovny, a. s. související s povodní v září 2024",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 4
+      },
+      {
+        "budget_change_id": "78/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "AKTIVNÍ LITOVEL S.R.O",
+        "affected_place": "AKTIVNÍ LITOVEL S.R.O",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "79/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "rekonstrukce recepce sportovní haly Vítězná a bazénu",
+        "affected_place": "rekonstrukce recepce sportovní haly Vítězná a bazénu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "80/2026/ZM",
+        "opatreni_id": "RO/11/2026",
+        "plain_title": "modernizace a rozšíření kompostárny",
+        "affected_place": "modernizace a rozšíření kompostárny",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {

@@ -20,6 +20,7 @@ import pdfplumber
 import re
 import json
 import sys
+import unicodedata
 from pathlib import Path
 
 
@@ -76,6 +77,21 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{2,}", "\n", text)
     return text.strip()
+
+
+def strip_rejected_proposals(text: str) -> str:
+    lines = text.splitlines()
+    for index, line in enumerate(lines):
+        folded = (
+            unicodedata.normalize("NFKD", line)
+            .encode("ascii", "ignore")
+            .decode("ascii")
+            .lower()
+            .strip()
+        )
+        if folded.startswith("navrhy, ktere nebyly prijaty"):
+            return "\n".join(lines[:index]).strip()
+    return text
 
 
 # ---------- DATUM ----------
@@ -159,6 +175,7 @@ def detect_organ_from_id(text: str):
 
 def parse_text(text: str, extra: dict | None = None) -> tuple[list[dict], str | None]:
     clean_text = normalize_text(text)
+    clean_text = strip_rejected_proposals(clean_text)
 
     datum = parse_cz_date(clean_text)
     if not datum:

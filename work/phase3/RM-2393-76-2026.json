@@ -1,0 +1,24 @@
+{
+  "id": "RM/2393/76/2026",
+  "datum": "2026-06-25",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s převodem částky 175.000 Kč z rezervního fondu Základní školy Litovel, Vítězná 1250, okres Olomouc\ndo fondu investičního."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s čerpáním investičního fondu Základní školy Litovel, Vítězná 1250, okres Olomouc opravu\npolykarbonátových podhledů ve výši skutečných nákladů, maximálně částky 175.000 Kč."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "175.000 Kč"
+  ]
+}

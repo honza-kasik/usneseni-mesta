@@ -1,0 +1,24 @@
+{
+  "id": "RM/2392/76/2026",
+  "datum": "2026-06-25",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s čerpáním částky 732.000 Kč z investičního fondu Školní jídelny Litovel, příspěvkové organizace na\npořízení elektrického konvektomatu a na pořízení videovrátného na ovládání vstupu do budovy ŠJ."
+    },
+    {
+      "label": "b",
+      "text": "souhlasí s podáním žádosti o dotaci ze Státního zemědělského intervenčního fondu (SZIF) prostřednictvím\nmístní akční skupiny (MAS) na pořízení elektrického konvektomatu do školní jídelny."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "732.000 Kč"
+  ]
+}

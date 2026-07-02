@@ -1,9 +1,9 @@
 {
-  "total_resolutions": 2757,
-  "total_opatreni": 106,
-  "budget_change_ids": 1285,
-  "approval_links": 107,
-  "budget_change_links": 1049,
+  "total_resolutions": 2796,
+  "total_opatreni": 107,
+  "budget_change_ids": 1294,
+  "approval_links": 109,
+  "budget_change_links": 1057,
   "corrected_source_resolutions": [
     {
       "raw": "RM/2139/69/2016",
@@ -34,6 +34,6 @@
       "resolution_id": "ZM/17/34/2022"
     }
   ],
-  "resolutions_with_budget_change_links": 111,
-  "opatreni_with_resolution_links": 86
+  "resolutions_with_budget_change_links": 112,
+  "opatreni_with_resolution_links": 87
 }

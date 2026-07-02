@@ -1,0 +1,311 @@
+{
+  "id": "RO/12/2026",
+  "number": 12,
+  "year": 2026,
+  "approval_date": "2026-06-25",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 76,
+    "type": "schůzi",
+    "date": "2026-06-25"
+  },
+  "source_resolutions": [
+    "RM/2376/76/2026",
+    "RM/2390/76/2026"
+  ],
+  "budget_change_ids": [
+    "134/2026/RM",
+    "135/2026/RM",
+    "136/2026/RM",
+    "137/2026/RM",
+    "138/2026/RM",
+    "139/2026/RM",
+    "140/2026/RM",
+    "141/2026/RM",
+    "142/2026/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "134/2026/RM",
+          "raw_codes": [
+            "4122",
+            "582"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Služby TIC Litovel 2026 (RZ 134/2026/RM"
+        },
+        {
+          "budget_change_id": "135/2026/RM",
+          "raw_codes": [
+            "4122",
+            "555"
+          ],
+          "amount": "98 000,00",
+          "amount_value": 98000.0,
+          "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Hanácké Benátky 2026 (RZ 135/2026/RM"
+        },
+        {
+          "budget_change_id": "136/2026/RM",
+          "raw_codes": [
+            "4116",
+            "13015"
+          ],
+          "amount": "-42 266,00",
+          "amount_value": -42266.0,
+          "description": "MPSV ČR - účelová neinv. dotace na výkon sociální práce (RZ 136/2026/RM"
+        },
+        {
+          "budget_change_id": "139/2026/RM",
+          "raw_codes": [
+            "3429",
+            "2321"
+          ],
+          "amount": "40 000,00",
+          "amount_value": 40000.0,
+          "description": "přijaté peněžité neinvestiční dary (RZ 139/2026/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "134/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "582",
+            "4 000 000"
+          ],
+          "amount": "30 000,00",
+          "amount_value": 30000.0,
+          "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Služby TIC 2026 - převod dotace příjemci (RZ 134/2026/RM"
+        },
+        {
+          "budget_change_id": "135/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5336",
+            "555",
+            "4 000 000"
+          ],
+          "amount": "98 000,00",
+          "amount_value": 98000.0,
+          "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Hanácké Benátky 2026 - převod dotace příjemci (RZ 135/2026/RM"
+        },
+        {
+          "budget_change_id": "136/2026/RM",
+          "raw_codes": [
+            "6171",
+            "5169",
+            "13015",
+            "5 000 000"
+          ],
+          "amount": "-42 266,00",
+          "amount_value": -42266.0,
+          "description": "MPSV ČR - účelová neinv. dotace na výkon sociální práce - čerpání (RZ 136/2026/RM"
+        },
+        {
+          "budget_change_id": "137/2026/RM",
+          "raw_codes": [
+            "1014",
+            "6322",
+            "7 000 000"
+          ],
+          "amount": "-80 000,00",
+          "amount_value": -80000.0,
+          "description": "Kitt & Café Toulavý ráj z.s. - dotace na podporu činnosti spolku (RZ 137/2026/RM"
+        },
+        {
+          "budget_change_id": "137/2026/RM",
+          "raw_codes": [
+            "1014",
+            "5222",
+            "7 000 000"
+          ],
+          "amount": "80 000,00",
+          "amount_value": 80000.0,
+          "description": "Kitt & Café Toulavý ráj z.s. - dotace na podporu činnosti spolku (RZ 137/2026/RM"
+        },
+        {
+          "budget_change_id": "138/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5339",
+            "4 000 407"
+          ],
+          "amount": "-20 000,00",
+          "amount_value": -20000.0,
+          "description": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze (RZ 138/2026/RM"
+        },
+        {
+          "budget_change_id": "138/2026/RM",
+          "raw_codes": [
+            "3421",
+            "5339",
+            "4 000 407"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze (RZ 138/2026/RM"
+        },
+        {
+          "budget_change_id": "139/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5139",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "10 000,00",
+          "amount_value": 10000.0,
+          "description": "Nová Ves - dar kamenolom - čerpání (RZ 139/2026/RM"
+        },
+        {
+          "budget_change_id": "139/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5175",
+            "303",
+            "2 030 000"
+          ],
+          "amount": "20 000,00",
+          "amount_value": 20000.0,
+          "description": "Nová Ves - dar kamenolom - čerpání (RZ 139/2026/RM"
+        },
+        {
+          "budget_change_id": "140/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "-395 290,00",
+          "amount_value": -395290.0,
+          "description": "Chořelice - rezerva (RZ 140/2026/RM"
+        },
+        {
+          "budget_change_id": "140/2026/RM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "307",
+            "2 030 000"
+          ],
+          "amount": "395 290,00",
+          "amount_value": 395290.0,
+          "description": "Chořelice - oprava kaple (RZ 140/2026/RM"
+        },
+        {
+          "budget_change_id": "141/2026/RM",
+          "raw_codes": [
+            "3639",
+            "6119",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "-249 525,00",
+          "amount_value": -249525.0,
+          "description": "Myslechovice - studie bývalé ZŠ a pasport pozemku (RZ 141/2026/RM"
+        },
+        {
+          "budget_change_id": "141/2026/RM",
+          "raw_codes": [
+            "3326",
+            "5171",
+            "301",
+            "2 030 000"
+          ],
+          "amount": "249 525,00",
+          "amount_value": 249525.0,
+          "description": "Myslechovice - oprava kaple (RZ 141/2026/RM"
+        },
+        {
+          "budget_change_id": "142/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-5 000,00",
+          "amount_value": -5000.0,
+          "description": "transfery, dary a příspěvky dle rozhodnutí ZML a RML (RZ 142/2026/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 134/2026/RM",
+      "text": "Dne 1.6.2026 přijalo město Litovel na svůj účet dotaci od Olomouckého kraje. Finanční prostředky jsou určeny pro Městský klub Litovel na částečnou úhradu výdajů na Služby TIC Litovel 2026."
+    },
+    {
+      "title": "Rozpočtová změna č. 135/2026/RM",
+      "text": "Dne 3.6.2026 přijalo město Litovel na svůj účet dotaci od Olomouckého kraje. Finanční prostředky jsou určeny pro Městský klub Litovel na částečnou úhradu výdajů na Hanácké Benátky 2026."
+    },
+    {
+      "title": "Rozpočtová změna č. 136/2026/RM",
+      "text": "Ve schváleném rozpočtu je rozpočtována dotace na výkon sociální práce v souladu s ustanovením § 92 a § 93a zákona č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů ve výši 356 227,00 Kč. Na základě rozhodnutí o poskytnutí dotace činí výše této dotace 313 961,00 Kč. Je nutná úprava rozpočtu dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 137/2026/RM",
+      "text": "Dne 14.5.2026 byla RM schválena rozpočtová změna týkající se dotace pro Kitt & Café Toulavý ráj, z.s. na podporu činnosti spolku. Dotace může být příjemcem použita jen na náklady na veterinární péči a na nákup krmiva pro kočky umístěné v útulku. U této dotace byla zvolena položka 6322 (Investiční transfery spolkům), ale jelikož se jedná o neinvestiční transfer, je nutné změnit položku."
+    },
+    {
+      "title": "Rozpočtová změna č. 138/2026/RM",
+      "text": "Dne 4.6.2026 byla ZML schválena dotace pro taneční skupinu Kaster, která funguje pod DDM Litovel, na účast na Grandfinále konaném dne 31.5.2026 v Praze a s ní související rozpočtová změna. U této rozpočtové změny byl zvolen odpa 3419 (Ostatní sportovní činnost). Pro činnost DDM je dle rozpočtové skladby vhodnější odpa 3421 (Využití volného času dětí a mládeže)."
+    },
+    {
+      "title": "Rozpočtová změna č. 139/2026/RM",
+      "text": "Dne 4.6.2026 přijalo město Litovel na svůj účet dar od Heidelberg Materials."
+    },
+    {
+      "title": "Rozpočtová změna č. 140/2026/RM",
+      "text": "Dne 17.6.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 141/2026/RM",
+      "text": "Dne 17.6.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 142/2026/RM",
+      "text": "Dar poskytnutý na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c._12_2026_dne_25._cervna_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 12/2026 schválené Radou města Litovel\ndne 25. června 2026\nRozpočtové opatření bylo schváleno na 76. schůzi Rady města Litovel dne 25. června 2026 na základě usnesení\nRM/2376/76/2026, RM/2390/76/2026.\nZměny v příjmech:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\nOlomoucký kraj - účelová neinv. dotace pro\n4122 582 30 000,00 Městský klub - Služby TIC Litovel 2026\n(RZ 134/2026/RM)\nOlomoucký kraj - účelová neinv. dotace pro\n4122 555 98 000,00 Městský klub - Hanácké Benátky 2026 (RZ\n135/2026/RM)\nMPSV ČR - účelová neinv. dotace na výkon\n4116 13015 -42 266,00\nsociální práce (RZ 136/2026/RM)\npřijaté peněžité neinvestiční dary (RZ\n3429 2321 40 000,00\n139/2026/RM)\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\nOlomoucký kraj - účelová neinv. dotace pro\n3392 5336 582 4 000 000 30 000,00 Městský klub - Služby TIC 2026 - převod\ndotace příjemci (RZ 134/2026/RM)\nOlomoucký kraj - účelová neinv. dotace pro\n3392 5336 555 4 000 000 98 000,00 Městský klub - Hanácké Benátky 2026 -\npřevod dotace příjemci (RZ 135/2026/RM)\nMPSV ČR - účelová neinv. dotace na výkon\n6171 5169 13015 5 000 000 -42 266,00\nsociální práce - čerpání (RZ 136/2026/RM)\nKitt & Café Toulavý ráj z.s. - dotace na\n1014 6322 7 000 000 -80 000,00\npodporu činnosti spolku (RZ 137/2026/RM)\nKitt & Café Toulavý ráj z.s. - dotace na\n1014 5222 7 000 000 80 000,00\npodporu činnosti spolku (RZ 137/2026/RM)\nDDM Litovel - dotace pro taneční skupinu\nKaster, která funguje pod DDM, na účast na\n3419 5339 4 000 407 -20 000,00\nGrandfinále konaném dne 31.5.2026 v Praze\n(RZ 138/2026/RM)\nDDM Litovel - dotace pro taneční skupinu\nKaster, která funguje pod DDM, na účast na\n3421 5339 4 000 407 20 000,00\nGrandfinále konaném dne 31.5.2026 v Praze\n(RZ 138/2026/RM)\nNová Ves - dar kamenolom - čerpání (RZ\n3429 5139 303 2 030 000 10 000,00\n139/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nNová Ves - dar kamenolom - čerpání (RZ\n3429 5169 303 2 030 000 10 000,00\n139/2026/RM)\nNová Ves - dar kamenolom - čerpání (RZ\n3429 5175 303 2 030 000 20 000,00\n139/2026/RM)\n3639 5901 307 2 030 000 -395 290,00 Chořelice - rezerva (RZ 140/2026/RM)\n3326 5171 307 2 030 000 395 290,00 Chořelice - oprava kaple (RZ 140/2026/RM)\nMyslechovice - studie bývalé ZŠ a pasport\n3639 6119 301 2 030 000 -249 525,00\npozemku (RZ 141/2026/RM)\nMyslechovice - oprava kaple (RZ\n3326 5171 301 2 030 000 249 525,00\n141/2026/RM)\ntransfery, dary a příspěvky dle rozhodnutí\n3429 5901 4 000 000 -5 000,00\nZML a RML (RZ 142/2026/RM)\nČeský svaz chovatelů, z.s., Klub chovatelů\nholubů velkých voláčů - dar na činnost\nklubu v roce 2026 a na organizační zajištění\n3429 5222 4 000 000 5 000,00\nmezinárodní výstavy velkých voláčů, která\nse bude konat dne 31.10.2026 v Litovli (RZ\n142/RM/2026)\nRozpočtová změna č. 134/2026/RM\nDne 1.6.2026 přijalo město Litovel na svůj účet dotaci od Olomouckého kraje. Finanční prostředky jsou určeny pro\nMěstský klub Litovel na částečnou úhradu výdajů na Služby TIC Litovel 2026.\nRozpočtová změna č. 135/2026/RM\nDne 3.6.2026 přijalo město Litovel na svůj účet dotaci od Olomouckého kraje. Finanční prostředky jsou určeny pro\nMěstský klub Litovel na částečnou úhradu výdajů na Hanácké Benátky 2026.\nRozpočtová změna č. 136/2026/RM\nVe schváleném rozpočtu je rozpočtována dotace na výkon sociální práce v souladu s ustanovením § 92 a § 93a zákona\nč. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů ve výši 356 227,00 Kč. Na základě rozhodnutí o\nposkytnutí dotace činí výše této dotace 313 961,00 Kč. Je nutná úprava rozpočtu dle skutečnosti.\nRozpočtová změna č. 137/2026/RM\nDne 14.5.2026 byla RM schválena rozpočtová změna týkající se dotace pro Kitt & Café Toulavý ráj, z.s. na podporu\nčinnosti spolku. Dotace může být příjemcem použita jen na náklady na veterinární péči a na nákup krmiva pro kočky\numístěné v útulku. U této dotace byla zvolena položka 6322 (Investiční transfery spolkům), ale jelikož se jedná o\nneinvestiční transfer, je nutné změnit položku.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtová změna č. 138/2026/RM\nDne 4.6.2026 byla ZML schválena dotace pro taneční skupinu Kaster, která funguje pod DDM Litovel, na účast na\nGrandfinále konaném dne 31.5.2026 v Praze a s ní související rozpočtová změna. U této rozpočtové změny byl zvolen\nodpa 3419 (Ostatní sportovní činnost). Pro činnost DDM je dle rozpočtové skladby vhodnější odpa 3421 (Využití\nvolného času dětí a mládeže).\nRozpočtová změna č. 139/2026/RM\nDne 4.6.2026 přijalo město Litovel na svůj účet dar od Heidelberg Materials.\nRozpočtová změna č. 140/2026/RM\nDne 17.6.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 141/2026/RM\nDne 17.6.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 142/2026/RM\nDar poskytnutý na základě žádosti.\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 1.7.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100",
+  "resolution_links": [
+    {
+      "resolution_id": "RM/2376/76/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2390/76/2026",
+      "relation": "approves_opatreni",
+      "source": "ro_header"
+    },
+    {
+      "resolution_id": "RM/2390/76/2026",
+      "relation": "mentions_budget_change",
+      "budget_change_ids": [
+        "134/2026/RM",
+        "135/2026/RM",
+        "136/2026/RM",
+        "137/2026/RM",
+        "138/2026/RM",
+        "139/2026/RM",
+        "140/2026/RM",
+        "141/2026/RM"
+      ]
+    }
+  ]
+}

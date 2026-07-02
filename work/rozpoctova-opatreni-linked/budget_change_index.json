@@ -36982,6 +36982,220 @@
     "plain_title": "I.V. - dotace na pronájem sportovní haly a venkovních sportovišť při pořádání krajských sportovních her seniorů",
     "affected_place": "pronájem sportovní haly a venkovních sportovišť při pořádání krajských sportovních her seniorů"
   },
+  "134/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "30 000,00",
+        "amount_value": 30000.0,
+        "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Služby TIC Litovel 2026 (RZ 134/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "30 000,00",
+        "amount_value": 30000.0,
+        "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Služby TIC 2026 - převod dotace příjemci (RZ 134/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Služby TIC",
+    "affected_place": "Olomoucký kraj"
+  },
+  "135/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 2,
+        "amount": "98 000,00",
+        "amount_value": 98000.0,
+        "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Hanácké Benátky 2026 (RZ 135/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "98 000,00",
+        "amount_value": 98000.0,
+        "description": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Hanácké Benátky 2026 - převod dotace příjemci (RZ 135/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "Olomoucký kraj - účelová neinv. dotace pro Městský klub - Hanácké Benátky 2026",
+    "affected_place": "Olomoucký kraj"
+  },
+  "136/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 3,
+        "amount": "-42 266,00",
+        "amount_value": -42266.0,
+        "description": "MPSV ČR - účelová neinv. dotace na výkon sociální práce (RZ 136/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "-42 266,00",
+        "amount_value": -42266.0,
+        "description": "MPSV ČR - účelová neinv. dotace na výkon sociální práce - čerpání (RZ 136/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "MPSV ČR - účelová neinv. dotace na výkon sociální práce",
+    "affected_place": "účelová neinv. dotace na výkon sociální práce"
+  },
+  "137/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "-80 000,00",
+        "amount_value": -80000.0,
+        "description": "Kitt & Café Toulavý ráj z.s. - dotace na podporu činnosti spolku (RZ 137/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "80 000,00",
+        "amount_value": 80000.0,
+        "description": "Kitt & Café Toulavý ráj z.s. - dotace na podporu činnosti spolku (RZ 137/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "Kitt & Café Toulavý ráj z.s. - dotace na podporu činnosti spolku",
+    "affected_place": "Kitt & Café Toulavý ráj z.s / podporu činnosti spolku"
+  },
+  "138/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "-20 000,00",
+        "amount_value": -20000.0,
+        "description": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze (RZ 138/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "20 000,00",
+        "amount_value": 20000.0,
+        "description": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze (RZ 138/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "DDM Litovel - dotace pro taneční skupinu Kaster, která funguje pod DDM, na účast na Grandfinále konaném dne 31.5.2026 v Praze",
+    "affected_place": "DDM Litovel"
+  },
+  "139/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 4,
+        "amount": "40 000,00",
+        "amount_value": 40000.0,
+        "description": "přijaté peněžité neinvestiční dary (RZ 139/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "10 000,00",
+        "amount_value": 10000.0,
+        "description": "Nová Ves - dar kamenolom - čerpání (RZ 139/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "20 000,00",
+        "amount_value": 20000.0,
+        "description": "Nová Ves - dar kamenolom - čerpání (RZ 139/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "přijaté peněžité neinvestiční dary",
+    "affected_place": "přijaté peněžité neinvestiční dary"
+  },
+  "140/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "-395 290,00",
+        "amount_value": -395290.0,
+        "description": "Chořelice - rezerva (RZ 140/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "395 290,00",
+        "amount_value": 395290.0,
+        "description": "Chořelice - oprava kaple (RZ 140/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "Chořelice - oprava kaple",
+    "affected_place": "Chořelice / oprava kaple"
+  },
+  "141/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "-249 525,00",
+        "amount_value": -249525.0,
+        "description": "Myslechovice - studie bývalé ZŠ a pasport pozemku (RZ 141/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "249 525,00",
+        "amount_value": 249525.0,
+        "description": "Myslechovice - oprava kaple (RZ 141/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2390/76/2026"
+    ],
+    "plain_title": "Myslechovice - oprava kaple",
+    "affected_place": "Myslechovice / oprava kaple"
+  },
+  "142/2026/RM": {
+    "opatreni_id": "RO/12/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "transfery, dary a příspěvky dle rozhodnutí ZML a RML (RZ 142/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "transfery, dary a příspěvky dle rozhodnutí ZML a RML",
+    "affected_place": "transfery, dary a příspěvky dle rozhodnutí ZML a RML"
+  },
   "1/2026/ZM": {
     "opatreni_id": "RO/1/2026",
     "rows": [

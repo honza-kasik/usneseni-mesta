@@ -1,0 +1,29 @@
+{
+  "id": "RM/2377/76/2026",
+  "datum": "2026-06-25",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "revokuje",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "revokuje usnesení č. 2317/73 bod ad b) Rady města Litovel konané dne 14. 5. 2026."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy se společností MK realizace s.r.o. z Bystřice pod Hostýnem, jakožto dodavatelem\nna dodání automatického WC modulu typu CWC R110, v předloženém znění (s aktualizovaným termínem plnění)."
+    }
+  ],
+  "tail": null,
+  "references_out": [
+    {
+      "raw": "2317/73",
+      "type": "implicit",
+      "resolved": null
+    }
+  ],
+  "amounts": []
+}

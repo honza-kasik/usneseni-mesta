@@ -1,0 +1,25 @@
+{
+  "id": "RM/2373/76/2026",
+  "datum": "2026-06-25",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "ukládá odboru MHaSI jednat s majitelem pozemku parc.č. 1577/37 o narovnání hranice jeho pozemku\ns pozemkem parc.č. 1577/28, vše k.ú. Litovel, v majetku města Litovel, a majetkoprávním vypořádáním."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje předložený záměr prodeje části pozemku parc.č. 1577/28, o výměře cca 28 m2, ostatní plocha, ostatní\nkomunikace, k.ú. Litovel, za cenu 3.069 Kč/m2 + DPH. Veškeré vedlejší náklady hradí kupující."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "3.069 Kč"
+  ]
+}

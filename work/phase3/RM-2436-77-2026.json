@@ -1,0 +1,25 @@
+{
+  "id": "RM/2436/77/2026",
+  "datum": "2026-07-16",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím dotace ve výši 20.000 Kč na provoz Informačního střediska CHKO Litovelské Pomoraví\n- Šargoun v roce 2026."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření smlouvy o poskytnutí dotace mezi městem Litovel a pobočným spolkem Českého svazu\nochránců přírody Litovel v předloženém znění a rozpočtovou změnu týkající se této dotace."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "20.000 Kč"
+  ]
+}

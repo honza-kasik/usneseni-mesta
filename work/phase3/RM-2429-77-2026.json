@@ -1,0 +1,23 @@
+{
+  "id": "RM/2429/77/2026",
+  "datum": "2026-07-16",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu včetně příloh."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje dle důvodové zprávy a příloh rozpočtové změny 143/2026/RM až 150/2026/RM."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

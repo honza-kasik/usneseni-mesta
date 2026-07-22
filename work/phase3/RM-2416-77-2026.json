@@ -1,0 +1,26 @@
+{
+  "id": "RM/2416/77/2026",
+  "datum": "2026-07-16",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "projednala",
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "projednala žádost o stanovení nájemného na další období, a to ve výši 30 Kč měsíčně/m2, což při celkové výměře\n330,50 m2 činí měsíčně 9.915 Kč."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Dodatku č. 4 k Nájemní smlouvě mezi městem Litovel a Charitou Šternberk, středisko Litovel\nv předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "30 Kč",
+    "9.915 Kč"
+  ]
+}

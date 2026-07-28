@@ -41906,8 +41906,112 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "143/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "pronájem skákacího hradu na akci Toulky Litovelským Pomoravím",
+        "affected_place": "pronájem skákacího hradu na akci Toulky Litovelským Pomoravím",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "144/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "Sportovní hala - záloha za dodávky plynu",
+        "affected_place": "Sportovní hala / záloha za dodávky plynu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "145/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "Olomoucký kraj - účelová neinv. dotace pro JSDH Tři Dvory",
+        "affected_place": "Olomoucký kraj",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "146/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "Olomoucký kraj - účelová neinv. dotace - Litovelské slavnosti v rámci Dnů evr",
+        "affected_place": "Olomoucký kraj",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "147/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "Unčovice - čištění a monitoring dešťové kanalizace",
+        "affected_place": "Unčovice",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "148/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "Litovel - zahrádkářská osada II Pavlínka - nové oplocení",
+        "affected_place": "Litovel / zahrádkářská osada II Pavlínka",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "149/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "převod finančních prostředků na nově zřízený depozitní účet v ČNB",
+        "affected_place": "převod finančních prostředků na nově zřízený depozitní účet v ČNB",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "150/2026/RM",
+        "opatreni_id": "RO/13/2026",
+        "plain_title": "Chořelice - čištění melioračního kanálu",
+        "affected_place": "Chořelice / čištění melioračního kanálu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/13/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/243/9/2023",
@@ -42084,7 +42188,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/13/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2437/77/2026",

@@ -64208,6 +64208,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/1/27/2026",
+    "datum": "2026-08-03",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "ověřovatele zápisu.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/1/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -69219,6 +69237,24 @@
     "budget_opatreni_approved": []
   },
   {
+    "id": "ZM/2/27/2026",
+    "datum": "2026-08-03",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "program jednání.",
+    "items": [],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
     "id": "ZM/2/3/2023",
     "datum": "2023-02-09",
     "organ": "Zastupitelstvo města Litovel",
@@ -70929,6 +70965,24 @@
         "text": "bere na vědomí zápis ze zasedání dozorčí rady společnosti Aktivní Litovel s.r.o. ze dne 13. 5. 2026."
       }
     ],
+    "tail": null,
+    "references_out": [],
+    "amounts": [],
+    "term_id": "2022-2026",
+    "term_label": "Volební období 2022-2026",
+    "references_in": [],
+    "budget_change_links": [],
+    "budget_opatreni_approved": []
+  },
+  {
+    "id": "ZM/3/27/2026",
+    "datum": "2026-08-03",
+    "organ": "Zastupitelstvo města Litovel",
+    "actions": [
+      "schvaluje"
+    ],
+    "subject": "uzavření Dohody o narovnání ve věci smluvních sankcí uplatněných vůči\ndodavateli stavby „Dopravně bezpečnostní opatření pro pěší a cyklisty podél silnice II/449 v zastavěném území\nměsta Litovle (opakované řízení)“, spol. Cash Trade s.r.o. IČ 06390358 v předloženém znění.\nViktor Kohout v.r. Mgr. Lubomír Broza v.r.\nstarosta města místostarosta města",
+    "items": [],
     "tail": null,
     "references_out": [],
     "amounts": [],

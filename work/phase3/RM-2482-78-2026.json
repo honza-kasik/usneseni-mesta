@@ -1,0 +1,30 @@
+{
+  "id": "RM/2482/78/2026",
+  "datum": "2026-08-13",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel v objektu č.p. 674/9 v Litovli, nám.\nSvobody (DPS)."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje Dohodu o ukončení Nájemní smlouvy č.j.: LIT 3762/2024, ze dne 15. 2. 2024, uzavřenou mezi městem\nLitovel a p. M. K., v předloženém znění."
+    },
+    {
+      "label": "d",
+      "text": "schvaluje návrh Bytové komise o přidělení bytu č. 422, v objektu č.p. 674 v Litovli, nám. Svobody, č. or. 9 panu\nM. K. a souhlasí s uzavřením Smlouvy o jistotě a Smlouvy o nájmu bytu v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "RM/2453/78/2026",
+  "datum": "2026-08-13",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 2.500 Kč na účast na Mistrovství světa v ping-pongu pro lidi s Parkinsonovou\nchorobou, které se uskuteční v září 2026 v Hannoveru."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o poskytnutí daru mezi městem Litovel a V. Š. v předloženém znění a rozpočtovou\nzměnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "2.500 Kč"
+  ]
+}

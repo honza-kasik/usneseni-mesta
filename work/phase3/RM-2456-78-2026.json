@@ -1,0 +1,23 @@
+{
+  "id": "RM/2456/78/2026",
+  "datum": "2026-08-13",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s výběrem dodavatele pro zajištění servisních služeb v oblasti IT, společnosti Aricoma Systems a.s."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o poskytování servisních služeb v oblasti IT se společností Aricoma Systems a.s.\njako dodavatelem, v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

@@ -37410,6 +37410,177 @@
     "plain_title": "pobočný spolek Českého svazu ochránců přírody Litovel - dotace na provoz informačního střediska CHKO Litovelské Pomoraví - Šargoun v roce 2026",
     "affected_place": "pobočný spolek Českého svazu ochránců přírody Litovel"
   },
+  "152/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "12 815,00",
+        "amount_value": 12815.0,
+        "description": "přijaté pojistné plnění (RZ 152/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "12 815,00",
+        "amount_value": 12815.0,
+        "description": "pojistné události (RZ 152/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2470/78/2026"
+    ],
+    "plain_title": "přijaté pojistné plnění",
+    "affected_place": ""
+  },
+  "153/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "-25 520,00",
+        "amount_value": -25520.0,
+        "description": "Statutární město Olomouc - dotace na výkon činností související s realizací integr. nástroje ITI (153/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "25 520,00",
+        "amount_value": 25520.0,
+        "description": "porandenské, právní služby a ostatní služby, studie (RZ 153/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2470/78/2026"
+    ],
+    "plain_title": "porandenské, právní služby a ostatní služby, studie",
+    "affected_place": "porandenské, právní služby a ostatní služby, studie"
+  },
+  "154/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "-5 909,00",
+        "amount_value": -5909.0,
+        "description": "Savín - rezerva (RZ 154/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "5 909,00",
+        "amount_value": 5909.0,
+        "description": "Savín - KD - termostatické hlavice pro radiátor. systém (RZ 154/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2470/78/2026"
+    ],
+    "plain_title": "Savín - KD - termostatické hlavice pro radiátor. systém",
+    "affected_place": "Savín"
+  },
+  "155/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "-205 700,00",
+        "amount_value": -205700.0,
+        "description": "Unčovice - rezerva (RZ 155/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "66 550,00",
+        "amount_value": 66550.0,
+        "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 155/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "139 150,00",
+        "amount_value": 139150.0,
+        "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 155/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2470/78/2026"
+    ],
+    "plain_title": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
+    "affected_place": "opravy, údržba a rekonstrukce místních komunikací a chodníků"
+  },
+  "156/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "-25 000,00",
+        "amount_value": -25000.0,
+        "description": "odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech (RZ 156/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "25 000,00",
+        "amount_value": 25000.0,
+        "description": "pořízení dřevní kulatiny (RZ 156/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2470/78/2026"
+    ],
+    "plain_title": "pořízení dřevní kulatiny",
+    "affected_place": "pořízení dřevní kulatiny"
+  },
+  "157/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "-3 000,00",
+        "amount_value": -3000.0,
+        "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 157/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "3 000,00",
+        "amount_value": 3000.0,
+        "description": "P.V. - dar na komunitní akci Restaurant Day, která se uskuteční 15.8.2026 v Nasobůrkách (RZ 157/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "P.V. - dar na komunitní akci Restaurant Day, která se uskuteční 15.8.2026 v Nasobůrkách",
+    "affected_place": "dar na komunitní akci Restaurant Day, která se uskuteční 15.8.2026 v Nasobůrkách"
+  },
+  "158/2026/RM": {
+    "opatreni_id": "RO/14/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "-2 500,00",
+        "amount_value": -2500.0,
+        "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 158/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "2 500,00",
+        "amount_value": 2500.0,
+        "description": "V.Š. - dar na účast MS v ping pongu pro lidi s Parkinsonovou chorobou, které se uskuteční v září 2026 v Hannoveru (RZ 158/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "V.Š. - dar na účast MS v ping pongu pro lidi s Parkinsonovou chorobou, které se uskuteční v září 2026 v Hannoveru",
+    "affected_place": "dar na účast MS v ping pongu pro lidi s Parkinsonovou chorobou, které se uskuteční v září 2026 v Hannoveru"
+  },
   "1/2026/ZM": {
     "opatreni_id": "RO/1/2026",
     "rows": [

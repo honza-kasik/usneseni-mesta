@@ -1,0 +1,242 @@
+{
+  "id": "RO/14/2026",
+  "number": 14,
+  "year": 2026,
+  "approval_date": "2026-08-13",
+  "approved_by": "Radou města Litovel",
+  "organ": "RM",
+  "meeting": {
+    "number": 78,
+    "type": "schůzi",
+    "date": "2026-08-13"
+  },
+  "source_resolutions": [
+    "RM/2452/78/2026",
+    "RM/2453/78/2026",
+    "RM/2470/78/2026"
+  ],
+  "budget_change_ids": [
+    "152/2026/RM",
+    "153/2026/RM",
+    "154/2026/RM",
+    "155/2026/RM",
+    "156/2026/RM",
+    "157/2026/RM",
+    "158/2026/RM"
+  ],
+  "sections": [
+    {
+      "type": "prijmy",
+      "label": "Změny v příjmech",
+      "rows": [
+        {
+          "budget_change_id": "152/2026/RM",
+          "raw_codes": [
+            "6320",
+            "2322"
+          ],
+          "amount": "12 815,00",
+          "amount_value": 12815.0,
+          "description": "přijaté pojistné plnění (RZ 152/2026/RM"
+        }
+      ]
+    },
+    {
+      "type": "vydaje",
+      "label": "Změny ve výdajích",
+      "rows": [
+        {
+          "budget_change_id": "152/2026/RM",
+          "raw_codes": [
+            "3631",
+            "5171",
+            "3 003 559"
+          ],
+          "amount": "12 815,00",
+          "amount_value": 12815.0,
+          "description": "pojistné události (RZ 152/2026/RM"
+        },
+        {
+          "budget_change_id": "153/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5321",
+            "1 003 002"
+          ],
+          "amount": "-25 520,00",
+          "amount_value": -25520.0,
+          "description": "Statutární město Olomouc - dotace na výkon činností související s realizací integr. nástroje ITI (153/2026/RM"
+        },
+        {
+          "budget_change_id": "153/2026/RM",
+          "raw_codes": [
+            "6409",
+            "5166",
+            "1 000 000"
+          ],
+          "amount": "25 520,00",
+          "amount_value": 25520.0,
+          "description": "porandenské, právní služby a ostatní služby, studie (RZ 153/2026/RM"
+        },
+        {
+          "budget_change_id": "154/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "-5 909,00",
+          "amount_value": -5909.0,
+          "description": "Savín - rezerva (RZ 154/2026/RM"
+        },
+        {
+          "budget_change_id": "154/2026/RM",
+          "raw_codes": [
+            "3392",
+            "5171",
+            "311",
+            "2 030 000"
+          ],
+          "amount": "5 909,00",
+          "amount_value": 5909.0,
+          "description": "Savín - KD - termostatické hlavice pro radiátor. systém (RZ 154/2026/RM"
+        },
+        {
+          "budget_change_id": "155/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5901",
+            "310",
+            "2 030 000"
+          ],
+          "amount": "-205 700,00",
+          "amount_value": -205700.0,
+          "description": "Unčovice - rezerva (RZ 155/2026/RM"
+        },
+        {
+          "budget_change_id": "155/2026/RM",
+          "raw_codes": [
+            "2219",
+            "5171",
+            "3 003 456"
+          ],
+          "amount": "66 550,00",
+          "amount_value": 66550.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 155/2026/RM"
+        },
+        {
+          "budget_change_id": "155/2026/RM",
+          "raw_codes": [
+            "2219",
+            "6121",
+            "3 003 456"
+          ],
+          "amount": "139 150,00",
+          "amount_value": 139150.0,
+          "description": "opravy, údržba a rekonstrukce místních komunikací a chodníků (RZ 155/2026/RM"
+        },
+        {
+          "budget_change_id": "156/2026/RM",
+          "raw_codes": [
+            "3745",
+            "5169",
+            "7 000 000"
+          ],
+          "amount": "-25 000,00",
+          "amount_value": -25000.0,
+          "description": "odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech (RZ 156/2026/RM"
+        },
+        {
+          "budget_change_id": "156/2026/RM",
+          "raw_codes": [
+            "3639",
+            "5139",
+            "7 000 000"
+          ],
+          "amount": "25 000,00",
+          "amount_value": 25000.0,
+          "description": "pořízení dřevní kulatiny (RZ 156/2026/RM"
+        },
+        {
+          "budget_change_id": "157/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-3 000,00",
+          "amount_value": -3000.0,
+          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 157/2026/RM"
+        },
+        {
+          "budget_change_id": "157/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5492",
+            "4 000 000"
+          ],
+          "amount": "3 000,00",
+          "amount_value": 3000.0,
+          "description": "P.V. - dar na komunitní akci Restaurant Day, která se uskuteční 15.8.2026 v Nasobůrkách (RZ 157/2026/RM"
+        },
+        {
+          "budget_change_id": "158/2026/RM",
+          "raw_codes": [
+            "3429",
+            "5901",
+            "4 000 000"
+          ],
+          "amount": "-2 500,00",
+          "amount_value": -2500.0,
+          "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 158/2026/RM"
+        },
+        {
+          "budget_change_id": "158/2026/RM",
+          "raw_codes": [
+            "3419",
+            "5492",
+            "4",
+            "000",
+            "000"
+          ],
+          "amount": "2 500,00",
+          "amount_value": 2500.0,
+          "description": "V.Š. - dar na účast MS v ping pongu pro lidi s Parkinsonovou chorobou, které se uskuteční v září 2026 v Hannoveru (RZ 158/2026/RM"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "title": "Rozpočtová změna č. 152/2026/RM",
+      "text": "Dne 10.7.2026 přijalo město na svůj účet pojistné plnění ve výši 12 815,00 Kč za pojistnou událost ze dne 17.3.2026 týkající se poškození veřejného osvětlení – Litovel, Palackého – komunikace u domu č.885."
+    },
+    {
+      "title": "Rozpočtová změna č. 153/2026/RM",
+      "text": "Dne 30.6.2026 byla uhrazena Statutárnímu městu Olomouc dotace na činnost realizace integrovaného nástroje ITI ve výši 94 480,00 Kč. Ve schváleném rozpočtu je na tuto dotaci rozpočtováno 120 000,00 Kč. Je nutná úprava dle skutečnosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 154/2026/RM",
+      "text": "Dne 28.7.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 155/2026/RM",
+      "text": "Dne 28.7.2026 požádal odbor MH a SI o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 156/2026/RM",
+      "text": "Dne 31.7.2026 požádal vedoucí OŽP o rozpočtovou změnu."
+    },
+    {
+      "title": "Rozpočtová změna č. 157/2026/RM",
+      "text": "Dar poskytnutý na základě žádosti."
+    },
+    {
+      "title": "Rozpočtová změna č. 158/2026/RM",
+      "text": "Dar poskytnutý na základě žádosti."
+    }
+  ],
+  "source_pdf": "resources/rozpoctova-opatreni/rozpoctove_opatreni_c_14_2026_dne_13_srpna_2026.pdf",
+  "text_raw": "Město Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nRozpočtové opatření č. 14/2026 schválené Radou města Litovel\ndne 13. srpna 2026\nRozpočtové opatření bylo schváleno na 78. schůzi Rady města Litovel dne 13. srpna 2026 na základě usnesení\nRM/2452/78/2026, RM/2453/78/2026, RM/2470/78/2026.\nZměny v příjmech:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\npřijaté pojistné plnění (RZ\n6320 2322 12 815,00\n152/2026/RM)\nZměny ve výdajích:\nODPA POL UZ PJ NÁSTROJ ORJ ORG Kč Popis\n3631 5171 3 003 559 12 815,00 pojistné události (RZ 152/2026/RM)\nStatutární město Olomouc - dotace na\n3639 5321 1 003 002 -25 520,00 výkon činností související s realizací\nintegr. nástroje ITI (153/2026/RM)\nporandenské, právní služby a ostatní\n6409 5166 1 000 000 25 520,00\nslužby, studie (RZ 153/2026/RM)\n3639 5901 311 2 030 000 -5 909,00 Savín - rezerva (RZ 154/2026/RM)\nSavín - KD - termostatické hlavice\n3392 5171 311 2 030 000 5 909,00 pro radiátor. systém (RZ\n154/2026/RM)\nUnčovice - rezerva (RZ\n3639 5901 310 2 030 000 -205 700,00\n155/2026/RM)\nopravy, údržba a rekonstrukce\n2219 5171 3 003 456 66 550,00 místních komunikací a chodníků (RZ\n155/2026/RM)\nopravy, údržba a rekonstrukce\n2219 6121 3 003 456 139 150,00 místních komunikací a chodníků (RZ\n155/2026/RM)\nodborné ošetření a výsadba dřevin,\n3745 5169 7 000 000 -25 000,00 údržba zeleně v Litovli a místních\nčástech (RZ 156/2026/RM)\npořízení dřevní kulatiny (RZ\n3639 5139 7 000 000 25 000,00\n156/2026/RM)\ntransfery, dary, příspěvky dle\n3429 5901 4 000 000 -3 000,00 rozhodnutí ZML a RML (RZ\n157/2026/RM)\nP.V. - dar na komunitní akci\nRestaurant Day, která se uskuteční\n3429 5492 4 000 000 3 000,00\n15.8.2026 v Nasobůrkách (RZ\n157/2026/RM)\ntransfery, dary, příspěvky dle\n3429 5901 4 000 000 -2 500,00 rozhodnutí ZML a RML (RZ\n158/2026/RM)\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nV.Š. - dar na účast MS v ping pongu\npro lidi s Parkinsonovou chorobou,\n3419 5492 4 000 000 2 500,00\nkteré se uskuteční v září 2026 v\nHannoveru (RZ 158/2026/RM)\nRozpočtová změna č. 152/2026/RM\nDne 10.7.2026 přijalo město na svůj účet pojistné plnění ve výši 12 815,00 Kč za pojistnou událost ze dne 17.3.2026\ntýkající se poškození veřejného osvětlení – Litovel, Palackého – komunikace u domu č.885.\nRozpočtová změna č. 153/2026/RM\nDne 30.6.2026 byla uhrazena Statutárnímu městu Olomouc dotace na činnost realizace integrovaného nástroje ITI ve\nvýši 94 480,00 Kč. Ve schváleném rozpočtu je na tuto dotaci rozpočtováno 120 000,00 Kč. Je nutná úprava dle\nskutečnosti.\nRozpočtová změna č. 154/2026/RM\nDne 28.7.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 155/2026/RM\nDne 28.7.2026 požádal odbor MH a SI o rozpočtovou změnu.\nRozpočtová změna č. 156/2026/RM\nDne 31.7.2026 požádal vedoucí OŽP o rozpočtovou změnu.\nRozpočtová změna č. 157/2026/RM\nDar poskytnutý na základě žádosti.\nRozpočtová změna č. 158/2026/RM\nDar poskytnutý na základě žádosti.\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100\nMěsto Litovel\nNám. Př. Otakara 778/1b\n784 01 Litovel\nVe Zveřejněném rozpočtovém opatření mohou být napraveny administrativní pochybení zjištěná při pořizování do\nIS GINIS, tyto případné provedené nápravy nemají vliv na původní charakter a finanční objem záměrů přijatých\nschvalujícím orgánem.\nDo listinné podoby je možno nahlédnout v kanceláři vedoucího finančního odboru Městského úřadu v Litovli.\nZpracovala: Ing. Veronika Haplová\nreferentka finančního odboru\nSchválil: Ing. Jaromír Kolář\nvedoucí finančního odboru\nV Litovli 20.8.2026\nMěsto Litovel ID datové schránky: 4rub4s3 e-mail: sekretariat@mestolitovel.cz\nIČO 229138 Tel.: +420 585 153 111 www.litovel.eu\nč. účtu: 3620811/0100"
+}

@@ -42615,7 +42615,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/14/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2453/78/2026",
@@ -42645,7 +42650,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/14/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2454/78/2026",
@@ -43035,8 +43045,75 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "152/2026/RM",
+        "opatreni_id": "RO/14/2026",
+        "plain_title": "přijaté pojistné plnění",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "153/2026/RM",
+        "opatreni_id": "RO/14/2026",
+        "plain_title": "porandenské, právní služby a ostatní služby, studie",
+        "affected_place": "porandenské, právní služby a ostatní služby, studie",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "154/2026/RM",
+        "opatreni_id": "RO/14/2026",
+        "plain_title": "Savín - KD - termostatické hlavice pro radiátor. systém",
+        "affected_place": "Savín",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "155/2026/RM",
+        "opatreni_id": "RO/14/2026",
+        "plain_title": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
+        "affected_place": "opravy, údržba a rekonstrukce místních komunikací a chodníků",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "156/2026/RM",
+        "opatreni_id": "RO/14/2026",
+        "plain_title": "pořízení dřevní kulatiny",
+        "affected_place": "pořízení dřevní kulatiny",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/14/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2471/78/2026",

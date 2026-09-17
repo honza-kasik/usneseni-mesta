@@ -1,0 +1,33 @@
+{
+  "id": "RM/2531/80/2026",
+  "datum": "2026-09-10",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "bere na vědomí",
+    "pověřuje",
+    "schvaluje",
+    "ukládá"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "bere na vědomí důvodovou zprávu týkající se dalšího postupu v zadávacím řízení na veřejnou zakázku\n„Revitalizace sídliště Litovel Novosady 1. a 2. etapa“."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zrušení zadávacího řízení na veřejnou zakázku „Revitalizace sídliště Litovel Novosady 1. a 2. etapa“\npodle § 53 odst. 7 ve spojení s § 127 odst. 2 písm. d) zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve\nznění pozdějších předpisů, z důvodů uvedených v důvodové zprávě."
+    },
+    {
+      "label": "c",
+      "text": "pověřuje starostu města podpisem rozhodnutí o zrušení zadávacího řízení."
+    },
+    {
+      "label": "d",
+      "text": "ukládá příslušnému odboru zajistit ve spolupráci s administrátorem veřejné zakázky provedení navazujících\núkonů souvisejících se zrušením zadávacího řízení a přípravu nového zadávacího řízení v rozsahu odpovídajícím\naktualizovanému investičnímu, dotačnímu a realizačnímu záměru města."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

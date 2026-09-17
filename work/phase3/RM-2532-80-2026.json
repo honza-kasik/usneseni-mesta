@@ -1,0 +1,26 @@
+{
+  "id": "RM/2532/80/2026",
+  "datum": "2026-09-10",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje zařazení žádostí o byt do Seznamu žadatelů o byt města Litovel v objektu č.p. 674/9 v Litovli, nám.\nSvobody."
+    },
+    {
+      "label": "c",
+      "text": "schvaluje návrh Bytové komise o přidělení bytu č. 422, v objektu č.p. 674 v Litovli, nám. Svobody, č. or. 9 paní\nJ. M. a souhlasí s uzavřením Smlouvy o jistotě a Smlouvy o nájmu bytu v předloženém znění."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": []
+}

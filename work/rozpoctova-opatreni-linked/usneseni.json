@@ -43882,7 +43882,175 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "83/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Úprava příjmů dle skutečnosti",
+        "affected_place": "Úprava příjmů dle skutečnosti",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 27
+      },
+      {
+        "budget_change_id": "84/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Bioplynová stanice - PD",
+        "affected_place": "Bioplynová stanice",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "85/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Chořelice - oprava dřevěných obj",
+        "affected_place": "Chořelice / oprava dřevěných obj",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "86/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "zálohy na náklady náhradního výkonu rozhodnutí - dům na ul. 1. máje",
+        "affected_place": "zálohy na náklady náhradního výkonu rozhodnutí",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "87/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Olomoucký rybník - rekonstrukce odpad. potrubí (výpustné potrubí) - předprojektová příprava záměru",
+        "affected_place": "Olomoucký rybník",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "88/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Chořelice - čištění melioračního kanálu",
+        "affected_place": "Chořelice / čištění melioračního kanálu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "89/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "pořízení sběrných nádob na tříděný a bio odpad",
+        "affected_place": "pořízení sběrných nádob na tříděný a bio odpad",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "90/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Dne 17.8.2026 požádala Městská policie o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "91/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Dne 17.8.2026 požádala Městská policie o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "92/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Sportovní hala - elektřina",
+        "affected_place": "Sportovní hala / elektřina",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "93/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "ZŠ Vítězná - neinv. příspěvek - pronájem sportovní haly a plavání",
+        "affected_place": "ZŠ Vítězná / neinv. příspěvek",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "94/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "ZŠ Vítězná - neinv. příspěvek - provoz haly a bazénu",
+        "affected_place": "ZŠ Vítězná / neinv. příspěvek",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "95/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "ZŠ Vítězná - neinv. přísp. - provoz haly a bazénu",
+        "affected_place": "ZŠ Vítězná / neinv. přísp",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -44002,7 +44170,46 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
+    "budget_change_links": [
+      {
+        "budget_change_id": "96/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "modernizace předávací stanice tepla vč. řídícího systému pro obj. tělocvična a bazén na ZŠ Litovel",
+        "affected_place": "modernizace předávací stanice tepla vč. řídícího systému pro obj. tělocvična a bazén na ZŠ Litovel",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "97/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "svoz komunálního odpadu",
+        "affected_place": "svoz komunálního odpadu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "98/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "zpřístupnění kanál. vpusti, dočištění kanalizace + likvidace odpadní vody na ul. Javoříčská",
+        "affected_place": "zpřístupnění kanál. vpusti, dočištění kanalizace, likvidace odpadní vody na ul. Javoříčská",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
     "budget_opatreni_approved": []
   },
   {
@@ -75924,8 +76131,219 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "83/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Úprava příjmů dle skutečnosti",
+        "affected_place": "Úprava příjmů dle skutečnosti",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "prijmy"
+        ],
+        "row_count": 27
+      },
+      {
+        "budget_change_id": "84/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Bioplynová stanice - PD",
+        "affected_place": "Bioplynová stanice",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "85/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Chořelice - oprava dřevěných obj",
+        "affected_place": "Chořelice / oprava dřevěných obj",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "86/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "zálohy na náklady náhradního výkonu rozhodnutí - dům na ul. 1. máje",
+        "affected_place": "zálohy na náklady náhradního výkonu rozhodnutí",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "87/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Olomoucký rybník - rekonstrukce odpad. potrubí (výpustné potrubí) - předprojektová příprava záměru",
+        "affected_place": "Olomoucký rybník",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "88/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Chořelice - čištění melioračního kanálu",
+        "affected_place": "Chořelice / čištění melioračního kanálu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "89/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "pořízení sběrných nádob na tříděný a bio odpad",
+        "affected_place": "pořízení sběrných nádob na tříděný a bio odpad",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "90/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Dne 17.8.2026 požádala Městská policie o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "91/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Dne 17.8.2026 požádala Městská policie o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "92/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Sportovní hala - elektřina",
+        "affected_place": "Sportovní hala / elektřina",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "93/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "ZŠ Vítězná - neinv. příspěvek - pronájem sportovní haly a plavání",
+        "affected_place": "ZŠ Vítězná / neinv. příspěvek",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "94/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "ZŠ Vítězná - neinv. příspěvek - provoz haly a bazénu",
+        "affected_place": "ZŠ Vítězná / neinv. příspěvek",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "95/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "ZŠ Vítězná - neinv. přísp. - provoz haly a bazénu",
+        "affected_place": "ZŠ Vítězná / neinv. přísp",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "96/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "modernizace předávací stanice tepla vč. řídícího systému pro obj. tělocvična a bazén na ZŠ Litovel",
+        "affected_place": "modernizace předávací stanice tepla vč. řídícího systému pro obj. tělocvična a bazén na ZŠ Litovel",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "97/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "svoz komunálního odpadu",
+        "affected_place": "svoz komunálního odpadu",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "98/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "zpřístupnění kanál. vpusti, dočištění kanalizace + likvidace odpadní vody na ul. Javoříčská",
+        "affected_place": "zpřístupnění kanál. vpusti, dočištění kanalizace, likvidace odpadní vody na ul. Javoříčská",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/15/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/4/3/2023",
@@ -77197,8 +77615,27 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "99/2026/ZM",
+        "opatreni_id": "RO/15/2026",
+        "plain_title": "Aktivní Litovel s.r.o. - dobrovolný příplatek mimo ZK",
+        "affected_place": "Aktivní Litovel s.r.o / dobrovolný příplatek mimo ZK",
+        "source": "text",
+        "match": "direct",
+        "section_types": [
+          "financovani",
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/15/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "ZM/5/3/2023",

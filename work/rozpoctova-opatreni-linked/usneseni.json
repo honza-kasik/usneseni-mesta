@@ -44392,7 +44392,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/16/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2517/80/2026",
@@ -44577,8 +44582,76 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "159/2026/RM",
+        "opatreni_id": "RO/16/2026",
+        "plain_title": "přijaté pojistné plnění",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "160/2026/RM",
+        "opatreni_id": "RO/16/2026",
+        "plain_title": "přijaté pojistné plnění",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "161/2026/RM",
+        "opatreni_id": "RO/16/2026",
+        "plain_title": "Dne 27.8.2026 požádal OŠKS o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "162/2026/RM",
+        "opatreni_id": "RO/16/2026",
+        "plain_title": "MF ČR - účel. neinv. dotace - volby do Senátu Parlamentu ČR a do zastupitelstev obcí",
+        "affected_place": "účel. neinv. dotace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy"
+        ],
+        "row_count": 1
+      },
+      {
+        "budget_change_id": "163/2026/RM",
+        "opatreni_id": "RO/16/2026",
+        "plain_title": "Dne 3.9.2026 požádal odbor MH a SI o rozpočtovou změnu",
+        "affected_place": "",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 6
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/16/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2524/80/2026",

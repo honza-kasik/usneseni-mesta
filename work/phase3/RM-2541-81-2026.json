@@ -1,0 +1,25 @@
+{
+  "id": "RM/2541/81/2026",
+  "datum": "2026-10-01",
+  "organ": "Rada města Litovel",
+  "actions": [
+    "schvaluje",
+    "souhlasí"
+  ],
+  "subject": null,
+  "items": [
+    {
+      "label": "a",
+      "text": "souhlasí s poskytnutím daru ve výši 4.000 Kč na podporu činnosti v roce 2026."
+    },
+    {
+      "label": "b",
+      "text": "schvaluje uzavření Smlouvy o poskytnutí daru mezi městem Litovel a Klubem litovelského pétanque z.s.\nv předloženém znění a rozpočtovou změnu týkající se tohoto daru."
+    }
+  ],
+  "tail": null,
+  "references_out": [],
+  "amounts": [
+    "4.000 Kč"
+  ]
+}

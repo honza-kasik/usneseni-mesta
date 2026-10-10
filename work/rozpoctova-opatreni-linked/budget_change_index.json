@@ -37751,6 +37751,373 @@
     "plain_title": "Církevní mateřská škola Svatojánek v Litovli - dar na organizační zajištění drakiády, která proběhne 9. října 2026",
     "affected_place": "Církevní mateřská škola Svatojánek v Litovli"
   },
+  "165/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 1,
+        "amount": "15 000,00",
+        "amount_value": 15000.0,
+        "description": "přijaté peněžité neinvestiční dary (RZ 165/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 1,
+        "amount": "15 000,00",
+        "amount_value": 15000.0,
+        "description": "Litovelské slavnosti (RZ 165/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "přijaté peněžité neinvestiční dary",
+    "affected_place": "přijaté peněžité neinvestiční dary"
+  },
+  "166/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 2,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "Církevní mateřská škola Svatojánek v Litovli - dar na organizační zajištění drakiády, která proběhne 9. října 2026 (RZ 166/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 3,
+        "amount": "5 000,00",
+        "amount_value": 5000.0,
+        "description": "Církevní mateřská škola Svatojánek v Litovli - dar na organizační zajištění drakiády, která proběhne 9. října 2026 (RZ 166/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Církevní mateřská škola Svatojánek v Litovli - dar na organizační zajištění drakiády, která proběhne 9. října 2026",
+    "affected_place": "Církevní mateřská škola Svatojánek v Litovli"
+  },
+  "167/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 2,
+        "amount": "200 000,00",
+        "amount_value": 200000.0,
+        "description": "přijaté peněžité neinvestiční dary (RZ 167/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 4,
+        "amount": "100 000,00",
+        "amount_value": 100000.0,
+        "description": "OŽP - ekologická výchova a osvěta (RZ 167/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "přijaté peněžité neinvestiční dary",
+    "affected_place": "přijaté peněžité neinvestiční dary"
+  },
+  "168/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 3,
+        "amount": "280 115,00",
+        "amount_value": 280115.0,
+        "description": "Olomoucký kraj - účel. neinv. dotace - Provozování bikesharingu na území města Litovel (RZ 168/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 5,
+        "amount": "280 115,00",
+        "amount_value": 280115.0,
+        "description": "Olomoucký kraj - účel. neinv. dotace - provozování bikesharingu na území města Litovel (RZ 168/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Olomoucký kraj - účel. neinv. dotace",
+    "affected_place": "Olomoucký kraj / účel. neinv. dotace"
+  },
+  "169/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 6,
+        "amount": "-107 101,00",
+        "amount_value": -107101.0,
+        "description": "JSDH Tři Dvory - zásahové obleky (RZ 169/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 7,
+        "amount": "-83 899,00",
+        "amount_value": -83899.0,
+        "description": "JSDH Tři Dvory - pořízení cisternové stříkačky (RZ 169/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 8,
+        "amount": "90 000,00",
+        "amount_value": 90000.0,
+        "description": "JSDH Tři Dvory - přilby Gallet (RZ 169/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 9,
+        "amount": "55 000,00",
+        "amount_value": 55000.0,
+        "description": "JSDH Rozvadovice - kalové čerpadlo (RZ 169/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 10,
+        "amount": "33 000,00",
+        "amount_value": 33000.0,
+        "description": "JSDH Březové - hadice, proudnice, sací koše (RZ 169/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 29,
+        "amount": "13 000,00",
+        "amount_value": 13000.0,
+        "description": "JSDH Březové - hadice, proudnice, sací koše (RZ 169/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "JSDH Tři Dvory - přilby Gallet",
+    "affected_place": "JSDH Tři Dvory / přilby Gallet"
+  },
+  "170/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 11,
+        "amount": "-12 000,00",
+        "amount_value": -12000.0,
+        "description": "odborné ošetření a výsadba dřevin, údržba zeleně v Litovli a místních částech (RZ 170/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 12,
+        "amount": "12 000,00",
+        "amount_value": 12000.0,
+        "description": "pořízení dřevní kulatiny (RZ 170/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "pořízení dřevní kulatiny",
+    "affected_place": "pořízení dřevní kulatiny"
+  },
+  "171/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "prijmy",
+        "row_number": 4,
+        "amount": "432 558,66",
+        "amount_value": 432558.66,
+        "description": "MPSV ČR - účel. neinv. dotace - SPOD - doplatek 2025 (RZ 171/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 13,
+        "amount": "402 558,66",
+        "amount_value": 402558.66,
+        "description": "MPSV ČR - účel. neinv. dotace - SPOD - doplatek 2025 (RZ 171/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 14,
+        "amount": "30 000,00",
+        "amount_value": 30000.0,
+        "description": "MPSV ČR - účel. neinv. dotace - SPOD - doplatek 2025 (RZ 171/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "MPSV ČR - účel. neinv. dotace - SPOD - doplatek 2025",
+    "affected_place": "účel. neinv. dotace / doplatek 2025"
+  },
+  "172/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 15,
+        "amount": "-196 000,00",
+        "amount_value": -196000.0,
+        "description": "Myslechovice - úprava návsi (RZ 172/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 16,
+        "amount": "196 000,00",
+        "amount_value": 196000.0,
+        "description": "Myslechovice - KD - oprava vlysovaných podlah (RZ 172/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Myslechovice - KD - oprava vlysovaných podlah",
+    "affected_place": "Myslechovice / oprava vlysovaných podlah"
+  },
+  "173/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 17,
+        "amount": "-47 606,00",
+        "amount_value": -47606.0,
+        "description": "Myslechovice - úprava návsi (RZ 173/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 18,
+        "amount": "47 606,00",
+        "amount_value": 47606.0,
+        "description": "Myslechovice - KD - nové stoly (RZ 173/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Myslechovice - KD - nové stoly",
+    "affected_place": "Myslechovice / nové stoly"
+  },
+  "174/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 19,
+        "amount": "-23 892,00",
+        "amount_value": -23892.0,
+        "description": "Myslechovice - úprava návsi (RZ 174/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 20,
+        "amount": "23 892,00",
+        "amount_value": 23892.0,
+        "description": "Myslechovice - oprava elektroinstalace v zahradě KD (RZ 174/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Myslechovice - oprava elektroinstalace v zahradě KD",
+    "affected_place": "Myslechovice"
+  },
+  "175/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 21,
+        "amount": "-51 260,00",
+        "amount_value": -51260.0,
+        "description": "Chořelice - oprava kaple (RZ 175/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 22,
+        "amount": "51 260,00",
+        "amount_value": 51260.0,
+        "description": "Chořelice - oprava dřevěných obj. (RZ 175/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Chořelice - oprava dřevěných obj",
+    "affected_place": "Chořelice / oprava dřevěných obj"
+  },
+  "176/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 23,
+        "amount": "-6 344,00",
+        "amount_value": -6344.0,
+        "description": "Unčovice - rezerva (RZ 176/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 24,
+        "amount": "6 344,00",
+        "amount_value": 6344.0,
+        "description": "Unčovice - renovace vnitřních prostor (RZ 176/2026/RM"
+      }
+    ],
+    "resolution_ids": [
+      "RM/2557/81/2026"
+    ],
+    "plain_title": "Unčovice - renovace vnitřních prostor",
+    "affected_place": "Unčovice / renovace vnitřních prostor"
+  },
+  "177/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 25,
+        "amount": "-4 000,00",
+        "amount_value": -4000.0,
+        "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 177/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 26,
+        "amount": "4 000,00",
+        "amount_value": 4000.0,
+        "description": "Klub litovelského pétanque z.s. - dar na podporu činnosti v roce 2026 (RZ 177/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "Klub litovelského pétanque z.s. - dar na podporu činnosti v roce 2026",
+    "affected_place": "Klub litovelského pétanque z.s"
+  },
+  "178/2026/RM": {
+    "opatreni_id": "RO/17/2026",
+    "rows": [
+      {
+        "section_type": "vydaje",
+        "row_number": 27,
+        "amount": "-5 000,00",
+        "amount_value": -5000.0,
+        "description": "transfery, dary, příspěvky dle rozhodnutí ZML a RML (RZ 178/2026/RM"
+      },
+      {
+        "section_type": "vydaje",
+        "row_number": 28,
+        "amount": "5 000,00",
+        "amount_value": 5000.0,
+        "description": "M.B. - dar na organizační zajištění nohejbalového turnaje, který se bude konat dne 3.10.2026 v Nasobůrkách (RZ 178/2026/RM"
+      }
+    ],
+    "resolution_ids": [],
+    "plain_title": "M.B. - dar na organizační zajištění nohejbalového turnaje, který se bude konat dne 3.10.2026 v Nasobůrkách",
+    "affected_place": "dar na organizační zajištění nohejbalového turnaje, který se bude konat dne 3.10.2026 v Nasobůrkách"
+  },
   "1/2026/ZM": {
     "opatreni_id": "RO/1/2026",
     "rows": [

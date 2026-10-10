@@ -45106,7 +45106,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/17/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2542/81/2026",
@@ -45430,8 +45435,162 @@
     "term_id": "2022-2026",
     "term_label": "Volební období 2022-2026",
     "references_in": [],
-    "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_change_links": [
+      {
+        "budget_change_id": "165/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "přijaté peněžité neinvestiční dary",
+        "affected_place": "přijaté peněžité neinvestiční dary",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "166/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Církevní mateřská škola Svatojánek v Litovli - dar na organizační zajištění drakiády, která proběhne 9. října 2026",
+        "affected_place": "Církevní mateřská škola Svatojánek v Litovli",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "167/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "přijaté peněžité neinvestiční dary",
+        "affected_place": "přijaté peněžité neinvestiční dary",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "168/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Olomoucký kraj - účel. neinv. dotace",
+        "affected_place": "Olomoucký kraj / účel. neinv. dotace",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "169/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "JSDH Tři Dvory - přilby Gallet",
+        "affected_place": "JSDH Tři Dvory / přilby Gallet",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 6
+      },
+      {
+        "budget_change_id": "170/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "pořízení dřevní kulatiny",
+        "affected_place": "pořízení dřevní kulatiny",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "171/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "MPSV ČR - účel. neinv. dotace - SPOD - doplatek 2025",
+        "affected_place": "účel. neinv. dotace / doplatek 2025",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "prijmy",
+          "vydaje"
+        ],
+        "row_count": 3
+      },
+      {
+        "budget_change_id": "172/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Myslechovice - KD - oprava vlysovaných podlah",
+        "affected_place": "Myslechovice / oprava vlysovaných podlah",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "173/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Myslechovice - KD - nové stoly",
+        "affected_place": "Myslechovice / nové stoly",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "174/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Myslechovice - oprava elektroinstalace v zahradě KD",
+        "affected_place": "Myslechovice",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "175/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Chořelice - oprava dřevěných obj",
+        "affected_place": "Chořelice / oprava dřevěných obj",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      },
+      {
+        "budget_change_id": "176/2026/RM",
+        "opatreni_id": "RO/17/2026",
+        "plain_title": "Unčovice - renovace vnitřních prostor",
+        "affected_place": "Unčovice / renovace vnitřních prostor",
+        "source": "text",
+        "match": "range",
+        "section_types": [
+          "vydaje"
+        ],
+        "row_count": 2
+      }
+    ],
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/17/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2558/81/2026",
@@ -45738,7 +45897,12 @@
     "term_label": "Volební období 2022-2026",
     "references_in": [],
     "budget_change_links": [],
-    "budget_opatreni_approved": []
+    "budget_opatreni_approved": [
+      {
+        "opatreni_id": "RO/17/2026",
+        "source": "ro_header"
+      }
+    ]
   },
   {
     "id": "RM/2571/81/2026",
